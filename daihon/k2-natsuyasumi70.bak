@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta name="ProgId" content="Word.Document" />
+<meta name="Generator" content="JustSystems Homepage Builder Version 17.0.15.0 for Windows" />
+<meta name="Originator" content="Microsoft Word 12" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="File-List" href="k-aozora.files/filelist.xml" />
+<link rel="Edit-Time-Data" href="k-aozora.files/editdata.mso" />
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Saito Toshio</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Saito Toshio</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>20</o:TotalTime>
+  <o:Created>2009-04-18T12:52:00Z</o:Created>
+  <o:LastSaved>2009-04-25T13:28:00Z</o:LastSaved>
+  <o:Pages>10</o:Pages>
+  <o:Words>2466</o:Words>
+  <o:Characters>14058</o:Characters>
+  <o:Lines>117</o:Lines>
+  <o:Paragraphs>32</o:Paragraphs>
+  <o:CharactersWithSpaces>16492</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel="themeData" href="k-aozora.files/themedata.thmx" />
+<link rel="colorSchemeMapping" href="k-aozora.files/colorschememapping.xml" />
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.15 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"ＭＳ 明朝";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"MS Mincho";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"ＭＳ ゴシック";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-alt:"MS Gothic";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:Century;
+	panose-1:2 4 6 4 5 5 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"ＭＳ Ｐゴシック";
+	panose-1:2 11 6 0 7 2 5 8 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@ＭＳ 明朝";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@ＭＳ ゴシック";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@ＭＳ Ｐゴシック";
+	panose-1:2 11 6 0 7 2 5 8 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+}
+h1{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 1 \(文字\)";
+	mso-style-next:標準;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:normal;
+}
+h2{
+	mso-style-noshow:yes;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 2 \(文字\)";
+	mso-style-next:標準;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:normal;
+}
+h3{
+	mso-style-noshow:yes;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 3 \(文字\)";
+	mso-style-next:標準;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:20.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0mm;
+	mso-para-margin-right:0mm;
+	mso-para-margin-bottom:0mm;
+	mso-para-margin-left:4.0gd;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:normal;
+}
+h4{
+	mso-style-noshow:yes;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 4 \(文字\)";
+	mso-style-next:標準;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:20.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0mm;
+	mso-para-margin-right:0mm;
+	mso-para-margin-bottom:0mm;
+	mso-para-margin-left:4.0gd;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ Ｐゴシック";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+}
+p.MsoHeader, li.MsoHeader, div.MsoHeader{
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"ヘッダー \(文字\)";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	tab-stops:center 212.6pt right 425.2pt;
+	layout-grid-mode:char;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+}
+p.MsoFooter, li.MsoFooter, div.MsoFooter{
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"フッター \(文字\)";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	tab-stops:center 212.6pt right 425.2pt;
+	layout-grid-mode:char;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph{
+	mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:42.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0mm;
+	mso-para-margin-right:0mm;
+	mso-para-margin-bottom:0mm;
+	mso-para-margin-left:4.0gd;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+}
+span.MsoSubtleEmphasis{
+	mso-style-priority:19;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	color:gray;
+	mso-themecolor:text1;
+	mso-themetint:127;
+	font-style:italic;
+}
+span.1
+	{mso-style-name:"見出し 1 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 1";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;}
+span.2
+	{mso-style-name:"見出し 2 \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 2";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+span.3
+	{mso-style-name:"見出し 3 \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 3";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;}
+span.4
+	{mso-style-name:"見出し 4 \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 4";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:bold;}
+span.a{
+	mso-style-name:"ヘッダー \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:ヘッダー;
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+}
+span.a0{
+	mso-style-name:"フッター \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:フッター;
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+}
+p.a1, li.a1, div.a1{
+	mso-style-name:演劇台詞;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:19.85pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:-19.85pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	word-break:break-all;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+}
+p.a2, li.a2, div.a2{
+	mso-style-name:演劇ト書き;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:演劇台詞;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:31.5pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:-.3pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	word-break:break-all;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+}
+.MsoChpDefault{
+	mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:Century;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-hansi-font-family:Century;
+	mso-font-kerning:0pt;
+}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;
+	mso-footnote-separator:url("k-aozora.files/header.htm") fs;
+	mso-footnote-continuation-separator:url("k-aozora.files/header.htm") fcs;
+	mso-endnote-separator:url("k-aozora.files/header.htm") es;
+	mso-endnote-continuation-separator:url("k-aozora.files/header.htm") ecs;}
+@page Section1
+	{size:210.0mm 841.95pt;
+	margin:20.0mm 20.0mm 20.0mm 20.0mm;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;
+	layout-grid:14.3pt 0pt;
+	mso-layout-grid-char-alt:0;}
+div.Section1{
+	page:Section1;
+}
+#site-box{
+	width : 650px ;
+}
+
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:標準の表;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+	mso-para-margin:0mm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Century","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="14338">
+  <v:textbox inset="5.85pt,.7pt,5.85pt,.7pt"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+  <o:rules v:ext="edit">
+   <o:r id="V:Rule2" type="connector" idref="#_x0000_s1026"/>
+  </o:rules>
+ </o:shapelayout></xml><![endif]-->
+<title>「夏休み　戦後７０年改訂バージョン」斉藤俊雄脚本</title>
+</head>
+<body lang="JA" style="tab-interval:42.0pt;text-justify-trim:punctuation">
+<div id="site-box">
+
+<div class="Section1" style="layout-grid:14.3pt 0pt;mso-layout-grid-char-alt:
+0">
+   <p class="a1"><span lang="EN-US" style="font-size:11.0pt"><o:p>&nbsp;</span>
+    <font size="+4">夏休み【戦後７０年改訂バージョン】</font>
+    </p>
+    <p class="a1" style="margin-left:19.85pt;mso-para-margin-left:1.89gd;text-indent:
+0mm"><font size="+4" style="font-size : 310%;"><span style='font-size:11.0pt'></span></font><span style='font-size:11.0pt'><br />
+    登場人物<br />
+    <br />
+    大場憲一<br />高田勇輝<br />遠野みどり<br />大岩洋子<br />天野満夫<br />青柳こだま<br />
+    <br />宮澤治子先生　<br />
+    <br />大場憲一(現代)<br />少女<br />
+    </span></p>
+    <p class="a1"><!--[if gte vml 1]><v:shapetype id="_x0000_t32" coordsize="21600,21600"
+ o:spt="32" o:oned="t" path="m,l21600,21600e" filled="f">
+ <v:path arrowok="t" fillok="f" o:connecttype="none"/>
+ <o:lock v:ext="edit" shapetype="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t32" style='position:absolute;
+ left:0;text-align:left;margin-left:.3pt;margin-top:7.6pt;width:486pt;height:.75pt;
+ z-index:1' o:connectortype="straight"/><![endif]--><![if !vml]><span
+style='mso-ignore:vglayout;position:relative;z-index:1;left:-1px;top:9px;
+width:650px;height:12px'><img width="650" height="3" src="k-aozora.files/image001.gif" v:shapes="_x0000_s1026" /></span><![endif]><span lang="EN-US" style="font-size:11.0pt"><o:p>&nbsp;</o:p></span></p>
+    <p class="a1">現代の夏休みのある日　　七つ森の入り口<br />
+    <br />蝉時雨が聞こえてくる。<br />幕が上がると、そこは七つ森の入り口。<br />夏の日差しを浴びて、一人の老人が舞台中央で客席に背を向けて立っている。<br />老人の名前は大場憲一。<br />
+    <br />大場[現代]　(後ろ向きで)もういいかい。<br />少女の声　　まあだだよ。<br />大場[現代]　もういいかい。<br />少女の声　　まあだだよ。<br />大場[現代]　もういいかい。<br />少女の声　　もういいよ。<br />
+    <br />その声に大場[現代]が振り返る。<br />彼は手に真っ赤なかざぐるまを持っている。<br />
+    <br />大場[現代]　そうだ、ここだ、ここだった。思い出したぞ。そう、あれは昭和十一年。私達は七つ森小学校の六年生だった。あの日私達はみんなでかくれんぼをしていたんだ。あの時一緒だったのは…<br />　　　　　　　　　　　　　　<br />一人の少年が現れる。<br />その少年はかくれんぼの鬼になって、数を数える。<br />
+    <br />少年　七・八・九・十。よーし、見つけにいくぞ。<br />
+    <br />少年が走り出そうとする。<br />その走り出そうとする姿勢で少年は静止する。<br />
+    <br />大場[現代]　高田勇輝。みんなから、ターちゃんって呼ばれていた。運動が得意で、いつも私達のまとめ役だった。<br />
+    <br />高田が隠れている仲間を捜しにいく。<br />
+    <br />高田　みーつけた。<br />
+    <br />一人の少女が、可愛らしく出てきて静止する。　<br />
+    <br />大場[現代]　遠野みどり。みんなから、ミーちゃんって呼ばれていた。とっても歌が上手で、ミーちゃんが歌を歌うと、みんな笑顔になった。<br />
+    <br />　　　かくれんぼが続く。<br />
+    <br />高田　みっけ。<br />少女　くそっ、みっかったか。<br />
+    <br />一人の少女が、のっしのっしと出てきて静止する。<br />
+    <br />大場[現代]　大岩洋子。大岩って名前からオイワって呼ばれていた。男らしいなんて言葉は今ではあまり使われなくなったけど、あの当時の私にとって私よりずっと男らしい女の子だった。<br />
+    <br />かくれんぼが続く。<br />一人の少年が、今見つかった子ども達の中に入って知らん顔をしている。<br />しばらくして高田がその少年に気づく。<br />
+    <br />高田　みっけ。<br />
+    <br />　　　その少年が「見つかったか」というポーズをして静止する。<br />
+    <br />大場[現代]　天野満夫。いつも人のやることと反対の事ばかりやるんで、みんなから天邪鬼って呼ばれていた。天邪鬼と私は喧嘩ばかりしていた。<br />
+    <br />高田　みんな見つかったぞ。<br />
+    <br />静止している登場人物が動き出す。<br />昭和十一年の大場憲一が登場して、すでに紹介された子ども達に加わる。<br />
+    <br />高田　おいバケ、次は一緒にやろうぜ。<br />　　　<br />子ども達が昭和十一年の大場を囲んだ形で静止する。<br />
+    <br />大場[現代] 　そしてこの私、大場憲一。名前を短くするとオバケ。更に短くしてみんなからはバケって呼ばれていた。でも、そのあだなは、嫌いじゃなかった。私はお化けのことが大好きだったから。<br />
+    <br />大場[現代]が去る。<br />
+    <br />高田　な、やろうぜ。な。<br />
+    <br />この瞬間、舞台は昭和十一年となる。<br />
+    <br />昭和十一年七月二十三日　　七つ森の入り口<br />
+    <br />大場　嫌だよ。夕方かくれんぼをすると隠し神にさらわれてしまうよ。<br />天野　(笑って)隠し神だってよ。そんなのいるわけないだろ。<br />大場　隠し神を信じないと今に大変なことになるよ。<br />天野　(笑って)馬鹿とは付き合いきれないね。<br />大場　なんだとー。<br />遠野　(天野と大場の間に割って入って空を指差す)あっ。<br />
+    <br />遠野が祈る。<br />
+    <br />高田　ミーちゃん。何してるんだい？<br />遠野　流れ星に願いをかけたの。流れ星に願いをかけると、その願いが叶うって言われているのよ。<br />天野　そんなの迷信だよ。<br />大岩　天邪鬼は夢がないわね。あたしは信じるわ。早く落ちないかな。落ちろ。こら落ちろ。（ドスン、ドスンと地響きを立てる）あっ、落ちた。<br />
+    <br />大岩が祈る。<br />遠野、高田、大場も祈り始める。<br />天野は祈らず、大場の横で聞き耳を立てている。<br />
+    <br />天野　（突然）ははははは。聞いてくれよ。バケの奴、「お化けに会いたい」だって。おめー六年生のくせに、考えてることは一年生と同じか、それ以下じゃねーの。<br />大場　なんだとー。<br />高田　まあまあ。どんな願い事をかけようとその人の勝手だろ。喧嘩はそこまで。もう一度かくれんぼしよう。今度はミーちゃんが鬼だよ。バケもやれよ。<br />大場　でも隠し神が…<br />高田　大丈夫だよ。じゃあ始めるぞ。<br />遠野　一、二、三、四、五、六、七、八、九、十。<br />　<br />かくれんぼが始まる。<br />全員見つかる。<br />今まで五人だった子ども達が六人になっている。<br />
+    <br />高田　あれー？　一、二、三、四、五、六…一、二、三、四、五、六…俺達六人だったかな。五人じゃなかったっけ。<br />遠野　そういえばそうね。<br />大岩　でもみんな最初っからいたよ。　<br />大場　座敷童子だ。<br />みんな  座敷童子？<br />遠野　座敷童子って何。<br />大場　妖怪だよ。<br />天野　また始まった。<br />大岩　でもおもしろそうな話じゃない。座敷童子ってどんな妖怪なの？<br />大場　例えば五人で遊んでるとするだろ。ふと気がつくと人数が一人増えて六人になっているんだ。最初五人だったのは間違いないんだけど、六人ともみんな知ってる顔で、増えた一人が誰かわからないんだ。その増えた一人が座敷童子さ。<br />高田　この中に一人座敷童子がいる。誰だ！<br />天野　ターちゃんまで変なこと言うなよ。<br />高田　さてはおまえが。<br />天野　馬鹿なこと言うなよ。科学に強い天野満夫を忘れたのかよ。<br />高田　冗談だよ。<br />大場　僕だって初めからいたさ。<br />天野　覚えてないな。<br />大場　さっき僕と喧嘩しただろ。<br />遠野　私もはじめからいたわ。さっき流れ星に願いをかけたばかりだもの。<br />高田　そうだよな。じゃあ青柳さんだ。<br />
+    <br />この青柳と呼ばれた少女が増えた一人であるが、誰もそれに気づいていない。<br />この後、この少女は青柳こだまと呼ばれることになる。<br />
+    <br />青柳　馬鹿言わないでよ。私だって流れ星に願いをかけたし、みんなと一緒にかくれんぼもしたじゃない。<br />遠野　高田君、青柳さんが座敷童子のわけないわ。<br />高田　そうだよな。それじゃあ…<br />
+    <br />みんなが大岩を疑いの目で見る。<br />
+    <br />大岩　あたしが座敷童子だって言うの。<br />高田　もうよそう。どうやら俺の思い違いだったようだな。<br />天野　この世の中に座敷童子なんているわけないもんな。<br />大場　そうかなー。<br />大岩　バケ、まだあたしを座敷童子にしたいの。<br />大場　そ、そういうわけじゃないけど。<br />遠野　(大岩をなだめるように)大岩さん、お星様がとっても綺麗よ。まるで星の野原にいるみたい。あっ、流れ星。<br />
+    <br />そう言って、空を指差す。<br />
+    <br />青柳　あっ。(そう言って、空の別の場所を指差す)<br />大岩　おー。(そう言って、空の別の場所を指差す)<br />大場　わー。(そう言って、空の別の場所を指差す)<br />高田　流れ星の雨だ。<br />
+    <br />遠野が星に願いをかける。<br />続いて大岩、青柳、高田、大場が星に願いをかける。<br />天野はそんな仲間をあきれ顔で見ているが、最後にみんなから離れた場所で隠れるように流れ星に願いをかける。<br />暗転<br />
+    <br />昭和十一年七月二十四日　　教室<br />
+    <br />舞台が明るくなると、そこは昭和十一年の七つ森小学校の教室。<br />教室の中央で子ども達が楽しそうに話をしている。<br />宮澤治子先生が教室に入ってくる。<br />子ども達は慌てて席に着く。<br />
+    <br />高田　起立。気をつけ。先生おはようございます。<br />みんな　おはようございます。<br />宮澤先生　おはようございます。あら、机の並び方おかしくない。確か一番後ろの席は隣がいなくて、天野君が一人で座ってなかった？<br />　　　<br />青柳がびっくりして立ち上がる。<br />
+    <br />青柳　やだ先生、おかしなこと言わないでください。前からこのままです。<br />宮澤先生　そうよね、暑さでぼけちゃったかな。さて、明日から待ちに待った夏休み。みんな休み中の計画は立てた？<br />みんな　はーい。<br />宮澤先生　高田君。あなたはどんな計画を立てたの？<br />高田　俺は、毎日ベルリン・オリンピックをラジオで聴こうと思っています。なんせ、初めての生中継ですから。<br />宮澤先生　でも不思議ね。ドイツで行われる放送が、同じ時間に日本で聴けるなんて。<br />天野　先生。ラジオの生中継くらいで驚いてちゃ時代に遅れますよ。今度のベルリン・オリンピックでは世界初のテレビジョンが使われるんですよ。　<br />宮澤先生　テレビジョン？何それ。<br />天野　うーん、ちょっと説明するの難しいなー。(少し考える)ラジオは放送局からラジオに音を送りますよね。テレビジョンは映像を送るんです。要するに、ベルリン大会の映像が送られて、映画を観るように目で見ることができるんです。<br />高田　そいつはすげーな。<br />天野　ターちゃん、驚くのはまだ早いよ。次の昭和十五年のオリンピックがもし東京になれば、この日本でも、オリンピックをテレビジョンで放送する予定なんだぞ。そして将来は、自分のうちでテレジョンが見られるようになるかもしれないんだぞ。<br />宮澤先生　テレビジョン、なんか面白そうね。<br />天野　先生、俺は科学者になってテレビジョンの研究をするのが夢なんです。<br />宮澤先生　天野君ならきっとなれるわね。それで天野君の夏休みの計画は？<br />天野　お父さんとテレビジョンの研究所に行きます。<br />宮澤先生　天野君の頭の中は、テレビジョンでいっぱいね。　　<br />高田　先生、ベルリン大会では、日本はどれくらい金メダルが獲れると思いますか？<br />宮澤先生　…高田君はどう思うの。<br />高田　きっと水泳はたくさん獲りますよ。前回のロサンゼルス大会で二位だった前畑は優勝する可能性大かな。三段跳びも、オリンピック三連破は堅いな。高跳びも期待できますよ。<br />宮澤先生　詳しいのね。<br />高田　俺は、オリンピックに出るのが夢なんです。<br />宮澤先生　高田君、運動得意だからね。次のオリンピックに出られるといいわね。<br />高田　次のオリンピックは、東京かヘルシンキですからね。東京になればいいな。でも四年後はまだ中学四年生だから出るのは難しいかな。<br />宮澤先生　なんか先生もオリンピックに興味がわいてきちゃった。<br />大岩　先生！先生！先生！あたし、映画を観にいきます。<br />宮澤先生　何観るの？<br />大岩　『虚栄の市』です。先生、この映画、総天然色なんですよ。<br />宮澤先生　総天然色？<br />大岩　白と黒じゃなくって、今あたしが見ているのと同じ色の映画なんですって。<br />宮澤先生　そんな映画ができたんだ。大岩さん、あなた映画の話になるとほんと生き生きしてくるわね。<br />大岩　先生！あたし、女優志望なんです。<br />天野　ははー、無理無理。<br />大岩　何よー。<br />天野　オイワじゃ無理ってーの。銀幕のスターってのはな、立てば芍薬、座れば牡丹、歩く姿は百合の花って感じの女の子がなるの。オイワは立てば大根、座ればスイカ、歩く姿は豚の鼻だろ。<br />大岩　天邪鬼、よくも言ってくれたわね。　　<br />
+    <br />大岩が天野に襲いかかり、天野は突き飛ばされる。<br />先生が大岩の手を掴んで止める。<br />
+    <br />宮澤先生　大岩さん、やめなさい。あなた女の子でしょ。<br />大岩　だって…<br />
+    <br />大岩が大声で泣き出す。<br />
+    <br />宮澤先生　天野君、あなたは口が悪すぎます。大岩さんに謝りなさい。<br />天野　…ごめんなさい。<br />
+    <br />大岩は泣き続けている。<br />
+    <br />宮澤先生　大岩さん、大岩さん。お願い。もう泣かないで。<br />大岩　(突然、大声で笑いながら立ち上がって)先生、今の演技でした。うまかった？<br />宮澤先生　こら、大人をからかうんじゃありません。<br />大岩　ごめんなさい。<br />宮澤先生　遠野さん。あなたは何か計画があるの？<br />遠野　歌を習いにいこうと思っています。<br />大岩　先生、ミーちゃんの夢は歌手なんです。<br />宮澤先生　そう。遠野さんとっても歌がお上手だものね。渡辺はま子みたいな歌手になりたいの？<br />遠野　いいえ。オペラ歌手になりたいんです。<br />宮澤先生　オペラ？<br />遠野　オペラは西洋の歌いながら演じる劇です。<br />宮澤先生　ふーん、みんなずいぶん大きな夢をもっているのね。夢をもつってとってもすてきなことね。(あっ)青柳さん、さっきっからずーと黙っているけど、あなたの夏休みの予定は？ <br />青柳　私、まだ決めていません。すみません。<br />宮澤先生　青柳さん、何も謝ることなんかないのよ。人それぞれでいいの。さてとみんなの予定も聞き終ったし…<br />高田　先生、まだバケが残っています。<br />宮澤先生　(慌てて)大場君、ごめんなさい。<br />大場　いいんです…どうせ…<br />宮澤先生　(優しく)大場君。あなたの夏休みの予定は？ <br />大場　うち貧乏だから、どこかへ行ったりする余裕がないんだ。それにうちのお母ちゃん、この夏に赤ちゃん産むんだ。だから家の手伝いしなくちゃ。<br />宮澤先生　それじゃ、大場君この夏休みにお兄さんになるのね。<br />
+    <br />大場が照れる。<br />
+    <br />天野　頼りねー兄さんだな。<br />大場　なんだとー。<br />宮澤先生　ほらまた。天野君、いいかげんにしなさい。<br />天野　（ふてくされて）はーい。<br />宮澤先生　さ、おしゃべりはこれくらいにして、お待ちかねの通信簿を渡しましょう。<br />
+    <br />嬉しそうな顔あり、憂鬱そうな顔あり。<br />
+    <br />宮澤先生　高田君。<br />高田　はい。（通信簿を覗きこんで）やったー、体操甲だ。<br />
+    <br />高田が教室を走り回る。<br />
+    <br />宮澤先生　天野君。<br />天野　はい。（自信ありそうに）<br />高田　ずいぶん自信ありそうじゃない。<br />天野　（通信簿を開いて成績を見せる）まっ、こんなもんさ。<br />
+    <br />大岩が天野の通信簿を取る。<br />大岩の周りにみんなが集まる。<br />
+    <br />大岩　算術、甲。綴り方、甲。読み方、甲。書き方、甲。国史、甲。理科、甲。体操…体操。天邪鬼、あんた体操、丙じゃない。<br />天野　体操なんかどうでもいい科目さ。<br />高田　なんだと。<br />天野　(しまったという顔)<br />宮澤先生　天野君！あなたの考え方は間違っています。体操はとっても大切な科目です。<br />高田　そういうことさ。<br />宮澤先生　続けます。遠野さん。<br />遠野　はい。<br />宮澤先生　唱歌は甲ですよ。<br />遠野　先生、ありがとうございます。<br />宮澤先生　（先生はにこにこして通信簿を渡す）次、大岩さん。<br />大岩　はーい。（自信ありそうな素振り。しかし通信簿を見てびっくり）うおー、これは。わー。<br />
+    <br />大岩は通信簿をくしゃくしゃにしてしまう。<br />
+    <br />宮澤先生　(慌てて大岩を止めて)そんなことしちゃ駄目でしょう。<br />大岩　…ごめんなさい。<br />宮澤先生　次、大場君。<br />大場　はい。<br />
+    <br />　　　大場は隅でこっそり見ようとする。<br />　　　天野が大場の後ろからそっと近づき、通信簿を取り上げる。<br />
+    <br />天野　ははは、こいつみんな丙でやんの。馬鹿だねー。<br />宮澤先生　天野君！いいかげんにしなさい。(大場の通信簿を天野から取り上げて)人生、通信簿だけでは決まらないの。人それぞれに通信簿では表せない良さがあるの。<br />天野　でも、バケみたいに、頭が悪くてうすのろの奴に、何かいいところがあるんですか。<br />宮澤先生　大場君にもちゃんとあります。<br />天野　それは何ですか、先生。<br />宮澤先生　…<br />大場　(期待をもって先生を眺めていたが…)もういいです…僕。<br />
+    <br />大場が泣き出す。<br />
+    <br />宮澤先生　(慌てて)そうそう、大場君の良さは優しさね。誰に対しても優しくできるところ。きっといいお兄さんになれるわよ。<br />
+    <br />大場が顔を上げる。<br />
+    <br />宮澤先生　もっと自信をもって、胸を張って。<br />
+    <br />宮澤先生は大場に通信簿を渡す。<br />
+    <br />宮澤先生　さてと、それじゃ通信簿はしまって。ちゃんとおうちの人に見せるのよ。<br />大岩　先生、こだまがまだ通信簿もらってません。<br />宮澤先生　(あっ…)青柳さん、ごめんなさい。えっと、あれ…昨日みんなの通信簿と一緒にここに入れたはずなのに。おかしいわね。<br />青柳　先生、私今日じゃなくても大丈夫です。<br />宮澤先生 ごめんね。それじゃ明日取りにきてくれる？<br />青柳　はい。<br />宮澤先生　それではこれで終わりにしましょう。みんなにとって楽しい夏休みになるといいわね。それと、天野君、大場君、もう喧嘩しちゃ駄目よ。<br />天野・大場　はーい。<br />高田　起立。気をつけ。先生さようなら。<br />みんな　さようなら。<br />
+    <br />　　　先生が教室から出ていく。<br />　　　子ども達六人が教室に残る。<br />
+    <br />高田　明日から夏休みか。小学校最後の。<br />遠野　みんなと一緒に夏休みを過ごせるのもこれっきりなのね。<br />高田　何か思い出に残ることしないか？<br />大岩　どんなこと？<br />高田　肝試しなんかどうだい。<br />大場　いいね。<br />天野　何言ってんだよ。一番弱虫のおめーが。<br />大岩　お化けが出てきても大丈夫？<br />大場　お化けは本当は、優しいんだよ。大丈夫にきまってるだろ。<br />天野　へっ、強がりいうなよ。泣き虫毛虫が。<br />大場　なんだとー。<br />　　　<br />大場は天野につかみかかるが、倒されて泣き出す。<br />
+    <br />大場　僕、泣き虫毛虫じゃないやい。<br />高田　バケ、泣き虫毛虫じゃないんなら泣くなよ。<br />
+    <br />大場が顔を上げる。<br />
+    <br />高田　それじゃ肝試しに決定でいいな。<br />遠野　私もやるの？<br />高田　怖いかい。<br />遠野　ええ。<br />大岩　大丈夫、あたしがついているから。やろうじゃない。わくわくするわ。<br />天野　俺は勉強があるからな。<br />大岩　そんなこといって、本当は怖いんでしょう。<br />天野　ば、馬鹿なこと言うなよ。お化けなんて非現実的な存在をどうしてこの俺が怖がらなくちゃいけないんだい。<br />大岩　じゃ、決定ね。<br />天野　で…でも、ターちゃん、オリンピックが気にならないかい？<br />高田　大丈夫。オリンピックは八月一日から八月十五日までだろ。八月十六日にやればいいじゃないか。どうだい天邪鬼。　<br />天野　いいけど。<br />高田　どうだい、バケ。<br />大場　もちろん大丈夫さ。<br />高田　どこでやろうか？<br />大場　七つ森がいいよ。七つ森の中心には大きな大きな杉の木があるっていう話だよ。そこまで行こうよ。木は百年たつと死んだ人の魂が乗り移って、木霊という妖怪になるって言われているんだ。<br />遠野　大場君、お化けのことに詳しいのね。<br />天野　お化けなんかに詳しくったって何になるんだい。このテレビジョンの時代に。<br />高田　もうテレビジョンはわかったから、話を肝試しに戻すぞ。八月十六日に七つ森の入り口に集合。みんないいな。<br />大岩　何時に集合するの？<br />大場　夕方がいいよ。お化けは黄昏時に出るっていうから。<br />高田　それじゃ、四時でどうだい。<br />
+    <br />みんながうなずく。<br />
+    <br />高田　よし、決定だ。みんな、提燈忘れんなよ。<br />天野　提燈だって、この、<br />大岩　テレビジョンの時代に…でしょう。<br />高田　肝試しには、懐中電灯よりも提燈の方が合うんだよ。それじゃ八月十六日にまた会おう。<br />
+    <br />みんなが帰っていく。<br />暗転<br />
+    <br />現代の夏休みのある日　　七つ森の入り口<br />
+    <br />現代の大場憲一が登場する。<br />
+    <br />大場[現代]　私達は、夏休みにときめく気持ちと、通信簿を胸に家に帰った。昭和十一年の夏休みは日本中がベルリンオリンピックの話題で持ち切りだった。女子平泳ぎで前畑が優勝した。三段跳びはオリンピック三連破を達成した。棒高跳びで早稲田の西田と慶応の大江が二位と三位に入り、お互いの健闘を喜びあった。八月十五日、十八の日の丸を掲げてベルリンオリンピックは終った。次のオリンピックは東京に決定。この決定は、私達に夢と希望を与えてくれた。そして約束の八月十六日がやってきた。<br />
+    <br />暗転<br />
+    <br />昭和十一年八月十六日　　　<br />
+    <br />◆其ノ一　七つ森の入り口<br />
+    <br />舞台が明るくなると、そこは七つ森の入り口。<br />舞台中央に大場、高田、天野が手に提灯を持って立っている。<br />
+    <br />高田　遅いな。<br />
+    <br />遠野と大岩がやってくる。<br />
+    <br />高田　遅いじゃないか。<br />遠野　ごめんなさい。青柳さんのおうちに寄っていたから。<br />天野　で、青柳どうしたんだ？<br />大岩　急に熱がでちゃって、寝てなくちゃいけないから、今日は来られないって。<br />天野　それは口実。きっと怖くなったのさ。<br />高田　ま、ともかく出発しようぜ。<br />
+    <br />みんな出発する。<br />暗転<br />
+    <br />◆其ノ二　森の中<br />
+    <br />舞台が明るくなると、そこは暗い森の中。<br />
+    <br />高田　おー、森の中はずいぶん暗いんだな。まるで夜じゃないか。<br />遠野　お化けが出てもおかしくないわね。なんか怖い。<br />高田　これじゃ、危なくて一人一人別々には歩けないな。道に迷いそうだ。<br />天野　ターちゃん、やめて帰ろう。道に迷ったら大変だよ。<br />大岩　怖いのね、震えてるわよ。<br />天野　(震える声で)俺が？俺が怖いわけないだろ。<br />遠野　ねっ、みんな一緒に歩きましょう。それでも十分怖いわ。<br />高田　そうするか。それじゃ、大きな杉の木目指して出発だ。<br />
+    <br />みんなが一列になって歩き出す。<br />少し歩いたところで、突然一番後ろを歩いている遠野が悲鳴をあげる。<br />
+    <br />大岩　ミーちゃん、どうしたの？<br />遠野　何か冷っとしたものが、首筋を触ったの。<br />大岩　冷っとしたもの？<br />大場　そいつは妖怪ぶるぶるの仕業だよ。ぶるぶるは臆病そうな人の体の中に入って怯えさせる、悪戯好きの妖怪さ。<br />天野　また始まった。ただ冷たい風が吹いただけだろ。<br />遠野　じゃ、天野君、一番後ろに行ってよ。<br />天野　俺が…<br />遠野　そうよ、怖いの？<br />天野　そ、そんなことないけど…(みんなの目線を感じて)行くよ、行けばいいんだろ。<br />　　<br />天野が一番後ろに行く。<br />みんな黙って歩く。<br />
+    <br />天野　ひゃー。<br />
+    <br />そう叫んで天野が尻餅をつく。<br />
+    <br />高田　どうした？<br />天野　いや、何でもない。ちょっとぶるぶるってきたもんだから。<br />大場　ぶるぶるだ。やっぱりぶるぶるがいるんだ。ぶるぶるにおどかされたってことは、天邪鬼が弱虫だってことさ。<br />天野　なんだとー。<br />
+    <br />天野は大場につかみかかる。<br />
+    <br />高田　おいおい、こんなところで、喧嘩なんかすんなよ。<br />
+    <br />      突然雨が降ってくる<br />
+    <br />高田　夕立だ。<br />
+    <br />稲光、そして雷鳴。<br />子ども達の悲鳴。<br />
+    <br />高田　なるべく背を低くして歩こう。<br />天野　だから帰ろうって言ったんだ。<br />高田　今更そんなこと言うなよ。<br />
+    <br />稲光、そして雷鳴<br />子ども達の悲鳴。<br />
+    <br />高田　絶対、手を離すなよ。離すとはぐれちまうからな。けどちっとも前が見えないな。早く隠れるところを見つけなくっちゃ。<br />
+    <br />稲光、そして雷鳴。<br />子ども達の悲鳴。<br />五人が繋がって森の中を歩いていく。<br />子ども達は雷とともに、一人また一人と森の中に消えていく。<br />最後に大場が一人になって森を歩いている。<br />
+    <br />大場　みんなどこに行っちゃったんだろう。<br />
+    <br />突然、誰かが後ろから目隠しをする。<br />
+    <br />大場　わー。<br />誰か　だーれだ？<br />大場　び、びっくりするじゃないか。誰だい？　ミーちゃんかい？　それともオイワかい？<br />誰か　はずれ、私よ。<br />
+    <br />大場が振り向くと、そこに青柳が立っている。<br />
+    <br />大場　青柳さんじゃないか。でもどうしてここに。熱があって家で寝てたんだろ。<br />青柳　熱なんてないわ。<br />大場　それじゃ…<br />青柳　あれは嘘。<br />大場　嘘…<br />青柳　大場君、あなた前に「お化けに会いたい」って星に願いをかけたことがあったわね。今でも会いたい？<br />大場　（うなずく）<br />青柳　それじゃあ、会わせてあげる。<br />大場　ほんとに？<br />青柳　(うなずく)目をつむって三つ数えて。目を開けたときに、あなたの目の前にお化けが立ってるわ。さ、目をつむって。三つ数えて。<br />大場　一・二・三。<br />
+    <br />大場が目を開ける。<br />目の前には青柳が立っている。<br />
+    <br />大場　いないじゃないか。<br />青柳　いるわ。目の前に。<br />大場　目の前？目の前にいるのは…<br />
+    <br />大場が青柳を見つめる。<br />
+    <br />大場　それじゃ、<br />青柳　そう、私のこと。<br />大場　青柳さんがお化けだっていうの？<br />青柳　(うなずく)<br />大場　信じられないな。だって青柳さんはちっちゃなときからずっと僕の友だちだったじゃないか。<br />青柳　そういう記憶を与えたの。あの日に。<br />大場　あの日って？<br />青柳　かくれんぼして遊んだ日。<br />大場　そうか、あの時一人増えたのは君だったのか。君は座敷童子だったんだ。<br />青柳　（首を振る）私は木霊。私は七つ森の大きな杉の木に宿っているの。<br />大場　君は木霊なんだ。うれしいなお化けに会えて。<br />青柳　大場君が「お化けに会いたい」って星に願いをかけたから会うことが出来たの。でもずいぶんミスをしちゃった。通信簿とか。<br />大場　それであの時君の通信簿がなかったのか。<br />青柳　先生が机の位置を覚えていたのにも驚いちゃった。危うくばれるところだった。<br />大場　けど、気がつかなかったな。だって君ってほんと人間そっくりなんだもん。<br />青柳　私、以前は人間だったの。<br />大場　本当かい。それじゃいつお化けになったんだい？<br />青柳　説明してもわかってもらえないわ。<br />大場　そんなことわからないだろ(う)。教えてよ。<br />青柳　…九年後。<br />大場　九年後？九年前じゃないのかい？<br />青柳　それが、九年先の未来のことなの。九年後の世界である事が起こり、気がついたときには、九年前の世界でお化けになっていた。<br />大場　うーん、信じられないな、九年後の世界から来たなんて。何か証拠でもあるのかい？<br />青柳　(首を振る)ただ…これから起こることがわかるというだけ。<br />大場　じゃ、今年何が起こるか教えてよ。<br />青柳　昭和十一年のことはよくわからない。私が生まれた年だから。私は昭和十一年の八月三十一日が誕生日なの。だからまだこの世界に存在していないの。<br />大場　いつのことならわかるの？<br />青柳　私が覚えているのは昭和十五年より後かな。<br />大場　昭和十五年…あっ、東京オリンピックの年だね。水泳日本は健在かい？　三段跳びの四連破は達成できたかい？<br />青柳　東京オリンピックは中止になったわ。<br />大場　嘘だ、でたらめだ。わからないからそんなこと言って、ごまかしてるんだろう。<br />青柳　本当よ。こんな時にオリンピックなんてやっている余裕はないっていうことで中止になったの。<br />大場　こんな時ってどんな時？<br />青柳　戦争。<br />大場　せ…せんそう、戦争が始まるの？<br />青柳　(うなずく)<br />大場　いつ？<br />青柳　確か…来年。<br />大場　どこと？<br />青柳　はじめは隣の支那と。そして私が五才のとき米国との戦争が始まったの。その戦争はすぐには終わらなかった。一年経っても二年経っても三年経っても…<br />大場　僕もその戦争を経験するの？<br />青柳　(うなずく)赤紙が来て戦争に行くの、昭和二十年二十歳の夏に…<br />大場　僕が、戦争に行く。…それで、僕どうなるの？　その戦争で死ぬの？<br />青柳　わからない…<br />大場　そっか…<br />
+    青柳　…</p>
+    <p class="a1"><br />
+    続く<br />
+    <br />
+    </p>
+  </div>
+</div>
+</body>
+</html>

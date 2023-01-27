@@ -1,0 +1,2464 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta name="ProgId" content="Word.Document" />
+<meta name="Generator" content="JustSystems Homepage Builder Version 17.0.15.0 for Windows" />
+<meta name="Originator" content="Microsoft Word 14" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="File-List" href="furusato%20kansai-version.files/filelist.xml" />
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>toshi</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Toshio</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>45</o:TotalTime>
+  <o:LastPrinted>2012-01-04T14:13:00Z</o:LastPrinted>
+  <o:Created>2014-01-12T05:56:00Z</o:Created>
+  <o:LastSaved>2014-01-12T05:56:00Z</o:LastSaved>
+  <o:Pages>16</o:Pages>
+  <o:Words>3080</o:Words>
+  <o:Characters>17562</o:Characters>
+  <o:Company>Toshiba</o:Company>
+  <o:Lines>146</o:Lines>
+  <o:Paragraphs>41</o:Paragraphs>
+  <o:CharactersWithSpaces>20601</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel="themeData" href="furusato%20kansai-version.files/themedata.thmx" />
+<link rel="colorSchemeMapping" href="furusato%20kansai-version.files/colorschememapping.xml" />
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:PrintTwoOnOne/>
+  <w:DrawingGridHorizontalSpacing>4.8 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>15.35 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="0" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="0" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="0" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"ＭＳ 明朝";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"MS Mincho";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:Century;
+	panose-1:2 4 6 4 5 5 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:ＪＳ明朝;
+	panose-1:2 2 3 9 0 1 1 1 1 1;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:ＪＳゴシック;
+	panose-1:2 11 6 9 0 1 1 1 1 1;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:HG明朝E;
+	panose-1:2 2 9 9 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@HG明朝E";
+	panose-1:2 2 9 9 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@ＭＳ 明朝";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@ＪＳゴシック";
+	panose-1:2 11 6 9 0 1 1 1 1 1;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"\@ＪＳ明朝";
+	panose-1:2 2 3 9 0 1 1 1 1 1;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+}
+h1{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 1 \(文字\)";
+	mso-style-next:標準;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:ＪＳゴシック;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+	mso-font-kerning:12.0pt;
+	font-weight:normal;
+}
+h2{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 2 \(文字\)";
+	mso-style-next:標準インデント;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+	mso-bidi-font-weight:normal;
+}
+h3{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 3 \(文字\)";
+	mso-style-next:標準インデント;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:ＪＳゴシック;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+	font-weight:normal;
+}
+h4{
+	mso-style-unhide:no;
+	mso-style-link:"見出し 4 \(文字\)";
+	mso-style-next:標準インデント;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	letter-spacing:-.2pt;
+	mso-bidi-font-weight:normal;
+}
+h5{
+	mso-style-unhide:no;
+	mso-style-link:"見出し 5 \(文字\)";
+	mso-style-next:標準インデント;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:ＪＳゴシック;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+	font-weight:normal;
+}
+h6{
+	mso-style-unhide:no;
+	mso-style-link:"見出し 6 \(文字\)";
+	mso-style-next:標準インデント;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	letter-spacing:-.2pt;
+	mso-bidi-font-weight:normal;
+}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 7 \(文字\)";
+	mso-style-next:標準インデント;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 8 \(文字\)";
+	mso-style-next:標準インデント;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:8;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9{
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 9 \(文字\)";
+	mso-style-next:標準インデント;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:9;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+}
+p.MsoNormalIndent, li.MsoNormalIndent, div.MsoNormalIndent{
+	mso-style-priority:99;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:42.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0mm;
+	mso-para-margin-right:0mm;
+	mso-para-margin-bottom:0mm;
+	mso-para-margin-left:4.0gd;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+}
+p.MsoHeader, li.MsoHeader, div.MsoHeader{
+	mso-style-priority:99;
+	mso-style-link:"ヘッダー \(文字\)";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	tab-stops:center 212.6pt right 425.2pt;
+	layout-grid-mode:char;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+}
+p.MsoFooter, li.MsoFooter, div.MsoFooter{
+	mso-style-priority:99;
+	mso-style-link:"フッター \(文字\)";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	tab-stops:center 212.6pt right 425.2pt;
+	layout-grid-mode:char;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate{
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"吹き出し \(文字\)";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:9.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Arial;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.2pt;
+}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph{
+	mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:42.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0mm;
+	mso-para-margin-right:0mm;
+	mso-para-margin-bottom:0mm;
+	mso-para-margin-left:4.0gd;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-.2pt;
+}
+span.1
+	{mso-style-name:"見出し 1 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 1";
+	mso-ansi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:ＪＳゴシック;
+	mso-hansi-font-family:Arial;
+	letter-spacing:-.2pt;
+	mso-font-kerning:12.0pt;}
+span.2
+	{mso-style-name:"見出し 2 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 2";
+	mso-ansi-font-size:10.5pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-hansi-font-family:Arial;
+	letter-spacing:-.2pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.3
+	{mso-style-name:"見出し 3 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 3";
+	mso-ansi-font-size:10.5pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:ＪＳゴシック;
+	mso-hansi-font-family:Arial;
+	letter-spacing:-.2pt;}
+span.4
+	{mso-style-name:"見出し 4 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 4";
+	mso-ansi-font-size:10.5pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-ascii-font-family:"ＭＳ 明朝";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	letter-spacing:-.2pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.5
+	{mso-style-name:"見出し 5 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 5";
+	mso-ansi-font-size:10.5pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:ＪＳゴシック;
+	mso-hansi-font-family:Arial;
+	letter-spacing:-.2pt;}
+span.6
+	{mso-style-name:"見出し 6 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 6";
+	mso-ansi-font-size:10.5pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-ascii-font-family:"ＭＳ 明朝";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	letter-spacing:-.2pt;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.7
+	{mso-style-name:"見出し 7 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 7";
+	mso-ansi-font-size:10.5pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-ascii-font-family:"ＭＳ 明朝";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	letter-spacing:-.2pt;}
+span.8
+	{mso-style-name:"見出し 8 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 8";
+	mso-ansi-font-size:10.5pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-ascii-font-family:"ＭＳ 明朝";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	letter-spacing:-.2pt;}
+span.9
+	{mso-style-name:"見出し 9 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 9";
+	mso-ansi-font-size:10.5pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-ascii-font-family:"ＭＳ 明朝";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	letter-spacing:-.2pt;}
+p.a, li.a, div.a{
+	mso-style-name:英語対話文;
+	mso-style-unhide:no;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:10.0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:-10.0mm;
+	line-height:12.0pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-1.0pt;
+}
+p.a0, li.a0, div.a0{
+	mso-style-name:英語平常文;
+	mso-style-unhide:no;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:10.0mm;
+	line-height:12.0pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	letter-spacing:-1.0pt;
+}
+p.a1, li.a1, div.a1{
+	mso-style-name:演劇ト書き;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:標準;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:31.2pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	word-break:break-all;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+}
+p.a2, li.a2, div.a2{
+	mso-style-name:演劇台詞;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:20.7pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:-20.7pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	word-break:break-all;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";
+}
+span.a3{
+	mso-style-name:"ヘッダー \(文字\)";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:ヘッダー;
+	mso-ansi-font-size:10.5pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-ascii-font-family:"ＭＳ 明朝";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	letter-spacing:-.2pt;
+}
+span.a4{
+	mso-style-name:"フッター \(文字\)";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:フッター;
+	mso-ansi-font-size:10.5pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-ascii-font-family:"ＭＳ 明朝";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	letter-spacing:-.2pt;
+}
+span.a5{
+	mso-style-name:"吹き出し \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:吹き出し;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Arial;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	letter-spacing:-.2pt;
+}
+.MsoChpDefault{
+	mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Century","serif";
+	mso-ascii-font-family:Century;
+	mso-fareast-font-family:ＪＳ明朝;
+	mso-hansi-font-family:Century;
+	mso-font-kerning:0pt;
+}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;
+	mso-footnote-separator:url("furusato%20kansai-version.files/header.htm") fs;
+	mso-footnote-continuation-separator:url("furusato%20kansai-version.files/header.htm") fcs;
+	mso-endnote-separator:url("furusato%20kansai-version.files/header.htm") es;
+	mso-endnote-continuation-separator:url("furusato%20kansai-version.files/header.htm") ecs;}
+@page WordSection1
+	{size:515.95pt 728.6pt;
+	mso-page-orientation:landscape;
+	margin:20.0mm 20.0mm 20.0mm 20.0mm;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-footer:url("furusato%20kansai-version.files/header.htm") f1;
+	mso-paper-source:0;
+	layout-grid:15.35pt -.5pt;
+	mso-layout-grid-char-alt:-2112;}
+div.WordSection1{
+	page:WordSection1;
+}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:554855397;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1969940972 67698703 67698705 67698705 67698703 67698711 67698705 67698703 67698711 67698705;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;}
+@list l0:level2
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%2;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l0:level3
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%3;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l0:level5
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l0:level6
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%6;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l0:level8
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l0:level9
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%9;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l1
+	{mso-list-id:633101945;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-768209166 67698703 -530558854 67698705 67698703 67698711 67698705 67698703 67698711 67698705;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;}
+@list l1:level2
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:◆;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:39.0pt;
+	text-indent:-18.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%3;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l1:level5
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l1:level6
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%6;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l1:level8
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l1:level9
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%9;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l2
+	{mso-list-id:1110783458;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-768209166 67698703 -530558854 67698705 67698703 67698711 67698705 67698703 67698711 67698705;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;}
+@list l2:level2
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:◆;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:39.0pt;
+	text-indent:-18.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-bidi-font-family:"Times New Roman";}
+@list l2:level3
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%3;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l2:level5
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l2:level6
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%6;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l2:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l2:level8
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l2:level9
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%9;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l3
+	{mso-list-id:1338314250;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1262435516 -1679650224 67698711 67698705 67698703 67698711 67698705 67698703 67698711 67698705;}
+@list l3:level1
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%1;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l3:level2
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l3:level3
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%3;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l3:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l3:level5
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l3:level6
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%6;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l3:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l3:level8
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l3:level9
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%9;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l4
+	{mso-list-id:1398674496;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-379159252 -1035177932 67698699 67698701 67698689 67698699 67698701 67698689 67698699 67698701;}
+@list l4:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:※;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-bidi-font-family:"Times New Roman";}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B2;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B2;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B2;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l5
+	{mso-list-id:1517888921;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1379294864 329964296 67698711 67698705 67698703 67698711 67698705 67698703 67698711 67698705;}
+@list l5:level1
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%1;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l5:level2
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l5:level3
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%3;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l5:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l5:level5
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l5:level6
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%6;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l5:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l5:level8
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l5:level9
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%9;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l6
+	{mso-list-id:1919173901;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2116720540 -417151574 67698711 67698705 67698703 67698711 67698705 67698703 67698711 67698705;}
+@list l6:level1
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%1;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l6:level2
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%2\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;}
+@list l6:level3
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%3;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;}
+@list l6:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;}
+@list l6:level5
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%5\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;}
+@list l6:level6
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%6;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;}
+@list l6:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;}
+@list l6:level8
+	{mso-level-number-format:aiueo-full-width;
+	mso-level-text:"\(%8\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;}
+@list l6:level9
+	{mso-level-number-format:decimal-enclosed-circle;
+	mso-level-text:%9;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;}
+@list l7
+	{mso-list-id:2044208232;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1750853834 -1365501422 67698699 67698701 67698689 67698699 67698701 67698689 67698699 67698701;}
+@list l7:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:※;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-bidi-font-family:"Times New Roman";}
+@list l7:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l7:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B2;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:63.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l7:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:84.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l7:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:105.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l7:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B2;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l7:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F06C;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l7:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0D8;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+@list l7:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B2;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+ol{
+	margin-bottom:0mm;
+}
+ul{
+	margin-bottom:0mm;
+}
+-->
+#site-box{
+	width : 650px ;
+}
+
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:標準の表;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+	mso-para-margin:0mm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Century","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="14338">
+  <v:textbox inset="5.85pt,.7pt,5.85pt,.7pt"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+  <o:rules v:ext="edit">
+   <o:r id="V:Rule2" type="connector" idref="#_x0000_s1026"/>
+  </o:rules>
+ </o:shapelayout></xml><![endif]-->
+<title>「ずっとそばにいるよ」　斉藤俊雄・作</title>
+</head>
+<body lang="JA" style="tab-interval:42.0pt;text-justify-trim:punctuation">
+<div id="site-box">
+<div class="WordSection1" style="layout-grid:15.35pt -.5pt;mso-layout-grid-char-alt:
+-2112">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan;
+mso-layout-grid-align:auto;text-autospace:ideograph-numeric ideograph-other;
+mso-vertical-align-alt:auto"><span style='font-size:72.0pt;font-family:"HG明朝E","serif"'></span></p>
+    <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan;
+mso-layout-grid-align:auto;text-autospace:ideograph-numeric ideograph-other;
+mso-vertical-align-alt:auto"><span style='font-size:26.0pt;mso-bidi-font-size:
+72.0pt;font-family:&quot;HG明朝E&quot;,&quot;serif&quot;'>ずっとそばにいるよ　　作・斉藤俊雄<span lang="EN-US"><o:p /></o:p></span></span></p>
+  
+    <p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:28.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:
+&quot;Times New Roman&quot;"></o:p></span></b></p>
+    <h2><span style='font-family:"ＭＳ 明朝","serif";mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial'>登場人物</span></h2>
+    <p class="a2" style="margin-left:21.0pt;text-indent:-21.0pt;mso-list:l2 level1 lfo1"><![if !supportLists]></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;ＭＳ 明朝&quot;"><span style="mso-list:Ignore">高田正彦[勇輝]	中学三年生　</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;ＭＳ 明朝&quot;"><span style="mso-list:Ignore">高田弥生		元演劇部顧問　</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;ＭＳ 明朝&quot;"><span style="mso-list:Ignore">岩田京花[上官]	中学三年生　　</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;ＭＳ 明朝&quot;"><span style="mso-list:Ignore">天海沙織[サツキ]	中学二年生　　</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;ＭＳ 明朝&quot;"><span style="mso-list:Ignore">遠山レイ[美奈]	中学二年生　　</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;ＭＳ 明朝&quot;"><span style="mso-list:Ignore">小場静香[健太]	中学二年生　　</span></span></p>
+    <p class="a2" style="margin-left:21.0pt;text-indent:-21.0pt;mso-list:l2 level1 lfo1"><span lang="EN-US" style="mso-bidi-font-family:&quot;ＭＳ 明朝&quot;"><span style="mso-list:Ignore"></span></span></p>
+    <p class="a2">
+    <img width="650" height="3" src="k-aozora.files/image001.gif" v:shapes="_x0000_s1026" /></p>
+    <p class="a2">◆プロローグ</p>
+    <br />
+    <p class="a1">銃声、機銃掃射の音、爆撃音が響いてくる。</p>
+    <p class="a1">幕が上がる。</p>
+    <p class="a1">そこは演劇部の部室。</p>
+    <p class="a1">複数の机と椅子やビール箱、脚立などが乱雑に置かれている。</p>
+    <p class="a1">部室の中にはＣＤプレイヤー等の音響機器がセットされている。</p>
+    <p class="a1">高田正彦(中学三年生)がその中に立っている。</p>
+    <p class="a1">銃声、機銃掃射の音、爆撃音が響き渡る。</p>
+    <p class="a1">正彦がＣＤプレイヤーを操作する。</p>
+    <p class="a1">銃声、機銃掃射の音、爆撃音が消えていく。</p>
+    <p class="a1">正彦が再びＣＤプレイヤーを操作する。</p>
+    <p class="a1">『トロイメライ』(シューマン作曲)が流れ始める。</p>
+    <p class="a1">正彦が机に向かって座る。</p>
+    <p class="a1">その机の上に縦長のメモ帳と鉛筆が置かれている。</p>
+    <p class="a1">正彦はメモ帳のページの下半分に鉛筆で何かを描き始める。</p>
+    <p class="a1">明かりが消えていく。</p>
+    <br /><p class="a1">舞台が明るくなる。</p>
+    <p class="a1">正彦は机に頭をつけて眠っている。</p>
+    <p class="a1">正彦が寝ている机の上に何冊かの縦長のメモ帳が置かれている。</p>
+    <p class="a1">正彦が目を覚まし、背伸びをする。</p>
+    <p class="a1">正彦がメモ帳の下半分に鉛筆で絵を描き始める。</p>
+    <p class="a1">正彦が鉛筆を置く。</p>
+    <p class="a1">そして、メモ帳を指でパラパラとはじき始める。</p>
+    <p class="a1">正彦が描いていたのはパラパラ漫画であった。</p>
+    <p class="a1">パラパラ漫画に夢中になっている正彦の前に一人の女性が立つ。</p>
+    <p class="a1">正彦はその女性の存在に気がつき、顔を上げる。</p>
+    <p class="a1">正彦は女性の顔を見て、驚いて立ち上がる。</p>
+    <p class="a1">正彦とその女性が見つめ合う。</p>
+    <p class="a1">女性は正彦の姉・高田弥生である。</p>
+    <p class="a1">明かりが消えていく。</p>
+    <br />
+    <p class="a1">舞台が明るくなる。</p>
+    <p class="a1">演劇部の部室では『勇気』という劇の練習が行われている。</p>
+    <p class="a1">主人公の勇輝は戦闘機の搭乗員であるが、勇輝役の正彦は制服姿で役を演じている。</p>
+    <p class="a1">サツキは未来から来た少女という設定だが、サツキ役の弥生は、いかにも中学校教師という</p>
+    <p class="a1">姿でそれを演じている。</p>
+    <br />
+    <p class="a2">勇輝[正彦]　いったい君は誰なんだ。</p>
+    <p class="a2">サツキ[弥生]　私はサツキ。</p>
+    <p class="a2">勇輝[正彦]　いや、私が知りたいのは君の名前じゃない。君がどんな存在なのか、それが知りたいんだ。</p>
+    <p class="a2">サツキ[弥生]　私にもよくわからないの。</p>
+    <p class="a2">勇輝[正彦]　自分のことがわからないのか？</p>
+    <p class="a2">サツキ[弥生]　わからないことばかり。何で私はみんなのことが見えるのに、みんなは私のことが見えないの？ </p>
+    <p class="a2">勇輝[正彦]　でも、私には君が見える。</p>
+    <p class="a2">サツキ[弥生]　そう、あなただけが私のことを見ることができる。</p>
+    <p class="a2">勇輝[正彦]　君は幽霊なのか？</p>
+    <p class="a2">サツキ[弥生]　私は幽霊なの？ </p>
+    <p class="a2">勇輝[正彦]　君が、未来から来たというのは本当なのか？</p>
+    <p class="a2">サツキ[弥生]　(うなずいて)私は未来から来たの。</p>
+    <br />
+    <p class="a1">明かりが消えていく。</p>
+    <br />
+    <p class="a1">舞台が明るくなる。</p>
+    <p class="a1">演劇部の部室で『勇気』のラストシーンが演じられている。</p>
+    <p class="a1">前のシーンと同様に正彦が勇輝を演じ、弥生がサツキを演じる。</p>
+    <br />
+    <p class="a2">サツキ[弥生]　お別れね。</p>
+    <p class="a2">勇輝[正彦]　お別れ？どうしてだ。</p>
+    <p class="a2">サツキ[弥生]　私は未来に行くの。</p>
+    <p class="a2">勇輝[正彦]　 未来に行く？でも、君の行こうとしている未来で、君は長くは生きられないんだろ。そんな未来に行きたいのか？</p>
+    <p class="a2">サツキ[弥生]　そんな未来でも私は行きたい。そしてそこで生きたい。</p>
+    <p class="a2">勇輝[正彦]　もう会えないのか？</p>
+    <p class="a2">サツキ[弥生]　会えるわ。未来で。</p>
+    <p class="a2">勇輝[正彦]　未来で？</p>
+    <br />
+    <p class="a1">明かりが消えていく。</p>
+    <br />
+    <p class="a2"><b>★大会六日前</b></p>
+    <b>
+    </b><br />
+    <p class="a1">舞台が明るくなる。　　　　</p>
+    <p class="a1">正彦が音楽を止める。</p>
+    <br />
+    <p class="a2">弥生　正彦、やるね。台詞全部入ってるじゃない。</p>
+    <p class="a2">
+    正彦　弥生の方がすごいよ。僕以外の役一人で全部やっちゃうんだから。それも、台本見ないで。</p>
+    <p class="a2">弥生　だってこれ、私が書いたんだよ。</p>
+    <p class="a2">正彦　そうだけど。台詞全部覚えてる脚本家なんて普通いないよ。</p>
+    <p class="a2">弥生　で、配役なんだけど、特攻を命じる上官は誰になったの。</p>
+    <p class="a2">正彦　京花。</p>
+    <p class="a2">弥生　京花さん！ </p>
+    <p class="a2">正彦　みんなびっくりだよ。京花、前回の劇でいじめのボス役やった後、「悪役はもう二度とやらない」って宣言したのに、自分から上官役を希望するなんて。</p>
+    <p class="a2">弥生　上官って悪役の中の悪役だもんね。でも、どうして？</p>
+    <p class="a2">正彦　全国かな。</p>
+    <p class="a2">弥生　全国？</p>
+    <p class="a2">正彦　京花、部長になった後、目標を全国大会出場にするって宣言したんだ。</p>
+    <p class="a2">弥生　一気に全国？地区大会さえ突破したことないのに。</p>
+    <p class="a2">正彦　僕、うちが全国に行ける可能性、ゼロじゃないって思ってる。確かに、前回も地区大会突破できなかったけど、それは制限時間オーバーで失格になったからだし。</p>
+    <p class="a2">弥生　正彦も全国大会出場の夢に乗っかってるんだ。ずいぶん変わったね、正彦も演劇部も。変わらないのは私だけか。</p>
+    <p class="a2">正彦　でも、変えたのは弥生だよ。</p>
+    <p class="a2">弥生　私なんだ。</p>
+    <p class="a2">正彦　顧問の伊集院先生には悪いけど、伊集院先生が病気で入院して、その代わりに弥生が顧問になって演劇部は変わったからね。正直言うと、はじめは嫌だった。まさか姉貴がこの学校に先生として来て、更に演劇部の顧問になるなんて思わなかったから。</p>
+    <p class="a2">弥生　それはお互い様だよ。働くことになった学校に弟の正彦がいるのだって嫌だったのに、その正彦のいる演劇部の顧問になるなんて。</p>
+    <p class="a2">正彦　僕、今は姉貴の弥生が顧問になってくれてよかったって思ってる。『いきる』って脚本書いてくれたおかげで創作劇で勝負することができたし、地区大会突破したいって本気で思えるようになったし。本音を言うと、みんな伊集院先生じゃなくて弥生が顧問のままだったらよかったって思ってる。</p>
+    <p class="a2">弥生　うれしいけど、顧問に復帰した伊集院先生に申し訳ないよ。だから、秘密だよ、私が今日この部室に来てること。</p>
+    <p class="a2">正彦　わかってる。でも弥生、短い間によく二作目の劇創ったよね。今練習してる『勇気』って脚本渡されたときには、びっくりを通り越して感動があったもん。</p>
+    <p class="a2">弥生　そう言ってもらえると嬉しいけど。</p>
+    <p class="a2">正彦　そろそろみんな来るから、久しぶりに練習見てアドバイスしてよ。</p>
+    <p class="a2">弥生　私、もう顧問じゃないけどね。</p>
+    <br />
+    <p class="a1">
+    話し声が廊下から聞こえてくる。</p>
+    <br />
+    <p class="a2">弥生　あの声、沙織さんと静香さんだね。</p>
+    <br />
+    <p class="a1">天海沙織(二年生)と小場静香(二年生)が部室に入ってくる。</p>
+    <br />
+    <p class="a2">沙織・静香　こんにちは。</p>
+    <p class="a2">正彦・弥生　こんにちは。</p>
+    <p class="a2">弥生　(正彦に)こんな早く部室に来るなんて、やる気が感じられるね。</p>
+    <p class="a2">沙織　正彦先輩。京花先輩が来る前に台詞確認しておきたいんですけど。</p>
+    <p class="a2">正彦　京花、台詞間違えると切れちゃうからね。</p>
+    <p class="a2">弥生　そうなの？</p>
+    <p class="a2">沙織　京花先輩がぴりぴりするのもわかるんですけど。</p>
+    <p class="a2">静香　本番まであと六日ですからね。</p>
+    <p class="a2">弥生　あと六日か。</p>
+    <p class="a2">正彦　静香、台本見て台詞合ってるか確認してくれる。</p>
+    <p class="a2">静香　わかりました。</p>
+    <p class="a2">正彦　（台本を示して）それじゃここからやろっか。</p>
+    <p class="a2">沙織　お願いします。</p>
+    <br />
+    <p class="a1">正彦と沙織が演じ始める。</p>
+    <p class="a1">二人は制服のまま演じる。</p>
+    <p class="a1">弥生は演出家といった感じで舞台上に存在している。</p>
+    <br />
+    <p class="a2">サツキ[沙織]　私は未来から来たの。私は病院に入院していた。そして、お医者さんが私は長くは生きられないってママに話しているのを聞いちゃったの。私は「生きたい！生きたい！」って心から願った。そして目を覚ましたら、この世界だったの。神様、間違えちゃったのかな。私の「生きたい」が、「どこかに行きたい」っていう意味だって。でも何でよりによって昭和二十年の日本(にほん)なの。戦争の真っ只中なの。</p>
+    <p class="a2"> 勇輝[正彦]　いったい君は誰なんだ。</p>
+    <p class="a2">サツキ[沙織]　私はサツキ。</p>
+    <p class="a2">勇輝[正彦]　いや、私が知りたいのは君の名前じゃない。君がどんな存在なのか、それが知りたいんだ。</p>
+    <p class="a2">サツキ[沙織]　私にもよくわからないの。</p>
+    <p class="a2">勇輝[正彦]　自分のことがわからないのか？</p>
+    <p class="a2">サツキ[沙織]　わからないことばかり。何で私はみんなのことが見えるのに、みんなは私のことが見えないの？ </p>
+    <p class="a2">勇輝[正彦]　でも、私には君が見える。</p>
+    <p class="a2">サツキ[沙織]　そう、あなただけが私のことを見ることができる。</p>
+    <p class="a2">勇輝[正彦]　君は幽霊なのか？</p>
+    <p class="a2">サツキ[沙織]　私は幽霊なの？ </p>
+    <p class="a2">勇輝[正彦]　君が、未来から来たというのは本当なのか？</p>
+    <p class="a2">サツキ[沙織]　(うなずく)私は未来から来たの。</p>
+    <p class="a2">勇輝[正彦]　教えてくれ。この戦争はいつ終わるんだ。いつになったら日本(にっぽん)は勝つんだ。</p>
+    <p class="a2">サツキ[沙織]　日本(にほん)はこの戦争に負けるの。</p>
+    <p class="a2">勇輝[正彦]　負ける？ </p>
+    <p class="a2">サツキ[沙織]　そう、負けるの。</p>
+    <p class="a2">勇輝[正彦]　負けるのか…それでは生きている意味などないじゃないか。</p>
+    <p class="a2">サツキ[沙織]　私は、あなたに死んでほしくない。</p>
+    <p class="a2">勇輝[正彦]　近いうちに、私達にも特攻の志願書が配られる。おそらく私達の隊全員が特攻に志願するだろう。私だけ志願しないなんてできるはずがない。</p>
+    <p class="a2">サツキ[沙織]　あなたが死ねば、あなたの家族は喜ぶの？</p>
+    <p class="a2">勇輝[正彦]　…泣くだろうな。特に妹の美奈は。</p>
+    <br />
+    <p class="a1">
+    胸ポケットから写真を出して。</p>
+    <br />
+    <p class="a2">勇輝[正彦]　美奈の写真だ。</p>
+    <br />
+    <p class="a1">弥生がそれを覗く。</p>
+    <br />
+    <p class="a2">弥生　正彦、それ修学旅行で撮った大仏の写真じゃない。</p>
+    <br />
+    <p class="a1">
+    勇輝はそれをサツキに渡す。</p>
+    <br />
+    <p class="a2">サツキ[沙織]　(その写真を見て、思わず笑ってしまう)かわいい。</p>
+    <p class="a2">弥生　大仏だけどね。</p>
+    <p class="a2">サツキ　こんなかわいい妹を泣かせてもいいの？</p>
+    <p class="a2">弥生　大仏だけどね。</p>
+    <p class="a2">勇輝[正彦]　私が特攻に志願しなければ私の家族は笑いものになる。それよりはましだ。</p>
+    <p class="a2">サツキ[沙織]　(写真の裏に書かれている名前を見て)高田勇輝… </p>
+    <p class="a2">勇輝[正彦]　私の名前だ。どんなときでも勇気を持って輝ける人になれと、私の両親がつけてくれた名前だ。</p>
+    <br />
+    <p class="a2">静香　(サツキを指差して突然声を出す)あー。</p>
+    <p class="a2">沙織・弥生　どうしたの？ </p>
+    <p class="a2">静香　あー、でもこれどうでもいいっていえばどうでもいいんだけど。</p>
+    <p class="a2">沙織　静香、言ってよ。</p>
+    <p class="a2">静香　サツキって幽霊なんだよね。</p>
+    <p class="a2">沙織　そうなのかな。</p>
+    <p class="a2">弥生　幽霊みたいな存在だね。</p>
+    <p class="a2">静香　人の体とかドアは通り抜けちゃうんだよね。</p>
+    <p class="a2">沙織・弥生　そうだね。</p>
+    <p class="a2">静香　でも、今、写真持ってる。</p>
+    <p class="a2">沙織　(手に持っている写真を見て)あー。</p>
+    <p class="a2">弥生　確かに幽霊は写真持てないよね。</p>
+    <p class="a2">正彦　でも幽霊もののテレビドラマじゃよくあることだけどね。</p>
+    <p class="a2">沙織　静香、よくそんなこと気がついたね。</p>
+    <p class="a2">静香　実は私、幽霊に興味があるんだ。</p>
+    <p class="a2">沙織・弥生　そうなの？</p>
+    <p class="a2">静香　私、ときどき霊が見えるんだ。この劇の勇輝さんみたいに。</p>
+    <p class="a2">沙織・弥生　ほんとに？</p>
+    <p class="a2">正彦　それじゃ、今、ここにそんな存在感じない？</p>
+    <br />
+    <p class="a1">静香が部室を見回す。</p>
+    <p class="a1">そしてその後、弥生をじっと見つめる。</p>
+    <p class="a1">弥生も静香をじっと見つめる。</p>
+    <br />
+    <p class="a2">弥生　(えっ)もしかして、ほんとに…私のこと…</p>
+    <p class="a2">静香　感じます。</p>
+    <p class="a2">正彦・弥生　感じるんだ。</p>
+    <p class="a2">静香　私の目の前に誰かいます。</p>
+    <p class="a2">正彦・弥生　本当に誰か見えるの？</p>
+    <p class="a2">静香　見えます。</p>
+    <p class="a2">弥生　やったー。私のこと見える人、一人増えた。</p>
+    <p class="a2">正彦　ねっ、その誰かって、どんな顔してる？</p>
+    <p class="a2">静香　(弥生をじっと見つめて)ひげがはえています。</p>
+    <p class="a2">正彦・弥生　ひげが？</p>
+    <p class="a2">静香　口は耳まで裂けています。</p>
+    <p class="a2">弥生　私は化け物か。</p>
+    <p class="a2">静香　そして、何でしょう、すごく邪悪な何かを感じます。</p>
+    <p class="a2">正彦・弥生　邪悪な…</p>
+    <p class="a2">静香　言葉では説明できないような邪悪な何かを。</p>
+    <p class="a2">沙織　静香、もうやめて、私、そういうの苦手なんだ。</p>
+    <p class="a2">静香　それはきっと私達に不幸をもたらす存在です。</p>
+    <p class="a2">弥生　おいおい。</p>
+    <p class="a2">沙織　やだ、その不幸をもたらす邪悪な何かっていったいどこにいるの？</p>
+    <p class="a2">静香　ほら、そこに！</p>
+    <br />
+    <p class="a1">静香がそう言って後ろを振り向いて指差すと、指差した先に演劇部部長の岩田京花(三年生)が立っている。</p>
+    <p class="a1">
+    ここまで劇を見たものは分かると思うが、正彦の姉・弥生は幽霊であった。ここまでの弥生の台詞はすべて正彦に向けられていて、他の登場人物は弥生とは一切関わっていない。ただし、まるで関わっているかのように演出される。</p>
+    <br />
+    <p class="a2">京花　静香、不幸をもたらす邪悪な何かって何のこと？</p>
+    <p class="a2">静香　(慌てて)いえ、何でもありません。</p>
+    <p class="a2">京花　部活始めるよ。</p>
+    <p class="a2">演劇部員　はい。</p>
+    <br />
+    <p class="a1">演劇部員が京花の周りに集まる。</p>
+    <br />
+    <p class="a2">京花　いくぞ！</p>
+    <p class="a2">演劇部員　沖縄・全国大会！</p>
+    <p class="a2">京花　悔し涙は！</p>
+    <p class="a2">演劇部員　もういらない！</p>
+    <p class="a2">京花　勝って泣こうよ！</p>
+    <p class="a2">演劇部員　全国で！</p>
+    <p class="a2">京花　いくぞ！</p>
+    <p class="a2">演劇部員　沖縄・全国大会！</p>
+    <p class="a2">京花　歯を食いしばろう！</p>
+    <p class="a2">演劇部員　全国のため！</p>
+    <br />
+    <p class="a2">京花　それじゃ上官が特攻の志願書を渡すシーンからやるよ。衣装に着替える時間もったいないからこのままやろ(う)。みんな準備して。</p>
+    <p class="a2">演劇部員　はい。</p>
+    <br />
+    <p class="a1">京花が上官役として舞台中央に立つ。</p>
+    <p class="a1">
+    勇輝役の正彦と健太役の静香が、直立不動の姿勢で上官[京花]の前に立つ。</p>
+    <br />
+    <p class="a2">上官[京花]　敵は沖縄に上陸した。知ってるか、沖縄では十四歳の少年が志願して、お国を守るために命をかけて戦っている。これから私達はその激戦地・沖縄に向かう。私達の戦場は沖縄だ。ところで、おまえ達に家族はいるか？</p>
+    <p class="a2">勇輝[正彦]　健太[静香]　はい。</p>
+    <p class="a2">上官[京花]　家族は大切か？</p>
+    <p class="a2">勇輝[正彦]　健太[静香]　はい。</p>
+    <p class="a2">上官[京花]　そんな大切な家族を守りたいと思うものは、一歩前に！</p>
+    <br />
+    <p class="a1">
+    健太[静香]と勇輝[正彦]が同時に一歩前に出る。</p>
+    <br />
+    <p class="a2">上官[京花]　おまえ達が敵の侵入を防げなければ、大切な家族に爆弾が降り注ぐことになる。そんなことが許せるか？</p>
+    <p class="a2">勇輝[正彦]・健太[静香]　許せません。</p>
+    <p class="a2">上官[京花]　それでは聞こう。おまえ達の大切な家族のためなら命さえも惜しくはないと思うものは、一歩前に！</p>
+    <br />
+    <p class="a1">
+    健太[静香]がすぐ前に出る。</p>
+    <br />
+    <p class="a2">サツキ[沙織]　前に出ちゃだめ。
+    </p><br />
+    <p class="a1">勇輝[正彦]は一瞬遅れて前に出る。 </p><br />
+    <p class="a2">上官[京花]　よし、二人とも命を捨てる覚悟があるんだな。</p>
+    <p class="a2">サツキ[沙織]　私を見て、私を信じて。私はあなたにしか見えない。私の声はあなたにしか聞こえない。私は未来から来たの。</p>
+    <p class="a2">上官[京花]　(紙を取り出して)さて、ここに特攻志願書がある。特攻は強制ではない、特攻は志願だ。「熱望」、「希望」、「志願しない」のいずれかに丸をつけて明日までに提出するように。命を捨てる覚悟があるおまえ達がどれに丸をつけるかはわかっている。それでは聞こう、熱望に丸をつけるものは、一歩前に！</p>
+    <br />
+    <p class="a1">健太[静香]がすぐ前に出る。</p>
+    <p class="a1">
+    前に出ようとする勇輝[正彦]をサツキ[沙織]が大声で止める。</p>
+    <br />
+    <p class="a2">サツキ[沙織]　前に出ちゃだめ。あと少しで戦争は終わる。日本(にほん)は戦争に負けるの。命を無駄にしないで。</p>
+    <br />
+    <p class="a1">勇輝[正彦]は前に出ない。</p>
+    <br />
+    <p class="a2">上官[京花]　高田、どうした。どうして前に出ない。</p>
+    <p class="a2">勇輝[正彦]　…</p>
+    <p class="a2">上官[京花]　高田、貴様家族を守りたいとは思わないのか。</p>
+    <p class="a2">勇輝[正彦]　守りたいです。</p>
+    <p class="a2">上官[京花]　一歩前に！</p>
+    <p class="a2">サツキ[沙織]　前に出ちゃだめ。お願い、生きることを選択して。</p>
+    <p class="a2">上官[京花]　一歩前に！</p>
+    <p class="a2">勇輝[正彦]　生きたいです。</p>
+    <p class="a2">上官[京花]　行きたいのか？</p>
+    <p class="a2">勇輝[正彦]　はい。</p>
+    <p class="a2">上官[京花]　よくぞ言ってくれた。</p>
+    <p class="a2">勇輝[正彦]　？</p>
+    <p class="a2">上官[京花]　特攻に行きたい。特攻を熱望する。そういうことだな。</p>
+    <p class="a2">勇輝[正彦]　私は…私は行きたくありません。</p>
+    <p class="a2">上官[京花]　そうか、生きたくないのか。泣かせるじゃないか。生きたくない。生きていたくはない。つまりお国のために死にたいというのだな。</p>
+    <p class="a2">勇輝[正彦]　私は、生きたいのです。お国のために生きたいのです。</p>
+    <p class="a2">上官[京花]　お国のために行きたい。それでこそ日本(にっぽん)男児だ。よし、行かせてやる。お国のために行きたいというお前のその熱い思いを優先して、一番に特攻に行かせてやる。みごと敵艦に体当たりして沈めてこい。お国のために。</p>
+    <p class="a2">勇輝[正彦]　…</p>
+    <p class="a2">上官[京花]　以上だ。</p>
+    <br />
+    <p class="a1">上官[京花]がその場を去る。</p>
+    <p class="a1">健太[静香]が上官[京花]に続く。</p>
+    <p class="a1">勇輝[正彦]が絶望してひざまずく。</p>
+    <p class="a1">この練習の途中で五人目の部員・遠山レイ(二年生)が部室に入ってくる。</p>
+    <br />
+    <p class="a2">サツキ[沙織]　あきらめちゃだめ。思い出してあなたの家族を、あなたが生きて帰ってくることを願っている家族を。</p>
+    <br />
+    <p class="a2">京花　　レイ、この後の勇輝の回想シーンやれる？</p>
+    <p class="a2">レイ　　はい。</p>
+    <p class="a2">京花　　沙織、もう一度今の台詞言ってくれる。</p>
+    <p class="a2">沙織　　はい。</p>
+    <br />
+    <p class="a2">サツキ[沙織]　あきらめちゃだめ。思い出してあなたの家族を、あなたが生きて帰ってくることを願っている家族を。</p>
+    <br />
+    <p class="a1">勇輝[正彦]が家族のことを思い出す。</p>
+    <p class="a1">勇輝[正彦]の前に美奈[レイ]が現れる。</p>
+    <br />
+    <p class="a2">勇輝[正彦]　美奈。</p>
+    <p class="a2">美奈[レイ]　勇輝兄ちゃん、遊ぼ。一緒に遊ぼ。</p>
+    <p class="a2">勇輝[正彦]　美奈、ごめんな。兄ちゃん行かなくちゃいけないんだ。</p>
+    <p class="a2">美奈[レイ]　行くってどこに？</p>
+    <p class="a2">勇輝[正彦]　遠いところ。</p>
+    <p class="a2">美奈[レイ]　戦争しに行くの？</p>
+    <p class="a2">勇輝[正彦]　そうだ。</p>
+    <p class="a2">美奈[レイ]　勇輝兄ちゃん、死んじゃだめだよ。</p>
+    <p class="a2">勇輝[正彦]　…</p>
+    <p class="a2">美奈[レイ]　勇輝兄ちゃん、死なないで、死なないでね。</p>
+    <br />
+    <p class="a1">　　レイはすべての台詞を棒読みで言う。</p>
+    <br />
+    <p class="a2">京花　ストップ！</p>
+    <br />
+    <p class="a1">
+    劇が止まる。</p>
+    <br />
+    <p class="a2">京花　レイ、全然感情がこもってないじゃない。</p>
+    <p class="a2">レイ　すみません。</p>
+    <p class="a2">京花　どうして、わからないかな。いいか、お兄ちゃんが死んじゃうんだよ、大好きなお兄ちゃんが。</p>
+    <br />
+    <p class="a1">京花が見本として美奈の台詞を言ってみる。</p>
+    <br />
+    <p class="a2">美奈[京花]　勇輝兄ちゃん、死んじゃだめだよ。</p>
+    <p class="a2">勇輝[正彦]　…</p>
+    <p class="a2">美奈[京花]　勇輝兄ちゃん、死なないで、死なないでね。</p>
+    <br />
+    <p class="a2">京花　こんなふうにできないかな。</p>
+    <p class="a2">レイ　頑張ります。</p>
+    <p class="a2">京花　時間ないから先に進もう。正彦、さっきの続きからやって。</p>
+    <br />
+    <p class="a2">勇輝[正彦]　 美奈、いいか。兄ちゃん、美奈のために命を賭けて戦わなければならないときが来るかもしれない。だから…</p>
+    <p class="a2">美奈[レイ]　…</p>
+    <br />
+    <p class="a1">レイは台詞を忘れてしまったようである。</p>
+    <p class="a1">
+    しばらくの間何も言わずに立っている。</p>
+    <br />
+    <p class="a2">正彦　(ささやくように) 勇輝兄ちゃん、美奈(のために死んじゃだめ)</p>
+    <p class="a2">京花　正彦、教えないで。本番は誰も教えられないから。</p>
+    <br />
+    <p class="a2">美奈[レイ]勇輝兄ちゃん…</p>
+    <br />
+    <p class="a2">弥生　レイちゃん、焦っちゃだめ。落ち着いて。</p>
+    <br />
+    <p class="a1">しばらくの間沈黙が流れる。</p>
+    <p class="a1">
+    突然、京花が猛烈に怒り出す。</p>
+    <br />
+    <p class="a2">京花　レイ、いいかげんにしなよ。</p>
+    <p class="a2">レイ　…</p>
+    <p class="a2">京花　２年連続で失格なんてしゃれになんねーんだよ。</p>
+    <p class="a2">レイ　すみません。</p>
+    <p class="a2">京花　レイ、去年と同じこと繰り返すの。ラストシーンで頭真っ白になって劇が止まって、制限時間オーバーで失格になったこと忘れたわけ。</p>
+    <p class="a2">レイ　忘れてません。</p>
+    <p class="a2">京花　大会まであと何日あるか言ってごらん。</p>
+    <p class="a2">レイ　六日です。</p>
+    <p class="a2">京花　そう六日。あと六日しかないんだよ。わかってんの？</p>
+    <p class="a2">レイ　わかってます。</p>
+    <p class="a2">京花　レイ、私達が目指してるのは何？</p>
+    <p class="a2">レイ　全国大会出場です。</p>
+    <p class="a2">京花　そう、私達は沖縄の全国大会を目指してるんだよ。レイは、沖縄行きたくないの？</p>
+    <p class="a2">レイ　行きたいです。</p>
+    <p class="a2">京花　もう一度はっきり言って。</p>
+    <p class="a2">レイ　行きたいです。</p>
+    <p class="a2">京花　全国目指してる学校はどこもみんな死ぬ気でがんばってんだよ。レイも、あと六日日、死ぬ気でやんなよ。</p>
+    <p class="a2">レイ　はい。</p>
+    <p class="a2">弥生　京花さん、演劇部は軍隊じゃないんだよ。</p>
+    <p class="a2">京花　終わりにしよう。集合して。</p>
+    <p class="a2">演劇部員　はい。</p>
+    <br />
+    <p class="a1">演劇部員が京花の周りに集まる。</p>
+    <br />
+    <p class="a2">京花　いくぞ！</p>
+    <p class="a2">演劇部員　沖縄・全国大会！</p>
+    <p class="a2">京花　悔し涙は！</p>
+    <p class="a2">演劇部員　もういらない！</p>
+    <p class="a2">京花　勝って泣こうよ！</p>
+    <p class="a2">演劇部員　全国で！</p>
+    <p class="a2">京花　いくぞ！</p>
+    <p class="a2">演劇部員　沖縄・全国大会！</p>
+    <p class="a2">京花　歯を食いしばろう！</p>
+    <p class="a2">演劇部員　全国のため！</p>
+    <br />
+    <p class="a2">京花　これで今日の部活を終わりにします。</p>
+    <p class="a2">演劇部員　お疲れ様でした。さようなら。</p>
+    <br />
+    <p class="a1">みんなが帰りの支度をする。</p>
+    <p class="a1">一人また一人、部室を出ていく。</p>
+    <p class="a1">
+    最後に正彦と弥生、そしてレイが残る。</p>
+    <br />
+    <p class="a2">弥生　レイちゃん、心配だな。正彦、明日レイちゃんの練習見てあげてよ。私も手伝うから。</p>
+    <p class="a2">正彦　(うなずいて)レイ、明日の放課後できるだけ早く部室に来なよ。</p>
+    <p class="a2">レイ　…</p>
+    <p class="a2">正彦　一緒に練習しよ(う)。</p>
+    <p class="a2">レイ　はい。正彦先輩、ありがとうございます。</p>
+    <br />
+    <p class="a1">レイが部室を出ていく。</p>
+    <p class="a1">弥生がため息をつく。</p>
+    <br />
+    <p class="a2">正彦　どうしたの。</p>
+    <p class="a2">弥生　なんか違うんだよね。</p>
+    <p class="a2">正彦　違う？</p>
+    <p class="a2">弥生　正彦達、私がこの劇で伝えたい思いと違う方向に向かってる気がするんだ。</p>
+    <p class="a2">正彦　弥生はこの劇で何を伝えようとしたの？</p>
+    <p class="a2">弥生　おじいちゃんの願いかな。</p>
+    <p class="a2">正彦　おじいちゃんの願い？</p>
+    <p class="a2">弥生　おじいちゃん、戦争の頃の話全然してくれなかったじゃない。</p>
+    <p class="a2">正彦　そうだったね。</p>
+    <p class="a2">弥生　でもね、おじいちゃん、私が長く生きられないって知った後、戦争体験を話してくれたんだ。正彦、おじいちゃん、戦闘機の搭乗員だったって知ってた？</p>
+    <p class="a2">正彦　そうなの？</p>
+    <p class="a2">弥生　戦闘機の搭乗員だったおじいちゃんが生き残れたのは、敵の戦闘機を次々と撃ち落としたから。つまり、たくさんの人を殺したから。おじいちゃんはそのことを誰にも話さないで、一人悔やみ続けてたの。</p>
+    <p class="a2">正彦　戦争なんだから人を殺してもしかたないよ。</p>
+    <p class="a2">弥生　でも、おじいちゃんはしかたないって思えなかった。自分に新しい家族ができた時、思ったんだって。自分が殺したのは自分と同じ人間だった。血の通った人間だった。そして自分と同じ家族がいたって。</p>
+    <p class="a2">正彦　おじいちゃんにとって戦争は終わってなかったんだね。</p>
+    <p class="a2">弥生　おじいちゃん、戦争が終わる直前に特攻の志願書を書かされたんだって。</p>
+    <p class="a2">正彦　おじいちゃん、志願したの？</p>
+    <p class="a2">弥生　仲間の搭乗員はみんな特攻に行くことを熱望するに丸をつけた。だからおじいちゃんもそうしようとした。そんな時、おじいちゃんは一人の女の子に出会った。とっても不思議な女の子で、その子と話しているうちに「生きたい」って思ったんだって。そして、勇気を出して「志願しない」に丸をつけて提出した。おじいちゃんの仲間はみんな特攻で死んじゃったけど、おじいちゃんは生きて帰ってきた。そして、おばあちゃんと結婚して、ママが生まれ、私が生まれて正彦が生まれた。</p>
+    <p class="a2">正彦　おじいちゃんがその女の子に出会わなかったら。</p>
+    <p class="a2">弥生　おそらく私達は今ここにいない。</p>
+    <p class="a2">正彦　…</p>
+    <p class="a2">弥生　ほんの小さなことが未来を変えることあるよね。</p>
+    <p class="a2">正彦　…</p>
+    <p class="a2">弥生　戦争の劇を創ってそれを上演するのもほんの小さなことだよね。</p>
+    <p class="a2">正彦　この劇を上演することで、何か変わるのかな？</p>
+    <p class="a2">弥生　変わればいいなって思う。</p>
+    <p class="a2">正彦　どんなふうに？</p>
+    <p class="a2">弥生　世界から戦争がなくなる、なんてね。</p>
+    <p class="a2">正彦　(驚いて)世界から戦争がなくなる。</p>
+    <p class="a2">弥生　あり得ないよね。世界から戦争がなくなるなんて。でも、それがおじいちゃんの願いだった。そして、それは私の一番の願いになったの。</p>
+    <p class="a2">正彦　世界から戦争がなくなることが弥生の一番の願い…</p>
+    <p class="a2">弥生　(うなずく) </p>
+    <br />
+    <p class="a1">弥生が机の上に置かれているメモ帳を指差す。</p>
+    <br />
+    <p class="a2">弥生　これ見せてくれる。</p>
+    <p class="a2">正彦　…</p>
+    <p class="a2">弥生　私、自分でこれに触れることできないから。</p>
+    <p class="a2">正彦　いいよ。それじゃ弥生の好きな音楽に乗せて。</p>
+    <br />
+    <p class="a1">正彦が『トロイメライ』をかける。</p>
+    <p class="a1">
+    そして弥生にノートに描かれたパラパラ漫画を見せる。</p>
+    <br />
+    <p class="a2">弥生　この漫画のおかげだね。</p>
+    <p class="a2">正彦　…</p>
+    <p class="a2">弥生　この漫画が向こうの世界とこっちの世界を繋ぐ通路になったんだね。</p>
+    <p class="a2">正彦　ほんとびっくりしたよ。パラパラ漫画に描いた弥生が突然しゃべり出すんだもん。</p>
+    <p class="a2">弥生　また会えたね。</p>
+    <p class="a2">正彦　うん。</p>
+    <p class="a2">弥生　ただいま、正彦。</p>
+    <p class="a2">正彦　お帰り、弥生。</p>
+    <br />
+    <p class="a1">二人が見つめ合う中で明かりが消えていく。</p>
+    <br />
+    <p class="a2">★<b>大会五日前</b></p>
+    <br />
+    <p class="a1">舞台が明るくなる。</p>
+    <p class="a1">演劇部の部室で『勇気』という劇の練習が行われている。</p>
+    <p class="a1">
+    勇輝とその妹・美奈のシーンを正彦と弥生が演じている。</p>
+    <br />
+    <p class="a2">勇輝[正彦]　美奈。</p>
+    <p class="a2">美奈[弥生]　勇輝兄ちゃん、遊ぼ。一緒に遊ぼ。</p>
+    <p class="a2">勇輝[正彦]　美奈、ごめんな。兄ちゃん行かなくちゃいけないんだ。</p>
+    <p class="a2">美奈[弥生]　行くってどこに？</p>
+    <p class="a2">勇輝[正彦]　遠いところ。</p>
+    <p class="a2">美奈[弥生]　戦争しに行くの？</p>
+    <p class="a2">勇輝[正彦]　そうだ。</p>
+    <p class="a2">美奈[弥生]　勇輝兄ちゃん、死んじゃだめだよ。</p>
+    <p class="a2">勇輝[正彦]　…</p>
+    <p class="a2">美奈[弥生]　勇輝兄ちゃん。死なないで、死なないでね。</p>
+    <br />
+    <p class="a1">明かりが消えていく。</p>
+    <br />
+    <p class="a1">舞台が明るくなる。</p>
+    <p class="a1">正彦がＣＤプレイヤーのところまで歩いていき、音楽を止める。</p>
+    <br />
+    <p class="a2">正彦　レイに弥生の演技見せてあげたいな。そうすればレイもどう演じたらいいかわかるのに。</p>
+    <p class="a2">弥生　それはいい方法じゃないよ。レイちゃんは悲しみを自分の感情の引き出しから取り出さないと。</p>
+    <p class="a2">正彦　レイの感情の引き出しに、そんな悲しみ入ってるかな。</p>
+    <br />
+    <p class="a1">レイが部室に入ってくる。</p>
+    <br />
+    <p class="a2">レイ　こんにちは。</p>
+    <p class="a2">正彦・弥生　こんにちは。</p>
+    <p class="a2">正彦　レイ、家で練習してきた？</p>
+    <p class="a2">レイ　はい。でも、どうやったらうまく演じられるのかよくわからないんです。</p>
+    <p class="a2">正彦　とにかくやってみよっか。それじゃ、まず「勇輝兄ちゃん、死なないで､死なないでね」のところを、気持ちを込めて言ってみよう。</p>
+    <p class="a2">美奈[レイ]　(棒読みで)勇輝兄ちゃん、死なないで、死なないでね。</p>
+    <p class="a2">正彦　…</p>
+    <p class="a2">弥生　このままじゃまた京花さんキレちゃうね。しかたない。いい方法じゃないけど、私が美奈の台詞言うから、正彦は私の真似して言ってみて。レイちゃんにそれを真似させよう。</p>
+    <p class="a2">正彦　(うなずいて)レイ、僕がやってみるから僕の真似して言ってみて。</p>
+    <p class="a2">レイ　わかりました。</p>
+    <p class="a2">弥生　正彦やるよ。</p>
+    <p class="a2">正彦　レイやるよ。</p>
+    <p class="a2">レイ　はい。</p>
+    <p class="a2">美奈[弥生]　 勇輝兄ちゃん、死なないで、死なないでね。</p>
+    <p class="a2">美奈[正彦]　 (弥生を真似して)勇輝兄ちゃん、死なないで、死なないでね。</p>
+    <p class="a2">美奈[レイ]　 勇輝兄ちゃん、死なないで、死なないでね。(楽しい感じで言う)</p>
+    <br />
+    <p class="a1">
+    がくっと肩を落とす正彦と弥生。</p>
+    <br />
+    <p class="a2">弥生　正彦、もう一度やってみよう。</p>
+    <p class="a2">正彦　レイ、もう一度やってみよう。</p>
+    <p class="a2">レイ　はい。</p>
+    <p class="a2">美奈[弥生]　 勇輝兄ちゃん、死なないで、死なないでね。</p>
+    <p class="a2">美奈[正彦]　 (弥生を真似して)勇輝兄ちゃん、死なないで、死なないでね。</p>
+    <p class="a2">美奈[レイ]　 勇輝兄ちゃん、死なないで、死なないでね。(楽しい感じで言う)</p>
+    <br />
+    <p class="a1">
+    先ほど以上にがくっと肩を落とす正彦と弥生。</p>
+    <br />
+    <p class="a2">弥生　なんか「とっても楽しい」って感じがする。</p>
+    <p class="a2">正彦　(うーん)レイ、大好きなお兄ちゃんが死んじゃうってどんな感じかな。</p>
+    <p class="a2">レイ　…悲しい。</p>
+    <p class="a2">正彦　悲しい気持ち作れない。</p>
+    <p class="a2">レイ　悲しい気持ちですか…</p>
+    <p class="a2">正彦　大好きなペットが死んじゃったなんて悲しい経験ないの？</p>
+    <p class="a2">レイ　…</p>
+    <p class="a2">正彦　ないか。…それじゃ大好きな誰かが死んじゃったなんて経験もないよね。</p>
+    <p class="a2">レイ　大好きな誰かが…</p>
+    <br />
+    <p class="a1">
+    そこに沙織と静香が入ってくる。</p>
+    <br />
+    <p class="a2">静香　レイ、少しはうまくなった？</p>
+    <p class="a2">沙織　今日は京花先輩にいいとこ見せないと。</p>
+    <p class="a2">レイ　うん、がんばる。</p>
+    <br />
+    <p class="a1">
+    続いて京花が部室に入ってくる。</p>
+    <br />
+    <p class="a2">演劇部員　こんにちは。</p>
+    <p class="a2">京花　こんにちは。部活始めるよ。</p>
+    <p class="a2">演劇部員　はい。</p>
+    <br />
+    <p class="a1">
+    みんなが京花の周りに集合する。</p>
+    <br />
+    <p class="a2">京花　いくぞ！</p>
+    <p class="a2">演劇部員　沖縄・全国大会！</p>
+    <p class="a2">京花　悔し涙は！</p>
+    <p class="a2">演劇部員　もういらない！</p>
+    <p class="a2">京花　勝って泣こうよ！</p>
+    <p class="a2">演劇部員　全国で！</p>
+    <p class="a2">京花　いくぞ！</p>
+    <p class="a2">演劇部員　沖縄・全国大会！</p>
+    <p class="a2">京花　歯を食いしばろう！</p>
+    <p class="a2">演劇部員　全国のため！</p>
+    <br />
+    <p class="a2">弥生　歯を食いしばろう！お国のため！</p>
+    <p class="a2">正彦　…</p>
+    <p class="a2">弥生　なんか似てるね。</p>
+    <p class="a2">正彦　…</p>
+    <br />
+    <p class="a2">京花　レイ、ちょっといい。</p>
+    <p class="a2">レイ　はい。</p>
+    <p class="a2">京花　これ、本番までの練習計画なんだけど、伊集院先生にお願いしてコピーしてもらって。</p>
+    <p class="a2">レイ　わかりました。</p>
+    <br />
+    <p class="a1">レイが渡された紙を持って部室を出ていく。</p>
+    <br />
+    <p class="a2">京花　みんなちょっと椅子を持って集合してくれる。</p>
+    <br />
+    <p class="a1">みんなが椅子を持って京花の周りに集合して座る。</p>
+    <p class="a1">京花は立っている。</p>
+    <br />
+    <p class="a2">京花　みんなに確認したいことがあるんだ。みんな本当に全国に行きたい？</p>
+    <p class="a2">沙織・静香　行きたいです。</p>
+    <p class="a2">京花　正彦は？</p>
+    <p class="a2">正彦　それは、行けるんなら行きたいけど。</p>
+    <p class="a2">京花　私は絶対どんなことがあっても全国に行きたい。それじゃあ聞くよ、私と同じように全国に行きたいって思う人は、立って！</p>
+    <br />
+    <p class="a1">沙織と静香がすぐ立つ。</p>
+    <p class="a1">少し遅れて正彦が立つ。</p>
+    <br />
+    <p class="a2">京花　ありがと。全員だね。座って。</p>
+    <br />
+    <p class="a1">三人が椅子に座る。</p>
+    <br />
+    <p class="a2">京花　本番まであと五日。今のままで、地区大会突破できると思う？</p>
+    <p class="a2">演劇部員　…</p>
+    <p class="a2">京花　正直言うと私は厳しいって思う。</p>
+    <p class="a2">演劇部員　…</p>
+    <p class="a2">京花　どうしても思い出しちゃうんだ、去年のこと。</p>
+    <p class="a2">沙織　たった十秒のオーバーでしたね。</p>
+    <p class="a2">京花　そう、たったの十秒。レイが台詞忘れなければ余裕で制限時間内に終わってた。</p>
+    <p class="a2">静香　うちの家族言ってました。失格にさえならなければ最優秀賞は絶対うちだったって。</p>
+    <p class="a2">京花　実は、私からみんなに提案があるんだ。ねっ、みんなでレイのこと考えてあげない。レイ、私に言ってきたんだ「舞台に立つのが怖い」って。</p>
+    <p class="a2">沙織　去年のことがありますからね。</p>
+    <p class="a2">京花　そんなレイのために、考えに考え抜いたことをこれから提案するね。私、レイを劇から外してあげようって思うんだ。</p>
+    <p class="a2">正彦　美奈は誰がやるの？</p>
+    <p class="a2">京花　美奈のシーン、なくても劇は成立するよ。</p>
+    <p class="a2">沙織　そっか、そうですよ。あのシーンカットしても話繋がります。</p>
+    <p class="a2">京花　劇に出してあげることが優しさじゃない。外してあげることが本当の優しさだって思うんだ。沙織、静香、そう思わない？</p>
+    <p class="a2">沙織・静香　思います。</p>
+    <p class="a2">京花　それじゃあ聞くんだけど。レイのために、レイを劇から外してあげることに賛成の人は、立って！</p>
+    <br />
+    <p class="a1">沙織と静香がすぐ立つ。</p>
+    <br />
+    <p class="a2">京花　正彦は？</p>
+    <p class="a2">正彦　…</p>
+    <p class="a2">弥生　正彦、立っちゃだめ。</p>
+    <p class="a2">京花　レイのためなんだよ。レイがまた台詞忘れちゃって､そのショックで学校を休むようになってもいいの？</p>
+    <p class="a2">正彦　…</p>
+    <p class="a2">京花　正彦、私の提案に反対なんだ。それなら私、部長降りる。正彦が私の代わりに部長やって部をまとめて。</p>
+<br />
+    <p class="a1">
+    正彦がゆっくり立つ。</p><br />
+    <p class="a2">弥生　正彦…</p>
+    
+    <p class="a2">京花　よかった、全員賛成だね。レイが戻ってきたらこのこと私から伝えるから。それじゃ練習始めよう。昨日やったところの最後のところ。(台本を正彦に見せて)ここ、勇輝が「私は、生きたいのです」って言うところからやろう。みんな準備して。</p>
+    
+    <p class="a2">演劇部員　はい。</p>
+    
+    
+    <p class="a1">京花がスタートの合図として手を叩く。</p>
+    
+    
+    <p class="a2">勇輝[正彦]　私は、生きたいのです。お国のために生きたいのです。</p>
+    
+    
+    <p class="a2">上官[京花]　お国のために行きたい。それでこそ日本(にっぽん)男児だ。よし、行かせてやる。お国のために行きたいというお前のその熱い思いを優先して、一番に特攻に行かせてやる。みごと敵艦に体当たりして沈めてこい。お国のために。</p>
+    
+    
+    <p class="a2">勇輝[正彦]　…</p>
+    
+    
+    <p class="a2">上官[京花]　以上だ。</p>
+    
+    <br />
+    
+    <p class="a1">上官[京花]がその場を去る。</p>
+    
+    
+    <p class="a1">健太[静香]が上官[京花]に続く。</p>
+    
+    
+    <p class="a1">勇輝[正彦]が絶望してひざまずく。</p>
+    
+    <br />
+    
+    <p class="a2">サツキ[沙織]　あきらめちゃだめ。思い出してあなたの家族を、あなたが生きて帰ってくることを願っている家族を。</p>
+    
+    <br />
+    
+    <p class="a2">京花　(教室の隅から)さっき決めたとおり、この後のレイの登場シーンはカット。正彦は家族を思い出す演技をする。それで話の辻褄は合うよね。それじゃ、次のシーン、サツキの台詞から。</p>
+    
+    <br />
+    
+    <p class="a1">京花が話している間に、弥生は正彦の隣に歩いていく。</p>
+    
+    <br />
+    
+    <p class="a2">サツキ[沙織]　勇輝さん、上官を呼んで。</p>
+    
+    
+    <p class="a2">弥生　　(正彦の耳元で)正彦、京花さんを呼んで。</p>
+    
+    
+    <p class="a2">勇輝[正彦]　…</p>
+    
+    
+    <p class="a2">サツキ[沙織]　勇輝さん、上官をここに呼ぶの。</p>
+    
+    
+    <p class="a2">弥生　　正彦、京花さんをここに呼ぶの。</p>
+    
+    
+    <p class="a2">勇輝[正彦]　…</p>
+    
+    
+    <p class="a2">サツキ[沙織]　勇輝さん、あなたは生きなくちゃいけない人なの。もう一度上官と話をして。</p>
+    
+    
+    <p class="a2">弥生　　レイちゃんのために、もう一度京花さんと話をして。</p>
+    
+    
+    <p class="a2">勇輝[正彦]　(呻くように)もう一度、もう一度話をさせてください！</p>
+    
+    <br />
+    
+    <p class="a1">上官[京花]が登場する。</p>
+    
+    <br />
+    
+    <p class="a2">上官[京花]　高田、どうした。</p>
+    
+    
+    <p class="a2">サツキ[沙織]　志願しませんって言って。</p>
+    
+    
+    <p class="a2">弥生　　レイちゃんを外しちゃだめだって言って。　</p>
+    
+    
+    <p class="a2">勇輝[正彦]　…</p>
+    
+    
+    <p class="a2">サツキ[沙織]　志願することが勇気？特攻で死ぬことが勇気？生きるために志願しないことは臆病者のすることじゃない。志願しないことは勇気なの。</p>
+    
+    
+    <p class="a2">勇輝[正彦]　…</p>
+    
+    
+    <p class="a2">サツキ[沙織]・弥生　(同時に)勇気を出して！ </p>
+    <p class="a2">勇輝[正彦]　私は…</p>
+    
+    
+    <p class="a2">サツキ[沙織]　死ぬためじゃなく、生きるために！</p>
+    
+    
+    <p class="a2">弥生　レイちゃんが舞台で、生きるために！</p>
+    
+    
+    <p class="a2">サツキ[沙織]・弥生　(同時に)勇気を出して！</p>
+    
+    <br />
+    
+    <p class="a2">正彦　(意を決して、大きく息を吸い込んで)京花、レイを外しちゃだめだよ。</p>
+    
+    
+    <p class="a2">京花　…何それ？</p>
+    
+    
+    <p class="a2">正彦　勇気…かな。</p>
+    
+    
+    <p class="a2">京花　勇気？</p>
+    
+    
+    <p class="a2">正彦　レイを外しちゃだめだ！</p>
+    
+    
+    <p class="a2">京花　外すんじゃなくて外してあげるの。レイのために。</p>
+    
+    
+    <p class="a2">正彦　それじゃ特攻と同じだよ。</p>
+    
+    
+    <p class="a2">京花　特攻と同じ？ </p>
+    <p class="a2">正彦　特攻に行くのは家族のため？　違うよ。お国のため、戦争で勝つため。レイを外すのは、レイのため？　違うよ。全国のため、大会で勝つため。</p>
+    
+    
+    <p class="a2">京花　レイのためだよ。</p>
+    
+    
+    <p class="a2">正彦　それじゃ聞くよ、「レイのために、レイを劇から外したいと思うもの、一歩前に！」</p>
+    
+    <br />
+    
+    <p class="a1">誰も前に出ない。</p>
+    
+    
+    <p class="a1">少しして京花が一歩前に出て正彦のことを見つめる。</p>
+    
+    <br />
+    
+    <p class="a2">正彦　沙織は？　静香は？</p>
+    
+    
+    <p class="a2">沙織・静香　…</p>
+    
+    
+    <p class="a2">正彦　「一歩前に！」</p>
+    
+    <br />
+    
+    <p class="a1">二人は前に出ない。</p>
+    
+    <br />
+    
+    <p class="a2">正彦　京花、全国に行けなくてもいいじゃないか。</p>
+    
+    
+    <p class="a2">京花　全国じゃなくちゃだめなんだよ。</p>
+    
+    
+    <p class="a2">正彦　どうしてそんなに全国にこだわるんだ？</p>
+    
+    
+    <p class="a2">京花　…全国をプレゼントしたいんだ。弥生先生に。</p>
+    
+    
+    <p class="a2">正彦・弥生　　！</p>
+    
+    
+    <p class="a2">京花　私達のためにこの劇を書いてくれた、大好きな弥生先生に、全国をプレゼントしたいんだ。</p>
+    
+    
+    <p class="a2">正彦　そっか…</p>
+    
+    
+    <p class="a2">京花　…</p>
+    
+    
+    <p class="a2">正彦　でも弥生、喜ぶかな、そのプレゼント。</p>
+    
+    
+    <p class="a2">京花　…</p>
+    
+    
+    <p class="a2">正彦　レイを外して行けた全国。</p>
+    
+    
+    <p class="a2">京花　…</p>
+    
+    <br />
+    
+    <p class="a1">その時、レイが部室に飛び込んでくる。</p>
+    
+    
+    <p class="a1">レイは走ってきたようだ。レイの息が荒い。</p>
+    
+    <br />
+    
+    <p class="a2">正彦　レイ。</p>
+    
+    
+    <p class="a2">レイ　正彦先輩。私、馬鹿だからさっきは思い出せなかったけど、職員室で伊集院先生の机を見て思い出しました。伊集院先生がいない間、あの席に座っていた私の大好きな人。でも…今はもういない人。大好きだったのに、今でも好きなのに、死んじゃった人。</p>
+    
+    
+    <p class="a2">正彦　それって…</p>
+    
+    <br />
+    
+     
+    
+    <p class="a2">　　　　　続く</p>
+    
+  </div>
+</div>
+</body>
+</html>

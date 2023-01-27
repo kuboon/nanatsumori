@@ -1,0 +1,1799 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=shift_jis">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="k-haruichban.files/filelist.xml">
+<link rel=Edit-Time-Data href="k-haruichban.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Saito Toshio</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Saito Toshio</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>16</o:TotalTime>
+  <o:Created>2009-04-18T13:08:00Z</o:Created>
+  <o:LastSaved>2009-04-25T13:22:00Z</o:LastSaved>
+  <o:Pages>7</o:Pages>
+  <o:Words>1753</o:Words>
+  <o:Characters>9993</o:Characters>
+  <o:Lines>83</o:Lines>
+  <o:Paragraphs>23</o:Paragraphs>
+  <o:CharactersWithSpaces>11723</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="k-haruichban.files/themedata.thmx">
+<link rel=colorSchemeMapping href="k-haruichban.files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.15 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"ＭＳ 明朝";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"MS Mincho";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"ＭＳ ゴシック";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-alt:"MS Gothic";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:Century;
+	panose-1:2 4 6 4 5 5 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"ＭＳ Ｐゴシック";
+	panose-1:2 11 6 0 7 2 5 8 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@ＭＳ 明朝";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@ＭＳ ゴシック";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@ＭＳ Ｐゴシック";
+	panose-1:2 11 6 0 7 2 5 8 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 1 \(文字\)";
+	mso-style-next:標準;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:normal;}
+h2
+	{mso-style-noshow:yes;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 2 \(文字\)";
+	mso-style-next:標準;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:normal;}
+h3
+	{mso-style-noshow:yes;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 3 \(文字\)";
+	mso-style-next:標準;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:20.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0mm;
+	mso-para-margin-right:0mm;
+	mso-para-margin-bottom:0mm;
+	mso-para-margin-left:4.0gd;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:normal;}
+h4
+	{mso-style-noshow:yes;
+	mso-style-qformat:yes;
+	mso-style-link:"見出し 4 \(文字\)";
+	mso-style-next:標準;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:20.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0mm;
+	mso-para-margin-right:0mm;
+	mso-para-margin-bottom:0mm;
+	mso-para-margin-left:4.0gd;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ Ｐゴシック";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"ヘッダー \(文字\)";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	tab-stops:center 212.6pt right 425.2pt;
+	layout-grid-mode:char;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"フッター \(文字\)";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	tab-stops:center 212.6pt right 425.2pt;
+	layout-grid-mode:char;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:42.0pt;
+	margin-bottom:.0001pt;
+	mso-para-margin-top:0mm;
+	mso-para-margin-right:0mm;
+	mso-para-margin-bottom:0mm;
+	mso-para-margin-left:4.0gd;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Century","serif";
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+span.MsoSubtleEmphasis
+	{mso-style-priority:19;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	color:gray;
+	mso-themecolor:text1;
+	mso-themetint:127;
+	font-style:italic;}
+span.1
+	{mso-style-name:"見出し 1 \(文字\)";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 1";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;}
+span.2
+	{mso-style-name:"見出し 2 \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 2";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+span.3
+	{mso-style-name:"見出し 3 \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 3";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"ＭＳ ゴシック";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-font-kerning:1.0pt;}
+span.4
+	{mso-style-name:"見出し 4 \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"見出し 4";
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;
+	font-weight:bold;}
+span.a
+	{mso-style-name:"ヘッダー \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:ヘッダー;
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+span.a0
+	{mso-style-name:"フッター \(文字\)";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:フッター;
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.a1, li.a1, div.a1
+	{mso-style-name:演劇台詞;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:19.85pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:-19.85pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	word-break:break-all;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";}
+p.a2, li.a2, div.a2
+	{mso-style-name:演劇ト書き;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:演劇台詞;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:0mm;
+	margin-left:31.5pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:-.3pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	word-break:break-all;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"ＭＳ 明朝","serif";
+	mso-hansi-font-family:Century;
+	mso-bidi-font-family:"Times New Roman";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:Century;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-hansi-font-family:Century;
+	mso-font-kerning:0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;
+	mso-footnote-separator:url("k-haruichban.files/header.htm") fs;
+	mso-footnote-continuation-separator:url("k-haruichban.files/header.htm") fcs;
+	mso-endnote-separator:url("k-haruichban.files/header.htm") es;
+	mso-endnote-continuation-separator:url("k-haruichban.files/header.htm") ecs;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:99.25pt 30.0mm 30.0mm 30.0mm;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:標準の表;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+	mso-para-margin:0mm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Century","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="12290">
+  <v:textbox inset="5.85pt,.7pt,5.85pt,.7pt"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+  <o:rules v:ext="edit">
+   <o:r id="V:Rule2" type="connector" idref="#_x0000_s1026"/>
+  </o:rules>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=JA style='tab-interval:42.0pt;text-justify-trim:punctuation'>
+
+<div class=Section1>
+
+<p class=a1 style='margin-left:24.7pt;mso-para-margin-left:.46gd'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;mso-ansi-language:
+JA'>春一番<o:p></o:p></span></b></p>
+
+<p class=a1 style='margin-left:19.85pt;mso-para-margin-left:1.89gd;text-indent:
+0mm'><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1 style='margin-left:19.85pt;mso-para-margin-left:1.89gd;text-indent:
+0mm'><span style='font-size:11.0pt;mso-ansi-language:JA'>登場人物<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>松本由美子<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>岩崎みゆき<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>岸　凉子<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>犬田裕美<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>山口恵子<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>原田敏江先生<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>由美子の友達<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><!--[if gte vml 1]><v:shapetype id="_x0000_t32" coordsize="21600,21600"
+ o:spt="32" o:oned="t" path="m,l21600,21600e" filled="f">
+ <v:path arrowok="t" fillok="f" o:connecttype="none"/>
+ <o:lock v:ext="edit" shapetype="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t32" style='position:absolute;
+ left:0;text-align:left;margin-left:1.95pt;margin-top:5.95pt;width:426.75pt;
+ height:.75pt;z-index:1' o:connectortype="straight"/><![endif]--><![if !vml]><span
+style='mso-ignore:vglayout'>
+
+<table cellpadding=0 cellspacing=0 align=left>
+ <tr>
+  <td width=2 height=7></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td><img width=571 height=3 src="k-haruichban.files/image001.gif" v:shapes="_x0000_s1026"></td>
+ </tr>
+</table>
+
+</span><![endif]><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<br style='mso-ignore:vglayout' clear=ALL>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>◆二月十三日(金)<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>舞台が明るくなる。そこは七つ森中学校の放送室。舞台奥上手に入り口があり、客席側にメインとなる放送機材がおかれている（二本のマイク、カセットデッキなど）。そしてその上は窓があり、そこから校庭を見ることができる。上手と下手側の壁の前には長机が置かれ、その上には様々な放送機器が載せられている。そんな放送室で給食時の校内放送が行われようとしている。放送を行うのは四人の放送部員。四人の名前は松本由美子、岩崎みゆき、犬田裕美、岸凉子。中央で放送を担当しているのは松本由美子と岩崎みゆきの二人。二人は揃いのセーターを着ている。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　こんにちは、二月十三日・金曜日、お昼の校内放送の時間がやってきました。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　今日は部活動紹介の最終回。最終回は私たち放送部について紹介します。それでは、まずはじめに部長の松本由美子さん。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　はい。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　部員は何名ですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　私を含めて全部で四人です。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　えーっ、たったの四人なんですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　はい。そして、四人とも三年生なんです。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　三年生？　今二月ですよ。普通三年生は部活を引退しているんじゃないですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　運動部とかはそうですよね。でも、うちは違うんです。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　いったい放送部はどんな活動をしているんですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　活動の中心はお昼の校内放送です。三年間ずっとこの放送を続けてきました。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　それだけなんですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　それだけなんです。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　それでは、最後に一言お願いします。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（わざと作った悲しみの表情で）私たち放送部は、私たちの卒業とともになくなります。でも、七つ森中学校放送部は、永久に不滅です。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（彼女らが行っていたのはＤＪごっこだった）これじゃ紹介できないか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　永久に不滅どころか、私たちがいなくなったとたんに放送部は滅亡だよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　後輩、一人も入らなかったね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　悔しいな、放送部なくなるの。何か残せないかな。私たちがここにいたっていうこと。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　みんなで落書きしていかねー。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　そういうことじゃなくってさ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>そこに元生徒会長・山口恵子が現れる。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　入っていい？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（あっ）どうぞ。（放送部員に）ほら、来週の月曜日の「あなたにインタビュー」のコーナー、会長のインタビューだから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　もう会長引退したけど。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　まっ、そうだけど、やっぱ会長は会長だから。ということで、よろしく。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　インタビューの内容、こないだ渡した紙の通りだから。答え決まった。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　まあ、<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　インタビュー誰がやるの。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（うん）インタビューは私一人で大丈夫かな。当日生で放送する部分だけみゆきが読んでくれる。（そう言ってみゆきに原稿を渡す）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　オーケー。（由美子から渡された原稿を見て）こんにちは、二月十六日、お昼の校内放送の時間がやってきました。月曜日の今日は「あなたにインタビュー」をお届けします。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　それじゃ、ここから録音するから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子が録音ボタンを押す。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　今日は元生徒会長の山口恵子さんにインタビューします。インタビューするのは、私、松本由美子です。山口さん、よろしくお願いします。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　よろしくお願いします。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　あと一ヶ月で、卒業ですね。今どんな気持ちですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　あっという間の三年間だったなって、そう思っています。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　生徒会長として、一番の思い出は何ですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　私たちにとって最後の七つ森フェスティバルです。その中でも特に思い出深いのが『青い鳥』の上演です。劇を作り上げるのはとっても大変でした。でも劇が終わった後の拍手は今でも心に残っています。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　後輩に一言お願いします。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　七つ森中学校は本当に素晴らしい学校です。自慢できることがたくさんあります。私はこんな素晴らしい学校で生徒会長をやれたことを誇りに思っています。七つ森中学校の一・二年生の皆さん。どうかこの七つ森中学校を更に素晴らしい学校にしてください。みなさんならきっとできます。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　それでは最後の質問です。山口さんにとって七つ森中学校って何ですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　かけがえのない宝物です。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　ありがとうございました。これで今日のインタビューを終わりにします。今日のゲストは元生徒会長の山口恵子さんでした。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子が録音を止める。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　お疲れ様。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　どうも。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　放送は来週の月曜日だから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　月曜日……そんなすぐなんだ……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　うん。（あっ）忙しいとこありがとう。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　じゃあ、これで。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子が放送室から出て行く。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　一番の思い出は『青い鳥』の上演か。山口は『青い鳥』で主役のチルチルやっていい思い出になったろうけど、私たちにとっては最悪の思い出だよ。ね、由美子。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（えっ）……うん。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　何で？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　私たち、チルチルとミチルを希望してたんだ。私がチルチルで由美子がミチル。でもオーディションも何にもなしでチルチル役、山口になったんだ。生徒会担当の山城が来て、主役は山口さんにやってもらうからって。で、結局、由美子もミチル、やんなかったんだよね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　みゆきと一緒にやりたかったから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　山口、主役取るために、先生に頼みに行ったって噂だよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　知ってる。だから私、言っちゃったもん「ひいきされてる人はいいよね」って。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　山口、何て？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　黙ってた。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　でも、そこまでして主役やりてーかな。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　やりたいんじゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　生徒会長って面白いの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　面白いとかじゃなくていかに役に立つかって問題でしょ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　何かの役に立つの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　立つんじゃない、受験とか。だから山口、もう高校決まってるじゃん、推薦で。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　（ああ）七つ森女学院。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　（嫌みな感じで）すごいよね、名門七つ森女学院に試験なしで。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　（あっ）由美子のお姉さん、女学院じゃなかったっけ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（うん）人間関係大変みたいだよ。あそこ半分は女学院中学から上がって来るじゃない。中学から来る人たちみんな人間関係ができていて、姉貴みたいに高校から入ると、なかなか溶け込めないって、愚痴言ってた。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　あー、あたしそんなとこ行きたくない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　心配いらないって、行きたくても行けないから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　（笑って）そうだね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　裕美、受ける高校決まった？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　うん。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　どこ？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　うん……二つ森。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　私立の？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　うん。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　（あっ）あたしも受けるよ、二つ森。由美子もみゆきも受けるよね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子とみゆきが頷く。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　でも、滑り止めでしょ。いいな、滑り止めでも受かるって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（壁の時計をみて）そろそろ五時間目始まるよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　由美子、あたし保健室に行くってゴジラに言っといて。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　何で？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　今日十三日の金曜日だから……、ゴジラの授業には出たくねー。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　十三日の金曜日だから？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　嫌な予感がすっから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　後で、どうなっても知らないよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　いつものことだから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子が放送室から出て行く。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　裕美、今日も？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　（うなずく）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　わかった、山城先生に言っておくね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　（うなずく）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美が一人放送室に残る。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>暗転<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>◆二月十四日(土)<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>午後の放送室。由美子が裕美に勉強を教えている。そこにノックの音。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　はい。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子が入ってくる。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　よかった。誰もいないかなって思ってた。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（あー）今日土曜だもんね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　あたしが頼んで、勉強教えてもらってるんだ。来週の水曜日、試験だから。山口さんはいいよね、推薦で女学院が決まってるんでしょ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（うん。あっ）由美子のお姉さん、女学院じゃなかった？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　お姉さん、ここの卒業生だよね？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　お姉さんの高校生活って楽しそう？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　何で（そんなこと）……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　女学院高校って半分は女学院中学から入ってくるでしょ。うまくやれるか心配で。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　今から行くのやめられるの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　無理無理、そんなことしたら大変。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　そうだよね、推薦だもんね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　姉貴、高校すっごく楽しいって言ってるよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美は不思議そうな目で由美子を見ている。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　それ聞いてちょっと安心した。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　で、どうしたの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　……昨日録音した放送なんだけど、放送予定、明後日だよね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　もうちょっと、待ってくれない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　何で？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　今、生徒会企画で先生と交渉していることがあるの。それが決まったら、その報告を付け加えて放送したいんだけど。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　なんだかわかんないけど、それが決まったら、それだけ後から放送すればいいじゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　明後日の放送、何も用意してないから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　……そう。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　いい放送だったじゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　ありがと……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　……企画って何？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　タイムカプセル。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　タイムカプセルって、思い出の品とか埋めて何年後かにそれを掘り起こすんだよね？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　何でタイムカプセルを？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　やってみたくて。何か、自分が企画したことを。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　ずいぶんやってきたじゃない、七つ森の清掃活動、文化祭の劇、それと募金活動もやってたよね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　自分が始めたもの、一つもないから。全部、先生からやらないかって言われたもので……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（マイクに口を近づけてインタビューする感じで）あと一ヶ月で、卒業ですね。今どんな気持ちですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　……長い三年でした。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　生徒会長として、一番の思い出は何ですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　『青い鳥』の上演です。でも楽しい思い出ではありません。私たち生徒会がやりたかった劇は自分たちが創った劇。でもそれは却下されました。『青い鳥』……やりたくなかった。チルチルの役も……、やりたい人たくさんいたから。私、裏方を希望しました。ごたごたに巻き込まれるのが嫌でした。でも担当の山城先生に「生徒会長のあなたがやらなくちゃだめでしょ」って怒られました。「やりたくありません」と言えませんでした。先生に嫌われたくなかったからかもしれません。チルチルをやりたかった人たちが私の悪口を言ってたこと、気づいてました。私が先生に頼んで主役をとったと思っていることも知ってました。「違う」って伝えようとしました。そしたら、余計疑われることになりました。「ひいきされている人はいいよね」と言われたこともありました。私は先生に勧められて生徒会長になりました。でもなったからには自分で何かやりたいと思いました。でも、できませんでした、何もできませんでした。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　……山口さんにとって七つ森中学校って何ですか？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　……何、かな……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　……ありがとうございました。これで今日のインタビューを終わりにします。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　どっちがほんとの恵子？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　どっちがいい？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　録音、録り直そっか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（首を振る）しまっておいた方がいい気持ちもあるから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　つらいね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　でも、表に出したらもっとつらい。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　タイムカプセルの企画が通ったら、七つ森中学校はかけがえのない宝物になる？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　なるかもしれないって思って。だから、タイムカプセルの企画が通ってから、放送してほしいって思ったの。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　生徒には相談しないの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（あっ）ほんとだったら三年生みんなに相談するべきなんだよね。でも……、相談したら、そこでだめになるかもしれないなんて思って。私のこと嫌いな人、私が提案したことはみんな反対しそうだし。でもね、タイムカプセルに反対する人も二十年後にやってよかったと思うかもしれないし。（あー）結局、私、自分のためにやってるのかな。私って自分勝手だよね……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　恵子。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　タイムカプセルの企画、通るといいね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（えっ）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　通るといいね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　フレーフレー恵子、フレーフレー恵子、フレーフレー恵子。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（涙がこぼれてくる）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　山口さん。どうしたの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　生徒会長になってから、先生には応援されてきたけど、生徒から応援されたことなんてあったかなって。いつも……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　月曜の放送、延ばすから。タイムカプセルの企画が決まるまで。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　ありがと。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>暗転<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>◆二月十六日(月)<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>放送室の放送機器から出ているマイクの前に凉子が座っている。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>隣で裕美が凉子を見ている。放送室にいるのは裕美と凉子の二人だけ。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子のお昼の放送が始まる。それは生放送である。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　みなさんこんにちは、二月十六日月曜日、お昼の放送の時間がやってきました。毎週月曜日は「あなたにインタビュー」を放送してきましたが、今日は予定を変更して「今日の献立から」を放送します。それではミュージック、スタート。（凉子が悲しげな音楽をかけ、そのメロディーに乗って放送する）今日の献立は、カレーライス、クジラ肉ノルウェー風、そして牛乳です。カレーライスは昨年の七月、学校食事研究会が行った調査で、「輝け！　子どもたちが好きな献立ベスト」のトップに選ばれた食事です。さあ、今日はそのカレーライスをじっくり味わって食べましょう。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子が悲しげな音楽を止める。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美が笑っている。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>そこに、原田先生が入ってくる。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　岸。何、今の放送。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　何か問題でも？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　問題でもって、どうしてあんな放送したの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　別に……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　別にって、訳もなくやったの。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　訳はあるよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　あるわけないでしょ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　訳もなくやったのって聞いてきたの先生でしょ、だから訳があるって……、そしたらあるわけないでしょって、訳わかんねー。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　訳があるのね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　だからあるって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　（たたみかけて）じゃどんな訳があるって言うの。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　ここじゃ言えねー。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　それじゃ、どこなら言えるの。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　（あっ）どこでも言えねー……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　やっぱり訳なんかないんじゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　だったらどうだっていうわけ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　もうあんなばかげた放送やめて。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　わかった？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　はいはい。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　はいは一回でいい。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　（投げやりに）はい！<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生が放送室を出て行く。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆきと由美子が入ってくる。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　どうしたの、原ちゃん怒ってたみたいだけど。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　お説教。さっきの放送のことで。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　あれ、何だったわけ？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　感動的献立紹介。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　何で会長のインタビュー流さなかったの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　あれ今日は流せなくなったから給食の献立紹介してって由美子に頼まれて。ねっ？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（あっ）うん。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　何で流せなくなったわけ？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　恵子、生徒会の企画を付け加えたいんだって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　何それ？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　タイムカプセルをやろうって企画してるみたい。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　それだけ、別に放送すればいいのに。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　まっ、色々考えがあるんじゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>少し前から裕美が紙を見て何かぶつぶつ言っている。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　裕美、何してんの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　あたし、放送に挑戦してみようかなって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　裕美が？　今まであれだけ放送するのいやがってたじゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　（うん）でもね、このままじゃあたし、一回も放送しないで卒業しちゃうから。放送部員なのに。それで、一度放送してみたいって由美ちゃんに言ってみたのね。そしたら由美ちゃんが、明日の「ミュージック・リクエスト」の原稿、あたしのために作ってくれたの。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　裕美、明後日試験だったよね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　大丈夫なわけ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　今更勉強してもあたしの馬鹿が治るわけじゃないし、その前に何かやってみようかなって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　（原稿を手にとって）『春一番』、ずいぶん昔の曲だよね。（原稿を読んで）ふーん。いいんじゃない。これ、誰のリクエスト？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　あたし。（あっ）変だよね、自分でリクエストして自分で放送するって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>そこに山口恵子が顔を出す。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　ちょっといい？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　今日はごめん、放送延ばしてもらって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　決まったの。タイムカプセルやっていいって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（Ｖサインを送る）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　よかったね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　ありがと。　　<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　この前の最後のところから録ればいいんだよね。放送する原稿できてるの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（うん）作ってある。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　それじゃ、今録音する？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　いいの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子が録音したテープを再生する。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子（テープ）　それでは最後の質問です。山口さんにとって七つ森中学校って何ですか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子（テープ）　かけがえのない宝物です。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子がテープを止める。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　この後から録るから。用意いい？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子が原稿を取り出す。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子が録音を始める。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　生徒会から三年生の皆さんへお知らせがあるそうです。聞いてください。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　旧生徒会は先生方と相談し、タイムカプセルを学校の中庭に埋めることになりました。みなさんの思い出の品を持ってきてください。タイムカプセルを開けるのは二十年後の一月一日、午後一時です。二十年後の一月一日に、みんなで七つ森中学校に集まり、二十年前を思い出したいと思います。タイムカプセルの中に入れるものは自由です。体育祭で使ったはちまき、部活で使ったユニフォーム、お気に入りのシャープペン、場合によっては悔しい思いをしたテストでもかまいません。埋めるのは卒業式の翌日の午後を予定しています。三年生の皆さん、生徒会の最後の企画に是非協力してください。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　ありがとうございました。これで今日のインタビューを終わりにします。今日のゲストは元生徒会長の山口恵子さんでした。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子が録音を止める。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　放送は明後日、二月十八日の水曜日でいいかな？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　（うん、）ありがと、いろいろ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　山口、なんで二十年後なの。二十年って長すぎない。二十年後って私たち三十五歳だよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　いろいろ考えたんだけど、やっぱり二十年後かなって。きりがいいし。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　二十年後じゃ人類が滅亡してるかもしれないよ。それに、二十年後、みんな埋めたこと忘れちゃったりしない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　一番忘れないのが二十年後かなって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　あたし来るよ、絶対。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子　ありがと。それじゃ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>恵子が部室を出て行く。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　どうなってるんだろう。あたし。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　裕美、二十年後のこと心配しても仕方ねーって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　今のこと心配しなくちゃね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　そういうことじゃなくって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　裕美、明日の録音するよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　いよいよ裕美のデビューか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　裕美、準備いい？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　（うん）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　もし失敗しても録り直しできるから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　頑張る。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆきが新しいテープを出して機械に入れる。みゆきが録音ボタンを押す。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　こんにちは、二月十七日、お昼の校内放送の時間がやってきました。火曜日の今日は「ミュージック・リクエスト」をお届けします。今日の放送担当は、<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　犬田裕美です。よろしくお願いします。今日お届けする曲は、キャンディーズの『春一番』。その前に、少しだけ春一番について説明しましょう。みなさんは春一番って何だか知っていますか……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美の放送の中で暗転。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>◆二月十七日(火)<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>笑い声が聞こえてくる。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>明かりがつくと、放送室で由美子、みゆき、裕美、凉子の四人が話をしている。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　『春一番』歌っていたキャンディーズって解散したんだね。知ってた？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　「普通の女の子に戻りたい」って言って解散したんじゃなかったっけ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　普通の女の子か。あたしも戻りたいな。普通の女の子に。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　裕美、普通じゃん。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　普通じゃないよ。普通だったら、教室にも行けるし、クラスの友達とも仲良くできるし……、ずっと放送室にいるなんて……普通じゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　裕美……教室に戻りてーのか？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　戻れんのか？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　戻りたい……でも、怖い……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　キャンディーズって、普通の女の子に戻れたのかな。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　（えっ？）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　解散しても普通の女の子に戻った訳じゃないよね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　裕美、何が普通なんてわからないよ。さっ、昨日のテープ、かけるよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　ちょっとどきどきする。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子がスイッチを押す。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>しかし、音が出ない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　音、出ないね。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　どうしたんだろ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　（みゆきが機械を調べて）あー、テープ絡まってる。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　うそ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　これ、ちょっとすぐには直らないよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　どうしたらいい。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　直接放送するしかないか。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　曲はここにダビングしたのあるから、このラジカセ使って流して、マイクから直接音を拾って流そ。裕美が原稿読み終えたら、私がかけるから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　裕美、やってみる？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　……うん。やってみる。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　オッケー、それじゃいくよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>　こんにちは、二月十七日、お昼の校内放送の時間がやってきました。火曜日の今日は「ミュージック・リクエスト」をお届けします。今日の放送担当は、<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　犬田裕美です。よろしくお願いします。今日お届けする曲は、（緊張でつかえつかえの放送になる）キャンディーズの……『春一番』。その前に……少しだけ……春一番について……説明しましょう。（汗、汗）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美が話せなくなってしまう。裕美が汗をぬぐう。裕美は震えている。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　裕美。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美は大きく首を振る。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆきが裕美の原稿を取って読み始める。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　みなさんは春一番って何だか知っていますか？　春一番は春の訪れを告げる南から吹く強く暖かい風のことです。春一番の吹く平均の日は、東京では二月二十二日だそうです。ちなみに一番遅い春一番の記録は三月二十日です。年によっては春一番が吹かない年もあるそうです。今年は春一番まだ吹いていません。果たして春一番は吹くのでしょうか。さて、今日はまだ吹かない春一番のかわりに、キャンディーズの『春一番』をお届けします。それではミュージックスタート。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆきが『春一番』をかける。裕美は固まったまま座っている。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>放送室に『春一番』が響き渡る。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　裕美。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆきが由美子に静かにという合図を送る。「もうすぐ春ですねえ」のフレーズで裕美が叫ぶ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　春なんて、春なんて来ない！<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美が突然走って、放送室から出て行く。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　裕美！<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子が裕美の後を追って放送室から出て行く。続いてみゆきが、そして凉子が「裕美」と叫んで放送室から出て行く。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>『春一番』が誰もいなくなった放送室に鳴り響いている。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>しばらくして凉子が戻ってくる。そして曲を止める。<o:p></o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>そこに原田先生が入ってくる。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　どうしたの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　先生には関係ねーから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　隣の教室で犬田泣いてたけど……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　だから先生には<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　関係あるでしょ。放送部の顧問なんだよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　顧問になってたったの一ヶ月で、顧問面すんなよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　一ヶ月だって顧問は顧問。なりたくてなったわけじゃないけど、なったからには責任があるでしょ。そりゃ、あなたたちにとってはあとちょっと細野先生がやってくれたらよかったんだろうけど、仕方ないでしょ、突然入院しちゃったんだから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　気になってたの。あなたがこの間言った言葉。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　あなたこの間「ここじゃ言えない」って言ったよね。あの後、考えたの、何で「今は言えない」とかじゃなくて「ここじゃ言えない」なのかなって。「ここじゃ言えない」のは、ここが放送室だからじゃなくって、そこに犬田がいたからでしょ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　やっぱり。何で犬田がいると、言えないの。それって犬田が教室に入れないこととも関係ある？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　笑わせたかったんだ。裕美を。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　犬田、何でまだ教室に戻れないの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　そんなのわかりきってんじゃん。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　金沢たちのこと？　でもあれは解決したって山城先生……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　解決なんてしてねーよ。山城、ちっともわかっちゃいねー。あいつらわからねーようにいじめてんだ。だから……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　この前、金沢たち呼び出して殴ったんだ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　そうだよ、あいつらにわからせてやったんだ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　そんな理由があるなんて、あなた言わなかったじゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　言えなかったんだよ。だってあたしの言うことなんか全然聞いてくれなかったじゃん。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　……確かに、そうだったね。それで、わかってくれたの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　そんなことでわかるような奴らじゃねーから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　あなた、あの後階段から落ちて怪我したって学校休んだよね。あれ……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　だからきたねーんだよ。あいつら、高校の先輩連れてきやがって……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　何で階段から落ちたって嘘ついたの。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　心配かけたくなかったんだよ。親にも、裕美にも。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　（そう……）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　でさ、わかったんだよ……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　何がわかったの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　あいつら殴ったってなんにも変わらねーってこと。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　それであのお昼の放送になるわけだ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　あいつらが変わらねーなら、あたしが変わるしかねーから……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　犬田、何でそんな目に遭っているわけ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　あいつんち、金持ちだから。家もすっごくでっけーし、あいつ休みにいい服着てるし。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　犬田、それを自慢したりするの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　あいつはそんに奴じゃねーから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　あなたって、思ってたよりずっと……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　悪い奴？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　（笑う）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　先生も、思ったよりずっと……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　（笑って）全然わかってなかったんだね、私。わかってないことがわかったよ。あなたたちのこと。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　教えようか、あたしたちのこと。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　犬田のこと放っておいていいの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　あいつには由美子とみゆきがついてっから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　あの二人はどんな関係？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　あいつらの仲は本物だよ。あいつら小学校の頃からずっと仲いいんだ。けんかしたことなんて見たことねー。高校も二人とも七つ森高校を希望してんだ。二人で放送部に入るんだって言ってた。七つ森高校って放送部、コンクールで全国大会まで行ってっから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　あの二人、高校でも放送部入るんだ？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　みたいだね。二人とも将来の夢はＤＪだから。あれ、なんであたしこんなにべらべら話してんだ？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子とみゆきが裕美を連れて戻ってくる。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（あっ）先生。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>原田先生　どうしたの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　裕美がお昼の放送のために録音したテープ、絡まっちゃって。裕美の初めての放送が、だめになっちゃって……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　あたし、何やってもだめ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　だめじゃないって。裕美、頑張ったじゃない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　でも、だめだった。あしたの試験も……きっと……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　そんなこと考えちゃだめだよ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　呪われてるのかな、あたし。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　馬鹿なこと言わない！<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　だって……<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　（裕美の肩に手をおいて）フレーフレー裕美、フレーフレー裕美。（少し笑って）呪いを解くおまじない。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>裕美　フレーフレーっておまじないなの？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　こじつけだけどね。（笑う）<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　由美子、どうしてフレーフレーだけなんだ。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　だけって？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　応援ってさ、普通フレーフレーの後に頑張れ頑張れとかに移るじゃん。でも由美子の応援、いつもフレーフレーだけだから。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　頑張れって言われてつらいときがあるから。なんかとってもつらいのに、更に何かやらなくちゃいけないみたいな。実は、私調べたことあるんだフレーって何か。凉子知ってる？<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>凉子　（えっ）旗とか振るんじゃねーの。振れー、振れーって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　フレーって言葉、英語にあるんだけど、何かはっきりしなくて。でも、そのはっきりしないのがいいなって。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆき　呪いを解くおまじないにもなっちゃう。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>由美子　そんなとこ。だから……（裕美に）フレーフレー裕美、フレーフレー裕美。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>みゆきが由美子に加わってフレーフレーと言い始める。そして凉子も参加。最後に原田先生も。そんなあたたかいフレーフレーにつつまれた中、暗転。<o:p></o:p></span></p>
+
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1 align=center style='text-align:center'><span style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;mso-ansi-language:JA'>続く<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
