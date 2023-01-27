@@ -2,9 +2,9 @@
 <HTML>
 <HEAD>
 <meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.3.0 for Windows">
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<TITLE>ƒŠƒ“ƒN@uŽµ‚ÂXv</TITLE>
+<TITLE>ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½@ï¿½uï¿½ï¿½ï¿½ÂXï¿½v</TITLE>
 <STYLE TYPE="text/css">
 <!--
 P.border1{
@@ -15,7 +15,7 @@ P.border2{
   border-style:none; background-color:green;
     padding:1pt 0pt 2pt 10pt; margin:2% 50% 0% 10%;
 }
-   
+
  .border3{
   border-style:inset; border-color:blue; background-color:white;
    border-width:2pt 4pt 2pt 16pt; padding:0pt 0pt 0pt 10pt;margin:0% 5%;
@@ -62,10 +62,10 @@ hpb-layoutset-01 #hpb-nav{
 }
 
 /*--------------------------------------------------------
-  ƒfƒUƒCƒ“Ý’è
+  ï¿½fï¿½Uï¿½Cï¿½ï¿½ï¿½Ý’ï¿½
 --------------------------------------------------------*/
-/* ƒRƒ“ƒeƒ“ƒc”z’u—Ìˆæ */
-/* ƒgƒbƒvƒy[ƒWƒƒCƒ“ƒCƒ[ƒW */
+/* ï¿½Rï¿½ï¿½ï¿½eï¿½ï¿½ï¿½cï¿½zï¿½uï¿½Ìˆï¿½ */
+/* ï¿½gï¿½bï¿½vï¿½yï¿½[ï¿½Wï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½[ï¿½W */
 
 .hpb-layoutset-01 #hpb-title h2{
     width: 900px;
@@ -88,14 +88,14 @@ hpb-layoutset-01 #hpb-nav{
 }
 
 /*--------------------------------------------------------
-  ‹¤’Êƒp[ƒcƒfƒUƒCƒ“Ý’è
+  ï¿½ï¿½ï¿½Êƒpï¿½[ï¿½cï¿½fï¿½Uï¿½Cï¿½ï¿½ï¿½Ý’ï¿½
 --------------------------------------------------------*/
 
 .hpb-layoutset-01 #toppage
 {
 }
 
-/* ƒiƒrƒQ[ƒVƒ‡ƒ“ */
+/* ï¿½iï¿½rï¿½Qï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ */
 
 #hpb-nav ul{
     width: 889px;
@@ -186,18 +186,18 @@ hpb-layoutset-01 #hpb-nav{
 <body class="hpb-container" background="ita2.gif" text="white" link="white" vlink="yellow">
 <div id="hpb-nav" align="center">
   <ul>
-    <li id="nav-toppage"><font color="#000000"><span class="ja"><a href="index.html" target="_blank"><font size="-1">ƒgƒbƒvƒy[ƒW<br>
-    uŽµ‚ÂXv</font></a></span>
+    <li id="nav-toppage"><font color="#000000"><span class="ja"><a href="index.html" target="_blank"><font size="-1">ï¿½gï¿½bï¿½vï¿½yï¿½[ï¿½W<br>
+    ï¿½uï¿½ï¿½ï¿½ÂXï¿½v</font></a></span>
         </font>
-    <li id="nav-itemlist"><font color="#000000"><span class="ja"><a href="daihon/daihon-top2.html" target="_blank">Ž©ì‹r–{</a></span>
+    <li id="nav-itemlist"><font color="#000000"><span class="ja"><a href="daihon/daihon-top2.html" target="_blank">ï¿½ï¿½ï¿½ï¿½rï¿½{</a></span>
         </font>
-    <li id="nav-company"><font color="#000000"><span class="ja"><a href="request/request-2011.html" target="_blank"><font size="-1">Ž©ìã‰‰Z‚Ì‹L˜^</font></a></span>
+    <li id="nav-company"><font color="#000000"><span class="ja"><a href="request/request-2011.html" target="_blank"><font size="-1">ï¿½ï¿½ï¿½ï¿½ã‰‰ï¿½Zï¿½Ì‹Lï¿½^</font></a></span>
         </font>
-    <li id="nav-recruit"><font color="#000000"><span class="ja"><a href="kiji/kiji.htm" target="_blank">V•·EŽGŽ‹LŽ–</a></span>
+    <li id="nav-recruit"><font color="#000000"><span class="ja"><a href="kiji/kiji.htm" target="_blank">ï¿½Vï¿½ï¿½ï¿½Eï¿½Gï¿½ï¿½ï¿½Lï¿½ï¿½</a></span>
         </font>
-    <li id="nav-access"><font color="#000000"><span class="ja"><a href="impression/impression.html" target="_blank">ã‰‰Œ€‚ÌŠ´‘z</a></span>
+    <li id="nav-access"><font color="#000000"><span class="ja"><a href="impression/impression.html" target="_blank">ï¿½ã‰‰ï¿½ï¿½ï¿½ÌŠï¿½ï¿½z</a></span>
         </font>
-    <li id="nav-concept"><font color="#000000"><span class="ja"><a href="profile/profile.html" target="_blank"><font size="-1">ŠÇ—lƒvƒƒtƒB[ƒ‹</font></a></span>
+    <li id="nav-concept"><font color="#000000"><span class="ja"><a href="profile/profile.html" target="_blank"><font size="-1">ï¿½Ç—ï¿½ï¿½lï¿½vï¿½ï¿½ï¿½tï¿½Bï¿½[ï¿½ï¿½</font></a></span>
         </font>
     <li id="nav-contactus"><font color="#000000"><span class="ja"><a href="link.htm" target="_blank">Link</a></span>
 
@@ -208,29 +208,29 @@ hpb-layoutset-01 #hpb-nav{
 <P align="center"><font size="7"><img src="logo1.gif" width="137" height="52" border="0"></font><font size="+1">
 </font></P>
 <blockquote>
-<blockquote><font color="#83ebe3" size="5">‰‰Œ€ŠÖŒW</font>
-<p><font size="3" color="#FFFF00">&nbsp;Ÿ<b>ŠwZŠÖŒW(’†ŠwE‚Z‰‰Œ€•”)</b></font><font color="#83ebe3" size="5">@</font></p>
+<blockquote><font color="#83ebe3" size="5">ï¿½ï¿½ï¿½ï¿½ï¿½ÖŒW</font>
+<p><font size="3" color="#FFFF00">&nbsp;ï¿½ï¿½<b>ï¿½wï¿½Zï¿½ÖŒW(ï¿½ï¿½ï¿½wï¿½Eï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)</b></font><font color="#83ebe3" size="5">ï¿½@</font></p>
 </blockquote>
 </blockquote>
-<p class="border1"><b><a href="http://kanto-drama.com" target="_blank">ŠÖ“Œ’†ŠwZ‰‰Œ€Œ¤‹†‹¦‹c‰ï</a></b></p>
-<p class="bun"><b>‰‰Œ€Šˆ“®‚ð’Ê‚µ‚ÄA’†Šw¶‚ªã‰‰‚·‚éŒ€‚Ì–£—Í‚ð”­M‚µ‚Ä‚¢‚Ü‚·BŠÖ“Œ’†ŠwZ‰‰Œ€ƒRƒ“ƒN[ƒ‹(ŠÖ“Œ‘å‰ï)‚Ì‰ß‹Ž‚ÌŒ‹‰ÊAã‰‰‹r–{‚Ìì•i•ÊEì‰Æ•Ê‚ÌÐ‰î‚às‚Á‚Ä‚¢‚Ü‚·B</b></p>
-<p class="border1"><b><a href="https://funabashidrama.wixsite.com/homepage" target="_blank">‘D‹´Žs’†ŠwZ‰‰Œ€˜A–¿</a></b></p>
-<p class="bun"><b>ç—tŒ§‘D‹´Žs‚Ì’†ŠwZ‚Ì‰‰Œ€•”‚ÌŠˆ“®‚ðÐ‰î‚µ‚Ä‚¢‚éƒy[ƒW‚Å‚·B</b></p>
-<p class="border1"><b><a target="_blank" href="http://tyugekiken.jpn.org/">“Œ‹ž“s’†ŠwZ‰‰Œ€‹³ˆçŒ¤‹†‰ï</a></b></p>
-<p class="bun"><b>“Œ‹ž“s‚Ì’†ŠwZ‰‰Œ€‚ÌŒö”FƒTƒCƒg‚Å‚·B</b></p>
+<p class="border1"><b><a href="http://kanto-drama.com" target="_blank">ï¿½Ö“ï¿½ï¿½ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½</a></b></p>
+<p class="bun"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ã‰‰ï¿½ï¿½ï¿½éŒ€ï¿½Ì–ï¿½ï¿½Í‚ð”­Mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ö“ï¿½ï¿½ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½Nï¿½[ï¿½ï¿½(ï¿½Ö“ï¿½ï¿½ï¿½ï¿½)ï¿½Ì‰ß‹ï¿½ï¿½ÌŒï¿½ï¿½ÊAï¿½ã‰‰ï¿½rï¿½{ï¿½Ìï¿½iï¿½ÊEï¿½ï¿½Æ•Ê‚ÌÐ‰ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B</b></p>
+<p class="border1"><b><a href="https://funabashidrama.wixsite.com/homepage" target="_blank">ï¿½Dï¿½ï¿½ï¿½sï¿½ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½</a></b></p>
+<p class="bun"><b>ï¿½ï¿½tï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½sï¿½Ì’ï¿½ï¿½wï¿½Zï¿½Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð‰î‚µï¿½Ä‚ï¿½ï¿½ï¿½yï¿½[ï¿½Wï¿½Å‚ï¿½ï¿½B</b></p>
+<p class="border1"><b><a target="_blank" href="http://tyugekiken.jpn.org/">ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½çŒ¤ï¿½ï¿½ï¿½ï¿½</a></b></p>
+<p class="bun"><b>ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½Ì’ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½Fï¿½Tï¿½Cï¿½gï¿½Å‚ï¿½ï¿½B</b></p>
 <p class="bun"><br>
-<font color="#FFFF00"><b>Ÿ‰‰Œ€‹³ˆç</b></font></p>
-<p class="border1"><b><a href="https://enkyoren.com/" target="_blank">“ú–{‰‰Œ€‹³ˆç˜A–¿</a></b></p>
-<p class="bun"><b>u‚·‚×‚Ä‚ÌŽq‚Ç‚à‚Éƒhƒ‰ƒ}‚Ì‹³ˆç‚ðIv‚Æ‚¢‚¤ƒXƒ[ƒKƒ“‚Ì‰ºA‹³ˆç‚Æ‚¢‚¤Ž‹“_‚©‚ç‰‰Œ€‚ðl‚¦‚Ä‚¢‚Ü‚·</b></p>
+<font color="#FFFF00"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</b></font></p>
+<p class="border1"><b><a href="https://enkyoren.com/" target="_blank">ï¿½ï¿½ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½</a></b></p>
+<p class="bun"><b>ï¿½uï¿½ï¿½ï¿½×‚Ä‚ÌŽqï¿½Ç‚ï¿½ï¿½Éƒhï¿½ï¿½ï¿½}ï¿½Ì‹ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½[ï¿½Kï¿½ï¿½ï¿½Ì‰ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½ç‰‰ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½</b></p>
 <p class="bun"><b><br>
 </b></p>
-<p class="bun"><b><font color="#FFFF00">Ÿ‰‰Œ€ŠÖŒW‘S”Ê</font></b></p>
-<p class="border1"><a href="http://ameblo.jp/22ga4nobu/" target="_blank"><b>‚Ó‚§[‚°‚Á‚Æ‚Ý[‚Ì‚Á‚Æ</b></a></p>
-<p class="bun"><b>E‹Æ–ðŽÒ‚Ì‚¿‚Á‚¿‚á‚È‹lE ‘åŽè”E‚ÌƒuƒƒO‚Å‚·BŒ»Ý’–Ú‚ð—‚Ñ‚Ä‚¢‚é‚ÌŒ€’cAŽV•~“¶Žq‚Å‘åŠˆ–ô‚µ‚Ä‚¢‚Ü‚·B‹vŠìŽs—§‘¾“Œ’†‰‰Œ€•”‚ª‚QŽžŠÔ‚ð’´‚¦‚éŒ€‚ðã‰‰‚µ‚Ä‚¢‚½“–ŽžA•”’·‚Æ‚µ‚ÄŠˆ–ô‚µ‚½¶“k‚Å‚à‚ ‚è‚Ü‚·B</b></p>
+<p class="bun"><b><font color="#FFFF00">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÖŒWï¿½Sï¿½ï¿½</font></b></p>
+<p class="border1"><a href="http://ameblo.jp/22ga4nobu/" target="_blank"><b>ï¿½Ó‚ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Ý[ï¿½Ì‚ï¿½ï¿½ï¿½</b></a></p>
+<p class="bun"><b>ï¿½Eï¿½Æ–ï¿½ï¿½Ò‚Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‹ï¿½ï¿½lï¿½E ï¿½ï¿½ï¿½Eï¿½Ìƒuï¿½ï¿½ï¿½Oï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ý’ï¿½ï¿½Ú‚ð—‚Ñ‚Ä‚ï¿½ï¿½ï¿½ÌŒï¿½ï¿½cï¿½Aï¿½Vï¿½~ï¿½ï¿½ï¿½qï¿½Å‘åŠˆï¿½ô‚µ‚Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½vï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Qï¿½ï¿½ï¿½Ô‚ð’´‚ï¿½ï¿½éŒ€ï¿½ï¿½ï¿½ã‰‰ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÄŠï¿½ï¿½ô‚µ‚ï¿½ï¿½ï¿½ï¿½kï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</b></p>
 <hr>
 
 <p class="bun" align="center"><a href="#top" target="_self"><img src="returnTop_2Ca.png" width="130" height="16" border="0"></a><br>
 <br>
-<FONT size="+2"><a href="index.html" target="_top">HOMEuŽµ‚ÂXv</a></FONT></p>
+<FONT size="+2"><a href="index.html" target="_top">HOMEï¿½uï¿½ï¿½ï¿½ÂXï¿½v</a></FONT></p>
 </body>
 </HTML>

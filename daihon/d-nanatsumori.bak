@@ -6,16 +6,16 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
 <meta name="ProgId" content="Word.Document" />
 <meta name="Generator" content="JustSystems Homepage Builder Version 17.0.10.0 for Windows" />
 <meta name="Originator" content="Microsoft Word 14" />
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <link rel="File-List" href="d-nanatsumori.files/filelist.xml" />
-<title>‰»  ’¹  “`  à</title>
+<title>ï¿½ï¿½  ï¿½ï¿½  ï¿½`  ï¿½ï¿½</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
-  <o:Author>Ä“¡r—Y</o:Author>
+  <o:Author>ï¿½Ä“ï¿½ï¿½rï¿½Y</o:Author>
   <o:LastAuthor>toshi</o:LastAuthor>
   <o:Revision>3</o:Revision>
   <o:TotalTime>102</o:TotalTime>
@@ -25,7 +25,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Pages>13</o:Pages>
   <o:Words>2161</o:Words>
   <o:Characters>12323</o:Characters>
-  <o:Company>Ä“¡r—Y</o:Company>
+  <o:Company>ï¿½Ä“ï¿½ï¿½rï¿½Y</o:Company>
   <o:Lines>102</o:Lines>
   <o:Paragraphs>28</o:Paragraphs>
   <o:CharactersWithSpaces>14456</o:CharactersWithSpaces>
@@ -94,8 +94,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:ValidCPLLPP>1</w:ValidCPLLPP>
    <w:ViewGrid>0</w:ViewGrid>
   </w:DocumentVariables>
-  <w:NoLineBreaksAfter Lang="JA">$([\{egqsuwykimo¢’</w:NoLineBreaksAfter>
-  <w:NoLineBreaksBefore Lang="JA">!%),.:;?]}‹fhñŒŽABXrtvxzlJKTUERSI“jCDFGHnp¡£¤¥Þß‘</w:NoLineBreaksBefore>
+  <w:NoLineBreaksAfter Lang="JA">$([\{ï¿½eï¿½gï¿½qï¿½sï¿½uï¿½wï¿½yï¿½kï¿½ï¿½ï¿½iï¿½mï¿½oï¿½ï¿½ï¿½ï¿½ï¿½</w:NoLineBreaksAfter>
+  <w:NoLineBreaksBefore Lang="JA">!%),.:;?]}ï¿½ï¿½ï¿½fï¿½hï¿½ñŒï¿½ï¿½ï¿½ï¿½Aï¿½Bï¿½Xï¿½rï¿½tï¿½vï¿½xï¿½zï¿½lï¿½Jï¿½Kï¿½Tï¿½Uï¿½Eï¿½Rï¿½Sï¿½Iï¿½ï¿½ï¿½jï¿½Cï¿½Dï¿½Fï¿½Gï¿½Hï¿½nï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ßï¿½</w:NoLineBreaksBefore>
   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
@@ -381,7 +381,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-pitch:variable;
 	mso-font-signature:0 268435456 0 0 -2147483648 0;}
 @font-face
-	{font-family:"‚l‚r –¾’©";
+	{font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-alt:"MS Mincho";
 	mso-font-charset:128;
@@ -389,7 +389,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-pitch:fixed;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"‚l‚r ƒSƒVƒbƒN";
+	{font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	panose-1:2 11 6 9 7 2 5 8 2 4;
 	mso-font-alt:"MS Gothic";
 	mso-font-charset:128;
@@ -411,42 +411,42 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-pitch:variable;
 	mso-font-signature:-536870145 1107305727 0 0 415 0;}
 @font-face
-	{font-family:‚i‚r–¾’©;
+	{font-family:ï¿½iï¿½rï¿½ï¿½ï¿½ï¿½;
 	panose-1:2 2 3 9 0 1 1 1 1 1;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
-	{font-family:‚i‚rƒSƒVƒbƒN;
+	{font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;
 	panose-1:2 11 6 9 0 1 1 1 1 1;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
-	{font-family:"\@‚l‚r –¾’©";
+	{font-family:"\@ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@‚i‚r–¾’©";
+	{font-family:"\@ï¿½iï¿½rï¿½ï¿½ï¿½ï¿½";
 	panose-1:2 2 3 9 0 1 1 1 1 1;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
-	{font-family:"\@‚i‚rƒSƒVƒbƒN";
+	{font-family:"\@ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N";
 	panose-1:2 11 6 9 0 1 1 1 1 1;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
-	{font-family:"\@‚l‚r ƒSƒVƒbƒN";
+	{font-family:"\@ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	panose-1:2 11 6 9 7 2 5 8 2 4;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
@@ -466,14 +466,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –¾’©";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 }
 h1{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-next:•W€;
+	mso-style-next:ï¿½Wï¿½ï¿½;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -485,7 +485,7 @@ h1{
 	font-size:12.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:‚i‚rƒSƒVƒbƒN;
+	mso-fareast-font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-1.0pt;
 	mso-font-kerning:12.0pt;
@@ -494,8 +494,8 @@ h1{
 h2{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Œ©o‚µ 2 \(•¶Žš\)";
-	mso-style-next:•W€ƒCƒ“ƒfƒ“ƒg;
+	mso-style-link:"ï¿½ï¿½ï¿½oï¿½ï¿½ 2 \(ï¿½ï¿½ï¿½ï¿½\)";
+	mso-style-next:ï¿½Wï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½fï¿½ï¿½ï¿½g;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -507,7 +507,7 @@ h2{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:"‚l‚r ƒSƒVƒbƒN";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 	font-weight:normal;
@@ -515,7 +515,7 @@ h2{
 h3{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-next:•W€ƒCƒ“ƒfƒ“ƒg;
+	mso-style-next:ï¿½Wï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½fï¿½ï¿½ï¿½g;
 	margin-top:0mm;
 	margin-right:0mm;
 	margin-bottom:0mm;
@@ -530,7 +530,7 @@ h3{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:"‚l‚r ƒSƒVƒbƒN";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 	font-weight:normal;
@@ -549,13 +549,13 @@ p.MsoNormalIndent, li.MsoNormalIndent, div.MsoNormalIndent{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –¾’©";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 }
 p.MsoHeader, li.MsoHeader, div.MsoHeader{
 	mso-style-priority:99;
-	mso-style-link:"ƒwƒbƒ_[ \(•¶Žš\)";
+	mso-style-link:"ï¿½wï¿½bï¿½_ï¿½[ \(ï¿½ï¿½ï¿½ï¿½\)";
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -567,7 +567,7 @@ p.MsoHeader, li.MsoHeader, div.MsoHeader{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –¾’©";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 }
@@ -583,7 +583,7 @@ p.MsoFooter, li.MsoFooter, div.MsoFooter{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –¾’©";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 }
@@ -600,12 +600,12 @@ p.MsoDocumentMap, li.MsoDocumentMap, div.MsoDocumentMap{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:"‚l‚r ƒSƒVƒbƒN";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 }
 p.a, li.a, div.a{
-	mso-style-name:‰‰Œ€‘äŽŒ;
+	mso-style-name:ï¿½ï¿½ï¿½ï¿½ï¿½äŽŒ;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	margin-top:0mm;
@@ -622,16 +622,16 @@ p.a, li.a, div.a{
 	word-break:break-all;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 }
 p.a0, li.a0, div.a0{
-	mso-style-name:‰‰Œ€ƒg‘‚«;
+	mso-style-name:ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-next:‰‰Œ€‘äŽŒ;
+	mso-style-next:ï¿½ï¿½ï¿½ï¿½ï¿½äŽŒ;
 	margin-top:0mm;
 	margin-right:0mm;
 	margin-bottom:0mm;
@@ -646,40 +646,40 @@ p.a0, li.a0, div.a0{
 	word-break:break-all;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.6pt;
 }
 span.a1{
-	mso-style-name:"ƒwƒbƒ_[ \(•¶Žš\)";
+	mso-style-name:"ï¿½wï¿½bï¿½_ï¿½[ \(ï¿½ï¿½ï¿½ï¿½\)";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-parent:"";
-	mso-style-link:ƒwƒbƒ_[;
+	mso-style-link:ï¿½wï¿½bï¿½_ï¿½[;
 	mso-ansi-font-size:10.5pt;
-	font-family:"‚l‚r –¾’©","serif";
-	mso-fareast-font-family:"‚l‚r –¾’©";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	letter-spacing:-.6pt;
 }
 span.2
-	{mso-style-name:"Œ©o‚µ 2 \(•¶Žš\)";
+	{mso-style-name:"ï¿½ï¿½ï¿½oï¿½ï¿½ 2 \(ï¿½ï¿½ï¿½ï¿½\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-parent:"";
-	mso-style-link:"Œ©o‚µ 2";
+	mso-style-link:"ï¿½ï¿½ï¿½oï¿½ï¿½ 2";
 	mso-ansi-font-size:10.5pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
-	mso-fareast-font-family:"‚l‚r ƒSƒVƒbƒN";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-hansi-font-family:Arial;
 	letter-spacing:-.6pt;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
 	mso-ascii-font-family:Century;
-	mso-fareast-font-family:‚i‚r–¾’©;
+	mso-fareast-font-family:ï¿½iï¿½rï¿½ï¿½ï¿½ï¿½;
 	mso-hansi-font-family:Century;}
  /* Page Definitions */
  @page
@@ -720,12 +720,12 @@ div.WordSection1{
 @list l1:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:E;
+	mso-level-text:ï¿½E;
 	mso-level-tab-stop:18.0pt;
 	mso-level-number-position:left;
 	margin-left:18.0pt;
 	text-indent:-18.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-bidi-font-family:"Times New Roman";}
 @list l1:level2
 	{mso-level-number-format:bullet;
@@ -798,12 +798,12 @@ div.WordSection1{
 @list l2:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:œ;
+	mso-level-text:ï¿½ï¿½;
 	mso-level-tab-stop:61.3pt;
 	mso-level-number-position:left;
 	margin-left:61.3pt;
 	text-indent:-18.75pt;
-	font-family:"‚l‚r ƒSƒVƒbƒN";
+	font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-bidi-font-family:"Times New Roman";}
 @list l2:level2
 	{mso-level-number-format:bullet;
@@ -876,12 +876,12 @@ div.WordSection1{
 @list l3:level1
 	{mso-level-start-at:8;
 	mso-level-number-format:bullet;
-	mso-level-text:E;
+	mso-level-text:ï¿½E;
 	mso-level-tab-stop:9.0pt;
 	mso-level-number-position:left;
 	margin-left:9.0pt;
 	text-indent:-9.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-hansi-font-family:Century;}
 @list l4
 	{mso-list-id:942885130;
@@ -890,12 +890,12 @@ div.WordSection1{
 @list l4:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:Ÿ;
+	mso-level-text:ï¿½ï¿½;
 	mso-level-tab-stop:18.0pt;
 	mso-level-number-position:left;
 	margin-left:18.0pt;
 	text-indent:-18.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-bidi-font-family:"Times New Roman";}
 @list l4:level2
 	{mso-level-number-format:bullet;
@@ -977,12 +977,12 @@ div.WordSection1{
 @list l6:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:¦;
+	mso-level-text:ï¿½ï¿½;
 	mso-level-tab-stop:9.0pt;
 	mso-level-number-position:left;
 	margin-left:9.0pt;
 	text-indent:-9.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-hansi-font-family:Century;}
 @list l7
 	{mso-list-id:1702128324;
@@ -1067,12 +1067,12 @@ div.WordSection1{
 @list l8:level1
 	{mso-level-start-at:8;
 	mso-level-number-format:bullet;
-	mso-level-text:Ÿ;
+	mso-level-text:ï¿½ï¿½;
 	mso-level-tab-stop:9.0pt;
 	mso-level-number-position:left;
 	margin-left:9.0pt;
 	text-indent:-9.0pt;
-	font-family:"‚l‚r ƒSƒVƒbƒN";
+	font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-hansi-font-family:Arial;}
 @list l9
 	{mso-list-id:1841039667;
@@ -1081,12 +1081,12 @@ div.WordSection1{
 @list l9:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:E;
+	mso-level-text:ï¿½E;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:18.0pt;
 	text-indent:-18.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-bidi-font-family:"Times New Roman";}
 @list l9:level2
 	{mso-level-number-format:bullet;
@@ -1159,12 +1159,12 @@ div.WordSection1{
 @list l10:level1
 	{mso-level-start-at:10;
 	mso-level-number-format:bullet;
-	mso-level-text:œ;
+	mso-level-text:ï¿½ï¿½;
 	mso-level-tab-stop:61.3pt;
 	mso-level-number-position:left;
 	margin-left:61.3pt;
 	text-indent:-18.75pt;
-	font-family:"‚l‚r ƒSƒVƒbƒN";
+	font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-bidi-font-family:"Times New Roman";}
 @list l10:level2
 	{mso-level-number-format:bullet;
@@ -1237,12 +1237,12 @@ div.WordSection1{
 @list l11:level1
 	{mso-level-start-at:8;
 	mso-level-number-format:bullet;
-	mso-level-text:š;
+	mso-level-text:ï¿½ï¿½;
 	mso-level-tab-stop:9.0pt;
 	mso-level-number-position:left;
 	margin-left:9.0pt;
 	text-indent:-9.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-hansi-font-family:Century;}
 @list l12
 	{mso-list-id:1973628471;
@@ -1251,12 +1251,12 @@ div.WordSection1{
 @list l12:level1
 	{mso-level-start-at:8;
 	mso-level-number-format:bullet;
-	mso-level-text:E;
+	mso-level-text:ï¿½E;
 	mso-level-tab-stop:9.0pt;
 	mso-level-number-position:left;
 	margin-left:9.0pt;
 	text-indent:-9.0pt;
-	font-family:"‚l‚r –¾’©","serif";
+	font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
 	mso-hansi-font-family:Century;}
 ol{
 	margin-bottom:0mm;
@@ -1276,7 +1276,7 @@ ul{
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:•W€‚Ì•\;
+	{mso-style-name:ï¿½Wï¿½ï¿½ï¿½Ì•\;
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -1305,925 +1305,925 @@ ul{
 <div id="site-box">
   <div class="WordSection1" style="layout-grid:15.2pt .15pt;mso-layout-grid-char-alt:
 615">
-    <h1><span style='font-family:‚i‚rƒSƒVƒbƒN;mso-ascii-font-family:Arial'>Žµ‚ÂX</span> </h1>
+    <h1><span style='font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-ascii-font-family:Arial'>ï¿½ï¿½ï¿½ÂX</span> </h1>
     <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <h2 align="center" style="text-align:center"><span style='font-family:"‚l‚r ƒSƒVƒbƒN";
-mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>“oêl•¨@š‚Í–ðEƒXƒ^ƒbƒt‚ð’S“–‚·‚él</span></h2>
+    <h2 align="center" style="text-align:center"><span style='font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
+mso-ascii-font-family:Arial;mso-hansi-font-family:Arial'>ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Í–ï¿½ï¿½Eï¿½Xï¿½^ï¿½bï¿½tï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½l</span></h2>
     <p class="a" style="margin-left:21.25pt;text-indent:0mm"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ƒnƒ„ƒg@šë‘ò”¹l@¬Šw˜Z”N¶</p>
-    <p class="a" style="margin-left:21.25pt;text-indent:0mm">•ê@@@š”L“c—T”ü@</p>
-    <p class="a" style="margin-left:21.25pt;text-indent:0mm">—Ú—ž•P@šŠC–ì@@‚Zˆê”N¶</p>
-    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ƒ„ƒuƒŒ@š¼“cƒTƒ` @‚Zˆê”N¶</p>
-    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ƒJƒuƒŒ@šŽR–{‘å•ã@’†ŠwŽO”N¶</p>
-    <p class="a" style="margin-left:21.25pt;text-indent:0mm">¬—Ú—ž@š‘åê^Ž÷@’†Šw“ñ”N¶</p>
+    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½ï¿½ò”¹lï¿½@ï¿½ï¿½ï¿½wï¿½Zï¿½Nï¿½ï¿½</p>
+    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ï¿½ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Lï¿½cï¿½Tï¿½ï¿½ï¿½@</p>
+    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½Cï¿½ï¿½@ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Zï¿½ï¿½Nï¿½ï¿½</p>
+    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½Tï¿½` ï¿½@ï¿½ï¿½ï¿½Zï¿½ï¿½Nï¿½ï¿½</p>
+    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½wï¿½Oï¿½Nï¿½ï¿½</p>
+    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ï¿½ï¿½ï¿½Ú—ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½wï¿½ï¿½Nï¿½ï¿½</p>
     <p class="a" style="margin-left:21.25pt;text-indent:0mm"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a" style="margin-left:21.25pt;text-indent:0mm">‰‰oEƒiƒŒ[ƒVƒ‡ƒ“@šŠÝ™yŽq@<span lang="EN-US"><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
-    <p class="a" style="margin-left:21.25pt;text-indent:0mm">‰¹‹¿@@š‹ß“¡@ˆ¤@‚Zˆê”N¶</p>
+    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ï¿½ï¿½ï¿½oï¿½Eï¿½iï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ý™yï¿½qï¿½@<span lang="EN-US"><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
+    <p class="a" style="margin-left:21.25pt;text-indent:0mm">ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ß“ï¿½ï¿½@ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Zï¿½ï¿½Nï¿½ï¿½</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
     <p class="MsoNormal" style="margin-left:9.45pt;mso-para-margin-left:1.0gd;
-text-indent:9.45pt;mso-char-indent-count:1.0"><span style='font-family:"‚l‚r –¾’©","serif";
-mso-ascii-font-family:Century;mso-hansi-font-family:Century'>Œê‚è•”‚P`‚S</span><span lang="EN-US">(</span><span style='font-family:"‚l‚r –¾’©","serif";mso-ascii-font-family:
-Century;mso-hansi-font-family:Century'>ƒXƒ^ƒbƒt</span><span lang="EN-US">)</span></p>
+text-indent:9.45pt;mso-char-indent-count:1.0"><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
+mso-ascii-font-family:Century;mso-hansi-font-family:Century'>ï¿½ï¿½è•”ï¿½Pï¿½`ï¿½S</span><span lang="EN-US">(</span><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";mso-ascii-font-family:
+Century;mso-hansi-font-family:Century'>ï¿½Xï¿½^ï¿½bï¿½t</span><span lang="EN-US">)</span></p>
     <p class="MsoNormal" style="margin-left:9.45pt;mso-para-margin-left:1.0gd;
-text-indent:9.45pt;mso-char-indent-count:1.0"><span style='font-family:"‚l‚r –¾’©","serif";
-mso-ascii-font-family:Century;mso-hansi-font-family:Century'>¦lŒ`Œ­‚¢</span><span lang="EN-US"><br style="mso-special-character:line-break" />
+text-indent:9.45pt;mso-char-indent-count:1.0"><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
+mso-ascii-font-family:Century;mso-hansi-font-family:Century'>ï¿½ï¿½ï¿½lï¿½`ï¿½ï¿½ï¿½ï¿½</span><span lang="EN-US"><br style="mso-special-character:line-break" />
     <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break" />
     <![endif]></span></p>
     <span lang="EN-US" style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:‚i‚rƒSƒVƒbƒN;mso-bidi-font-family:&quot;Times New Roman&quot;;
+&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-bidi-font-family:&quot;Times New Roman&quot;;
 letter-spacing:-1.0pt;mso-font-kerning:12.0pt;mso-ansi-language:EN-US;
 mso-fareast-language:JA;mso-bidi-language:AR-SA'><br clear="all" style="page-break-before:always" />
     </span>
-    <h1><span style='font-family:‚i‚rƒSƒVƒbƒN;mso-ascii-font-family:Arial'>Žµ‚ÂX</span> </h1>
-    <h1><span style='font-family:‚i‚rƒSƒVƒbƒN;mso-ascii-font-family:Arial'>‘æ</span><span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span><span
-style='font-family:‚i‚rƒSƒVƒbƒN;mso-ascii-font-family:Arial'>ˆê</span><span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span><span
-style='font-family:‚i‚rƒSƒVƒbƒN;mso-ascii-font-family:Arial'>•”</span><span lang="EN-US"> </span></h1>
-    <h2><span style='font-family:"‚l‚r ƒSƒVƒbƒN";mso-ascii-font-family:Arial;mso-hansi-font-family:
-Arial'>ŸŽOTŠÔ‘O</span></h2>
+    <h1><span style='font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-ascii-font-family:Arial'>ï¿½ï¿½ï¿½ÂX</span> </h1>
+    <h1><span style='font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-ascii-font-family:Arial'>ï¿½ï¿½</span><span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-ascii-font-family:Arial'>ï¿½ï¿½</span><span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-ascii-font-family:Arial'>ï¿½ï¿½</span><span lang="EN-US"> </span></h1>
+    <h2><span style='font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial'>ï¿½ï¿½ï¿½Oï¿½Tï¿½Ô‘O</span></h2>
     <p class="a0"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">•‘‘ä‚©‚çì‹Æ‚ð‚·‚é‰¹‚ª•·‚±‚¦‚Ä‚­‚éB<span lang="EN-US"><br />
-    </span>ãj’ ‚ªã‚ª‚é‚ÆA•‘‘äƒXƒ^ƒbƒt‚ª•‘‘äì‚è‚ð‚µ‚Ä‚¢‚éB</p>
-    <p class="a0">“¯Žž‚ÉŽq‚Ç‚à‚½‚¿‚ª‘Sˆõ‘ä–{‚ðŽ‚Á‚ÄŒ€‚Ì—ûK‚ð‚µ‚Ä‚¢‚éB</p>
-    <p class="a0">•‘‘ä‚Ì€”õ‚ªŠ®¬‚·‚éB<span lang="EN-US"><br style="mso-special-character:line-break" />
+    <p class="a0">ï¿½ï¿½ï¿½ä‚©ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½é‰¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½ï¿½ÆAï¿½ï¿½ï¿½ï¿½Xï¿½^ï¿½bï¿½tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽqï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br style="mso-special-character:line-break" />
     <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break" />
     <![endif]></span></p>
-    <p class="a">ƒXƒ^ƒbƒt‚P@ ™yŽq‚³‚ñB</p>
-    <p class="a">ƒXƒ^ƒbƒt’B@•‘‘ä‚Ì€”õ‚ª‚Å‚«‚Ü‚µ‚½B</p>
-    <p class="a">™yŽq<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ƒI[ƒP[B‚»‚ê‚¶‚áƒI[ƒvƒjƒ“ƒOAƒnƒ„ƒg‚Ì‘äŽŒ‚©‚çŽn‚ß‚é‚æB</p>
+    <p class="a">ï¿½Xï¿½^ï¿½bï¿½tï¿½Pï¿½@ ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Xï¿½^ï¿½bï¿½tï¿½Bï¿½@ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½q<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½Iï¿½[ï¿½Pï¿½[ï¿½Bï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½Iï¿½[ï¿½vï¿½jï¿½ï¿½ï¿½Oï¿½Aï¿½nï¿½ï¿½ï¿½gï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½nï¿½ß‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ƒXƒ^ƒbƒt‚ª‘³‚É‰º‚ª‚éB<span lang="EN-US"><br />
-    </span>ƒI[ƒvƒjƒ“ƒO‚Ì“oêl•¨<span lang="EN-US">(</span>ƒnƒ„ƒgA—Ú—ž•PAƒ„ƒuƒŒAƒJƒuƒŒA¬—Ú—ž<span lang="EN-US">)</span>‚ð‰‰‚¶‚éŽq‚Ç‚à‚½‚¿‚ªW‚Ü‚éB<span lang="EN-US"><br />
-    </span>ƒnƒ„ƒg‚Æ—Ú—ž•P‚Æ‚»‚Ì‰Æ—ˆ‚ª‘Î›³‚·‚éB<span lang="EN-US"><br />
-    </span>‚±‚ÌƒV[ƒ“‚Å‚Í‘Sˆõ‚ªŽè‚ÉŽ‚Á‚Ä‚¢‚é‘ä–{‚ðŒ©‚È‚ª‚ç‰‰‹Z‚ðs‚¤B</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½Xï¿½^ï¿½bï¿½tï¿½ï¿½ï¿½ï¿½ï¿½É‰ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½Iï¿½[ï¿½vï¿½jï¿½ï¿½ï¿½Oï¿½Ì“oï¿½ï¿½lï¿½ï¿½<span lang="EN-US">(</span>ï¿½nï¿½ï¿½ï¿½gï¿½Aï¿½Ú—ï¿½ï¿½Pï¿½Aï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Aï¿½Jï¿½uï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ú—ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½Ü‚ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½nï¿½ï¿½ï¿½gï¿½Æ—Ú—ï¿½ï¿½Pï¿½Æ‚ï¿½ï¿½Ì‰Æ—ï¿½ï¿½ï¿½ï¿½Î›ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½Å‚Í‘Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ç‰‰ï¿½Zï¿½ï¿½ï¿½sï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@ˆ¤A‰¹Šy“ü‚ê‚ÄBi‰¹Šy“ü‚éj‚n‚jBƒnƒ„ƒg‚Ì‘äŽŒu‚±‚ÌX‚©‚ço‚Ä‚¢‚Á‚Äv‚©‚çB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ÄBï¿½iï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½jï¿½nï¿½jï¿½Bï¿½nï¿½ï¿½ï¿½gï¿½Ì‘äŽŒï¿½uï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ävï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg<span lang="EN-US"><span
-style='mso-spacerun:yes'>&nbsp; </span></span>‚±‚ÌX‚©‚ço‚Ä‚¢‚Á‚ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P<span lang="EN-US"><span
-style='mso-spacerun:yes'>&nbsp; </span></span>Ž„‚ª’N‚¾‚©‚í‚©‚Á‚Ä‚é‚ÌB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@<span lang="EN-US">(</span>Žñ‚ðU‚é<span lang="EN-US">)<o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@Ž„‚Í—Ú—ž•PB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@—Ú—ž•PH<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@‚³‚ AŽŸ‚Í‚ ‚È‚½‚Ì”Ô‚ËB‚ ‚È‚½‚Ì–¼‘O‚ð‹³‚¦‚ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@ƒnƒ„ƒgB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@ƒnƒ„ƒgB‚·‚Ä‚«‚È–¼‘O‚ËB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@‚±‚ÌX‚©‚ço‚Ä‚¢‚Á‚ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@o‚Ä‚¢‚­‚Ì‚ÍŽ„‚¶‚á‚È‚¢B‚ ‚È‚½‚æB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg<span lang="EN-US"><span
-style='mso-spacerun:yes'>&nbsp; </span></span>–l‚ªc<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@<span lang="EN-US">(</span>‚¤‚È‚¸‚­<span lang="EN-US">)</span>@‚³‚ A‹S‚²‚Á‚±‚ð‚Í‚¶‚ß‚Ü‚µ‚å‚¤‚©B‹S‚ÍŽ„A“¦‚°‚é‚Ì‚Íƒnƒ„ƒgA‚ ‚È‚½B<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@c<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@“¦‚°‚È‚¢‚ÌHiƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚Éj•ß‚Ü‚¦‚ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½g<span lang="EN-US"><span
+style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½P<span lang="EN-US"><span
+style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½í‚©ï¿½ï¿½ï¿½Ä‚ï¿½ÌB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½Uï¿½ï¿½<span lang="EN-US">)<o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½Í—Ú—ï¿½ï¿½Pï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½H<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½Ì”Ô‚ËBï¿½ï¿½ï¿½È‚ï¿½ï¿½Ì–ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½Bï¿½ï¿½ï¿½Ä‚ï¿½ï¿½È–ï¿½ï¿½Oï¿½ËB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ì‚ÍŽï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½g<span lang="EN-US"><span
+style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½lï¿½ï¿½ï¿½c<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ß‚Ü‚ï¿½ï¿½å‚¤ï¿½ï¿½ï¿½Bï¿½Sï¿½ÍŽï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Íƒnï¿½ï¿½ï¿½gï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½c<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌHï¿½iï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½Éjï¿½ß‚Ü‚ï¿½ï¿½ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚ªƒnƒ„ƒg‚ð—}‚¦‚Â‚¯‚é<span lang="EN-US">(</span>“®‚«‚ª‚¬‚±‚¿‚È‚¢<span lang="EN-US">)</span>B<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg‚Í•KŽ€‚Ì’ïR‚ð‚·‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½gï¿½ï¿½}ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½<span lang="EN-US">)</span>ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½Í•Kï¿½ï¿½ï¿½Ì’ï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@—Ú—ž•PB‚Ç‚¤‚µ‚Ä‚¨•P—l‚ç‚µ‚­A‚¨é‚Å‹ÊŽq—l‚Æ•é‚ç‚³‚È‚¢‚ÌB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½Bï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Pï¿½lï¿½ç‚µï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Å‹ÊŽqï¿½lï¿½Æ•ï¿½ç‚³ï¿½È‚ï¿½ï¿½ÌB<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@ƒXƒgƒbƒvB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Xï¿½gï¿½bï¿½vï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Œ€‚ª’†’f‚·‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@”¹lB‹ÊŽq—l‚Á‚Ä‰½H</p>
-    <p class="a">”¹l@<span lang="EN-US">(</span>‘ä–{‚ðŽ¦‚µ‚Ä<span lang="EN-US">)</span>‚±‚±‚Éc</p>
-    <p class="a">™yŽq@‚æ‚­Œ©‚ëA‚»‚ê‚Íu‹ÊŽq—lv‚¶‚á‚È‚¢u‰¤Žq—lv‚¾B</p>
-    <p class="a">”¹l@<span lang="EN-US">(</span>‚ ‚ÁI<span lang="EN-US">)</span></p>
-    <p class="a">™yŽq@‚¨é‚É‹ÊŽq—l‚È‚ñ‚Ä‚¢‚é‚í‚¯‚È‚¢‚¾‚ëB‚¨é‚Æ‚¢‚¦‚Î‰¤Žq—lBíŽ¯‚¾B</p>
-    <p class="a">”¹l@‚·‚Ý‚Ü‚¹‚ñB</p>
-    <p class="a">™yŽq@i‘Sˆõ‚Éj‚Ý‚ñ‚È‚¢‚¢B‚à‚µ’N‚©‚ªŠÔˆá‚¦‚½‚çƒtƒHƒ[‚·‚é‚±‚ÆBŠÏ‹q‚ªŠÔˆá‚¢‚É‹C‚ª‚Â‚©‚È‚¯‚ê‚Î‚»‚ê‚ÍŽ¸”s‚¶‚á‚È‚¢B¡‚Ì‚¤‚¿‚©‚ç–{”Ô‚ð‘z’è‚µ‚ÄƒtƒHƒ[‚Å‚«‚é‚æ‚¤‚É‚µ‚Ä‚¨‚­‚±‚ÆB‚í‚©‚Á‚½B</p>
-    <p class="a">‚Ý‚ñ‚È@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚³‚ÁAŽŸ‚ÌƒV[ƒ“‚É‚¢‚­‚æBˆ¤B‰¹Šy“ü‚ê‚ÄBi‰¹Šy‚h‚mjƒI[ƒP[B‚Í‚¢Aƒnƒ„ƒg‚Ì‘äŽŒ‚©‚çB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½Bï¿½ÊŽqï¿½lï¿½ï¿½ï¿½Ä‰ï¿½ï¿½H</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@<span lang="EN-US">(</span>ï¿½ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½Éc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½æ‚­ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Íuï¿½ÊŽqï¿½lï¿½vï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½uï¿½ï¿½ï¿½qï¿½lï¿½vï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½I<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½É‹ÊŽqï¿½lï¿½È‚ï¿½Ä‚ï¿½ï¿½ï¿½í‚¯ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Î‰ï¿½ï¿½qï¿½lï¿½Bï¿½íŽ¯ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½iï¿½Sï¿½ï¿½ï¿½Éjï¿½Ý‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½Ôˆá‚¦ï¿½ï¿½ï¿½ï¿½tï¿½Hï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½é‚±ï¿½ÆBï¿½Ï‹qï¿½ï¿½ï¿½Ôˆá‚¢ï¿½É‹Cï¿½ï¿½ï¿½Â‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ÍŽï¿½ï¿½sï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½Ô‚ï¿½zï¿½è‚µï¿½Äƒtï¿½Hï¿½ï¿½ï¿½[ï¿½Å‚ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆBï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Ý‚ï¿½È@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ÄBï¿½iï¿½ï¿½ï¿½yï¿½hï¿½mï¿½jï¿½Iï¿½[ï¿½Pï¿½[ï¿½Bï¿½Í‚ï¿½ï¿½Aï¿½nï¿½ï¿½ï¿½gï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@¬“‡‚¾A¬“‡‚ª‚È‚¢‚Ä‚¢‚éB‚ ‚È‚½•û‚É‚Í•·‚±‚¦‚È‚¢‚ÌA‚±‚Ìº‚ªB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒJƒuƒŒ@‚Ó‚Ó‚ÓA•·‚±‚¦‚é‚æB¬“‡‚¾‚¯‚¶‚á‚Ë[B“c’†‚àŽR–{‚à‚È‚¢‚Ä‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½É‚Í•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌAï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½Ó‚Ó‚ÓAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë[ï¿½Bï¿½cï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@”nŽ­Ii‰‰‹Z‚ªƒXƒgƒbƒv‚·‚éj”nŽ­B”nŽ­B”nŽ­B”¹lB¬“‡‚ª‹ƒ‚¢‚Ä‚é‚Á‚Ä‰½H¬’¹‚¾‚ë‚¤B</p>
-    <p class="a">”¹l@I</p>
-    <p class="a">™yŽq@‚±‚ñ‚ÈŠÈ’P‚ÈŠ¿ŽšAŠÔˆá‚¦‚é‚ÈB‚»‚ê‚Æ‘å•ãB</p>
-    <p class="a">‘å•ã@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚»‚ÌŒã‚Ì“c’†‚àŽR–{‚à‹ƒ‚¢‚Ä‚é‚Á‚Ä‚Ì‚Í‰½H</p>
-    <p class="a">‘å•ã@ƒtƒHƒ[‚Å‚·B</p>
-    <p class="a">™yŽq@X‚Ì’†‚ÅA¬“‡‚â“c’†‚âŽR–{‚ª‹ƒ‚¢‚Ä‚¢‚é‚ñ‚¾B</p>
-    <p class="a">‘å•ã@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚È‚é‚Ù‚Ç•sŽv‹c‚È¢ŠE‚¾B</p>
-    <p class="a">‘å•ã@‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B</p>
-    <p class="a">™yŽq@”nŽ­IX‚Ì’†‚Å¬“‡‚â“c’†‚âŽR–{‚ª‹ƒ‚¢‚Ä‚¢‚Ä‚Ç‚¤‚È‚éB‚»‚ê‚©‚çæ‚ðŒ¾‚Á‚Ä‚Ý‚ëB</p>
-    <p class="a">‘å•ã@c‚»‚±‚Ü‚Ål‚¦‚Ä‚Ü‚¹‚ñB</p>
-    <p class="a">™yŽq@‚»‚±‚Ü‚Ål‚¦‚ÄƒtƒHƒ[‚µ‚ÈB</p>
-    <p class="a">‘å•ã@c</p>
-    <p class="a">™yŽq@”¹lA‚¨‘O‰½”N¶‚¾B</p>
-    <p class="a">”¹l@˜Z”N¶‚Å‚·B</p>
-    <p class="a">™yŽq@˜Z”N¶HI˜Z”N¶‚È‚çŠ¿Žš‚­‚ç‚¢‚µ‚Á‚©‚è•×‹­‚µ‚ëB</p>
-    <p class="a">”¹l@‚·‚Ý‚Ü‚¹‚ñB–lA‚¸‚Á‚ÆƒAƒƒŠƒJ‚Å¶Šˆ‚µ‚Ä‚¢‚ÄA“ú–{Œê‚ð’‚é‚Ì‚Í‘åä•v‚È‚ñ‚Å‚·‚¯‚ÇAŠ¿Žš‚Í¡•×‹­’†‚ÅB</p>
-    <p class="a">™yŽq@ŽŸ‚Ì—ûK‚Ü‚Å‚ÉŠ¿Žš‚É‘S•”‚Ó‚è‚ª‚È‚Ó‚Á‚Ä‚«‚ÈB</p>
-    <p class="a">”¹l@‚Í‚¢B</p>
-    <p class="a" style="margin-left:0mm;text-indent:0mm">™yŽq@“ª‚ª’É‚¢B¡“ú‚Í‚±‚±‚Ü‚Å‚É‚µ‚æ‚¤B‚Ý‚ñ‚ÈA‹A‚Á‚Ä‚¢‚¢‚æB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Iï¿½iï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½Xï¿½gï¿½bï¿½vï¿½ï¿½ï¿½ï¿½jï¿½nï¿½ï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½lï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ä‰ï¿½ï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚¤ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½I</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ÈŠÈ’Pï¿½ÈŠï¿½ï¿½ï¿½ï¿½Aï¿½Ôˆá‚¦ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½Æ‘ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÌŒï¿½Ì“cï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ä‚Ì‚Í‰ï¿½ï¿½H</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½tï¿½Hï¿½ï¿½ï¿½[ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Xï¿½Ì’ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ñ‚¾B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½È‚ï¿½Ù‚Ç•sï¿½vï¿½cï¿½Èï¿½ï¿½Eï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Iï¿½Xï¿½Ì’ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ä‚Ç‚ï¿½ï¿½È‚ï¿½Bï¿½ï¿½ï¿½ê‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Ålï¿½ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Ålï¿½ï¿½ï¿½Äƒtï¿½Hï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½Aï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Zï¿½Nï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Zï¿½Nï¿½ï¿½ï¿½Hï¿½Iï¿½Zï¿½Nï¿½ï¿½ï¿½È‚çŠ¿ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×‹ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½Bï¿½lï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÆƒAï¿½ï¿½ï¿½ï¿½ï¿½Jï¿½Åï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½{ï¿½ï¿½ð’‚ï¿½Ì‚Í‘ï¿½ï¿½vï¿½È‚ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½×‹ï¿½ï¿½ï¿½ï¿½ÅB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½Ü‚Å‚ÉŠï¿½ï¿½ï¿½ï¿½É‘Sï¿½ï¿½ï¿½Ó‚è‚ªï¿½È‚Ó‚ï¿½ï¿½Ä‚ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a" style="margin-left:0mm;text-indent:0mm">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½Ü‚Å‚É‚ï¿½ï¿½æ‚¤ï¿½Bï¿½Ý‚ï¿½ÈAï¿½Aï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a" style="margin-left:0mm;text-indent:0mm"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">‚Ý‚ñ‚ÈA‹A‚ë‚¤‚Æ‚µ‚È‚¢B</p>
+    <p class="a0">ï¿½Ý‚ï¿½ÈAï¿½Aï¿½ë‚¤ï¿½Æ‚ï¿½ï¿½È‚ï¿½ï¿½B</p>
     <p class="a" style="margin-left:0mm;text-indent:0mm"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a" style="margin-left:0mm;text-indent:0mm">™yŽq@‚Ç‚¤‚µ‚½B‰ðŽUA‰ðŽU‚¾B</p>
+    <p class="a" style="margin-left:0mm;text-indent:0mm">ï¿½yï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Uï¿½Aï¿½ï¿½ï¿½Uï¿½ï¿½ï¿½B</p>
     <p class="a" style="margin-left:0mm;text-indent:0mm"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">‚Ý‚ñ‚È‚ª‹A‚éŽx“x‚ð‚µ‚É•‘‘ä‚©‚ç‹Ž‚Á‚Ä‚¢‚­B<span lang="EN-US"><br />
-    </span>—T”ü‚ªŒ»‚ê‚éB</p>
+    <p class="a0">ï¿½Ý‚ï¿½È‚ï¿½ï¿½Aï¿½ï¿½xï¿½xï¿½ï¿½ï¿½ï¿½ï¿½É•ï¿½ï¿½ä‚©ï¿½ç‹Žï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a" style="margin-left:0mm;text-indent:0mm">—T”ü@™yŽq‚¿‚á‚ñA‚¨”æ‚ê—lB</p>
-    <p class="a">™yŽq@—T”üAˆê‚Â•·‚¢‚Ä‚¢‚¢A</p>
-    <p class="a">—T”ü@‰½H</p>
-    <p class="a">™yŽq@‚±‚Ì‘ä–{A‚Ù‚ñ‚Æ‚É—T”ü‚ª‘n‚Á‚½‚Ì‚©B</p>
-    <p class="a">—T”ü@c‚¤‚ñB</p>
-    <p class="a">™yŽq@”z–ð‚ðŒˆ‚ß‚½‚Ì‚ÍH</p>
-    <p class="a">—T”ü@cŽ„B</p>
-    <p class="a">™yŽq@‰½‚Å‚ ‚ÌŽq‚ªŽå–ð‚Ìƒnƒ„ƒg‚È‚ÌB</p>
-    <p class="a">—T”ü@‚ ‚ÌŽq‚Ì–¼‘O‚àA”¹l‚¾‚Á‚½‚©‚çB‰½‚©A‰^–½“I‚È‚à‚Ì‚ðŠ´‚¶‚ÄB</p>
-    <p class="a">™yŽq@”z–ð•Ï‚¦‚Ä‚à‚¢‚¢‚©‚ÈB</p>
-    <p class="a">—T”ü@‚»‚ê‚Íc¢‚éc</p>
-    <p class="a">™yŽq@‰½‚ÅB</p>
-    <p class="a">—T”ü@‚»‚ê‚Íc</p>
-    <p class="a">™yŽq@—T”üB‰‰oAŽ„‚É—Š‚Ý‚½‚¢‚ñ‚¾‚ëB‚»‚ê‚È‚ç”z–ð‚ÍŽ„‚ÌŽ©—R‚É‚³‚¹‚ÄB</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñA‚²‚ß‚ñ‚È‚³‚¢BŽ„A‰R‚Â‚¢‚Ä‚½B</p>
-    <p class="a">™yŽq@‰RH</p>
-    <p class="a">—T”ü@‚±‚ÌŒ€‘n‚Á‚½‚ÌA–{“–‚ÍŽ„‚¶‚á‚È‚¢‚ÌB</p>
-    <p class="a">™yŽq@—T”ü‚¶‚á‚È‚¢IH‚¶‚áA’N‚ª‘n‚Á‚½‚ñ‚¾B</p>
-    <p class="a">—T”ü@<span lang="EN-US">(</span>‚¤‚ñ<span lang="EN-US">) </span></p>
-    <p class="a">™yŽq@’N‚È‚ñ‚¾B</p>
-    <p class="a">—T”ü@ŒbŽqB</p>
-    <p class="a">™yŽq@ŒbŽqH</p>
-    <p class="a">—T”ü@<span lang="EN-US">(</span>‚¤‚ñ<span lang="EN-US">) </span>Žµ‚ÂX’†‚Å¶“k‰ï’·‚¾‚Á‚½B</p>
-    <p class="a">™yŽq@ŽRŒûŒbŽq‚©IH</p>
-    <p class="a">—T”ü@<span lang="EN-US">(</span>‚¤‚ñ<span lang="EN-US">)</span>¡‚ÍŒ‹¥‚µ‚ÄŽO‰YŒbŽq‚É‚È‚Á‚Ä‚é‚¯‚ÇB</p>
-    <p class="a">™yŽq@Žµ‚ÂX‚ªƒŒƒWƒƒ[ƒ‰ƒ“ƒh‚É‚È‚é‚±‚Æ‚É”½‘Î‚µ‚ÄAŽq‚Ç‚à‚½‚¿‚ðW‚ß‚ÄŽs–¯Œ|pÕ‚ÅŒ€‚ðã‰‰‚·‚éBŒbŽq‚ª‚â‚è‚»‚¤‚È‚±‚Æ‚¾B‚»‚ê‚¶‚á”z–ðŒˆ‚ß‚½‚Ì‚àc</p>
-    <p class="a">—T”ü@<span lang="EN-US">(</span>‚¤‚ñ<span lang="EN-US">)</span>ŒbŽqB</p>
-    <p class="a">™yŽq@‚¾‚©‚ç‚ ‚ñ‚È–Å’ƒ‹ê’ƒ‚È”z–ð‚È‚Ì‚©BŒbŽq‚ÉŒ¾‚Á‚Æ‚¢‚Ä‚­‚êAŽ©•ª‚ÅŽn‚ß‚½‚±‚Æ‚ÍÅŒã‚Ü‚ÅŽ©•ª‚Å‚â‚êBl‚É—Š‚Þ‚È‚Á‚ÄB</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñBŒbŽqA“ü‰@‚µ‚Ä‚é‚ÌB</p>
-    <p class="a">™yŽq@“ü‰@H</p>
-    <p class="a">—T”ü@”z–ðŒˆ‚ß‚½ŒãA“|‚ê‚¿‚á‚Á‚ÄB‹Ù‹}Žèp‚Å–½‚Í•‚©‚Á‚½‚ñ‚¾‚¯‚ÇA‚Ü‚¾ˆÀÃ‚É‚µ‚Ä‚È‚­‚¿‚á‚¢‚¯‚È‚­‚Á‚ÄBŒbŽq‚ÌŒãAŽ„‚ªˆø‚«Œp‚°‚Î‚æ‚©‚Á‚½‚ñ‚¾‚¯‚Çc</p>
-    <p class="a">™yŽq@c</p>
-    <p class="a">—T”ü@ŽÀ‚ÍA™yŽq‚¿‚á‚ñ‚É—Š‚ß‚Î‚¢‚¢‚Á‚ÄŒ¾‚Á‚½‚ÌŒbŽq‚È‚ÌB‚Å‚à™yŽq‚¿‚á‚ñŒbŽq‚Ì‚±‚ÆŒ™‚¢‚¾‚©‚çAŒbŽq‚ªŽn‚ß‚½‚Á‚Ä’m‚Á‚½‚çâ‘Îˆø‚«Žó‚¯‚È‚¢‚©‚çAŽ„‚ªŽn‚ß‚½‚Á‚Ä‰R‚Â‚¯‚Î‚¢‚¢‚Á‚ÄB</p>
-    <p class="a">™yŽq@‰½‚ÅŽ„‚Éc</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñ¡Œ€’c‚ÅŠˆ–ô‚µ‚Ä‚é‚±‚ÆŒbŽq’m‚Á‚Ä‚ÄA<span lang="EN-US">(</span>‚ ‚Á<span lang="EN-US">)</span>™yŽq‚¿‚á‚ñ‚ª‰‰o‚µ‚½Œ€‚ðŠÏ‚½‚±‚Æ‚à‚ ‚é‚Ý‚½‚¢B™yŽq‚¿‚á‚ñ‚È‚ç‚«‚Á‚Æ‚·‚Ä‚«‚ÈŒ€‚É‚µ‚Ä‚­‚ê‚é‚Á‚ÄcŒbŽqŒ¾‚Á‚Ä‚½B</p>
-    <p class="a">™yŽq@ŒbŽq‚Ì‚½‚ß‚ÉA‚±‚ÌŒ€‚ð‚â‚ê‚Á‚Ä‚©H</p>
-    <p class="a">—T”ü@ŒbŽq‚Ì‚½‚ß‚¶‚á‚È‚­‚ÄcŽµ‚ÂX‚Ì‚½‚ß‚ÉB</p>
-    <p class="a">™yŽq@Žµ‚ÂX‚ÌH</p>
-    <p class="a">—T”ü@<span lang="EN-US">(</span>‚¤‚È‚¸‚­<span lang="EN-US">)</span>Ž„AD‚«‚È‚ÌAŽµ‚ÂX‚ªBŽ„AŽµ‚ÂX‚ªƒŒƒWƒƒ[ƒ‰ƒ“ƒh‚É‚È‚Á‚Ä‚Ù‚µ‚­‚È‚¢‚ÌB</p>
-    <p class="a">™yŽq@c</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñA™yŽq‚¿‚á‚ñ‚àŽµ‚ÂX‚ªD‚«‚Å‚µ‚åB</p>
-    <p class="a">™yŽq@c</p>
-    <p class="a">—T”ü@D‚«‚¾‚æ‚ËA™yŽq‚¿‚á‚ñB</p>
-    <p class="a">™yŽq@¡‚Ü‚Ål‚¦‚½‚±‚Æ‚È‚©‚Á‚½‚ÈA‚»‚ñ‚È‚±‚Æc</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñAŽµ‚ÂX‚ð‹~‚Á‚Ä‚æB</p>
-    <p class="a">™yŽq@Ž„‚ÍƒX[ƒp[ƒE[ƒ}ƒ“‚¶‚á‚È‚¢B</p>
-    <p class="a">—T”ü@‚Å‚à™yŽq‚¿‚á‚ñ’†Šw‚ÌŽž‚©‚çAŽ„‚ª¢‚Á‚Ä‚éŽž‚¢‚Â‚à•‚¯‚Ä‚­‚ê‚½B‚¾‚©‚çA™yŽq‚¿‚á‚ñ‚È‚ç‚Å‚«‚é‹C‚ª‚·‚é‚ÌB</p>
-    <p class="a">™yŽq@‰‰Œ€‚²‚Æ‚«‚É‰½‚ª‚Å‚«‚éB</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq@‚ ‚ÆŽOTŠÔ‚µ‚©‚È‚¢‚ñ‚¾‚¼B</p>
-    <p class="a">—T”ü@c</p>
+    <p class="a" style="margin-left:0mm;text-indent:0mm">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½lï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½Aï¿½ï¿½Â•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½A</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½H</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ì‘ï¿½{ï¿½Aï¿½Ù‚ï¿½Æ‚É—Tï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½cï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Ì‚ÍH</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½cï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ÌŽqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìƒnï¿½ï¿½ï¿½gï¿½È‚ÌB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ÌŽqï¿½Ì–ï¿½ï¿½Oï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½^ï¿½ï¿½ï¿½Iï¿½È‚ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½zï¿½ï¿½Ï‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Ícï¿½ï¿½ï¿½ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÅB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Íc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½oï¿½Aï¿½ï¿½ï¿½É—ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Bï¿½ï¿½ï¿½ï¿½È‚ï¿½zï¿½ï¿½ï¿½ÍŽï¿½ï¿½ÌŽï¿½ï¿½Rï¿½É‚ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ß‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½Rï¿½Â‚ï¿½ï¿½Ä‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Rï¿½H</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ÌŒï¿½ï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ÌAï¿½{ï¿½ï¿½ï¿½ÍŽï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Iï¿½Hï¿½ï¿½ï¿½ï¿½Aï¿½Nï¿½ï¿½ï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">) </span></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Nï¿½È‚ñ‚¾B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½bï¿½qï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½bï¿½qï¿½H</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">) </span>ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½Åï¿½ï¿½kï¿½ï’·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Rï¿½ï¿½ï¿½bï¿½qï¿½ï¿½ï¿½Iï¿½H</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ÍŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŽOï¿½Yï¿½bï¿½qï¿½É‚È‚ï¿½ï¿½Ä‚é‚¯ï¿½ÇB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½hï¿½É‚È‚é‚±ï¿½Æ‚É”ï¿½ï¿½Î‚ï¿½ï¿½ÄAï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ß‚ÄŽsï¿½ï¿½ï¿½|ï¿½pï¿½Õ‚ÅŒï¿½ï¿½ï¿½ï¿½ã‰‰ï¿½ï¿½ï¿½ï¿½Bï¿½bï¿½qï¿½ï¿½ï¿½ï¿½è‚»ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½Bï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½zï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Ì‚ï¿½ï¿½c</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½bï¿½qï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ç‚ ï¿½ï¿½È–Å’ï¿½ï¿½ê’ƒï¿½È”zï¿½ï¿½ï¿½È‚Ì‚ï¿½ï¿½Bï¿½bï¿½qï¿½ÉŒï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÅŽnï¿½ß‚ï¿½ï¿½ï¿½ï¿½Æ‚ÍÅŒï¿½Ü‚ÅŽï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½lï¿½É—ï¿½ï¿½Þ‚È‚ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½bï¿½qï¿½Aï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ä‚ï¿½ÌB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½@ï¿½H</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½zï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½Aï¿½|ï¿½ê‚¿ï¿½ï¿½ï¿½ï¿½ÄBï¿½Ù‹}ï¿½ï¿½pï¿½Å–ï¿½ï¿½Íï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ÇAï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Ã‚É‚ï¿½ï¿½Ä‚È‚ï¿½ï¿½ï¿½ï¿½á‚¢ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÄBï¿½bï¿½qï¿½ÌŒï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½Î‚æ‚©ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½Çc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½c</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ÍAï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½É—ï¿½ï¿½ß‚Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŒbï¿½qï¿½È‚ÌBï¿½Å‚ï¿½ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½bï¿½qï¿½Ì‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½bï¿½qï¿½ï¿½ï¿½nï¿½ß‚ï¿½ï¿½ï¿½ï¿½Ä’mï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îˆï¿½ï¿½ï¿½ï¿½ó‚¯‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ß‚ï¿½ï¿½ï¿½ï¿½Ä‰Rï¿½Â‚ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÅŽï¿½ï¿½Éc</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ñ¡Œï¿½ï¿½cï¿½ÅŠï¿½ï¿½ô‚µ‚Ä‚é‚±ï¿½ÆŒbï¿½qï¿½mï¿½ï¿½ï¿½Ä‚ÄA<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ñ‚ª‰ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½Bï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½È‚ç‚«ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ÈŒï¿½ï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äcï¿½bï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½bï¿½qï¿½Ì‚ï¿½ï¿½ß‚ÉAï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½H</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½bï¿½qï¿½Ì‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½Äcï¿½ï¿½ï¿½ÂXï¿½Ì‚ï¿½ï¿½ß‚ÉB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÂXï¿½ÌH</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½Aï¿½Dï¿½ï¿½ï¿½È‚ÌAï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½hï¿½É‚È‚ï¿½ï¿½Ä‚Ù‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½c</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½c</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËAï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ü‚Ålï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈAï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æc</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½Ä‚ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÍƒXï¿½[ï¿½pï¿½[ï¿½Eï¿½[ï¿½}ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ñ’†Šwï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚éŽžï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ê‚½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½Å‚ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É‰ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÆŽOï¿½Tï¿½Ô‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
     <p class="a0"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Œ€‚Éo‚éŽq‚Ç‚à‚½‚¿‚ªŒ»‚ê‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½Éoï¿½ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚Ç‚¤‚µ‚½B</p>
-    <p class="a">”¹l@–¾“ú‚Í‰½Žž‚ÉW‡‚·‚ê‚Î‚¢‚¢‚Å‚·‚©B</p>
-    <p class="a">™yŽq@c¡“ú‚Æ“¯‚¶‚Å‚¢‚¢B</p>
-    <p class="a">”¹l@‚í‚©‚è‚Ü‚µ‚½B</p>
-    <p class="a">™yŽq@”¹lB</p>
-    <p class="a">”¹l@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚¿‚á‚ñ‚ÆŠ¿ŽšŠo‚¦‚Ä‚­‚é‚ñ‚¾‚¼B</p>
-    <p class="a">”¹l@‚Í‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½ï¿½ï¿½ÉWï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½í‚©ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÆŠï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Í‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Žq‚Ç‚à‚½‚¿‚ª‹A‚Á‚Äs‚­B</p>
+    <p class="a0">ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Äsï¿½ï¿½ï¿½B</p>
     <p class="MsoNormal"><span lang="EN-US"><br />
-    </span><span style='font-family:"‚l‚r –¾’©","serif";mso-ascii-font-family:Century;
-mso-hansi-font-family:Century'>—T”ü@™yŽq‚¿‚á‚ñA‚ ‚è‚ª‚ÆB</span></p>
-    <p class="MsoNormal"><span style='font-family:"‚l‚r –¾’©","serif";mso-ascii-font-family:
-Century;mso-hansi-font-family:Century'>™yŽq@—T”üA‚Ü‚¾ˆø‚«Žó‚¯‚é‚È‚ñ‚Äc</span></p>
-    <p class="MsoNormal"><span style='font-family:"‚l‚r –¾’©","serif";mso-ascii-font-family:
-Century;mso-hansi-font-family:Century'>—T”ü@</span><span lang="EN-US">(</span><span
-style='font-family:"‚l‚r –¾’©","serif";mso-ascii-font-family:Century;mso-hansi-font-family:
-Century'>”÷Î‚Þ</span><span lang="EN-US">)</span><span style='font-family:"‚l‚r –¾’©","serif";
-mso-ascii-font-family:Century;mso-hansi-font-family:Century'>‚ ‚è‚ª‚ÆB</span> </p>
-    <p class="MsoNormal"><span style='font-family:"‚l‚r –¾’©","serif";mso-ascii-font-family:
-Century;mso-hansi-font-family:Century'>™yŽq@</span><span lang="EN-US">(</span><span
-style='font-family:"‚l‚r –¾’©","serif";mso-ascii-font-family:Century;mso-hansi-font-family:
-Century'>‘å‚«‚È‚½‚ß‘§</span><span lang="EN-US">)</span><span style='font-family:"‚l‚r –¾’©","serif";
-mso-ascii-font-family:Century;mso-hansi-font-family:Century'>”nŽ­B</span> </p>
+    </span><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";mso-ascii-font-family:Century;
+mso-hansi-font-family:Century'>ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½è‚ªï¿½ÆB</span></p>
+    <p class="MsoNormal"><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";mso-ascii-font-family:
+Century;mso-hansi-font-family:Century'>ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ó‚¯‚ï¿½È‚ï¿½Äc</span></p>
+    <p class="MsoNormal"><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";mso-ascii-font-family:
+Century;mso-hansi-font-family:Century'>ï¿½Tï¿½ï¿½ï¿½@</span><span lang="EN-US">(</span><span
+style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";mso-ascii-font-family:Century;mso-hansi-font-family:
+Century'>ï¿½ï¿½ï¿½Î‚ï¿½</span><span lang="EN-US">)</span><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
+mso-ascii-font-family:Century;mso-hansi-font-family:Century'>ï¿½ï¿½ï¿½è‚ªï¿½ÆB</span> </p>
+    <p class="MsoNormal"><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";mso-ascii-font-family:
+Century;mso-hansi-font-family:Century'>ï¿½yï¿½qï¿½@</span><span lang="EN-US">(</span><span
+style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";mso-ascii-font-family:Century;mso-hansi-font-family:
+Century'>ï¿½å‚«ï¿½È‚ï¿½ï¿½ß‘ï¿½</span><span lang="EN-US">)</span><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";
+mso-ascii-font-family:Century;mso-hansi-font-family:Century'>ï¿½nï¿½ï¿½ï¿½B</span> </p>
     <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0" style="margin-left:31.2pt;text-indent:0mm">—T”ü‚ª•‘‘ä‚©‚ç‹Ž‚éB</p>
-    <p class="a0" style="margin-left:31.2pt;text-indent:0mm">™yŽq‚ÍˆÖŽq‚ÉÀ‚Á‚½Žp¨‚Å–Ú‚ð‚Â‚Þ‚Á‚Äl‚¦ž‚ÞB<span lang="EN-US"><br style="mso-special-character:line-break" />
+    <p class="a0" style="margin-left:31.2pt;text-indent:0mm">ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ä‚©ï¿½ç‹Žï¿½ï¿½B</p>
+    <p class="a0" style="margin-left:31.2pt;text-indent:0mm">ï¿½yï¿½qï¿½ÍˆÖŽqï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½Å–Ú‚ï¿½ï¿½Â‚Þ‚ï¿½ï¿½Älï¿½ï¿½ï¿½ï¿½ï¿½ÞB<span lang="EN-US"><br style="mso-special-character:line-break" />
     <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break" />
     <![endif]></span></p>
-    <h2><span style='font-family:"‚l‚r ƒSƒVƒbƒN";mso-ascii-font-family:Arial;mso-hansi-font-family:
-Arial'>Ÿ“ñTŠÔ‘O</span></h2>
+    <h2><span style='font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial'>ï¿½ï¿½ï¿½ï¿½Tï¿½Ô‘O</span></h2>
     <p class="a0" style="margin-left:31.2pt;text-indent:0mm"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0" style="margin-left:31.2pt;text-indent:0mm">Œê‚è•”‚P`‚S‚ª“oê‚·‚éB<span lang="EN-US"><br style="mso-special-character:line-break" />
+    <p class="a0" style="margin-left:31.2pt;text-indent:0mm">ï¿½ï¿½è•”ï¿½Pï¿½`ï¿½Sï¿½ï¿½ï¿½oï¿½ê‚·ï¿½ï¿½B<span lang="EN-US"><br style="mso-special-character:line-break" />
     <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break" />
     <![endif]></span></p>
-    <p class="a">Œê‚è•”‚P@‚³‚ÄAˆêTŠÔ‚ª‰ß‚¬‚½B</p>
-    <p class="a">Œê‚è•”‚Q@‚»‚µ‚Ä¡“ú‚ÍA</p>
-    <p class="a">Œê‚è•”’B@–{”Ô“ñTŠÔ‘OB</p>
+    <p class="a">ï¿½ï¿½è•”ï¿½Pï¿½@ï¿½ï¿½ï¿½ÄAï¿½ï¿½Tï¿½Ô‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½è•”ï¿½Qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Äï¿½ï¿½ï¿½ï¿½ÍA</p>
+    <p class="a">ï¿½ï¿½è•”ï¿½Bï¿½@ï¿½{ï¿½Ô“ï¿½Tï¿½Ô‘Oï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Œê‚è•”’B‚ª‹Ž‚éB<span lang="EN-US"><br />
-    </span>™yŽq‚Ì‚Ü‚í‚è‚ÉŽq‚Ç‚à‚½‚¿‚ªW‚Ü‚Á‚Ä‚­‚éB<span lang="EN-US"><br />
-    </span>™yŽq‚Í–Ú‚ðŠJ‚¯‚ÄAŽq‚Ç‚à‚½‚¿‚ðŒ©‚Â‚ß‚éB</p>
+    <p class="a0">ï¿½ï¿½è•”ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½yï¿½qï¿½Ì‚Ü‚ï¿½ï¿½ÉŽqï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½yï¿½qï¿½Í–Ú‚ï¿½ï¿½Jï¿½ï¿½ï¿½ÄAï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ß‚ï¿½B</p>
     <p class="a0"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‰–âƒV[ƒ“‚¢‚­‚æB€”õ‚¢‚¢B</p>
-    <p class="a">Žq‚Ç‚à‚½‚¿@‚Í‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚ªƒnƒ„ƒg‚ð‰Ÿ‚³‚¦‚Â‚¯‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@Žlƒy[ƒW‚Í‚¶‚ßAƒ„ƒuƒŒ‚Ì‘äŽŒ‚©‚çB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½lï¿½yï¿½[ï¿½Wï¿½Í‚ï¿½ï¿½ßAï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒ@ <span lang="EN-US">(</span>‚©‚í‚¢‚ç‚µ‚¢‰‰‹Z‚Å<span lang="EN-US">)</span>‚·‚Á‚©‚è“f‚¢‚¿‚Ü‚¢‚ÈA‚»‚¤‚·‚ê‚Î‹¹‚Ì’†‚ª‚·‚Á‚Æ‚·‚é‚ºB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ <span lang="EN-US">(</span>ï¿½ï¿½ï¿½í‚¢ï¿½ç‚µï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ÈAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‹ï¿½ï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½é‚ºï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a">™yŽq@ƒTƒ`A‘ä–{‚É‘‚¢‚Ä‚ ‚é—Ú—ž•P‚Ì‰Æ—ˆƒ„ƒuƒŒ‚ÌƒCƒ[ƒW‚ð“Ç‚ñ‚Å‚Ý‚ëB</p>
-    <p class="a">ƒTƒ`@ƒ„ƒuƒŒ‚ÍAŠOŒ©‚©‚çˆ«‚ÌƒCƒ[ƒW‚ª‚Õ‚ñ‚Õ‚ñ•Y‚Á‚Ä‚¢‚éBŠâ‚ð‚à’@‚«Š„‚é‚æ‚¤‚È‰ö—Í‚ÌŽ‚¿ŽåB‹Éˆ«”ñ“¹‚Ìr‚­‚êŽÒB</p>
-    <p class="a">™yŽq@‚í‚©‚Á‚½‚©B‚»‚ÌƒCƒ[ƒW‚Å‚à‚¤ˆê“x‚â‚Á‚ÄŒ©‚ëB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½`ï¿½Aï¿½ï¿½{ï¿½Éï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ú—ï¿½ï¿½Pï¿½Ì‰Æ—ï¿½ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÌƒCï¿½ï¿½ï¿½[ï¿½Wï¿½ï¿½Ç‚ï¿½Å‚Ý‚ï¿½B</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÍAï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½çˆ«ï¿½ÌƒCï¿½ï¿½ï¿½[ï¿½Wï¿½ï¿½ï¿½Õ‚ï¿½Õ‚ï¿½Yï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½È‰ï¿½ï¿½Í‚ÌŽï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Éˆï¿½ï¿½ñ“¹‚Ìrï¿½ï¿½ï¿½ï¿½ÒB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ÌƒCï¿½ï¿½ï¿½[ï¿½Wï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½B</p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒ@ <span lang="EN-US">(</span>‘å‚«‚­‘§‚ð‹z‚Á‚Ä•|‚­‚·‚é‚æ‚¤‚É“w—Í‚·‚éA‚µ‚©‚µc<span lang="EN-US">)</span>‚·‚Á‚©‚è“f‚¢‚¿‚Ü‚¢‚ÈA‚»‚¤‚·‚ê‚Î‹¹‚Ì’†‚ª‚·‚Á‚Æ‚·‚é‚º<span lang="EN-US">(</span>‚©‚í‚¢‚ç‚µ‚¢‰‰‹Z‚Å<span lang="EN-US">)</span>B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ <span lang="EN-US">(</span>ï¿½å‚«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½Ä•|ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É“wï¿½Í‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½c<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ÈAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‹ï¿½ï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½é‚º<span lang="EN-US">(</span>ï¿½ï¿½ï¿½í‚¢ï¿½ç‚µï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½ï¿½<span lang="EN-US">)</span>ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">™yŽq‚Í“ª‚ð•ø‚¦‚Ä‚¢‚éB</p>
+    <p class="a0">ï¿½yï¿½qï¿½Í“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒ@‚¤‚ñ‚Æ‚©‚·‚ñ‚Æ‚©Œ¾‚Á‚½‚ç‚Ç‚¤‚¾B<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@‚¤‚ñB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒ@‚¨‚ß‚¦A’É‚¢–Ú‚É‚ ‚¢‚½‚¢‚æ‚¤‚¾‚ÈBiƒJƒuƒŒ‚Éjj‚ð‚æ‚±‚µ‚ÈB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒJƒuƒŒ@‚ ‚¢‚æB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>@<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Aï¿½É‚ï¿½ï¿½Ú‚É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½ï¿½ï¿½ÈBï¿½iï¿½Jï¿½uï¿½ï¿½ï¿½Éjï¿½jï¿½ï¿½ï¿½æ‚±ï¿½ï¿½ï¿½ÈB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½@<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><span
-style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span>ƒJƒuƒŒ‚ªj‚ð“n‚·B<span lang="EN-US"><o:p></o:p></span></b></p>
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span>ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½nï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><span
 style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒ@Žwæ‚Á‚Ä‚Ì‚Í‚ÈA_Œo‚ªW‚Ü‚Á‚Ä‚¢‚é‚Ì‚³B‚¾‚©‚ç‚±‚¤‚â‚Á‚Äj‚ð“Ë‚«Žh‚·‚ÆBi‹°‚é‹°‚éj‚ð“Ë‚«Žh‚·‚Ü‚Ë‚ð‚·‚éj<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½wï¿½ï¿½ï¿½ï¿½Ä‚Ì‚Í‚ÈAï¿½_ï¿½oï¿½ï¿½ï¿½Wï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ç‚±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äjï¿½ï¿½Ë‚ï¿½ï¿½hï¿½ï¿½ï¿½ÆBï¿½iï¿½ï¿½ï¿½é‹°ï¿½ï¿½jï¿½ï¿½Ë‚ï¿½ï¿½hï¿½ï¿½ï¿½Ü‚Ë‚ï¿½ï¿½ï¿½ï¿½ï¿½j<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@ƒTƒ`I‚È‚ñ‚¾‚»‚Ì‰‰‹Z‚ÍB‚¨‘O‚ª•|‚ª‚Á‚Ä‚Ç‚¤‚·‚éB‚±‚ê‚Í‰–â‚È‚ñ‚¾‚¼B</p>
-    <p class="a">ƒTƒ`@‚·‚Ý‚Ü‚¹‚ñB</p>
-    <p class="a">™yŽq@iƒTƒ`‚ð‚¶‚Á‚­‚è’­‚ß‚ÄjƒTƒ`A¬Šw¶‚Ì‚¨‘O‚É‚±‚Ì–ð‚Í–³—‚¾B</p>
-    <p class="a">ƒTƒ`@cŽ„c‚Z¶‚Å‚·B</p>
-    <p class="a">™yŽq@‚Z¶HI</p>
-    <p class="a">ƒTƒ`@‚·‚Ý‚Ü‚¹‚ñc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½`ï¿½Iï¿½È‚ñ‚¾‚ï¿½ï¿½Ì‰ï¿½ï¿½Zï¿½ÍBï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½ï¿½È‚ñ‚¾‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½iï¿½Tï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è’­ï¿½ß‚Äjï¿½Tï¿½`ï¿½Aï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Oï¿½É‚ï¿½ï¿½Ì–ï¿½ï¿½Í–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½cï¿½ï¿½ï¿½cï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½Hï¿½I</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½c</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒTƒ`‚Í‚Ç‚¤Œ©‚Ä‚à‚Z¶‚É‚ÍŒ©‚¦‚È‚¢B</p>
+    <p class="a0">ï¿½Tï¿½`ï¿½Í‚Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½É‚ÍŒï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚æ‚µAŽ„‚ªŒ©–{‚ðŒ©‚¹‚Ä‚â‚éBƒTƒ`A–Ú‚ñ‹ÊŠJ‚¢‚Ä‚µ‚Á‚©‚èŒ©‚Ä‚ëB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½æ‚µï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Bï¿½Tï¿½`ï¿½Aï¿½Ú‚ï¿½ÊŠJï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½èŒ©ï¿½Ä‚ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒm™yŽqn@Žwæ‚Á‚Ä‚Ì‚Í‚ÈA_Œo‚ªW‚Ü‚Á‚Ä‚¢‚é‚Ì‚³B‚¾‚©‚ç‚±‚¤‚â‚Á‚Äj‚ð“Ë‚«Žh‚·‚ÆB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@i‹©‚Ñj¦—Í‚Ì‚È‚¢‹©‚Ñ‚Å‚ ‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½mï¿½yï¿½qï¿½nï¿½@ï¿½wï¿½ï¿½ï¿½ï¿½Ä‚Ì‚Í‚ÈAï¿½_ï¿½oï¿½ï¿½ï¿½Wï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ç‚±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äjï¿½ï¿½Ë‚ï¿½ï¿½hï¿½ï¿½ï¿½ÆB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½ï¿½ï¿½Ñjï¿½ï¿½ï¿½Í‚Ì‚È‚ï¿½ï¿½ï¿½ï¿½Ñ‚Å‚ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚à‚Á‚Æ‹©‚×B</p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@i‹©‚Ñj¦æ‚Ù‚Ç‚Ì‹©‚Ñ‚æ‚è­‚µ‘å‚«‚­‚È‚Á‚½’ö“x‚Å‚ ‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a">™yŽq@‚»‚ê‚ª‹©‚Ñ‚©B</p>
-    <p class="a">”¹l@c</p>
-    <p class="a">™yŽq@”¹lA‚¨‘O‚Í‚È‚º‚±‚ÌŒ€‚ð‚â‚é‚ñ‚¾B</p>
-    <p class="a">”¹l@Žµ‚ÂX‚ð‹~‚¤‚½‚ß‚Å‚·B</p>
-    <p class="a">™yŽq@‚È‚é‚Ù‚ÇA‘f°‚ç‚µ‚¢BŽ„‚àŽµ‚ÂX‚ðƒŒƒWƒƒ[ƒ‰ƒ“ƒh‚É‚·‚éŒv‰æ‚ª‚ ‚é‚±‚Æ‚Í•·‚¢‚Ä‚¢‚éBŒ€‚Ìã‰‰‚Å‚»‚ê‚É”½‘Î‚·‚éB‚»‚¤‚¢‚¤‚±‚Æ‚¾‚ÈB</p>
-    <p class="a">”¹l@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚ÅA‚¨‘O‚Ì‚»‚Ì‚Ö‚È‚¿‚å‚±‰‰‹Z‚ÅA’N‚ÌS‚ª“®‚­‚ñ‚¾B</p>
-    <p class="a">”¹l@c</p>
-    <p class="a">™yŽq@Žµ‚ÂX‚ª‚È‚­‚È‚Á‚Ä‚à‚¢‚¢‚Ì‚©B</p>
-    <p class="a">”¹l@<span lang="EN-US">(</span>Žñ‚ðU‚é<span lang="EN-US">)</span></p>
-    <p class="a">™yŽq@–{“–‚É‚»‚¤Žv‚¤‚È‚çA–{‹C‚Å‹©‚×B‚¢‚¢‚©A‚¨‘O‚ÍX‚Ì–Ø‚¾B–Ø‚ªØ‚ç‚ê‚éB‹©‚×I</p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@i‹©‚Ñj¦‚»‚ê‚ÍA–{•¨‚Ì‹©‚Ñ‚Å‚ ‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a">™yŽq@‚æ‚µB‚æ‚­‚È‚Á‚½B‚»‚Ì‹©‚Ñ‚ðŠo‚¦‚Ä‚¨‚¯B‰‰‹Z‚ð‘±‚¯‚é‚¼B@@</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Æ‹ï¿½ï¿½×B</p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½ï¿½ï¿½Ñjï¿½ï¿½ï¿½ï¿½Ù‚Ç‚Ì‹ï¿½ï¿½Ñ‚ï¿½è­ï¿½ï¿½ï¿½å‚«ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Å‚ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ê‚ªï¿½ï¿½ï¿½Ñ‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½Aï¿½ï¿½ï¿½Oï¿½Í‚È‚ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½ï¿½ï¿½ß‚Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½È‚ï¿½Ù‚ÇAï¿½fï¿½ï¿½ï¿½ç‚µï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½hï¿½É‚ï¿½ï¿½ï¿½vï¿½æ‚ªï¿½ï¿½ï¿½é‚±ï¿½Æ‚Í•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìã‰‰ï¿½Å‚ï¿½ï¿½ï¿½É”ï¿½ï¿½Î‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ÅAï¿½ï¿½ï¿½Oï¿½Ì‚ï¿½ï¿½Ì‚Ö‚È‚ï¿½ï¿½å‚±ï¿½ï¿½ï¿½Zï¿½ÅAï¿½Nï¿½ÌSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½Uï¿½ï¿½<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½{ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½È‚ï¿½Aï¿½{ï¿½Cï¿½Å‹ï¿½ï¿½×Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Oï¿½ÍXï¿½Ì–Ø‚ï¿½ï¿½Bï¿½Ø‚ï¿½ï¿½Ø‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½×I</p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½ï¿½ï¿½Ñjï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½{ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½Ñ‚Å‚ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½æ‚µï¿½Bï¿½æ‚­ï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‹ï¿½ï¿½Ñ‚ï¿½ï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Zï¿½ð‘±‚ï¿½ï¿½é‚¼ï¿½Bï¿½@ï¿½@</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒm™yŽqn@‚Ç‚¤‚¾A˜b‚·‹C‚É‚È‚Á‚½‚©B<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@c<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒm™yŽqn@‚Ü‚¾˜b‚·‹C‚É‚È‚ê‚È‚¢‚Ì‚©B‚»‚ê‚Å‚Í‚±‚¤‚¾<span lang="EN-US">(</span>ƒnƒ„ƒg‚Ì‹©‚Ñ<span lang="EN-US">)</span>B‚Ù‚çAŒŒ‚ªŸø‚ñ‚Å‚«‚½‚¼B‚±‚ê‚Å‚à‚©<span lang="EN-US">(</span>ƒnƒ„ƒg‚Ì‹©‚Ñ<span lang="EN-US">)</span>B‚±‚ê‚Å‚à‚©iƒnƒ„ƒg‚Ì‹©‚ÑjB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½mï¿½yï¿½qï¿½nï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Aï¿½bï¿½ï¿½ï¿½Cï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½c<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½mï¿½yï¿½qï¿½nï¿½@ï¿½Ü‚ï¿½ï¿½bï¿½ï¿½ï¿½Cï¿½É‚È‚ï¿½È‚ï¿½ï¿½Ì‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚Í‚ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½nï¿½ï¿½ï¿½gï¿½Ì‹ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½Bï¿½Ù‚ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½nï¿½ï¿½ï¿½gï¿½Ì‹ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½iï¿½nï¿½ï¿½ï¿½gï¿½Ì‹ï¿½ï¿½Ñjï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">“Ë‘RA‚ª•‘‘ä‘³‚©‚ç‹ì‚¯‚Ä‚­‚éB</p>
+    <p class="a0">ï¿½Ë‘Rï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ä‘³ï¿½ï¿½ï¿½ï¿½ì‚¯ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">@i‹ƒ‚«‚È‚ª‚çj‚â‚ß‚ÄA‚â‚ß‚Ä‚­‚¾‚³‚¢B‚à‚¤[•ª‚Å‚·A‹–‚µ‚Ä‚ ‚°‚ÄB</p>
-    <p class="a">™yŽq@A‚±‚ê‚Í‰‰‹Z‚¾B</p>
-    <p class="a">@i‹ƒ‚«‚È‚ª‚çj‰‰‹Z‚É‚ÍŒ©‚¦‚Ü‚¹‚ñB</p>
-    <p class="a">™yŽq@BŒ€‚Ì’†‚Å‚±‚Ì‰–â‚ð‚â‚ç‚¹‚Ä‚¢‚é‚Ì‚ÍA‚¨‘O‚ª‰‰‚¶‚é—Ú—ž•P‚È‚ñ‚¾‚¼B</p>
-    <p class="a">@i‹ƒ‚«‚È‚ª‚çj‚Å‚àAƒnƒ„ƒg‚ª‚©‚í‚¢‚»‚¤‚ÅB</p>
-    <p class="a">™yŽq@”nŽ­A‚»‚ñ‚È‚±‚Æl‚¦‚Ä‚¢‚¿‚á‚¢‚¢Œ€‚Í‚Å‚«‚È‚¢B</p>
-    <p class="a">@@—Ú—ž•P‚ÍA‚È‚ºƒnƒ„ƒg‚É‚±‚ñ‚È‚Â‚ç‚¢Žd‘Å‚¿‚ðB</p>
-    <p class="a">™yŽq@‚È‚º‚¾‚ë‚¤‚ÈA</p>
-    <p class="a">@@<span lang="EN-US">(</span>‹ƒ‚¢‚Ä‚¢‚é<span lang="EN-US">)</span></p>
-    <p class="a">™yŽq@‹ƒ‚­‚ÈB</p>
-    <p class="a">@@—Ü‚ªŽ~‚Ü‚è‚Ü‚¹‚ñB</p>
-    <p class="a">™yŽq@<span lang="EN-US">(</span>“ª‚ð•ø‚¦‚Ä<span lang="EN-US">)</span>‘±‚¯‚é‚¼BƒTƒ`I</p>
-    <p class="a">ƒTƒ`@‚Í‚¢c</p>
-    <p class="a">™yŽq@Ž„‚ÌŒ€’c‚Ì–ðŽÒ’B‚ÍŽ„‚Ì‚±‚Æ‚ð‹S‚Ì™yŽq‚ÆŒÄ‚ÔBŽ„‚Í‹S‚È‚ñ‚¾‚»‚¤‚¾B</p>
-    <p class="a">ƒTƒ`@‚í‚©‚è‚Ü‚·<span lang="EN-US">(</span>Žv‚í‚¸‚»‚¤Œ¾‚Á‚Ä‚µ‚Ü‚¢AQ‚Ä‚ÄŒû‚ÉŽè‚ð“–‚Ä‚é<span lang="EN-US">)</span>B</p>
-    <p class="a">™yŽq@Ž„‚Ì‹S‚ÌƒCƒ[ƒW‚Í‚Ç‚±‚©‚ç—ˆ‚Ä‚éHŽ„‚Ì‚©‚ç‚¾‚©H‚»‚¤‚¶‚á‚È‚¢BŽ„‚Í‰ö—Í‚ÌŽ‚¿Žå‚Å‚Í‚È‚¢A‚Å‚à‹°‚ë‚µ‚³‚Ío‚¹‚éB</p>
-    <p class="a">ƒTƒ`@‚Ç‚¤‚µ‚½‚ç‚¢‚¢‚ñ‚Å‚·‚©B</p>
-    <p class="a">™yŽq@Ž©•ª‚Ål‚¦‚Ä‚Ý‚ëB‚±‚ê‚ÍŽ„‚ÌŒ€‚¶‚á‚È‚¢B‚¨‘O’B‚ÌŒ€‚¾B</p>
-    <p class="a">ƒTƒ`@@c</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½jï¿½ï¿½ß‚ÄAï¿½ï¿½ß‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½Zï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½Zï¿½É‚ÍŒï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì’ï¿½ï¿½Å‚ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¹ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ÍAï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú—ï¿½ï¿½Pï¿½È‚ñ‚¾‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½jï¿½Å‚ï¿½ï¿½Aï¿½nï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ÅB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ælï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½á‚¢ï¿½ï¿½ï¿½ï¿½ï¿½Í‚Å‚ï¿½ï¿½È‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½ÍAï¿½È‚ï¿½ï¿½nï¿½ï¿½ï¿½gï¿½É‚ï¿½ï¿½ï¿½È‚Â‚ç‚¢ï¿½dï¿½Å‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½È‚ï¿½ï¿½ï¿½ï¿½ë‚¤ï¿½ÈA</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Ü‚ï¿½ï¿½~ï¿½Ü‚ï¿½Ü‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½é‚¼ï¿½Bï¿½Tï¿½`ï¿½I</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½Í‚ï¿½ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÌŒï¿½ï¿½cï¿½Ì–ï¿½ï¿½Ò’Bï¿½ÍŽï¿½ï¿½Ì‚ï¿½ï¿½Æ‚ï¿½ï¿½Sï¿½Ì™yï¿½qï¿½ÆŒÄ‚ÔBï¿½ï¿½ï¿½Í‹Sï¿½È‚ñ‚¾‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½í‚©ï¿½ï¿½Ü‚ï¿½<span lang="EN-US">(</span>ï¿½vï¿½í‚¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Aï¿½Qï¿½Ä‚ÄŒï¿½ï¿½ÉŽï¿½ð“–‚Ä‚ï¿½<span lang="EN-US">)</span>ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ì‹Sï¿½ÌƒCï¿½ï¿½ï¿½[ï¿½Wï¿½Í‚Ç‚ï¿½ï¿½ï¿½ï¿½ç—ˆï¿½Ä‚ï¿½Hï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ç‚¾ï¿½ï¿½ï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½Í‰ï¿½ï¿½Í‚ÌŽï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í‚È‚ï¿½ï¿½Aï¿½Å‚ï¿½ï¿½ï¿½ï¿½ë‚µï¿½ï¿½ï¿½Íoï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ålï¿½ï¿½ï¿½Ä‚Ý‚ï¿½Bï¿½ï¿½ï¿½ï¿½ÍŽï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½Oï¿½Bï¿½ÌŒï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½@ï¿½c</p>
     <p class="a"><span lang="EN-US"><br />
-    </span>—T”ü‚ªQ‚Ä‚Ä“ü‚Á‚Ä‚­‚éB</p>
+    </span>ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½Qï¿½Ä‚Ä“ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñA¢‚Á‚½‚±‚Æ‚ª‹N‚±‚Á‚½B‚»‚ê‚à“ñ‚ÂB</p>
-    <p class="a">™yŽq@ˆê‚Â–Ú‚ÍH</p>
-    <p class="a">—T”ü@Œ€AŽO\•ªˆÈ“à‚Å‚â‚Á‚Ä‚­‚ê‚Á‚ÄB</p>
-    <p class="a">™yŽq@ŽO\•ªIHˆêŽžŠÔ‚Å‘n‚Á‚Ä‚¢‚éŒ€‚ðAŽO\•ª‚Å‚Ç‚¤‚â‚ê‚Á‚Ä‚¢‚¤‚ñ‚¾B–{”Ô‚Ü‚Å‚ ‚Æ“ñTŠÔ‚È‚Ì‚ÉB</p>
-    <p class="a">—T”ü@ŽO\•ª‚ð’´‚¦‚½‚çA‚»‚±‚ÅI‚í‚è‚É‚µ‚Ä‚à‚ç‚¤‚Á‚ÄB‚È‚é‚×‚­‚½‚­‚³‚ñ‚Ì’c‘Ì‚ðo‚µ‚½‚¢‚©‚ç‚¾‚Á‚ÄB</p>
-    <p class="a">™yŽq@‚»‚ê‚ÅA‚à‚¤ˆê‚Â‚Ì¢‚Á‚½‚±‚Æ‚ÍH</p>
-    <p class="a">—T”ü@ƒnƒ„ƒg‚Ì•ê–ð‚ÌX“c‚ªŽ«‚ß‚½B</p>
-    <p class="a">™yŽq@‚È‚ÉI</p>
-    <p class="a">—T”ü@‚à‚¤A”nŽ­”nŽ­Œ¾‚í‚ê‚é‚Ì‚ªŒ™‚É‚È‚Á‚½‚ñ‚¾‚Á‚ÄB</p>
-    <p class="a">™yŽq@”nŽ­‚ªI </p>
-    <p class="a">—T”ü@‚Ç‚¤‚µ‚½‚ç‚¢‚¢B</p>
-    <p class="a">™yŽq@<span lang="EN-US">(</span>‚µ‚Î‚ç‚­l‚¦‚Ä<span lang="EN-US">)</span>’†Ž~‚É‚µ‚æ‚¤B</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq@–{”Ô‚Ü‚ÅŒã“ñTŠÔBŒbŽq‚É‚Íˆ«‚¢‚ªA¡‚ª’ªŽž‚¾B</p>
-    <p class="a">—T”ü@‘ã–ð—§‚Ä‚ê‚Îc</p>
-    <p class="a">™yŽq@‚»‚ê‚¾‚¯‚Å‰½‚Æ‚©‚È‚éó‹µ‚¶‚á‚È‚¢B</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">ƒTƒ`@™yŽq‚³‚ñAŒ€‚ð‚â‚ç‚¹‚Ä‚­‚¾‚³‚¢BŽ„A‚ª‚ñ‚Î‚è‚Ü‚·‚©‚çB</p>
-    <p class="a">™yŽq@‚¢‚¢‚©AŒ|pÕ‚Éo‚È‚­‚Ä‚àA‚Ü‚¾Œ€‚ð‚â‚éƒ`ƒƒƒ“ƒX‚Í‚ ‚éBŒbŽq‚ª‚æ‚­‚È‚Á‚Ä‚©‚ç‚â‚ê‚Î‚¢‚¢‚¶‚á‚È‚¢‚©B</p>
-    <p class="a">—T”ü@‚»‚¤‚µ‚½‚çŽµ‚ÂX‚ªƒŒƒWƒƒ[ƒ‰ƒ“ƒh‚É‚È‚é‚±‚ÆAŒˆ‚Ü‚Á‚¿‚á‚¤‚©‚à‚µ‚ê‚È‚¢B¡‚µ‚©‚È‚¢‚ÌB</p>
-    <p class="a">ƒTƒ`@Ž„A‹Ž”NA•¶‰»Õ‚Åí‘ˆ‚Ì‚±‚Æ’²‚×‚½‚ñ‚Å‚·B‚»‚µ‚ÄA‚Í‚¶‚ß‚Ä’m‚Á‚½‚ñ‚Å‚·B‚±‚Ì’¬‚É‹óP‚ª‚ ‚Á‚½‚±‚ÆB‚»‚µ‚ÄA‚½‚­‚³‚ñ‚Ìl‚ªŽ€‚ñ‚Å‚µ‚Ü‚Á‚½‚±‚Æ‚àB‚Å‚àAŽµ‚ÂX‚É“¦‚°‚½l‚½‚¿‚Í‚Ý‚ñ‚È•‚©‚Á‚½‚ñ‚Å‚·BŽµ‚ÂX‚ª‹~‚Á‚½‚ñ‚Å‚·B</p>
-    <p class="a">^Ž÷@Ž„‚Ì‚¨‚Î‚ ‚¿‚á‚ñ‚àŽµ‚ÂX‚É“¦‚°‚Ä•‚©‚Á‚½ˆêl‚Å‚·BŽµ‚ÂX‚ª‚È‚¯‚ê‚ÎŽ„‚Í¡‚±‚±‚É‚¢‚È‚¢‚©‚à‚µ‚ê‚È‚¢‚ñ‚Å‚·B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½Â–Ú‚ÍH</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Aï¿½Oï¿½\ï¿½ï¿½ï¿½È“ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Oï¿½\ï¿½ï¿½ï¿½Iï¿½Hï¿½êŽžï¿½Ô‚Å‘nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½éŒ€ï¿½ï¿½ï¿½Aï¿½Oï¿½\ï¿½ï¿½ï¿½Å‚Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ñ‚¾Bï¿½{ï¿½Ô‚Ü‚Å‚ï¿½ï¿½Æ“ï¿½Tï¿½Ô‚È‚Ì‚ÉB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½Oï¿½\ï¿½ï¿½ï¿½ð’´‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÅIï¿½ï¿½ï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½ç‚¤ï¿½ï¿½ï¿½ÄBï¿½È‚ï¿½×‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì’cï¿½Ì‚ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¾ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÍH</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½Ì•ï¿½ï¿½ï¿½ÌXï¿½cï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½È‚ÉI</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½nï¿½ï¿½ï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½ï¿½ï¿½I </p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½Î‚ç‚­ï¿½lï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½~ï¿½É‚ï¿½ï¿½æ‚¤ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½{ï¿½Ô‚Ü‚ÅŒï¿½ï¿½Tï¿½ÔBï¿½bï¿½qï¿½É‚Íˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ð—§‚Ä‚ï¿½Îc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ê‚¾ï¿½ï¿½ï¿½Å‰ï¿½ï¿½Æ‚ï¿½ï¿½È‚ï¿½ó‹µ‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¹ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Î‚ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½|ï¿½pï¿½Õ‚Éoï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½Í‚ï¿½ï¿½ï¿½Bï¿½bï¿½qï¿½ï¿½ï¿½æ‚­ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½çŽµï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½hï¿½É‚È‚é‚±ï¿½ÆAï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½á‚¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌB</p>
+    <p class="a">ï¿½Tï¿½`ï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Nï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Õ‚Åí‘ˆï¿½Ì‚ï¿½ï¿½Æ’ï¿½ï¿½×‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½Í‚ï¿½ï¿½ß‚Ä’mï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì’ï¿½ï¿½É‹ï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆBï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìlï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½Aï¿½ï¿½ï¿½ÂXï¿½É“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½Í‚Ý‚ï¿½Èï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½^ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂXï¿½É“ï¿½ï¿½ï¿½ï¿½Äï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ÎŽï¿½ï¿½Íï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒIƒIƒ‹ƒŠ‚Ìš“‚èB</p>
+    <p class="a0">ï¿½Iï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Ìšï¿½ï¿½ï¿½B</p>
     <p class="a0"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">”¹l@ƒ‹ƒŠA‘åä•vBX‚Í•K‚¸Žç‚é‚©‚çB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½vï¿½Bï¿½Xï¿½Í•Kï¿½ï¿½ï¿½ï¿½é‚©ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ƒIƒIƒ‹ƒŠ‚Ìš“‚èB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½Iï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Ìšï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@”¹lB‚¨‘OA’N‚Æ˜b‚µ‚Ä‚¢‚é‚ñ‚¾B</p>
-    <p class="a">”¹l@ƒ‹ƒŠ‚Å‚·B</p>
-    <p class="a">™yŽq@‘åä•v‚©B</p>
-    <p class="a">”¹l@™yŽq‚³‚ñ‚É‚ÍŒ©‚¦‚È‚¢‚ñ‚Å‚·‚©B‚ ‚ÌÂ‚¢’¹‚ªB</p>
-    <p class="a">™yŽq@<span lang="EN-US">(</span>”¹l‚ªŽw·‚µ‚½êŠ‚ðŒ©‚é<span lang="EN-US">) </span>‚ ‚ê‚©B‚«‚ê‚¢‚È’¹‚¾‚ÈB</p>
-    <p class="a">”¹l@ƒIƒIƒ‹ƒŠ‚Á‚Ä‚¢‚¤‚ñ‚Å‚·B–lA‚ ‚Ì’¹‚Æ˜b‚µ‚Ä‚½‚ñ‚Å‚·B</p>
-    <p class="a">™yŽq@‘ål‚ð‚©‚ç‚©‚¤‚ÈB</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñB‚Ù‚ñ‚Æ‚È‚ÌB‚ ‚Ì’¹A”¹l‚ÌŒ¾—t‚ª‚í‚©‚é‚ÌB</p>
-    <p class="a">™yŽq@—T”üA‚±‚±‚Íƒtƒ@ƒ“ƒ^ƒW[‚Ì¢ŠE‚¶‚á‚È‚¢‚ñ‚¾‚¼B</p>
-    <p class="a">@@‚Å‚àA”¹lA‚Ù‚ñ‚Æ‚É˜b‚¹‚é‚ñ‚Å‚·BŽ„‚à‚Í‚¶‚ß‚ÍM‚¶‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B</p>
-    <p class="a">”¹l@ƒ‹ƒŠA–l‚ÌŒ¾‚¤‚±‚Æ‚ª‚í‚©‚é‚Á‚Ä‚±‚ÆŒ©‚¹‚Ä‚ ‚°‚ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½Bï¿½ï¿½ï¿½Oï¿½Aï¿½Nï¿½Æ˜bï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ñ‚¾B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½É‚ÍŒï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ÌÂ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½êŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">) </span>ï¿½ï¿½ï¿½ê‚©ï¿½Bï¿½ï¿½ï¿½ê‚¢ï¿½È’ï¿½ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Iï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½lï¿½Aï¿½ï¿½ï¿½Ì’ï¿½ï¿½Æ˜bï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ù‚ï¿½Æ‚È‚ÌBï¿½ï¿½ï¿½Ì’ï¿½ï¿½Aï¿½ï¿½ï¿½lï¿½ÌŒï¿½ï¿½tï¿½ï¿½ï¿½í‚©ï¿½ï¿½ÌB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Íƒtï¿½@ï¿½ï¿½ï¿½^ï¿½Wï¿½[ï¿½Ìï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Å‚ï¿½ï¿½Aï¿½ï¿½ï¿½lï¿½Aï¿½Ù‚ï¿½Æ‚É˜bï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ß‚ÍMï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½lï¿½ÌŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½í‚©ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÄB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ƒIƒIƒ‹ƒŠ‚ªš“‚éB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½Iï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@”nŽ­‚ÈB</p>
-    <p class="a">”¹l@ƒ‹ƒŠ‚Æ–l‚Í—F’B‚È‚ñ‚Å‚·B</p>
-    <p class="a">™yŽq@‚Ç‚¤‚â‚Á‚Ä—F’B‚É‚È‚Á‚½B</p>
-    <p class="a">”¹l@ƒ‹ƒŠ‚ªAX‚Åã©‚É‚©‚©‚Á‚Ä‚¢‚é‚Ì‚ð•‚¯‚½‚ñ‚Å‚·B</p>
-    <p class="a">™yŽq@‚±‚ÌŒ€‚Å‹â‚Ì‘é‚ð•‚¯‚éƒnƒ„ƒg‚Ì•êe‚Ý‚½‚¢‚¾‚ÈB‚»‚ê‚ÅB</p>
-    <p class="a">”¹l@‚»‚êˆÈ—ˆAƒ‹ƒŠ‚Í‚¢‚Â‚à–l‚Ì‚»‚Î‚É‚¢‚é‚ñ‚Å‚·BƒIƒIƒ‹ƒŠ‚ÍçƒLƒˆÈã‚Ì‹——£‚ð”ò‚ñ‚Å‚«‚ÄAŽµ‚ÂX‚ÅŽqˆç‚Ä‚ð‚·‚é‚ñ‚Å‚·B’·‚¢’·‚¢—·‚ÌŒãA‘¶Ý‚µ‚Ä‚¢‚é‚Í‚¸‚ÌX‚ª‚È‚­‚È‚Á‚Ä‚¢‚½‚çB–l‚Íƒ‹ƒŠ‚Ì‚½‚ß‚É‚àŽµ‚ÂX‚ðŽç‚è‚½‚¢‚ñ‚Å‚·B</p>
-    <p class="a">™yŽq@i‚Ó‚´‚¯‚½Š´‚¶‚ÅjŠ´“®“IB‹ƒ‚©‚¹‚é˜b‚¾‚È[B</p>
-    <p class="a">”¹l@Î‚í‚È‚¢‚Å‚­‚¾‚³‚¢I</p>
-    <p class="a">™yŽq@c</p>
-    <p class="a">”¹l@–lA–{‹C‚È‚ñ‚Å‚·B</p>
-    <p class="a">™yŽq@c‚¨‘OA–{•¨‚Ì”nŽ­‚¾‚ÈB</p>
-    <p class="a">”¹l@c<span lang="EN-US">(</span>‚¤‚Â‚Þ‚­<span lang="EN-US">)</span></p>
-    <p class="a">™yŽq@‚¤‚Ü‚­‚È‚ñ‚È‚æB</p>
-    <p class="a">”¹l@<span lang="EN-US">(</span>‚¦‚Á<span lang="EN-US">)</span></p>
-    <p class="a">™yŽq@‚¤‚Ü‚­‚È‚è‚ÈB‚»‚µ‚ÄAŠÏ‹q‚ðŒ€‚Éˆø‚«‚¸‚è‚±‚Þ‚ñ‚¾B‚»‚ê‚ªŽå–ð‚Ì–ð–Ú‚¾B</p>
-    <p class="a">”¹l@–l‚Ý‚½‚¢‚È”nŽ­‚ÉA‚Å‚«‚Ü‚·‚©B</p>
-    <p class="a">™yŽq@‚¨‘O‚Ý‚½‚¢‚È”nŽ­‚¾‚©‚ç‚±‚»A‚Å‚«‚é‰Â”\«‚ª‚ ‚é‚ñ‚¶‚á‚È‚¢‚©B</p>
-    <p class="a">”¹l@‚ª‚ñ‚Î‚è‚Ü‚·B</p>
-    <p class="a">™yŽq@‚³‚Ä‚ÆAX“c‚Ì‘ã‚í‚èc‚Ç‚¤‚µ‚½‚à‚Ì‚©c</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñB‚ ‚è‚ª‚Æc</p>
-    <p class="a">Žq‚Ç‚à‚½‚¿@‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B</p>
-    <p class="a">™yŽq@”nŽ­c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Æ–lï¿½Í—Fï¿½Bï¿½È‚ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½Ä—Fï¿½Bï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Xï¿½ï¿½ã©‚É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÌŒï¿½ï¿½Å‹ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½gï¿½Ì•ï¿½eï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ÅB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ï¿½È—ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½Â‚ï¿½ï¿½lï¿½Ì‚ï¿½ï¿½Î‚É‚ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½Iï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½Lï¿½ï¿½ï¿½Èï¿½Ì‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½ÂXï¿½ÅŽqï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½Aï¿½ï¿½ï¿½Ý‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ÌXï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½lï¿½Íƒï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚É‚ï¿½ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½è‚½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½iï¿½Ó‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åjï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½È[ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Î‚ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½I</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½c</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½lï¿½Aï¿½{ï¿½Cï¿½È‚ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½cï¿½ï¿½ï¿½Oï¿½Aï¿½{ï¿½ï¿½ï¿½Ì”nï¿½ï¿½ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½c<span lang="EN-US">(</span>ï¿½ï¿½ï¿½Â‚Þ‚ï¿½<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½È‚ï¿½È‚ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½È‚ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½Ï‹qï¿½ï¿½ï¿½ï¿½ï¿½Éˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚±ï¿½Þ‚ñ‚¾Bï¿½ï¿½ï¿½ê‚ªï¿½ï¿½ï¿½ï¿½Ì–ï¿½Ú‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½lï¿½Ý‚ï¿½ï¿½ï¿½ï¿½È”nï¿½ï¿½ï¿½ÉAï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Oï¿½Ý‚ï¿½ï¿½ï¿½ï¿½È”nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚±ï¿½ï¿½ï¿½Aï¿½Å‚ï¿½ï¿½ï¿½Â”\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¶‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½ï¿½Î‚ï¿½Ü‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ä‚ÆAï¿½Xï¿½cï¿½Ì‘ï¿½ï¿½ï¿½cï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½c</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½è‚ªï¿½Æc</p>
+    <p class="a">ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½c</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">—T”ü‚ðŒ©‚Â‚ß‚ÄB</p>
+    <p class="a0">ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ß‚ÄB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@—T”üB</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq@—T”ü‚ª‚â‚ê‚æB</p>
-    <p class="a">—T”ü@Ž„‚ªI</p>
-    <p class="a">™yŽq@<span lang="EN-US">(</span>‚¤‚È‚¸‚­<span lang="EN-US">)</span>—T”üA‚ZŽž‘ãƒ_ƒ“ƒX‚â‚Á‚Ä‚½‚¾‚ëB‚»‚Ìƒ_ƒ“ƒX‚ªA•ê‚ªX‚Ì’†‚Å•‘‚¤ƒV[ƒ“‚Å‚«‚Á‚Æ–ð—§‚ÂB</p>
-    <p class="a">—T”ü@‚Å‚àAƒ_ƒ“ƒX‚µ‚Î‚ç‚­‚â‚Á‚Ä‚È‚¢‚µAŽ„AÌ‚©‚çŽ¸”s‚Î‚©‚è‚ÅA‰½‚â‚Á‚Ä‚à‚¤‚Ü‚­‚¢‚©‚È‚­‚Á‚ÄcA™yŽq‚¿‚á‚ñ‚à’m‚Á‚Ä‚é‚¶‚á‚È‚¢B</p>
-    <p class="a">™yŽq@Œ€A‚â‚è‚½‚¢‚ñ‚¾‚ëB</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq@Žµ‚ÂX‚ðŽç‚è‚½‚¢‚ñ‚¾‚ëB</p>
-    <p class="a">—T”ü@c‚í‚©‚Á‚½B</p>
-    <p class="a">™yŽq@‚æ‚ë‚µ‚­B</p>
-    <p class="a">—T”ü@<span lang="EN-US">(</span>‚Ý‚ñ‚È‚É<span lang="EN-US">)</span>Ž„‚àˆê‚É‚ª‚ñ‚Î‚é‚©‚çA‚æ‚ë‚µ‚­‚ËB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½I</p>
+    <p class="a">ï¿½yï¿½qï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½Tï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìƒ_ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Aï¿½ê‚ªï¿½Xï¿½Ì’ï¿½ï¿½Å•ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Æ–ð—§‚ÂB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½Aï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Î‚ç‚­ï¿½ï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Aï¿½Ì‚ï¿½ï¿½çŽ¸ï¿½sï¿½Î‚ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Äcï¿½Aï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½Ä‚é‚¶ï¿½ï¿½È‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½è‚½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½è‚½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½cï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ë‚µï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½Ý‚ï¿½È‚ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½êï¿½É‚ï¿½ï¿½ï¿½Î‚é‚©ï¿½ï¿½Aï¿½ï¿½ë‚µï¿½ï¿½ï¿½ËB</p>
     <p class="a0"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Žq‚Ç‚à‚½‚¿‚Í‚»‚ê‚¼‚ê‚ÌŒ¾—t‚Åu‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·v‚ÆŒ¾‚¤B</p>
+    <p class="a0">ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ê‚¼ï¿½ï¿½ÌŒï¿½ï¿½tï¿½Åuï¿½ï¿½ë‚µï¿½ï¿½ï¿½ï¿½ï¿½è‚¢ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚Æ‚¢‚¤‚±‚Æ‚ÅA¡“ú‚Í‚±‚ê‚ÅI‚í‚è‚É‚µ‚æ‚¤B‰ðŽUB</p>
-    <p class="a">Žq‚Ç‚à‚½‚¿@‚Í‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ÅIï¿½ï¿½ï¿½É‚ï¿½ï¿½æ‚¤ï¿½Bï¿½ï¿½ï¿½Uï¿½B</p>
+    <p class="a">ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Žq‚Ç‚à‚½‚¿‚ª‹A‚é€”õ‚ð‚µ‚É•‘‘ä‚©‚ç‹Ž‚Á‚Ä‚¢‚­B<span lang="EN-US"><br />
-    </span>•‘‘ä‚É™yŽq‚Æ—T”ü‚ªŽc‚éB</p>
+    <p class="a0">ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½é€ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É•ï¿½ï¿½ä‚©ï¿½ç‹Žï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½ï¿½É™yï¿½qï¿½Æ—Tï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚³‚Ä‚ÆAŽO\•ª‚©c<span lang="EN-US">(</span>‘ä–{‚ðŽè‚É‚Æ‚Á‚Ä“Ç‚Þ<span lang="EN-US">)</span></p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq@<span lang="EN-US">(</span>‚Í‚Á‚Æ‚µ‚Ä<span lang="EN-US">)</span>—T”üB</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq@ŒbŽq‚É‚Íˆ«‚¢‚¯‚ÇAŒ€A­‚µ•Ï‚¦‚é‚æB</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq@—T”üA¡‚©‚ç•ê‚Ì‘äŽŒ‚ð‘S•”Šo‚¦‚é‚Ì‚Í‘å•Ï‚¾‚ëB</p>
-    <p class="a">—T”ü@<span lang="EN-US">(</span>‚¤‚ñ<span lang="EN-US">)</span></p>
-    <p class="a">™yŽq@Œ€”¼‚Î‚Ì•ê‚ÌƒV[ƒ“‚ÍAŒ€‚ÌˆÄ“à–ð‚ð‚Â‚­‚Á‚ÄAƒ_ƒCƒWƒFƒXƒg”Å‚Å‚Ìã‰‰‚É‚µ‚æ‚¤B—T”ü‚ÍŠo‚¦‚é‘äŽŒ‚ªŒ¸‚éAŒ€‚Í’Z‚­‚Å‚«‚éB</p>
-    <p class="a">—T”ü@Œ€‚ÌˆÄ“à–ð‚Á‚ÄA’N‚ª‚â‚é‚ÌH</p>
-    <p class="a">™yŽq@Ž„‚ª‚â‚éB</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñ‚ªc</p>
-    <p class="a">™yŽq@‚»‚ê‚ÆAƒXƒ^ƒbƒt‚ÌŽq’B‚É—Š‚ñ‚Å‚Ý‚éBŒê‚è•”‚Æ‚µ‚Äo‚Ä‚­‚ê‚È‚¢‚©‚Á‚ÄB</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq@‚Ç‚¤‚µ‚½B</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñA‚ ‚è‚ª‚ÆB<span lang="EN-US"> </span></p>
-    <p class="a">™yŽq@<span lang="EN-US">(</span>‚É‚±‚Á‚ÆÎ‚Á‚Ä<span lang="EN-US">)</span>‚í‚©‚Á‚½‚ñ‚¾‚æB</p>
-    <p class="a">—T”ü@‚í‚©‚Á‚½H</p>
-    <p class="a">™yŽq@‚¸‚Á‚ÆD‚«‚¾‚Á‚½‚Á‚Ä‚±‚ÆBŽµ‚ÂX‚ªB </p>
-    <p class="a">—T”ü@<span lang="EN-US">(</span>”÷Î‚ñ‚Å<span lang="EN-US">)</span>™yŽq‚¿‚á‚ñB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ä‚ÆAï¿½Oï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½c<span lang="EN-US">(</span>ï¿½ï¿½{ï¿½ï¿½ï¿½ï¿½É‚Æ‚ï¿½ï¿½Ä“Ç‚ï¿½<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@<span lang="EN-US">(</span>ï¿½Í‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½Tï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½bï¿½qï¿½É‚Íˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‘äŽŒï¿½ï¿½Sï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½Ì‚Í‘ï¿½Ï‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Î‚Ì•ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ÌˆÄ“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ÄAï¿½_ï¿½Cï¿½Wï¿½Fï¿½Xï¿½gï¿½Å‚Å‚Ìã‰‰ï¿½É‚ï¿½ï¿½æ‚¤ï¿½Bï¿½Tï¿½ï¿½ï¿½ÍŠoï¿½ï¿½ï¿½ï¿½äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Í’Zï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ÌˆÄ“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ÌH</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ñ‚ªc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ÆAï¿½Xï¿½^ï¿½bï¿½tï¿½ÌŽqï¿½Bï¿½É—ï¿½ï¿½ï¿½Å‚Ý‚ï¿½Bï¿½ï¿½è•”ï¿½Æ‚ï¿½ï¿½Äoï¿½Ä‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½è‚ªï¿½ÆB<span lang="EN-US"> </span></p>
+    <p class="a">ï¿½yï¿½qï¿½@<span lang="EN-US">(</span>ï¿½É‚ï¿½ï¿½ï¿½ï¿½ÆÎ‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½H</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÆDï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ÆBï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½B </p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½Î‚ï¿½ï¿½<span lang="EN-US">)</span>ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒ‹ƒŠ‚Ì–Â‚«ºB</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½Ì–Â‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@<span lang="EN-US">(</span>ƒ‹ƒŠ‚ðŒ©‚Â‚ß‚Ä<span lang="EN-US">)</span>”nŽ­B</p>
+    <p class="a">ï¿½yï¿½qï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ß‚ï¿½<span lang="EN-US">)</span>ï¿½nï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">—T”ü‚Í•‘‘ä‚©‚ç‹Ž‚Á‚Ä‚¢‚­B<span lang="EN-US"><br />
-    </span>™yŽq‚Í‚¤‚ê‚µ‚»‚¤‚ÉˆÖŽq‚É‚à‚½‚ê‚©‚©‚èA”÷Î‚ñ‚Å‚¢‚éB<span lang="EN-US"><br />
-    </span>‚»‚µ‚ÄA–°‚Á‚Ä‚µ‚Ü‚¤B</p>
+    <p class="a0">ï¿½Tï¿½ï¿½ï¿½Í•ï¿½ï¿½ä‚©ï¿½ç‹Žï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½yï¿½qï¿½Í‚ï¿½ï¿½ê‚µï¿½ï¿½ï¿½ï¿½ï¿½ÉˆÖŽqï¿½É‚ï¿½ï¿½ï¿½ï¿½ê‚©ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Î‚ï¿½Å‚ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <h2><span style='font-family:"‚l‚r ƒSƒVƒbƒN";mso-ascii-font-family:Arial;mso-hansi-font-family:
-Arial'>Ÿ‘O“ú</span></h2>
+    <h2><span style='font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial'>ï¿½ï¿½ï¿½Oï¿½ï¿½</span></h2>
     <p class="a0"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Œê‚è•”‚P`‚S‚ªŒ»‚ê‚éB</p>
+    <p class="a0">ï¿½ï¿½è•”ï¿½Pï¿½`ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">Œê‚è•”‚P@–¾“ú‚Í‚¢‚æ‚¢‚æ–{”Ô</p>
-    <p class="a">Œê‚è•”’B@¡“ú‚Í–{”Ôˆê“ú‘OB</p>
+    <p class="a">ï¿½ï¿½è•”ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½æ‚¢ï¿½ï¿½{ï¿½ï¿½</p>
+    <p class="a">ï¿½ï¿½è•”ï¿½Bï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Í–{ï¿½Ôˆï¿½ï¿½ï¿½Oï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Œê‚è•”’B‚ª‹Ž‚éB<span lang="EN-US"><br />
-    </span>™yŽq‚ª–Ú‚ðŠJ‚¯‚éB<span lang="EN-US"><br />
-    </span>™yŽq‚Ì‚Ü‚í‚è‚ÉŽq‚Ç‚à‚½‚¿‚ªW‚Ü‚Á‚Ä‚­‚éB</p>
+    <p class="a0">ï¿½ï¿½è•”ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½yï¿½qï¿½ï¿½ï¿½Ú‚ï¿½ï¿½Jï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½yï¿½qï¿½Ì‚Ü‚ï¿½ï¿½ÉŽqï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚»‚ê‚¶‚áA•ê‚ªƒnƒ„ƒg‚ÉŽ©‚ç‚Ì–½‚ð—^‚¦‚éƒV[ƒ“‚¢‚­‚æBˆ¤B</p>
-    <p class="a">ˆ¤@@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚±‚ÌƒV[ƒ“‚É‚ ‚Á‚½‰¹Šy‘{‚µ‚Æ‚¢‚Ä‚­‚ê‚½B</p>
-    <p class="a">ˆ¤@@‚Í‚¢B•ê‚ÆŽq‚Ìˆ¤î‚É‚ ‚Ó‚ê‚é‰¹Šy‚Å‚·‚æ‚ËB</p>
-    <p class="a">™yŽq@‚»‚¤‚¾B</p>
-    <p class="a">ˆ¤@@‚Ò‚Á‚½‚è‚ ‚Á‚½‹È‚ðŒ©‚Â‚¯‚Ü‚µ‚½B</p>
-    <p class="a">™yŽq@‚æ[‚µA‚»‚ê‚¶‚á‚»‚Ì‰¹Šy‚©‚¯‚Ä‚­‚êB</p>
-    <p class="a">ˆ¤@@‚í‚©‚è‚Ü‚µ‚½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½Aï¿½ê‚ªï¿½nï¿½ï¿½ï¿½gï¿½ÉŽï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½{ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ê‚½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Í‚ï¿½ï¿½Bï¿½ï¿½ÆŽqï¿½Ìˆï¿½ï¿½ï¿½É‚ï¿½ï¿½Ó‚ï¿½é‰¹ï¿½yï¿½Å‚ï¿½ï¿½ï¿½ËB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Ò‚ï¿½ï¿½ï¿½ï¿½è‚ ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½[ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ê‚¶ï¿½á‚»ï¿½Ì‰ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½í‚©ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ˆ¤‚ª‘³‚É‹ì‚¯‚Ä‚¢‚­B</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‹ì‚¯ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‰¹ŠyƒXƒ^[ƒgB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½yï¿½Xï¿½^ï¿½[ï¿½gï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>‘å‰¹‹¿‚ÅXiˆêw‚¨‚Ó‚­‚ë‚³‚ñx‚ª‚©‚©‚éB</p>
-    <p class="a0">‚Ý‚ñ‚Èˆ ‘RAŠJ‚¢‚½Œû‚ª‚Ó‚³‚ª‚ç‚È‚¢B</p>
-    <p class="a0">w‚¨‚Ó‚­‚ë‚³‚ñx‚ª‹¿‚«“n‚éB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½å‰¹ï¿½ï¿½ï¿½ÅXï¿½iï¿½ï¿½wï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ë‚³ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½Ý‚ï¿½Èˆï¿½ï¿½Rï¿½Aï¿½Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B</p>
+    <p class="a0">ï¿½wï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ë‚³ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@ƒXƒgƒbƒvI </p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Xï¿½gï¿½bï¿½vï¿½I </p>
     <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">w‚¨‚Ó‚­‚ë‚³‚ñx‚n‚t‚sB<span lang="EN-US"><br />
-    </span>ˆ¤‚ªo‚Ä‚­‚éB</p>
+    <p class="a0">ï¿½wï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ë‚³ï¿½ï¿½xï¿½nï¿½tï¿½sï¿½B<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@ˆ¤A‚¨‘O‚Í”nŽ­‚©B</p>
-    <p class="a">ˆ¤@@c</p>
-    <p class="a">™yŽq@Žd•û‚È‚¢B‚±‚±‚Í‰¹Šy‚È‚µ‚Å‚¢‚±‚¤B•ê‚ªƒnƒ„ƒg‚ðŽç‚Á‚Ä“S–C‚ÅŒ‚‚½‚ê‚é‚Æ‚±‚ë‚©‚ç’Ê‚µ‚Ä‚â‚é‚æB</p>
-    <p class="a">”¹l’B@‚Í‚¢B</p>
-    <p class="a">™yŽq@ˆ¤A“S–C‚Ì‰¹A€”õ‚µ‚ÄB</p>
-    <p class="a">ˆ¤@@‚Í‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Oï¿½Í”nï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½dï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½yï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ê‚ªï¿½nï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä“Sï¿½Cï¿½ÅŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ë‚©ï¿½ï¿½Ê‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½Bï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½Sï¿½Cï¿½Ì‰ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ˆ¤‚ª‰¹‹¿‚Ì€”õ‚É‘³‚ÉŒü‚©‚¤B<span lang="EN-US"><br />
-    </span>ƒnƒ„ƒgA‚»‚Ì•êA—Ú—ž•PAƒ„ƒuƒŒAƒJƒuƒŒA¬—Ú—ž‚ª€”õ‚ð‚·‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½É‘ï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½nï¿½ï¿½ï¿½gï¿½Aï¿½ï¿½ï¿½Ì•ï¿½Aï¿½Ú—ï¿½ï¿½Pï¿½Aï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Aï¿½Jï¿½uï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ú—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚Æ‚É‚©‚­AŽ¸”s‚·‚é‚ñ‚¶‚á‚È‚¢‚æB</p>
-    <p class="a">ˆ¤<span lang="EN-US">(</span>º<span lang="EN-US">)</span>@‚Í‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Æ‚É‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ñ‚¶‚ï¿½È‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½<span lang="EN-US">)</span>ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒnƒ„ƒg‚Æ—Ú—ž•P‚ª‘Î›³‚·‚éB<span lang="EN-US"><br />
-    </span>ƒnƒ„ƒg‚ÌŒã‚ë‚É•ê‚ªA—Ú—ž•P‚ÌŒã‚ë‚É‰Æ—ˆ‚ª—§‚ÂB<span lang="EN-US"><br style="mso-special-character:
+    <p class="a0">ï¿½nï¿½ï¿½ï¿½gï¿½Æ—Ú—ï¿½ï¿½Pï¿½ï¿½ï¿½Î›ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½nï¿½ï¿½ï¿½gï¿½ÌŒï¿½ï¿½É•ê‚ªï¿½Aï¿½Ú—ï¿½ï¿½Pï¿½ÌŒï¿½ï¿½É‰Æ—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂB<span lang="EN-US"><br style="mso-special-character:
 line-break" />
     <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break" />
     <![endif]></span></p>
-    <p class="a">™yŽq@‚³‚ ‚¢‚­‚æB—Ú—ž•P‚Ì‘äŽŒ‚©‚çB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ú—ï¿½ï¿½Pï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@ƒJƒuƒŒAŒ‚‚Â‚Ì‚æB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½Jï¿½uï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Â‚Ì‚ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>‚»‚±‚Å“S–C‚Ì‰¹B</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½ï¿½ï¿½ï¿½ï¿½Å“Sï¿½Cï¿½Ì‰ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@”nŽ­I‘‚·‚¬‚éBƒJƒuƒŒ‚ª‚Ü‚¾“S–C‚ð‚©‚Ü‚¦‚Ä‚È‚¢B</p>
-    <p class="a">ˆ¤<span lang="EN-US">(</span>º<span lang="EN-US">)</span>@‚·‚¢‚Ü‚¹‚ñB</p>
-    <p class="a">™yŽq@‚à‚¤ˆê“x‚¢‚­‚æB€”õ‚¢‚¢B</p>
-    <p class="a">ˆ¤<span lang="EN-US">(</span>º<span lang="EN-US">)</span>@‘Ò‚Á‚Ä‚­‚¾‚³‚¢B</p>
-    <p class="a">™yŽq@‚à‚¤‘Ò‚Ä‚È‚¢‚ÌB</p>
-    <p class="a">ˆ¤<span lang="EN-US">(</span>º<span lang="EN-US">)</span>@€”õ‚Å‚«‚Ü‚µ‚½B</p>
-    <p class="a">™yŽq@—Ú—ž•P‚Ì‘äŽŒ‚©‚çB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Sï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚È‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½<span lang="EN-US">)</span>ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½<span lang="EN-US">)</span>ï¿½@ï¿½Ò‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ò‚Ä‚È‚ï¿½ï¿½ÌB</p>
+    <p class="a">ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½<span lang="EN-US">)</span>ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@ƒJƒuƒŒAŒ‚‚Â‚Ì‚æB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½Jï¿½uï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Â‚Ì‚ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>ƒJƒuƒŒ‚ª“S–C‚ð\‚¦‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Cï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>•ê@ƒnƒ„ƒgI<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½I<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>‚»‚¤‹©‚ñ‚Åƒnƒ„ƒg‚Ì‘O‚É•ê‚ª—§‚ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>ƒJƒuƒŒ‚ª“S–C‚ðŒ‚‚ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åƒnï¿½ï¿½ï¿½gï¿½Ì‘Oï¿½É•ê‚ªï¿½ï¿½ï¿½ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><br />
-    </span></b>‚»‚ÌuŠÔw‚¨‚Ó‚­‚ë‚³‚ñx‚ª‚©‚©‚Á‚Ä‚µ‚Ü‚¤B</p>
+    </span></b>ï¿½ï¿½ï¿½Ìuï¿½Ôwï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ë‚³ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@”nŽ­B‰½‚Å‚±‚±‚Åw‚¨‚Ó‚­‚ë‚³‚ñx‚È‚ñ‚¾B</p>
-    <p class="a">ˆ¤@@‚·‚Ý‚Ü‚¹‚ñBŠÔˆá‚¦‚Ü‚µ‚½B</p>
-    <p class="a">™yŽq@ˆ¤A¡‚·‚®w‚¨‚Ó‚­‚ë‚³‚ñx‚ðÁ‚µ‚Ä‚¨‚¯B¡‚·‚®‚¾B</p>
-    <p class="a">ˆ¤@@‚Í‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Åwï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ë‚³ï¿½ï¿½xï¿½È‚ñ‚¾B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½Bï¿½Ôˆá‚¦ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ë‚³ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ˆ¤‚ª‘³‚É–ß‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É–ß‚ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ˆ¤<span lang="EN-US">(</span>º<span lang="EN-US">)</span>@<span lang="EN-US">(</span>‚µ‚Î‚ç‚­‚µ‚Ä<span lang="EN-US">)</span>Á‚µ‚Ü‚µ‚½B</p>
-    <p class="a">™yŽq@‚n‚jB‚»‚ê‚¶‚áA—Ú—ž•P‚Ì‘äŽŒ‚©‚çB</p>
+    <p class="a">ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½<span lang="EN-US">)</span>ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½Î‚ç‚­ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½jï¿½Bï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½Aï¿½Ú—ï¿½ï¿½Pï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@ƒJƒuƒŒAŒ‚‚Â‚Ì‚æB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½Jï¿½uï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Â‚Ì‚ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒJƒuƒŒ‚ª“S–C‚ð\‚¦‚éB</p>
+    <p class="a0">ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Cï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>•ê@ƒnƒ„ƒgI<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½I<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>‚»‚¤‹©‚ñ‚Åƒnƒ„ƒg‚Ì‘O‚É•ê‚ª—§‚ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>ƒJƒuƒŒ‚ª“S–C‚ðŒ‚‚ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åƒnï¿½ï¿½ï¿½gï¿½Ì‘Oï¿½É•ê‚ªï¿½ï¿½ï¿½ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><span
 style='mso-tab-count:1'></span><o:p></o:p></span></b></p>
-    <p class="a0">¡“x‚Í‰¹‚ªo‚È‚¢B</p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>‰‰‹Z‚ªŽ~‚Ü‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½xï¿½Í‰ï¿½ï¿½ï¿½ï¿½oï¿½È‚ï¿½ï¿½B</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½~ï¿½Ü‚ï¿½B</p>
     <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span></p>
-    <p class="a">™yŽq@ˆ¤A‚Ç‚¤‚µ‚½B</p>
-    <p class="a">ˆ¤@@ŠÔˆá‚Á‚Äw‚¨‚Ó‚­‚ë‚³‚ñx‚¶‚á‚È‚­‚ÄA“S–C‚Ì‰¹‚ðÁ‚µ‚¿‚á‚¢‚Ü‚µ‚½B</p>
-    <p class="a">™yŽq@”nŽ­B‚»‚ê‚¶‚á‚±‚ê‚©‚ç‰¹‚ªo‚¹‚È‚¢‚¶‚á‚È‚¢B</p>
-    <p class="a">ˆ¤@@c</p>
-    <p class="a">™yŽq@‚µ‚©‚½‚È‚¢Aƒ‰ƒXƒgƒV[ƒ“A‰¹‚È‚µ‚Å‚¢‚­‚æB—Ú—ž•P‚Ì‘äŽŒ‚©‚çB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Ôˆï¿½ï¿½ï¿½Äwï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ë‚³ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÄAï¿½Sï¿½Cï¿½Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á‚¢ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ê‚¶ï¿½á‚±ï¿½ê‚©ï¿½ç‰¹ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Aï¿½ï¿½ï¿½Xï¿½gï¿½Vï¿½[ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ú—ï¿½ï¿½Pï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@ƒJƒuƒŒAŒ‚‚Â‚Ì‚æB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½Jï¿½uï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Â‚Ì‚ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒJƒuƒŒ‚ª“S–C‚ð\‚¦‚éB</p>
+    <p class="a0">ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Cï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>•ê@ƒnƒ„ƒgI<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½I<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>‚»‚¤‹©‚ñ‚Åƒnƒ„ƒg‚Ì‘O‚É•ê‚ª—§‚ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>ƒJƒuƒŒ‚ª“S–C‚ðŒ‚‚ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åƒnï¿½ï¿½ï¿½gï¿½Ì‘Oï¿½É•ê‚ªï¿½ï¿½ï¿½ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ÂB<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>™yŽq<span lang="EN-US"><span
-style='mso-spacerun:yes'>&nbsp; </span></span>@ƒYƒhƒ“Bƒnƒ„ƒg‚ðŽç‚Á‚Ä•ê‚ªŒ‚‚½‚ê‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@•ê‚³‚ñI<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½yï¿½q<span lang="EN-US"><span
+style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½@ï¿½Yï¿½hï¿½ï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä•ê‚ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ê‚³ï¿½ï¿½I<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>•ê‚ª“|‚ê‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½ê‚ªï¿½|ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
     <p class="a0" style="margin-left:0mm;text-indent:0mm"><b style='mso-bidi-font-weight:
-normal'>ƒnƒ„ƒg@•ê‚³‚ñI•ê‚³‚ñI<span lang="EN-US"><o:p></o:p></span></b></p>
+normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ê‚³ï¿½ï¿½Iï¿½ê‚³ï¿½ï¿½I<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><br />
-    </span>ƒnƒ„ƒg‚ª•êe‚ð•ø‚«‚µ‚ß‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
+    </span>ï¿½nï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>•ê@@‘åä•vBŽ„‚É‚Í–½‚ª“ñ‚Â‚ ‚é‚ÌBŽ„‚Í‚à‚¤ˆê‚Â‚Ì–½‚Å¶‚«‚Ä‚¢‚¯‚éB‚Å‚à‚ËAŽ„‚Í“ñ‚Â–Ú‚Ì–½‚ª‚È‚¢‚ÆA•ê‚ÌŽp‚Å‚¢‚é‚±‚Æ‚ª‚Å‚«‚È‚¢‚ÌB•ê‚ÌŽp‚Å‚ ‚È‚½‚Ì‘O‚É‚¢‚ç‚ê‚é‚Ì‚ÍA‚±‚ê‚ªÅŒã‚æBƒnƒ„ƒgAX‚ðAX‚ð—Š‚ñ‚¾‚íB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@•ê‚³‚ñI<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>•ê@@ƒnƒ„ƒgI<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½vï¿½Bï¿½ï¿½ï¿½É‚Í–ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ÌBï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½Â‚Ì–ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½ËAï¿½ï¿½ï¿½Í“ï¿½Â–Ú‚Ì–ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÆAï¿½ï¿½ÌŽpï¿½Å‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½ÌBï¿½ï¿½ÌŽpï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½Ì‘Oï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÍAï¿½ï¿½ï¿½ê‚ªï¿½ÅŒï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½gï¿½Aï¿½Xï¿½ï¿½ï¿½Aï¿½Xï¿½ð—Š‚ñ‚¾‚ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ê‚³ï¿½ï¿½I<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½@ï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½I<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a">™yŽq@‘±‚¯‚é‚æB•ê‚Í–Ø‚ÌŒã‚ë‚É‰B‚ê‚é<span lang="EN-US">(</span>•ê‚ª‚»‚¤‚·‚é<span lang="EN-US">)</span>B‰Æ—ˆ‚ªˆêÄ‚É‹ó‚ðŒ©‚é<span lang="EN-US">(</span>‰Æ—ˆ’B‚ª‚»‚¤‚·‚é<span lang="EN-US">)</span>B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½Í–Ø‚ÌŒï¿½ï¿½É‰Bï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ê‚ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½Bï¿½Æ—ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚É‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½Æ—ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒ„ƒuƒŒ@‹â‚Ì‘é‚¾B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½Ì‘é‚¾ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>‚»‚Ìº‚É‘±‚¢‚ÄA‰Æ—ˆ’B‚ªu‹â‚Ì‘é‚¾v‚Æ‹©‚ÔB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½Ìï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½ÄAï¿½Æ—ï¿½ï¿½Bï¿½ï¿½ï¿½uï¿½ï¿½Ì‘é‚¾ï¿½vï¿½Æ‹ï¿½ï¿½ÔB<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@‚ ‚Ì‘é‚ðB‚ ‚Ì‹â‚Ì‘é‚ðŒ‚‚¿‚È‚³‚¢B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‹ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><span
-style='mso-tab-count:1'></span></span>ƒJƒuƒŒ‚ÍŒ‚‚Â‚±‚Æ‚ª‚Å‚«‚È‚¢B<span lang="EN-US"><o:p></o:p></span></b></p>
+style='mso-tab-count:1'></span></span>ï¿½Jï¿½uï¿½ï¿½ï¿½ÍŒï¿½ï¿½Â‚ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><span
 style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@‰½‚ð‚µ‚Ä‚¢‚é‚ÌB‚ ‚Ì‘é‚ðA‚ ‚Ì‘é‚ðŒ‚‚Â‚Ì‚æB<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒJƒuƒŒ@•P—lB‚ ‚Ì‘é‚ðŒ‚‚Â‚Ì‚Í‚©‚ñ‚×‚ñ‚µ‚Ä‚­‚¾‚³‚¢B<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>¬—Ú—ž@•P—lA‹A‚è‚Ü‚µ‚å‚¤B‹â‚Ì‘é‚Ì±‚Þ‚±‚ÌX‚Í’ú‚ß‚Ü‚µ‚å‚¤B<span lang="EN-US"><o:p></o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>—Ú—ž•P@ƒnƒ„ƒgA‚±‚ê‚Å‚·‚×‚Ä‚ªI‚í‚Á‚½‚È‚ñ‚ÄŽv‚í‚È‚¢‚Å‚ËBŽ„‚Í‚Ü‚½–ß‚Á‚Ä‚­‚éB•K‚¸‚±‚±‚É–ß‚Á‚Ä‚­‚é‚íB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ÌBï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½Â‚Ì‚ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½Pï¿½lï¿½Bï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½Â‚Ì‚Í‚ï¿½ï¿½ï¿½×‚ñ‚µ‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½ï¿½ï¿½Ú—ï¿½ï¿½@ï¿½Pï¿½lï¿½Aï¿½Aï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½Bï¿½ï¿½Ì‘ï¿½Ìï¿½ï¿½Þ‚ï¿½ï¿½ÌXï¿½Í’ï¿½ï¿½ß‚Ü‚ï¿½ï¿½å‚¤ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½Aï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½×‚Ä‚ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ÄŽvï¿½ï¿½È‚ï¿½ï¿½Å‚ËBï¿½ï¿½ï¿½Í‚Ü‚ï¿½ï¿½ß‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É–ß‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><span
 style='mso-tab-count:1'></span><o:p></o:p></span></b></p>
-    <p class="a0"><b style='mso-bidi-font-weight:normal'>‰Æ—ˆ’B‚ª—Ú—ž•P‚ð˜A‚ê‚ÄX‚©‚ç‹Ž‚éB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a0"><b style='mso-bidi-font-weight:normal'>ï¿½Æ—ï¿½ï¿½Bï¿½ï¿½ï¿½Ú—ï¿½ï¿½Pï¿½ï¿½Aï¿½ï¿½ÄXï¿½ï¿½ï¿½ç‹Žï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@•ê‚³‚ñAˆÀS‚µ‚ÄB‚±‚ê‚©‚ç‚Ç‚ñ‚È‚±‚Æ‚ª‹N‚«‚Ä‚àA–l‚ª‚±‚ÌX‚ðŽç‚é‚©‚çB•K‚¸Žç‚é‚©‚çB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ê‚³ï¿½ï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½ÄBï¿½ï¿½ï¿½ê‚©ï¿½ï¿½Ç‚ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½Nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½é‚©ï¿½ï¿½Bï¿½Kï¿½ï¿½ï¿½ï¿½é‚©ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒnƒ„ƒg‚ª‹Ž‚Á‚Ä‚¢‚­B</p>
+    <p class="a0">ï¿½nï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚»‚µ‚ÄAÅŒã‚ÉŽ„‚ÌƒiƒŒ[ƒVƒ‡ƒ“‚ª“ü‚éB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ÅŒï¿½ÉŽï¿½ï¿½Ìƒiï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
     <p class="a" style="line-height:17.0pt;mso-line-height-rule:exactly"><b
-style='mso-bidi-font-weight:normal'>ƒiƒŒ[ƒVƒ‡ƒ“m™yŽqn@‚±‚¤‚µ‚ÄŽµ‚ÂX‚ÉÄ‚Ñ•½˜a‚ª–K‚ê‚½B‚µ‚©‚µAˆÀS‚Í‚Å‚«‚È‚¢B—Ú—ž•P‚Í¡‚Å‚àAX‚ð’D‚¢Žæ‚éƒ`ƒƒƒ“ƒX‚ð‚¤‚©‚ª‚Á‚Ä‚¢‚é‚Ì‚¾BX‚Í<span lang="EN-US"><ruby style='ruby-align:distribute-space'><span lang="EN-US"><span lang="EN-US">¶–½</span></span><rp>(</rp><rt style='font-size:5.0pt;letter-spacing:
-0pt;layout-grid-mode:line;font-weight:normal'>‚¢‚Ì‚¿</rt><rp>)</rp></ruby></span><b
+style='mso-bidi-font-weight:normal'>ï¿½iï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½mï¿½yï¿½qï¿½nï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŽï¿½ï¿½ÂXï¿½ÉÄ‚Ñ•ï¿½ï¿½aï¿½ï¿½ï¿½Kï¿½ê‚½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Sï¿½Í‚Å‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½Ú—ï¿½ï¿½Pï¿½Íï¿½ï¿½Å‚ï¿½ï¿½Aï¿½Xï¿½ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Bï¿½Xï¿½ï¿½<span lang="EN-US"><ruby style='ruby-align:distribute-space'><span lang="EN-US"><span lang="EN-US">ï¿½ï¿½ï¿½ï¿½</span></span><rp>(</rp><rt style='font-size:5.0pt;letter-spacing:
+0pt;layout-grid-mode:line;font-weight:normal'>ï¿½ï¿½ï¿½Ì‚ï¿½</rt><rp>)</rp></ruby></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:10.5pt;mso-bidi-font-size:
-10.0pt;letter-spacing:-.6pt'>‚Ì‚ ‚Ó‚ê‚éêŠBX‚Í‚»‚êŽ©g‚ªˆê‚Â‚Ì‘å‚«‚È<span lang="EN-US"><ruby
-style='ruby-align:distribute-space'><span lang="EN-US"><span lang="EN-US">¶–½</span></span><rp>(</rp><rt
+10.0pt;letter-spacing:-.6pt'>ï¿½Ì‚ï¿½ï¿½Ó‚ï¿½ï¿½êŠï¿½Bï¿½Xï¿½Í‚ï¿½ï¿½êŽ©ï¿½gï¿½ï¿½ï¿½ï¿½Â‚Ì‘å‚«ï¿½ï¿½<span lang="EN-US"><ruby
+style='ruby-align:distribute-space'><span lang="EN-US"><span lang="EN-US">ï¿½ï¿½ï¿½ï¿½</span></span><rp>(</rp><rt
 style='font-size:5.0pt;letter-spacing:0pt;layout-grid-mode:line;font-weight:
-normal'>‚¢‚Ì‚¿</rt><rp>)</rp></ruby></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:10.5pt;mso-bidi-font-size:10.0pt;letter-spacing:-.6pt'>‚¾B‚»‚ñ‚ÈX‚ð—Ú—ž•P‚Ì–‚‚ÌŽè‚É’D‚í‚ê‚é‚±‚Æ‚ª‚ ‚Á‚Ä‚Í‚È‚ç‚È‚¢B<span lang="EN-US"><o:p></o:p></span></span></b></span></b></b></p>
+normal'>ï¿½ï¿½ï¿½Ì‚ï¿½</rt><rp>)</rp></ruby></span><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10.5pt;mso-bidi-font-size:10.0pt;letter-spacing:-.6pt'>ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ÈXï¿½ï¿½Ú—ï¿½ï¿½Pï¿½Ì–ï¿½ï¿½ÌŽï¿½É’Dï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Í‚È‚ï¿½È‚ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></span></b></span></b></b></p>
     <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="MsoNormal"><span style='font-family:"‚l‚r –¾’©","serif";mso-ascii-font-family:
-Century;mso-hansi-font-family:Century'>™yŽq@‚Í‚¢A‚±‚±‚Ü‚ÅB</span></p>
+    <p class="MsoNormal"><span style='font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½","serif";mso-ascii-font-family:
+Century;mso-hansi-font-family:Century'>ï¿½yï¿½qï¿½@ï¿½Í‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ÅB</span></p>
     <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Žq‚Ç‚à‚½‚¿‚ª•‘‘ä‚ÉW‚Ü‚Á‚Ä‚­‚éB<span lang="EN-US"><br />
-    </span>‚ª‘å‚«‚È‚½‚ß‘§‚ð‚Â‚¢‚Ä‚Ð‚´‚Ü‚¸‚­B</p>
+    <p class="a0">ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉWï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½ï¿½ï¿½å‚«ï¿½È‚ï¿½ï¿½ß‘ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ä‚Ð‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@A‚Ç‚¤‚µ‚½B</p>
-    <p class="a">@@Ž„A—Ú—ž•P‚Ì¢ŠE‚ª‘n‚ê‚Ü‚¹‚ñ<span lang="EN-US">(</span>‹ƒ‚«o‚·<span lang="EN-US">)</span>B</p>
-    <p class="a">™yŽq@‚Ç‚¤‚µ‚Ä‚¨‘O‚Í‚»‚¤‚·‚®‹ƒ‚­‚ñ‚¾B</p>
-    <p class="a">@@—Ú—ž•P‚ª‚©‚í‚¢‚»‚¤‚ÅcA‰Æ—ˆ’B‚ÍS‚ð“ü‚ê‘Ö‚¦‚é‚Ì‚ÉA—Ú—ž•P‚¾‚¯‚ÍÅŒã‚Ü‚ÅŽc“‚È‚Ü‚ÜB‰‰‚¶‚Ä‚Ä‹ƒ‚«‚½‚­‚È‚è‚Ü‚·B</p>
-    <p class="a">™yŽq@”nŽ­A—Ú—ž•P‚ª‹ƒ‚¢‚Ä‚Ç‚¤‚È‚éB—Ú—ž•P‚Í—Ü‚ð’m‚ç‚È‚¢­—‚¾B</p>
-    <p class="a">@@—Ú—ž•P‚Í‹ƒ‚¢‚½‚è‚µ‚È‚¢‚ñ‚Å‚·‚©B</p>
-    <p class="a">™yŽq@‚»‚¤‚¾B‚¨‘O‚Æ‚Í³”½‘Î‚Ì‹ƒ‚©‚È‚¢­—‚¾B</p>
-    <p class="a">@@Ž„A¢‚Ì’†‚É—Ú—ž•P‚Ì‚æ‚¤‚Èˆ«‚¢l‚ª‚¢‚é‚È‚ñ‚ÄŽv‚¦‚È‚¢‚ñ‚Å‚·B</p>
-    <p class="a">™yŽq@‚±‚Ì¢‚Ì’†A—Ú—ž•P’ö“x‚Ìˆ«l‚È‚ç‚¢‚­‚ç‚Å‚à‚¢‚éB</p>
-    <p class="a">@@‚»‚¤‚Å‚µ‚å‚¤‚©B</p>
-    <p class="a">™yŽq@Ž„‚à‚»‚Ìˆêl‚¾B</p>
-    <p class="a">@@™yŽq‚³‚ñ‚ªH</p>
-    <p class="a">™yŽq@‚»‚¤‚¾Bˆ«–‚‚ÆŒÄ‚Î‚ê‚½‚±‚Æ‚à‚ ‚éB</p>
-    <p class="a">@@ˆ«–‚H™yŽq‚³‚ñ‚ªˆ«–‚‚È‚ñ‚ÄA<span lang="EN-US">(</span>‚»‚¤Œ¾‚Á‚ÄA‚Í‚Á‚Æ‚·‚é<span lang="EN-US">)</span>ˆ«–‚c‚»‚¤‚¾Aˆ«–‚‚¾A—Ú—ž•P‚Íˆ«–‚‚Éˆç‚Ä‚ç‚ê‚½‚ñ‚¾B‚»‚µ‚Ä‚Ð‚Ç‚¢‰AŽ¼‚È‚¢‚¶‚ß‚É‚ ‚Á‚ÄAˆ¤‚·‚é‚±‚Æ‚à—Ü‚ð—¬‚·‚±‚Æ‚à’m‚ç‚¸‚Éˆç‚Á‚½B™yŽq‚³‚ñA‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B—Ú—ž•P‚Ì¢ŠE‚ª‘n‚ê‚»‚¤‚Å‚·B<span lang="EN-US">(</span>“Æ‚èŒ¾‚Å<span lang="EN-US">)</span>—Ú—ž•P‚Í¶‚Ü‚ê‚Ä‚·‚®ˆ«–‚‚É‚³‚ç‚í‚ê‚½A‚»‚µ‚Äˆ«–‚‚Éˆç‚Ä‚ç‚ê‚½B‚»‚ê‚Åc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½Aï¿½Ú—ï¿½ï¿½Pï¿½Ìï¿½ï¿½Eï¿½ï¿½ï¿½nï¿½ï¿½Ü‚ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½<span lang="EN-US">)</span>ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Oï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½ï¿½Åcï¿½Aï¿½Æ—ï¿½ï¿½Bï¿½ÍSï¿½ï¿½ï¿½ï¿½ï¿½Ö‚ï¿½ï¿½ï¿½Ì‚ÉAï¿½Ú—ï¿½ï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½ÍÅŒï¿½Ü‚ÅŽcï¿½ï¿½ï¿½È‚Ü‚ÜBï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ä‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½Ü‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Aï¿½Ú—ï¿½ï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ç‚ï¿½ï¿½È‚ï¿½Bï¿½Ú—ï¿½ï¿½Pï¿½Í—Ü‚ï¿½mï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½Í‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½È‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Oï¿½Æ‚Íï¿½ï¿½ï¿½ï¿½Î‚Ì‹ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì’ï¿½ï¿½É—Ú—ï¿½ï¿½Pï¿½Ì‚æ‚¤ï¿½Èˆï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ÄŽvï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ìï¿½ï¿½Ì’ï¿½ï¿½Aï¿½Ú—ï¿½ï¿½Pï¿½ï¿½ï¿½xï¿½Ìˆï¿½ï¿½lï¿½È‚ç‚¢ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½å‚¤ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìˆï¿½lï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ñ‚ªH</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÆŒÄ‚Î‚ê‚½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Hï¿½yï¿½qï¿½ï¿½ï¿½ñ‚ªˆï¿½ï¿½ï¿½ï¿½È‚ï¿½ÄA<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½Í‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ú—ï¿½ï¿½Pï¿½Íˆï¿½ï¿½ï¿½ï¿½Éˆï¿½Ä‚ï¿½ê‚½ï¿½ñ‚¾Bï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ð‚Ç‚ï¿½ï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ß‚É‚ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Ü‚ð—¬‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½mï¿½ç‚¸ï¿½Éˆï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½yï¿½qï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ú—ï¿½ï¿½Pï¿½Ìï¿½ï¿½Eï¿½ï¿½ï¿½nï¿½ê‚»ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<span lang="EN-US">(</span>ï¿½Æ‚èŒ¾ï¿½ï¿½<span lang="EN-US">)</span>ï¿½Ú—ï¿½ï¿½Pï¿½Íï¿½ï¿½Ü‚ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Äˆï¿½ï¿½ï¿½ï¿½Éˆï¿½Ä‚ï¿½ê‚½ï¿½Bï¿½ï¿½ï¿½ï¿½Åc</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">‚Í‚»‚¤‚Â‚Ô‚â‚«‚È‚ª‚ç•‘‘ä‚ð‹Ž‚Á‚Ä‚¢‚­B</p>
+    <p class="a0">ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½Â‚Ô‚â‚«ï¿½È‚ï¿½ï¿½ç•‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚³‚ AÅŒã‚Ì‚¾‚ßo‚µ‚¾B”¹lB</p>
-    <p class="a">”¹l@‚Í‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ÅŒï¿½Ì‚ï¿½ï¿½ßoï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½lï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Í‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">”¹l‚ª‘³‚©‚ço‚Ä‚­‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@•ê‚³‚ñ‚ÉŒˆˆÓ‚ðŒ¾‚¤‚Æ‚±‚ëA‚Ü‚¾Š´î‚ª‚±‚à‚Á‚Ä‚È‚¢B‚à‚¤ˆê“x‚»‚ÌƒV[ƒ“‚ð‚â‚é‚æB</p>
-    <p class="a">”¹l@‚Í‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ê‚³ï¿½ï¿½ÉŒï¿½ï¿½Ó‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½ï¿½ï¿½î‚ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Í‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>”¹l‚ª€”õ‚·‚éB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚»‚ê‚¶‚áA‚¢‚­‚æBƒnƒ„ƒg‚Ì‘äŽŒ‚©‚çB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½gï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
     <p class="a0" style="margin-left:0mm;text-indent:0mm"><b style='mso-bidi-font-weight:
-normal'>ƒnƒ„ƒg@•ê‚³‚ñAˆÀS‚µ‚ÄB‚±‚ê‚©‚ç‚Ç‚ñ‚È‚±‚Æ‚ª‹N‚«‚Ä‚àA–l‚ª‚±‚ÌX‚ðŽç‚é‚©‚çB•K‚¸Žç‚é‚©‚çB<span lang="EN-US"><o:p></o:p></span></b></p>
+normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ê‚³ï¿½ï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½ÄBï¿½ï¿½ï¿½ê‚©ï¿½ï¿½Ç‚ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½Nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½é‚©ï¿½ï¿½Bï¿½Kï¿½ï¿½ï¿½ï¿½é‚©ï¿½ï¿½B<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚»‚ñ‚È‚É‹ê‚µ‚»‚¤‚ÉŒ¾‚¤‚ÈB‚à‚Á‚ÆS‚ðž‚ß‚ÄB‚à‚¤ˆê“xB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½È‚É‹ê‚µï¿½ï¿½ï¿½ï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½ÆSï¿½ï¿½ï¿½ï¿½ï¿½ß‚ÄBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg<span lang="EN-US"><span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>•ê‚³‚ñBˆÀS‚µ‚ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½g<span lang="EN-US"><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>ï¿½ê‚³ï¿½ï¿½Bï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½ÄB<span lang="EN-US"><o:p></o:p></span></b></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚à‚Á‚Æ–¾‚é‚­B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Æ–ï¿½ï¿½é‚­ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a"><b style='mso-bidi-font-weight:normal'>ƒnƒ„ƒg@•ê‚³‚ñBˆÀS‚µ‚ÄB–lA–lc@@</b>‚¨‚È‚©‚ª’É‚¢i‚¤‚¸‚­‚Ü‚éjB</p>
+    <p class="a"><b style='mso-bidi-font-weight:normal'>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ê‚³ï¿½ï¿½Bï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½ÄBï¿½lï¿½Aï¿½lï¿½cï¿½@ï¿½@</b>ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½jï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‘ä–{‚É‚È‚¢‘äŽŒ‚ðŒ¾‚¤‚ÈB–¾“ú‚Í–{”Ô‚¾‚¼B‚³‚Á—§‚Á‚Äc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½{ï¿½É‚È‚ï¿½ï¿½äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½Í–{ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äc</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">™yŽq‚Í”¹l‚Ì˜r‚ð‚Â‚©‚ñ‚Å—§‚½‚¹‚æ‚¤‚Æ‚·‚éB<span lang="EN-US"><br />
-    </span>™yŽq‚ÌŠçF‚ª•Ï‚í‚éB<span lang="EN-US"><br />
-    </span>™yŽq‚Í”¹l‚ÌŠz‚ÉŽè‚ð“–‚Ä‚éB</p>
+    <p class="a0">ï¿½yï¿½qï¿½Í”ï¿½ï¿½lï¿½Ì˜rï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½Å—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½yï¿½qï¿½ÌŠï¿½Fï¿½ï¿½ï¿½Ï‚ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½yï¿½qï¿½Í”ï¿½ï¿½lï¿½ÌŠzï¿½ÉŽï¿½ð“–‚Ä‚ï¿½B</p>
     <p class="a"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span></p>
-    <p class="a">™yŽq@‚·‚²‚¢”M‚¾B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Mï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">—T”ü‚ª‚©‚¯‚Ä‚­‚éB‘±‚¢‚ÄAŽq‚Ç‚à‚½‚¿‚ªW‚Ü‚Á‚Ä‚­‚éB</p>
+    <p class="a0">ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚È‚º–Ù‚Á‚Ä‚½B</p>
-    <p class="a">”¹l@‘åä•v‚Å‚·B</p>
-    <p class="a">™yŽq@‘åä•v‚¶‚á‚È‚¢B‚Æ‚É‚©‚­‚·‚®•a‰@‚És‚¯B</p>
-    <p class="a">”¹l@–lAƒ‹ƒŠ‚Æ–ñ‘©‚µ‚½‚ñ‚Å‚·BŒ€‚ð¬Œ÷‚³‚¹‚é‚Á‚ÄB‚»‚µ‚ÄŽµ‚ÂX‚ðŽç‚é‚Á‚ÄB‚±‚ñ‚È‚Ìc‚È‚ñ‚Å‚àc‚Èc‚¢c</p>
-    <p class="a">™yŽq@‚à‚¤’‚é‚ÈB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½È‚ï¿½ï¿½Ù‚ï¿½ï¿½Ä‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½vï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½Æ‚É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½aï¿½@ï¿½Ésï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½lï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Æ–ñ‘©‚ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ð¬Œï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄBï¿½ï¿½ï¿½ï¿½ï¿½ÄŽï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄBï¿½ï¿½ï¿½ï¿½È‚Ìcï¿½È‚ï¿½Å‚ï¿½ï¿½cï¿½Ècï¿½ï¿½ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ƒIƒIƒ‹ƒŠ‚Ì–Â‚«ºB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½Iï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Ì–Â‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">”¹l@i—§‚¿ã‚ª‚Á‚Äƒ‹ƒŠ‚Ì‚¢‚é•û‚É•à‚¢‚Ä‚¢‚­jƒ‹ƒŠA‘åä•vB–ñ‘©’Ê‚èAŽµ‚ÂX‚ÍcŽç‚é‚©‚çA•K‚¸cŽç‚é‚©‚çci‚»‚¤Œ¾‚Á‚Ä“|‚ê‚éj</p>
-    <p class="a">™yŽq@”¹lA”¹lB</p>
-    <p class="a">”¹l<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>Žç‚é‚©‚çcA•K‚¸cŽç‚é‚©‚çc</p>
-    <p class="a">™yŽq@—T”üA‹~‹}ŽÔŒÄ‚ñ‚ÅB</p>
-    <p class="a">—T”ü@‚í‚©‚Á‚½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½ï¿½ï¿½Äƒï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½É•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½vï¿½Bï¿½ñ‘©’Ê‚ï¿½Aï¿½ï¿½ï¿½ÂXï¿½Ícï¿½ï¿½é‚©ï¿½ï¿½Aï¿½Kï¿½ï¿½ï¿½cï¿½ï¿½é‚©ï¿½ï¿½cï¿½iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä“|ï¿½ï¿½ï¿½j</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½Aï¿½ï¿½ï¿½lï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½l<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½ï¿½é‚©ï¿½ï¿½cï¿½Aï¿½Kï¿½ï¿½ï¿½cï¿½ï¿½é‚©ï¿½ï¿½c</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Tï¿½ï¿½ï¿½Aï¿½~ï¿½}ï¿½ÔŒÄ‚ï¿½ÅB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">—T”ü‚ª‹ì‚¯‚Ä•‘‘ä‚©‚ço‚Ä‚¢‚­B</p>
-    <p class="a0">ˆÃ“]</p>
+    <p class="a0">ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ì‚¯ï¿½Ä•ï¿½ï¿½ä‚©ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½Ã“]</p>
     <p class="a0" style="margin-left:0mm;text-indent:0mm"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <h2><span style='font-family:"‚l‚r ƒSƒVƒbƒN";mso-ascii-font-family:Arial;mso-hansi-font-family:
-Arial'>Ÿ–{”Ô“–“ú</span></h2>
+    <h2><span style='font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";mso-ascii-font-family:Arial;mso-hansi-font-family:
+Arial'>ï¿½ï¿½ï¿½{ï¿½Ô“ï¿½ï¿½ï¿½</span></h2>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">Œê‚è•”‚P`‚S‚ªŒ»‚ê‚é<span lang="EN-US"><br />
-    </span>ˆÖŽq‚É™yŽq‚ªÀ‚Á‚Ä‚¢‚éB</p>
+    <p class="a0">ï¿½ï¿½è•”ï¿½Pï¿½`ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US"><br />
+    </span>ï¿½ÖŽqï¿½É™yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">Œê‚è•”‚P@‚³‚ÄA¡“ú‚ÍA</p>
-    <p class="a">Œê‚è•”’B@–{”ÔA“–“ú‚Ì’©B</p>
+    <p class="a">ï¿½ï¿½è•”ï¿½Pï¿½@ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ÍA</p>
+    <p class="a">ï¿½ï¿½è•”ï¿½Bï¿½@ï¿½{ï¿½ÔAï¿½ï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>“Ë‘RA™yŽq‚ª–Ú‚ðŠo‚Ü‚·B</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½Ë‘Rï¿½Aï¿½yï¿½qï¿½ï¿½ï¿½Ú‚ï¿½ï¿½oï¿½Ü‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>‚¢‚¿‚¢‚¿‚¤‚é‚³‚¢Bo‚Ä‚¢‚¯B‚±‚±‚©‚ço‚Ä‚¢‚¯B</p>
+    <p class="a">ï¿½yï¿½q<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚³ï¿½ï¿½ï¿½Bï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>Œê‚è•”’B‚ªQ‚Ä‚Ä•‘‘ä‚©‚ç‹Ž‚éB<span lang="EN-US"><br />
-    </span>™yŽq‚ÍÄ‚ÑˆÖŽq‚É“|‚êž‚Þ‚æ‚¤‚ÉÀ‚èAQŒ¾‚Åuo‚Ä‚¢‚¯v‚ÆŒ¾‚¢‘±‚¯‚éB</p>
-    <p class="a0">—T”ü‚ª“ü‚Á‚Ä‚­‚éB<span lang="EN-US"><br />
-    </span>‚¤‚È‚³‚ê‚Ä‚¢‚é™yŽq‚ð‹N‚±‚µ‚ÄB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½ï¿½è•”ï¿½Bï¿½ï¿½ï¿½Qï¿½Ä‚Ä•ï¿½ï¿½ä‚©ï¿½ç‹Žï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½yï¿½qï¿½ÍÄ‚ÑˆÖŽqï¿½É“|ï¿½êžï¿½Þ‚æ‚¤ï¿½Éï¿½ï¿½ï¿½Aï¿½Qï¿½ï¿½ï¿½Åuï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½yï¿½qï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñB</p>
-    <p class="a">™yŽq@o‚Ä‚¢‚¯I</p>
-    <p class="a">—T”ü@c</p>
-    <p class="a">™yŽq<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>–²‚©c</p>
-    <p class="a">—T”ü@–²H</p>
-    <p class="a">™yŽq@<span lang="EN-US">(</span>‚½‚ß‘§<span lang="EN-US">)</span>–²‚Ì’†‚Éo‚Ä‚­‚éŒê‚è•”‚É“{–Â‚èŽU‚ç‚µ‚Ä‚½B</p>
-    <p class="a">—T”ü@™yŽq‚¿‚á‚ñ‚ç‚µ‚¢‚ËA–²‚Ì’†‚É‚Ü‚ÅŒê‚è•”‚ªo‚Ä‚­‚é‚È‚ñ‚ÄB</p>
-    <p class="a">™yŽq@‚»‚ê‚ÅA”¹l‚Íc</p>
-    <p class="a">—T”ü@–Ó’°A‚©‚È‚èˆ«‚¢ó‘Ô‚Ý‚½‚¢B‚½‚Ô‚ñ¡“úAŽèp‚·‚é‚±‚Æ‚É‚È‚é‚¾‚ë‚¤‚Á‚ÄB</p>
-    <p class="a">™yŽq@Žå–ðA‚È‚µ‚©c</p>
-    <p class="a">—T”ü@‘ã–ðA—§‚Ä‚Äc</p>
-    <p class="a">™yŽq@¡‚©‚ç‚©H</p>
-    <p class="a">—T”ü@c</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½I</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
+    <p class="a">ï¿½yï¿½q<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½ï¿½ï¿½ï¿½ï¿½c</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½H</p>
+    <p class="a">ï¿½yï¿½qï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ß‘ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½Ì’ï¿½ï¿½Éoï¿½Ä‚ï¿½ï¿½ï¿½ï¿½è•”ï¿½É“{ï¿½Â‚ï¿½Uï¿½ç‚µï¿½Ä‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ç‚µï¿½ï¿½ï¿½ËAï¿½ï¿½ï¿½Ì’ï¿½ï¿½É‚Ü‚ÅŒï¿½è•”ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½È‚ï¿½ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½lï¿½Íc</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½Ó’ï¿½ï¿½Aï¿½ï¿½ï¿½È‚èˆ«ï¿½ï¿½ï¿½ï¿½Ô‚Ý‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ô‚ñ¡“ï¿½ï¿½Aï¿½ï¿½pï¿½ï¿½ï¿½é‚±ï¿½Æ‚É‚È‚é‚¾ï¿½ë‚¤ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½È‚ï¿½ï¿½ï¿½ï¿½c</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ä‚Äc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½H</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½c</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">“ñl‚Í–Ù‚èž‚ÞB</p>
+    <p class="a0">ï¿½ï¿½lï¿½Í–Ù‚èžï¿½ÞB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">—T”ü@’†Ž~‚Ì‚±‚Æc</p>
-    <p class="a">™yŽq@Ž„‚ª“`‚¦‚éBi‘åº‚Åj‚Ý‚ñ‚ÈAW‡‚µ‚ÄB</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½~ï¿½Ì‚ï¿½ï¿½Æc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½Bï¿½iï¿½åºï¿½Åjï¿½Ý‚ï¿½ÈAï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>Žq‚Ç‚à‚½‚¿‚ª™yŽq‚ÌŽü‚è‚ÉW‡‚·‚éB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½qï¿½ÌŽï¿½ï¿½ï¿½ÉWï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚Ý‚ñ‚È‚É˜b‚ª‚ ‚éB‚à‚¤ŠoŒå‚Í‚Å‚«‚Ä‚¢‚é‚ÆŽv‚¤‚¯‚ÇA¡“ú‚ÌŒ€‚ÍŽc”O‚È‚ª‚çc</p>
-    <p class="a">”¹l<span lang="EN-US">(</span>º<span lang="EN-US">)</span>@’x‚ê‚Ä‚·‚¢‚Ü‚¹‚ñB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Ý‚ï¿½È‚É˜bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½Í‚Å‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ÍŽcï¿½Oï¿½È‚ï¿½ï¿½ï¿½c</p>
+    <p class="a">ï¿½ï¿½ï¿½l<span lang="EN-US">(</span>ï¿½ï¿½<span lang="EN-US">)</span>ï¿½@ï¿½xï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">”¹l‚ª‘–‚Á‚ÄŒ»‚ê‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@”¹lB‚¨‘OA–Ó’°‚ÌŽèp‚·‚é‚ñ‚¾‚ëB</p>
-    <p class="a">”¹l@’N‚ª‚»‚ñ‚È‚±‚ÆŒ¾‚Á‚½‚ñ‚Å‚·‚©BŽèp‚È‚ñ‚Ä‚µ‚Ü‚¹‚ñB‚ ‚ê‚Í‚½‚¾‚ÌH’†“ÅB‚à‚¤A‚È‚ñ‚Æ‚à‚ ‚è‚Ü‚¹‚ñB</p>
-    <p class="a">—T”ü@–{“–‚ÉB–{“–‚É‘åä•v‚È‚ÌB</p>
-    <p class="a">”¹l@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚±‚¢‚ÂAS”z‚©‚¯‚â‚ª‚Á‚ÄB</p>
-    <p class="a">”¹l@‚·‚Ý‚Ü‚¹‚ñ<span lang="EN-US">(</span>‚»‚¤‚¢‚Á‚ÄÎ‚¤B‚»‚ÌÎ‚¢‚ªŽq‚Ç‚à‚½‚¿‚É‚àL‚ª‚é<span lang="EN-US">)</span>B</p>
-    <p class="a">—T”ü@Œ€A‚Å‚«‚é‚Ì‚ËB</p>
-    <p class="a">™yŽq@i‚¤‚È‚¸‚­j‚æ[‚µAŽn‚ß‚æ‚¤B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½Bï¿½ï¿½ï¿½Oï¿½Aï¿½Ó’ï¿½ï¿½ÌŽï¿½pï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½pï¿½È‚ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ÌHï¿½ï¿½ï¿½ÅBï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½È‚ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½{ï¿½ï¿½ï¿½ÉBï¿½{ï¿½ï¿½ï¿½É‘ï¿½ï¿½vï¿½È‚ÌB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÂAï¿½Sï¿½zï¿½ï¿½ï¿½ï¿½ï¿½â‚ªï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄÎ‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÌÎ‚ï¿½ï¿½ï¿½ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½Lï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½B</p>
+    <p class="a">ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Aï¿½Å‚ï¿½ï¿½ï¿½Ì‚ËB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½iï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½[ï¿½ï¿½ï¿½Aï¿½nï¿½ß‚æ‚¤ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">‚Ý‚ñ‚È‚ªŠ½º‚ðã‚°‚éB</p>
+    <p class="a0">ï¿½Ý‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ã‚°ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@¡“ú‚ÌŒ€‚ÌŠm”F‚ð‚·‚é‚æB‚Ü‚¸ƒI[ƒvƒjƒ“ƒO‚Ì‰¹Šy‚Ì“ü‚è‚Ìƒ^ƒCƒ~ƒ“ƒO‚¾BŽ„‚Ì•‘‘äˆ¥ŽA‚ªI‚í‚Á‚ÄAŽ„‚ª‚±‚¤‚â‚Á‚Ä<span lang="EN-US">(</span>—ç‚ð‚·‚é<span lang="EN-US">)</span>—ç‚ð‚·‚é‚Ì‚ª‚«‚Á‚©‚¯‚¾B‰¹Šy‚ª“ü‚Á‚½‚çãj’ ‚ªã‚ª‚èŒ€‚ªŽn‚Ü‚éB‚­‚ê‚®‚ê‚à‰¹Šy‚ð“ü‚ê‚éƒ^ƒCƒ~ƒ“ƒO‚ðŠÔˆá‚¦‚È‚¢‚æ‚¤‚ÉBˆ¤A‚í‚©‚Á‚½B</p>
-    <p class="a">ˆ¤@@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚Ý‚ñ‚È‚¢‚¢A‚¨‘O’B‚É‚µ‚©‚Å‚«‚È‚¢Œ€‚ð‚â‚é‚ñ‚¾B‚¨‘O’B‚É‚Í‚»‚ê‚ª‚Å‚«‚éB‚ÆŒ¾‚¢‚½‚¢‚Æ‚±‚ë‚¾‚¯‚ÇAð“ú‚Ì—ûK‚àŽ¸”s‚¾‚ç‚¯B‚³‚ÄA‚»‚±‚ÅŽ¸”s‘Îô‚È‚ñ‚¾‚¯‚ÇA‚Æ‚É‚©‚­ŠÔˆá‚Á‚½‚çA’N‚©‚ª‚¤‚Ü‚­ƒtƒH[ƒ[‚µ‚ÄŒ€‚ði‚ß‚Ä‚¢‚­‚±‚ÆA‚»‚ê‚¾‚¯“ª‚É‚½‚½‚«ž‚ñ‚Å‚¨‚¯B‚¢‚¢‚ÈB</p>
-    <p class="a">‚Ý‚ñ‚È@‚Í‚¢B</p>
-    <p class="a">™yŽq@‚æ[‚µB‚Ý‚ñ‚È‰~w‚ð‘g‚ßB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ÌŠmï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Iï¿½[ï¿½vï¿½jï¿½ï¿½ï¿½Oï¿½Ì‰ï¿½ï¿½yï¿½Ì“ï¿½ï¿½ï¿½Ìƒ^ï¿½Cï¿½~ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì•ï¿½ï¿½äˆ¥ï¿½Aï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½èŒ€ï¿½ï¿½ï¿½nï¿½Ü‚ï¿½Bï¿½ï¿½ï¿½ê‚®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½~ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Ôˆá‚¦ï¿½È‚ï¿½ï¿½æ‚¤ï¿½ÉBï¿½ï¿½ï¿½Aï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½@ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½Ý‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Oï¿½Bï¿½É‚ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾Bï¿½ï¿½ï¿½Oï¿½Bï¿½É‚Í‚ï¿½ï¿½ê‚ªï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ë‚¾ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ç‚¯ï¿½Bï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ÅŽï¿½ï¿½sï¿½Îï¿½È‚ñ‚¾‚ï¿½ï¿½ÇAï¿½Æ‚É‚ï¿½ï¿½ï¿½ï¿½Ôˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½tï¿½Hï¿½[ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½iï¿½ß‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½ê‚¾ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½Ý‚ï¿½È@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½[ï¿½ï¿½ï¿½Bï¿½Ý‚ï¿½È‰~ï¿½wï¿½ï¿½gï¿½ßB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">‚Ý‚ñ‚È‚ª™yŽq‚ð’†S‚É‚µ‚Ä‰~w‚ð‘g‚ÞB</p>
+    <p class="a0">ï¿½Ý‚ï¿½È‚ï¿½ï¿½yï¿½qï¿½ð’†Sï¿½É‚ï¿½ï¿½Ä‰~ï¿½wï¿½ï¿½gï¿½ÞB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚³‚ A‚¢‚æ‚¢‚æ–{”Ô‚¾B‚¢‚­‚¼[B</p>
-    <p class="a">‚Ý‚ñ‚È@ƒI[B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½æ‚¢ï¿½ï¿½{ï¿½Ô‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½B</p>
+    <p class="a">ï¿½Ý‚ï¿½È@ï¿½Iï¿½[ï¿½B</p>
     <p class="a0"><b style='mso-bidi-font-weight:normal'><span lang="EN-US"><o:p>&nbsp;</o:p></span></b></p>
-    <p class="a0">ãj’ ‚ª‰º‚è‚éB</p>
+    <p class="a0">ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <h1><span style='font-family:‚i‚rƒSƒVƒbƒN;mso-ascii-font-family:Arial'>‘æ</span><span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span><span
-style='font-family:‚i‚rƒSƒVƒbƒN;mso-ascii-font-family:Arial'>“ñ</span><span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span><span
-style='font-family:‚i‚rƒSƒVƒbƒN;mso-ascii-font-family:Arial'>•”</span></h1>
-    <p class="a0">–{ƒxƒ‹‚ª–Â‚é</p>
-    <p class="a0">ãj’ ‚Ì‘O‚É™yŽq‚ªo‚Ä‚­‚éB</p>
+    <h1><span style='font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-ascii-font-family:Arial'>ï¿½ï¿½</span><span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-ascii-font-family:Arial'>ï¿½ï¿½</span><span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='font-family:ï¿½iï¿½rï¿½Sï¿½Vï¿½bï¿½N;mso-ascii-font-family:Arial'>ï¿½ï¿½</span></h1>
+    <p class="a0">ï¿½{ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½</p>
+    <p class="a0">ï¿½jï¿½ï¿½ï¿½Ì‘Oï¿½É™yï¿½qï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@‚±‚ñ‚É‚¿‚ÍB‰‰o’S“–‚ÌŠÝ™yŽq‚Å‚·B–{“ú‚ÍŽ„’B‚ÌŒ€wŽµ‚ÂXx‚ðŠÏ‚É‚«‚Ä‚¢‚½‚¾‚«‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B‚Ý‚È‚³‚ñ‚à‚²‘¶‚¶‚Ì’Ê‚èA‚±‚ÌŽµ‚ÂX‚Íc<span lang="EN-US">(</span>‚±‚±‚ÅŽv‚í‚¸‚­‚µ‚á‚Ý‚ð‚µ‚Ä‚µ‚Ü‚¤B‚»‚µ‚Ä‚­‚µ‚á‚Ý‚Æ‚Æ‚à‚É—ç‚ð‚µ‚Ä‚µ‚Ü‚¤<span lang="EN-US">)</span>Ž¸—çB</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ÍBï¿½ï¿½ï¿½oï¿½Sï¿½ï¿½ï¿½ÌŠÝ™yï¿½qï¿½Å‚ï¿½ï¿½Bï¿½{ï¿½ï¿½ï¿½ÍŽï¿½ï¿½Bï¿½ÌŒï¿½ï¿½wï¿½ï¿½ï¿½ÂXï¿½xï¿½ï¿½ï¿½Ï‚É‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ý‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì’Ê‚ï¿½Aï¿½ï¿½ï¿½ÌŽï¿½ï¿½ÂXï¿½Íc<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½ÅŽvï¿½í‚¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚Æ‚Æ‚ï¿½ï¿½É—ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">‚»‚Ì‚Æ‚«“Ë‘RƒI[ƒvƒjƒ“ƒO‚Ì‰¹Šy‚ª‚©‚©‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½Ì‚Æ‚ï¿½ï¿½Ë‘Rï¿½Iï¿½[ï¿½vï¿½jï¿½ï¿½ï¿½Oï¿½Ì‰ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@I</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½I</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">™yŽq‚Í‰¹‹¿Žº‚É~‚ÌƒTƒCƒ“‚ð‘—‚èA‰¹Šy‚ðŽ~‚ß‚é‚æ‚¤‚É‡}B<span lang="EN-US"><br />
-    </span>‚»‚ÌŒã‚ë‚Åãj’ ‚ªã‚ª‚Á‚Ä‚¢‚­B<span lang="EN-US"><br />
-    </span>•‘‘ä‚É‘n‚ç‚ê‚½Žµ‚ÂX‚ªŒ»‚ê‚éB</p>
+    <p class="a0">ï¿½yï¿½qï¿½Í‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É~ï¿½ÌƒTï¿½Cï¿½ï¿½ï¿½ð‘—‚ï¿½Aï¿½ï¿½ï¿½yï¿½ï¿½ï¿½~ï¿½ß‚ï¿½æ‚¤ï¿½Éï¿½ï¿½}ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½ï¿½É‘nï¿½ï¿½ê‚½ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@”nŽ­B‚Ç‚¤‚µ‚Äc</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Bï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Äc</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">‚à‚¤Œ€‚ðŽn‚ß‚é‚µ‚©‚È‚¢B</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ß‚é‚µï¿½ï¿½ï¿½È‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">™yŽq@iQ‚Ä‚Äj•‘‘ä‚Ì€”õ‚ª®‚Á‚½‚æ‚¤‚Å‚·B‚»‚ê‚Å‚ÍŒ€‚ðŽn‚ß‚é‚Æ‚¢‚½‚µ‚Ü‚µ‚å‚¤BwŽµ‚ÂXxA‚Ç‚¤‚¼‚²‚ä‚Á‚­‚è‚¨Šy‚µ‚Ý‚­‚¾‚³‚¢B</p>
+    <p class="a">ï¿½yï¿½qï¿½@ï¿½iï¿½Qï¿½Ä‚Äjï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚ÍŒï¿½ï¿½ï¿½ï¿½nï¿½ß‚ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½Bï¿½wï¿½ï¿½ï¿½ÂXï¿½xï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚¨ï¿½yï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">™yŽq‚Í‰ºŽè‘³‹ß‚­‚É˜‚ð‰º‚ë‚µA•¨Œê‚ÌˆÄ“àl‚Æ‚È‚éB</p>
+    <p class="a0">ï¿½yï¿½qï¿½Í‰ï¿½ï¿½è‘³ï¿½ß‚ï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚µï¿½Aï¿½ï¿½ï¿½ï¿½ÌˆÄ“ï¿½ï¿½lï¿½Æ‚È‚ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a" style="line-height:17.0pt;mso-line-height-rule:exactly">ƒiƒŒ[ƒVƒ‡ƒ“m™yŽqn@‚±‚±‚ÍAŽµ‚ÂXB<span lang="EN-US"><ruby style='ruby-align:distribute-space'><span lang="EN-US"><span lang="EN-US">¶–½</span></span><rp>(</rp><rt style='font-size:5.0pt;letter-spacing:
-0pt;layout-grid-mode:line'>‚¢‚Ì‚¿</rt><rp>)</rp></ruby><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:10.0pt;letter-spacing:-.6pt">‚ ‚Ó‚ê‚é”ü‚µ‚¢X‚¾B‚ ‚é“ú‚±‚ÌX‚É‚¨•P—l‚ª‚»‚Ì‰Æ—ˆ‚ðˆø‚«˜A‚ê‚Ä‚â‚Á‚Ä‚«‚½B‚»‚Ì‚¨•P—lA–¼‘O‚ð—Ú—ž•P‚Æ‚¢‚¤B—Ú—ž•P‚Í‚±‚ÌX‚Ì–ØX‚ð‘S‚ÄØ‚è“|‚µA‚»‚±‚É”Þ—‚ªˆê”N’†—V‚Ô‚±‚Æ‚ª‚Å‚«‚é—V‚Ñê‚ð‘¢‚ë‚¤‚Æ‚µ‚Ä‚¢‚½B</span></span></p>
+    <p class="a" style="line-height:17.0pt;mso-line-height-rule:exactly">ï¿½iï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½mï¿½yï¿½qï¿½nï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ÂXï¿½B<span lang="EN-US"><ruby style='ruby-align:distribute-space'><span lang="EN-US"><span lang="EN-US">ï¿½ï¿½ï¿½ï¿½</span></span><rp>(</rp><rt style='font-size:5.0pt;letter-spacing:
+0pt;layout-grid-mode:line'>ï¿½ï¿½ï¿½Ì‚ï¿½</rt><rp>)</rp></ruby><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:10.0pt;letter-spacing:-.6pt">ï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌXï¿½É‚ï¿½ï¿½Pï¿½lï¿½ï¿½ï¿½ï¿½ï¿½Ì‰Æ—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Pï¿½lï¿½Aï¿½ï¿½ï¿½Oï¿½ï¿½Ú—ï¿½ï¿½Pï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Bï¿½Ú—ï¿½ï¿½Pï¿½Í‚ï¿½ï¿½ÌXï¿½Ì–ØXï¿½ï¿½Sï¿½ÄØ‚ï¿½|ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½É”Þï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Vï¿½Ô‚ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Vï¿½Ñï¿½ð‘¢‚ë‚¤ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B</span></span></p>
     <p class="a0"><span lang="EN-US"><br />
-    </span>—Ú—ž•P‚ªƒ„ƒuƒŒ‚ÆƒJƒuƒŒA‚»‚µ‚Ä¬—Ú—ž‚Æ‚Æ‚à‚ÉX‚ÉŒ»‚ê‚éB</p>
+    </span>ï¿½Ú—ï¿½ï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Äï¿½ï¿½Ú—ï¿½ï¿½Æ‚Æ‚ï¿½ï¿½ÉXï¿½ÉŒï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">¬—Ú—ž@•P—lA‚±‚±‚ªŽµ‚ÂX‚Å‚·B</p>
-    <p class="a">—Ú—ž•P@‚¤‚Á‚Æ‚¤‚µ‚¢XB¬—Ú—žA‚±‚ñ‚ÈXA‘‚­‚È‚­‚µ‚ÄB</p>
-    <p class="a">¬—Ú—ž@‚±‚ÌX‚É‚ÍŽç‚è_‚ª‚¢‚ÄAŠÈ’P‚ÉŽè‚ðo‚·‚±‚Æ‚ª‚Å‚«‚È‚¢‚Ì‚Å‚·B</p>
-    <p class="a">—Ú—ž•P@Žç‚è_H</p>
-    <p class="a">¬—Ú—ž@‚Í‚¢B</p>
-    <p class="a">—Ú—ž•P@Œ©‚ÄA‚ ‚ê‚Í‰½‚©‚µ‚çB</p>
-    <p class="a">ƒ„ƒuƒŒ@‚È‚ñ‚¾A‚ ‚ê‚ÍB</p>
-    <p class="a">ƒJƒuƒŒ@‘é‚¾A‘é‚¾‚¼B</p>
-    <p class="a">ƒ„ƒuƒŒ@‚È‚ñ‚Ä—D‰ë‚É•‘‚Á‚Ä‚é‚ñ‚¾B</p>
-    <p class="a">ƒJƒuƒŒ@–²‚Ì‚æ‚¤‚É•‘‚Á‚Ä‚¢‚éB</p>
-    <p class="a">¬—Ú—ž@•P—lA‚ ‚ê‚Í‹â‚Ì‘éB‚±‚ÌX‚ÌŽç‚è_‚Å‚·B</p>
-    <p class="a">—Ú—ž•P@¬—Ú—žA‚ ‚Ì‘é‚ª‚¢‚È‚­‚È‚ê‚ÎA‚±‚ÌX‚ðŽè‚É“ü‚ê‚é‚±‚Æ‚ª‚Å‚«‚é‚Ì‚ËB</p>
-    <p class="a">¬—Ú—ž@<span lang="EN-US">(</span>‚¤‚È‚¸‚­<span lang="EN-US">)</span></p>
-    <p class="a">—Ú—ž•PiƒJƒuƒŒ‚Éj‚ ‚Ì‘é‚ðŒ‚‚¿‚È‚³‚¢B</p>
+    <p class="a">ï¿½ï¿½ï¿½Ú—ï¿½ï¿½@ï¿½Pï¿½lï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂXï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½Bï¿½ï¿½ï¿½Ú—ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ÈXï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½ï¿½ï¿½Ú—ï¿½ï¿½@ï¿½ï¿½ï¿½ÌXï¿½É‚ÍŽï¿½ï¿½_ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½È’Pï¿½ÉŽï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½Ì‚Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½_ï¿½H</p>
+    <p class="a">ï¿½ï¿½ï¿½Ú—ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½È‚ñ‚¾Aï¿½ï¿½ï¿½ï¿½ÍB</p>
+    <p class="a">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½é‚¾ï¿½Aï¿½é‚¾ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½È‚ï¿½Ä—Dï¿½ï¿½É•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ñ‚¾B</p>
+    <p class="a">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ì‚æ‚¤ï¿½É•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½Ú—ï¿½ï¿½@ï¿½Pï¿½lï¿½Aï¿½ï¿½ï¿½ï¿½Í‹ï¿½Ì‘ï¿½Bï¿½ï¿½ï¿½ÌXï¿½ÌŽï¿½ï¿½_ï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½Ú—ï¿½ï¿½Aï¿½ï¿½ï¿½Ì‘é‚ªï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½ÎAï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Ì‚ËB</p>
+    <p class="a">ï¿½ï¿½ï¿½Ú—ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½iï¿½Jï¿½uï¿½ï¿½ï¿½Éjï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒJƒuƒŒ‚ª‘é‚ðŒ‚‚Æ‚¤‚Æ‚·‚éB</p>
-    <p class="a0">‚»‚±‚É“Ë‘Rˆêl‚Ì­”N‚ªŒ»‚ê‚éB</p>
-    <p class="a0">­”N‚Ì–¼‘O‚Íƒnƒ„ƒgB</p>
+    <p class="a0">ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½É“Ë‘Rï¿½ï¿½lï¿½Ìï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½ï¿½ï¿½Nï¿½Ì–ï¿½ï¿½Oï¿½Íƒnï¿½ï¿½ï¿½gï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒnƒ„ƒg@Œ‚‚Â‚ÈI</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½Â‚ÈI</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">‚»‚¤‚¢‚Á‚ÄAƒnƒ„ƒg‚ÍƒJƒuƒŒ‚É‘Ì“–‚½‚è‚·‚éB</p>
-    <p class="a0">“S–C‚Ì‰¹B</p>
-    <p class="a0">’e‚Í‚»‚ê‚½‚æ‚¤‚¾B</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½nï¿½ï¿½ï¿½gï¿½ÍƒJï¿½uï¿½ï¿½ï¿½É‘Ì“ï¿½ï¿½ï¿½ï¿½è‚·ï¿½ï¿½B</p>
+    <p class="a0">ï¿½Sï¿½Cï¿½Ì‰ï¿½ï¿½B</p>
+    <p class="a0">ï¿½eï¿½Í‚ï¿½ï¿½ê‚½ï¿½æ‚¤ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒnƒ„ƒg<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>‚±‚ÌX‚©‚ço‚Ä‚¢‚Á‚ÄB</p>
-    <p class="a">—Ú—ž•P<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>Ž„‚ª’N‚¾‚©‚í‚©‚Á‚Ä‚é‚ÌB</p>
-    <p class="a">ƒnƒ„ƒg@<span lang="EN-US">(</span>Žñ‚ðU‚é<span lang="EN-US">)</span></p>
-    <p class="a">—Ú—ž•P@Ž„‚Í—Ú—ž•PB</p>
-    <p class="a">ƒnƒ„ƒg@—Ú—ž•PH</p>
-    <p class="a">—Ú—ž•P@‚³‚ AŽŸ‚Í‚ ‚È‚½‚Ì”Ô‚ËB‚ ‚È‚½‚Ì–¼‘O‚ð‹³‚¦‚ÄB</p>
-    <p class="a">ƒnƒ„ƒg@ƒnƒ„ƒgB</p>
-    <p class="a">—Ú—ž•P@ƒnƒ„ƒgB‚·‚Ä‚«‚È–¼‘O‚ËB</p>
-    <p class="a">ƒnƒ„ƒg@‚±‚ÌX‚©‚ço‚Ä‚¢‚Á‚ÄB</p>
-    <p class="a">—Ú—ž•P@o‚Ä‚¢‚­‚Ì‚ÍŽ„‚¶‚á‚È‚¢B‚ ‚È‚½‚æB</p>
-    <p class="a">ƒnƒ„ƒg<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>–l‚ªc</p>
-    <p class="a">—Ú—ž•P@<span lang="EN-US">(</span>‚¤‚È‚¸‚­<span lang="EN-US">)</span>@‚³‚ A‹S‚²‚Á‚±‚ð‚Í‚¶‚ß‚Ü‚µ‚å‚¤‚©B‹S‚ÍŽ„A“¦‚°‚é‚Ì‚Íƒnƒ„ƒgA‚ ‚È‚½B</p>
-    <p class="a">ƒnƒ„ƒg@c</p>
-    <p class="a">—Ú—ž•P@“¦‚°‚È‚¢‚ÌHiƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚Éj•ß‚Ü‚¦‚ÄB</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½g<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½P<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½í‚©ï¿½ï¿½ï¿½Ä‚ï¿½ÌB</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½Uï¿½ï¿½<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½Í—Ú—ï¿½ï¿½Pï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½H</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½Ì”Ô‚ËBï¿½ï¿½ï¿½È‚ï¿½ï¿½Ì–ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½B</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½Bï¿½ï¿½ï¿½Ä‚ï¿½ï¿½È–ï¿½ï¿½Oï¿½ËB</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½ÌXï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ì‚ÍŽï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½g<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½lï¿½ï¿½ï¿½c</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ß‚Ü‚ï¿½ï¿½å‚¤ï¿½ï¿½ï¿½Bï¿½Sï¿½ÍŽï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Íƒnï¿½ï¿½ï¿½gï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½c</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌHï¿½iï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½Éjï¿½ß‚Ü‚ï¿½ï¿½ÄB</p>
     <p class="a0"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚ªƒnƒ„ƒg‚ð—}‚¦‚Â‚¯‚éB</p>
-    <p class="a0">ƒnƒ„ƒg‚Í•KŽ€‚É’ïR‚·‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½gï¿½ï¿½}ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½nï¿½ï¿½ï¿½gï¿½Í•Kï¿½ï¿½ï¿½É’ï¿½Rï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒnƒ„ƒg@—Ú—ž•PB‚Ç‚¤‚µ‚Ä‚¨•P—l‚ç‚µ‚­A‚¨é‚Å‰¤Žq—l‚Æ•é‚ç‚³‚È‚¢‚ÌB</p>
-    <p class="a">—Ú—ž•P@<span lang="EN-US"> (</span>Î‚¤<span lang="EN-US">)</span></p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½Bï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Pï¿½lï¿½ç‚µï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Å‰ï¿½ï¿½qï¿½lï¿½Æ•ï¿½ç‚³ï¿½È‚ï¿½ï¿½ÌB</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@<span lang="EN-US"> (</span>ï¿½Î‚ï¿½<span lang="EN-US">)</span></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">¬’¹‚Ì–Â‚«º‚ª‹¿‚¢‚Ä‚­‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½Ì–Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒnƒ„ƒg@¬’¹‚¾A¬’¹‚ª–Â‚¢‚Ä‚¢‚éB‚ ‚È‚½•û‚É‚Í•·‚±‚¦‚È‚¢‚ÌA‚±‚Ìº‚ªB</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½É‚Í•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌAï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒJƒuƒŒ‚ª‹ó‚ÉŒü‚¯‚Ä“S–C‚ðŒ‚‚ÂB<span lang="EN-US"><br />
-    </span>¬’¹‚Ìº‚ª‚â‚ÞB</p>
+    <p class="a0">ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½Ä“Sï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ÂB<span lang="EN-US"><br />
+    </span>ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ÞB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">—Ú—ž•P@‚ ‚È‚½‚Í‚È‚º‹â‚Ì‘é‚ð•‚¯‚½‚ÌBŽ„‚É˜b‚µ‚ÄA‚ ‚È‚½‚ª‹â‚Ì‘é‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚é‚±‚Æ‚ðB</p>
-    <p class="a">ƒnƒ„ƒg@’m‚ç‚È‚¢B</p>
-    <p class="a" style="line-height:16.0pt;mso-line-height-rule:exactly">—Ú—ž•P@<span lang="EN-US">(</span>Î‚Á‚Ä<span lang="EN-US">)</span>¢‚Á‚½‚íB‚ ‚Ì‹â‚Ì‘é‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚é‚±‚Æ‚ð’‚Á‚Ä‚­‚ê‚È‚¢‚ÆAŽ„‚Í‚ ‚È‚½‚É‘Î‚µ‚Ä‚Â‚ç‚¢Žd‘Å‚¿‚ð‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B‚ ‚È‚½‚É‚»‚ñ‚ÈŽd‘Å‚¿‚ð‚·‚é‚Ì‚Í‚Â‚ç‚¢‚íB‚¾‚©‚çA˜b‚µ‚ÄB</p>
-    <p class="a">ƒnƒ„ƒg@c</p>
-    <p class="a">—Ú—ž•P@Žd•û‚ª‚È‚¢‚í‚ËBiƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚Éj‚¢‚¢A˜b‚ð•·‚«o‚µ‚ÄB</p>
-    <p class="a">ƒ„ƒuƒŒ@‚Ç‚Ì‚æ‚¤‚ÉB</p>
-    <p class="a">—Ú—ž•P@Žè’i‚Í‘I‚Î‚È‚¢‚íB‚½‚¾‚µAŽE‚³‚È‚¢’ö“x‚É‚ËBiƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚Éj‚³‚ÁAŽn‚ß‚ÄB</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½È‚ï¿½ï¿½Í‚È‚ï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌBï¿½ï¿½ï¿½É˜bï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½Ì‘ï¿½É‚Â‚ï¿½ï¿½Ä’mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½mï¿½ï¿½È‚ï¿½ï¿½B</p>
+    <p class="a" style="line-height:16.0pt;mso-line-height-rule:exactly">ï¿½Ú—ï¿½ï¿½Pï¿½@<span lang="EN-US">(</span>ï¿½Î‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‹ï¿½Ì‘ï¿½É‚Â‚ï¿½ï¿½Ä’mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½Æ‚ð’‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÆAï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½É‘Î‚ï¿½ï¿½Ä‚Â‚ç‚¢ï¿½dï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Î‚È‚ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½É‚ï¿½ï¿½ï¿½ÈŽdï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Í‚Â‚ç‚¢ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½bï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½c</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ËBï¿½iï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½Éjï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½bï¿½ð•·‚ï¿½ï¿½oï¿½ï¿½ï¿½ÄB</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½Ç‚Ì‚æ‚¤ï¿½ÉB</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½iï¿½Í‘Iï¿½Î‚È‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Eï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½xï¿½É‚ËBï¿½iï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½Éjï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½nï¿½ß‚ÄB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>‚»‚¤Œ¾‚Á‚ÄA—Ú—ž•P‚Æ¬—Ú—ž‚ÍX‚Ì‰œ‚ÉB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½Ú—ï¿½ï¿½Pï¿½Æï¿½ï¿½Ú—ï¿½ï¿½ÍXï¿½Ì‰ï¿½ï¿½ÉB</p>
     <p class="MsoNormalIndent"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒ„ƒuƒŒ@‘f’¼‚É’‚Á‚Ä‚à‚ç‚¨‚¤‚©B‹â‚Ì‘é‚É‚Â‚¢‚Ä’m‚Á‚Ä‚é‚±‚Æ‚ðB</p>
-    <p class="a">ƒJƒuƒŒ@’‚Á‚Ä‚­‚ê‚ê‚ÎŽèr‚È‚±‚Æ‚Í‚µ‚È‚­‚Ä‚·‚ÞB</p>
-    <p class="a">ƒ„ƒuƒŒ@‚¢‚¯‚Ë‚¥‚È‚ A”é–§‚ð‚¨• ‚Ì’†‚É‚½‚ß‚¿‚áB‚·‚Á‚©‚è“f‚¢‚¿‚Ü‚¢‚ÈB‚»‚¤‚·‚ê‚Î‚¨• ‚Ì’†‚ª‚·‚Á‚Æ‚·‚é‚ºB</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½fï¿½ï¿½ï¿½É’ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ç‚¨ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½Ì‘ï¿½É‚Â‚ï¿½ï¿½Ä’mï¿½ï¿½ï¿½Ä‚é‚±ï¿½Æ‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÎŽï¿½rï¿½È‚ï¿½ï¿½Æ‚Í‚ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ÞB</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ë‚ï¿½ï¿½È‚ï¿½ï¿½Aï¿½é–§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½É‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½é‚ºï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>™yŽq‚ª—§‚¿ã‚ª‚éBƒnƒ„ƒg‚ÆƒJƒuƒŒ‚Í‚¬‚å‚Á‚Æ‚·‚éB</p>
-    <p class="a0">ƒnƒ„ƒg‚ªu‚¨• ‚Å‚Í‚È‚­‚Ä‹¹v‚Æ‚¢‚¤ˆÓ–¡‚Å‹¹‚ð’@‚­B</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½gï¿½ÆƒJï¿½uï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½nï¿½ï¿½ï¿½gï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í‚È‚ï¿½ï¿½Ä‹ï¿½ï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Ó–ï¿½ï¿½Å‹ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒ„ƒuƒŒ@<span lang="EN-US">(</span>Q‚Ä‚Ä<span lang="EN-US">)</span>‚Ç‚¤‚µ‚½‚ñ‚¾‚¢A‰½‚©A‚É‚Â‚©‚¦‚½‚ñ‚©‚¢B‚»‚ê‚Æ‚àƒSƒŠƒ‰‚Ì‚Ü‚Ë‚©‚¢B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½Qï¿½Ä‚ï¿½<span lang="EN-US">)</span>ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½É‚Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚©‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Ü‚Ë‚ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>™yŽq‚©‚çÄ‚ÑƒtƒHƒ[‚Ì‡}B</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½Ä‚Ñƒtï¿½Hï¿½ï¿½ï¿½[ï¿½Ìï¿½ï¿½}ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒnƒ„ƒg@‚ ‚È‚½‚ÍA”é–§‚ð‚¨• ‚Ì’†‚É‚½‚ß‚é‚ÌB–l‚Í‹¹‚Ì’†‚É‚½‚ß‚é‚à‚Ì‚¾‚ÆŽv‚Á‚Ä‚½B</p>
-    <p class="a">ƒJƒuƒŒ@iQ‚Ä‚Äj•’Ê‚Ì“z‚Í‚»‚¤‚³B‚Å‚àƒ„ƒuƒŒ‚Íˆá‚¤‚ñ‚¾Bƒ„ƒuƒŒ‚Í”é–§‚ðˆÝ‘Ü‚Ì’†‚É‚½‚ß‚é”\—Í‚ª‚ ‚éB‚»‚¤‚¾‚æ‚ÈB</p>
-    <p class="a">ƒ„ƒuƒŒ@‚»A‚»‚¤‚Æ‚àB‚Ñ‚Á‚­‚è‚µ‚½‚¾‚ë‚¤B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÍAï¿½é–§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½É‚ï¿½ï¿½ß‚ï¿½ÌBï¿½lï¿½Í‹ï¿½ï¿½Ì’ï¿½ï¿½É‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½iï¿½Qï¿½Ä‚Äjï¿½ï¿½ï¿½Ê‚Ì“zï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Íˆá‚¤ï¿½ñ‚¾Bï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Í”é–§ï¿½ï¿½ï¿½Ý‘Ü‚Ì’ï¿½ï¿½É‚ï¿½ï¿½ß‚ï¿½\ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Bï¿½Ñ‚ï¿½ï¿½ï¿½ï¿½è‚µï¿½ï¿½ï¿½ï¿½ï¿½ë‚¤ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>™yŽq‚ª“ª‚ð•ø‚¦‚Ä‚¢‚éB</p>
-    <p class="a0">‹‚É‰ä–‚Å‚«‚È‚­‚È‚èAñ‚ð‚Â‚¢‚Ä•à‚¢‚Ä‚­‚éB</p>
-    <p class="a0">‰‰‚¶‚é‚Ì‚Í•xŽR‚Ì–ò”„‚èB</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½ï¿½ï¿½É‰ä–ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½Aï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ä•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Í•xï¿½Rï¿½Ì–ò”„‚ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">–ò”„‚è@Ž„‚Í•xŽR‚Ì–ò”„‚èB“ñl‚Æ‚à‚¢‚¢–ò‚ª‚ ‚è‚Ü‚·B÷‚¶‚Ä‚ ‚°‚Ü‚·‚©‚ç‚±‚¿‚ç‚É‚¢‚ç‚µ‚Ä‚­‚¾‚³‚¢B</p>
+    <p class="a">ï¿½ò”„‚ï¿½@ï¿½ï¿½ï¿½Í•xï¿½Rï¿½Ì–ò”„‚ï¿½Bï¿½ï¿½lï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ò‚ª‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ç‚±ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ç‚µï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ŽOl‚Í–Ø‚ÌŒã‚ë‚ÉB</p>
-    <p class="a0">‚»‚±‚Å‘äŽŒ‚ÌŠm”FB</p>
-    <p class="a0">ŽOl‚ª–Ø‚ÌŒã‚ë‚©‚çŒ»‚ê‚éB</p>
+    <p class="a0">ï¿½Oï¿½lï¿½Í–Ø‚ÌŒï¿½ï¿½ÉB</p>
+    <p class="a0">ï¿½ï¿½ï¿½ï¿½ï¿½Å‘äŽŒï¿½ÌŠmï¿½Fï¿½B</p>
+    <p class="a0">ï¿½Oï¿½lï¿½ï¿½ï¿½Ø‚ÌŒï¿½ë‚©ï¿½çŒ»ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span></span></p>
-    <p class="a">–ò”„‚è@‚³‚ A‚à‚¤‘åä•v‚Å‚·‚ËB</p>
-    <p class="a">ƒ„ƒuƒŒ@<span lang="EN-US">(</span>‹°‚ë‚µ‚­<span lang="EN-US">)</span>‚¦‚¦A‚à‚¤ŠÔˆá‚¦‚Ü‚¹‚ñB</p>
+    <p class="a">ï¿½ò”„‚ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Å‚ï¿½ï¿½ËB</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ë‚µï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ôˆá‚¦ï¿½Ü‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒJƒuƒŒ‚ª‚ ‚í‚Ä‚ÄAƒ„ƒuƒŒ‚ÌŒû‚ð‰Ÿ‚³‚¦‚ÄB</p>
+    <p class="a0">ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ÄAï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒJƒuƒŒ@‚à‚¤‘åä•vB</p>
-    <p class="a">–ò”„‚è@‚»‚ê‚Å‚ÍA‚¨Œ³‹C‚ÅB<span lang="EN-US">(</span>­‚µ•à‚¢‚Ä<span lang="EN-US">)</span>Ž„‚Í•xŽR‚Ì–ò”„‚èB</p>
+    <p class="a">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½B</p>
+    <p class="a">ï¿½ò”„‚ï¿½@ï¿½ï¿½ï¿½ï¿½Å‚ÍAï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ÅB<span lang="EN-US">(</span>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½Í•xï¿½Rï¿½Ì–ò”„‚ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">–ò”„‚è‚ÍƒiƒŒ[ƒVƒ‡ƒ“‚ÌˆÊ’u‚ÉB</p>
+    <p class="a0">ï¿½ò”„‚ï¿½Íƒiï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ÌˆÊ’uï¿½ÉB</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒ„ƒuƒŒ@i“Ë‘RA‹°‚ë‚µ‚¢Œ`‘Š‚É‚È‚Á‚Äj‚Ç‚¤‚¾A“f‚­‹C‚É‚È‚Á‚½‚©B</p>
-    <p class="a">ƒnƒ„ƒg@c</p>
-    <p class="a">ƒ„ƒuƒŒ@‚¤‚ñ‚Æ‚©‚·‚ñ‚Æ‚©Œ¾‚Á‚½‚ç‚Ç‚¤‚¾B</p>
-    <p class="a">ƒnƒ„ƒg@‚¤‚ñB</p>
-    <p class="a">ƒ„ƒuƒŒ@‚¨‚ß‚¦A’É‚¢–Ú‚É‚ ‚¢‚½‚¢‚æ‚¤‚¾‚ÈBiƒJƒuƒŒ‚Éjj‚ð‚æ‚±‚µ‚ÈB</p>
-    <p class="a">ƒJƒuƒŒ@‚ ‚¢‚æB</p>
-    <p class="a">@</p>
-    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ƒJƒuƒŒ‚ªj‚ð“n‚·B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½iï¿½Ë‘Rï¿½Aï¿½ï¿½ï¿½ë‚µï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½É‚È‚ï¿½ï¿½Äjï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Aï¿½fï¿½ï¿½ï¿½Cï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½c</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Aï¿½É‚ï¿½ï¿½Ú‚É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½ï¿½ï¿½ÈBï¿½iï¿½Jï¿½uï¿½ï¿½ï¿½Éjï¿½jï¿½ï¿½ï¿½æ‚±ï¿½ï¿½ï¿½ÈB</p>
+    <p class="a">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½@</p>
+    <p class="a0"><span lang="EN-US"><span style='mso-tab-count:1'>&nbsp; </span></span>ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½nï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒ„ƒuƒŒ@Žwæ‚Á‚Ä‚Ì‚Í‚ÈA_Œo‚ªW‚Ü‚Á‚Ä‚¢‚é‚Ì‚³B‚¾‚©‚ç‚±‚¤‚â‚Á‚Äj‚ð“Ë‚«Žh‚·‚ÆB</p>
-    <p class="a">ƒnƒ„ƒg@i‹©‚Ñj</p>
-    <p class="a">ƒ„ƒuƒŒ@‚Ç‚¤‚¾A˜b‚·‹C‚É‚È‚Á‚½‚©B</p>
-    <p class="a">ƒnƒ„ƒg@c</p>
-    <p class="a">ƒ„ƒuƒŒ@‚Ü‚¾˜b‚·‹C‚É‚È‚ê‚È‚¢‚Ì‚©B‚»‚ê‚Å‚Í‚±‚¤‚¾<span lang="EN-US">(</span>ƒnƒ„ƒg‚Ì‹©‚Ñ<span lang="EN-US">)</span>B‚Ù‚çAŒŒ‚ªŸø‚ñ‚Å‚«‚½‚¼B‚±‚ê‚Å‚à‚©<span lang="EN-US">(</span>ƒnƒ„ƒg‚Ì‹©‚Ñ<span lang="EN-US">)</span>B‚±‚ê‚Å‚à‚©iƒnƒ„ƒg‚Ì‹©‚ÑjB</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½wï¿½ï¿½ï¿½ï¿½Ä‚Ì‚Í‚ÈAï¿½_ï¿½oï¿½ï¿½ï¿½Wï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ç‚±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äjï¿½ï¿½Ë‚ï¿½ï¿½hï¿½ï¿½ï¿½ÆB</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½ï¿½ï¿½Ñj</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Aï¿½bï¿½ï¿½ï¿½Cï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½c</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½Ü‚ï¿½ï¿½bï¿½ï¿½ï¿½Cï¿½É‚È‚ï¿½È‚ï¿½ï¿½Ì‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚Í‚ï¿½ï¿½ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½nï¿½ï¿½ï¿½gï¿½Ì‹ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½Bï¿½Ù‚ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½<span lang="EN-US">(</span>ï¿½nï¿½ï¿½ï¿½gï¿½Ì‹ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½iï¿½nï¿½ï¿½ï¿½gï¿½Ì‹ï¿½ï¿½Ñjï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒ„ƒuƒŒ‚ªƒnƒ„ƒg‚ÌŽè‚ð—£‚·B</p>
+    <p class="a0">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½gï¿½ÌŽï¿½ð—£‚ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒ„ƒuƒŒ@‚µ‚Ô‚Æ‚¢“z‚¾B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ô‚Æ‚ï¿½ï¿½zï¿½ï¿½ï¿½B</p>
     <p class="a0"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">—Ú—ž•P‚Æ¬—Ú—ž‚ª–ß‚Á‚Ä‚­‚éB</p>
+    <p class="a0">ï¿½Ú—ï¿½ï¿½Pï¿½Æï¿½ï¿½Ú—ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">—Ú—ž•P@‚Ç‚¤A•·‚«o‚¹‚½B</p>
-    <p class="a">ƒ„ƒuƒŒ@‚»‚ê‚ª‚È‚©‚È‚©‹­î‚ÅB</p>
-    <p class="a">ƒJƒuƒŒ@‚µ‚Ô‚Æ‚¢“z‚Å‚·B</p>
-    <p class="a">—Ú—ž•P@‚»‚ê‚Å‚Í‰œ‚ÌŽè‚ðŽg‚¤‚µ‚©‚È‚¢‚í‚ËB</p>
-    <p class="a">ƒ„ƒuƒŒ@‰œ‚ÌŽè‚Æ‚¢‚¢‚Ü‚·‚ÆB</p>
-    <p class="a">—Ú—ž•P@‚±‚ê‚æB</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½Ç‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ê‚ªï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ÅB</p>
+    <p class="a">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ô‚Æ‚ï¿½ï¿½zï¿½Å‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½Å‚Í‰ï¿½ï¿½ÌŽï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ËB</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ÌŽï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ÆB</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">—Ú—ž•P‚ª–ò‚ðŽæ‚èo‚·B<span lang="EN-US">(</span>–ò‚ÍƒCƒ[ƒW<span lang="EN-US">)</span></p>
+    <p class="a0">ï¿½Ú—ï¿½ï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½B<span lang="EN-US">(</span>ï¿½ï¿½ÍƒCï¿½ï¿½ï¿½[ï¿½W<span lang="EN-US">)</span></p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">ƒ„ƒuƒŒ@‚»‚ê‚ÍI</p>
-    <p class="a">—Ú—ž•P@“‚‚Ì‘‚æ‚è“`‚í‚é”é–òB‚±‚ê‚ðˆù‚Þ‚Æ‚Ç‚ñ‚È”é–§‚à˜b‚³‚¸‚É‚Í‚¢‚ç‚ê‚È‚­‚È‚éB</p>
-    <p class="a">ƒ„ƒuƒŒ@‚»‚µ‚Ä‘S‚Ä‚ð˜b‚µ‚½Œã‚ÉA</p>
-    <p class="a">ƒJƒuƒŒ@‹C‚ª‚Ó‚ê‚é‹°‚ë‚µ‚¢–òB</p>
-    <p class="a">ƒnƒ„ƒg@–lA˜b‚³‚È‚¢Bâ‘Î‚Éc</p>
-    <p class="a">—Ú—ž•P@<span lang="EN-US">(</span>Î‚Á‚Ä<span lang="EN-US">)</span>‚»‚ê‚Å‚ÍŽŽ‚³‚¹‚Ä‚à‚ç‚¤‚íBiƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚Éj‚±‚Ì–ò‚ðˆù‚Ü‚¹‚È‚³‚¢B</p>
-    <p class="a">ƒ„ƒuƒŒEƒJƒuƒŒ@‚Í‚ÁB</p>
-    <p class="a">ƒ„ƒuƒŒ@‚³‚ Aˆù‚ßBˆù‚Þ‚ñ‚¾B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ÍI</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Þ‚Æ‚Ç‚ï¿½È”é–§ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½É‚Í‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ä‘Sï¿½Ä‚ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉA</p>
+    <p class="a">ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½Cï¿½ï¿½ï¿½Ó‚ï¿½é‹°ï¿½ë‚µï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½lï¿½Aï¿½bï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½Î‚Éc</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@<span lang="EN-US">(</span>ï¿½Î‚ï¿½ï¿½ï¿½<span lang="EN-US">)</span>ï¿½ï¿½ï¿½ï¿½Å‚ÍŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ç‚¤ï¿½ï¿½Bï¿½iï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½Éjï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½Eï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ßBï¿½ï¿½ï¿½Þ‚ñ‚¾B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a0">ƒ„ƒuƒŒ‚ÆƒJƒuƒŒ‚Íƒnƒ„ƒg‚É–³—–î—‚»‚Ì–ò‚ðˆù‚Ü‚¹‚éB</p>
+    <p class="a0">ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ÆƒJï¿½uï¿½ï¿½ï¿½Íƒnï¿½ï¿½ï¿½gï¿½É–ï¿½ï¿½ï¿½ï¿½î—ï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a">—Ú—ž•P@‚æ‚µA‚æ‚µB‚³‚ÄA‚»‚ê‚Å‚Í‚±‚ê‚©‚ç‚ ‚È‚½‚ª‚Ç‚¤‚È‚é‚©‚ä‚Á‚­‚èŠy‚µ‚Ü‚¹‚Ä‚à‚ç‚¤‚íB</p>
-    <p class="a">ƒnƒ„ƒg@i‚©‚ç‚¾‚ªk‚¦‚Ä‚­‚éj</p>
-    <p class="a">—Ú—ž•P@‚©‚ç‚¾‚ªk‚¦‚Ä‚«‚½‚í‚ËBŽŸ‚Í‚©‚ç‚¾‚ªÄ‚¯‚é‚æ‚¤‚É”M‚­‚È‚é‚í‚æB</p>
-    <p class="a">ƒnƒ„ƒg@i‚¢‚©‚É‚à‚©‚ç‚¾‚ª”M‚­‚ÄŽd•û‚ª‚È‚¢‚Æ‚¢‚¤“®‚«j</p>
-    <p class="a">—Ú—ž•P@‚¢‚©‚ªA‚±‚Ì–ò‚ÌŒø‚«–Ú‚ÍB”M‚­‚Ä”M‚­‚Ä‚µ‚©‚½‚È‚¢‚Å‚µ‚åB</p>
-    <p class="a">ƒnƒ„ƒg@”M‚­‚È‚ñ‚©‚È‚¢B</p>
-    <p class="a">—Ú—ž•P@–{“–‚É‹­î‚ËB‚»‚ë‚»‚ë‚©‚ç‚¾‚ª‚Ó‚ç‚Ó‚ç‚µ‚Ä‚­‚é‚í‚æB</p>
-    <p class="a">ƒnƒ„ƒg@i‚©‚ç‚¾‚ª‚Ó‚ç‚Ó‚ç‚µ‚Ä‚­‚éj</p>
-    <p class="a">—Ú—ž•P@”M‚³‚Í‰“‚Ì‚«AS’n‚æ‚¢‹C•ª‚É‚È‚Á‚Ä‚­‚éB</p>
-    <p class="a">ƒnƒ„ƒg@iˆÓŽ¯‚ªžNžO‚Æ‚µ‚Ä‚­‚éj</p>
-    <p class="a">—Ú—ž•P@ˆÓŽ¯‚ªžNžO‚Æ‚µ‚Ä—ˆ‚½‚æ‚¤‚ËB‚»‚ê‚Å‚Í‹â‚Ì‘é‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚é‚±‚Æ‚ðŽ„‚É˜b‚µ‚Ä‚­‚ê‚éB</p>
-    <p class="a">ƒnƒ„ƒg@ižNžO‚Æ‚µ‚Äj‚ ‚Ì‹â‚Ì‘é‚ÍA</p>
-    <p class="a">—Ú—ž•P@‚ ‚Ì‹â‚Ì‘é‚ÍH</p>
-    <p class="a">ƒnƒ„ƒg@–l‚Ìc•ê‚³‚ñB</p>
-    <p class="a">—Ú—ž•P@•ê‚³‚ñIH‚ ‚Ì‹â‚Ì‘é‚ª‚ ‚È‚½‚Ì•êe‚¾‚Á‚Ä‚¢‚¤‚ÌH</p>
-    <p class="a">ƒnƒ„ƒg<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span>(</span>‚¤‚È‚¸‚­<span lang="EN-US">) </span></p>
-    <p class="a">—Ú—ž•P<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>‹»–¡[‚¢˜b‚ËB•·‚©‚¹‚Ä’¸‘ÕA‚ ‚È‚½‚Æ‚ ‚È‚½‚Ì•ê‚³‚ñ‚Ì˜b‚ðB</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½æ‚µï¿½Aï¿½æ‚µï¿½Bï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½Å‚Í‚ï¿½ï¿½ê‚©ï¿½ç‚ ï¿½È‚ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½È‚é‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ç‚¤ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½ï¿½ï¿½ç‚¾ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½j</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ç‚¾ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ËBï¿½ï¿½ï¿½Í‚ï¿½ï¿½ç‚¾ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½æ‚¤ï¿½É”Mï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ç‚¾ï¿½ï¿½ï¿½Mï¿½ï¿½ï¿½ÄŽdï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½j</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì–ï¿½ÌŒï¿½ï¿½ï¿½ï¿½Ú‚ÍBï¿½Mï¿½ï¿½ï¿½Ä”Mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½Mï¿½ï¿½ï¿½È‚ñ‚©‚È‚ï¿½ï¿½B</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½{ï¿½ï¿½ï¿½É‹ï¿½ï¿½ï¿½ËBï¿½ï¿½ï¿½ë‚»ï¿½ë‚©ï¿½ç‚¾ï¿½ï¿½ï¿½Ó‚ï¿½Ó‚ç‚µï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½ï¿½ï¿½ç‚¾ï¿½ï¿½ï¿½Ó‚ï¿½Ó‚ç‚µï¿½Ä‚ï¿½ï¿½ï¿½j</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½Mï¿½ï¿½ï¿½Í‰ï¿½ï¿½Ì‚ï¿½ï¿½Aï¿½Sï¿½nï¿½æ‚¢ï¿½Cï¿½ï¿½ï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½ÓŽï¿½ï¿½ï¿½ï¿½Nï¿½Oï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½j</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ÓŽï¿½ï¿½ï¿½ï¿½Nï¿½Oï¿½Æ‚ï¿½ï¿½Ä—ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½ËBï¿½ï¿½ï¿½ï¿½Å‚Í‹ï¿½Ì‘ï¿½É‚Â‚ï¿½ï¿½Ä’mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½É˜bï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½iï¿½Nï¿½Oï¿½Æ‚ï¿½ï¿½Äjï¿½ï¿½ï¿½Ì‹ï¿½Ì‘ï¿½ÍA</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½Ì‹ï¿½Ì‘ï¿½ÍH</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½lï¿½Ìcï¿½ê‚³ï¿½ï¿½B</p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ê‚³ï¿½ï¿½Iï¿½Hï¿½ï¿½ï¿½Ì‹ï¿½Ì‘é‚ªï¿½ï¿½ï¿½È‚ï¿½ï¿½Ì•ï¿½eï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÌH</p>
+    <p class="a">ï¿½nï¿½ï¿½ï¿½g<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span>(</span>ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½<span lang="EN-US">) </span></p>
+    <p class="a">ï¿½Ú—ï¿½ï¿½P<span lang="EN-US"><span style='mso-spacerun:yes'>&nbsp; </span></span>ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½bï¿½ËBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä’ï¿½ï¿½ÕAï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½È‚ï¿½ï¿½Ì•ê‚³ï¿½ï¿½Ì˜bï¿½ï¿½ï¿½B</p>
     <p class="a"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-    <p class="a" align="center" style="text-align:center">‘±‚­</p>
+    <p class="a" align="center" style="text-align:center">ï¿½ï¿½ï¿½ï¿½</p>
   </div>
 </div>
 </body>

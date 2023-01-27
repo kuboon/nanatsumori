@@ -1,13 +1,13 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta name="description" content="u’†ŠwZ‰‰Œ€•”‚Ì‚½‚ß‚Ì’†Šw¶‚É‡‚Á‚½—ûK“à—e{Žw“±E—ûK•û–@‚ðÐ‰î‚µ‚Ä‚¢‚Ü‚·B”­º—ûKA‘äŽŒ—ûKAƒV[ƒ“‚Ì‘n‚è•ûA‚³‚Ü‚´‚Ü‚ÈŠ´î‚ð•\Œ»‚·‚é•û–@A‘¦‹»‚ÌŒø‰Ê“I‚È—˜—p–@‚È‚Ç‚ðÐ‰î‚µ‚Ä‚¢‚Ü‚·B">
-<meta name="keywords" content="’†Šw¶,’†ŠwZ,‰‰Œ€,‹r–{,‘ä–{,‰‰Œ€•”,•¶‰»Õ,—ûK“à—e,—ûK•û–@;">
+<meta name="description" content="ï¿½uï¿½ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚Ì’ï¿½ï¿½wï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½eï¿½{ï¿½wï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ð‰î‚µï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Aï¿½äŽŒï¿½ï¿½ï¿½Kï¿½Aï¿½Vï¿½[ï¿½ï¿½ï¿½Ì‘nï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ÈŠï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½Ê“Iï¿½È—ï¿½ï¿½pï¿½@ï¿½È‚Ç‚ï¿½ï¿½Ð‰î‚µï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B">
+<meta name="keywords" content="ï¿½ï¿½ï¿½wï¿½ï¿½,ï¿½ï¿½ï¿½wï¿½Z,ï¿½ï¿½ï¿½ï¿½,ï¿½rï¿½{,ï¿½ï¿½{,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½e,ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@;">
 <meta name="GENERATOR" content="JustSystems Homepage Builder Version 17.0.15.0 for Windows">
-<title>’†Šw¶‚Ì‚½‚ß‚Ì‰‰Œ€`—ûK“à—e{Žw“±E—ûK•û–@`</title>
+<title>ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚Ì‰ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½eï¿½{ï¿½wï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½`</title>
 <link rel="stylesheet" href="daihon/hpbparts.css" type="text/css" id="hpbparts">
 <link rel="stylesheet" href="daihon/container_2Ca_2c_top.css" type="text/css" id="hpbcontainer">
 <link rel="stylesheet" href="daihon/main_2Ca_2c.css" type="text/css" id="hpbmain">
@@ -22,7 +22,7 @@ P.border1{
 		border-style:outset; border-color:green; background-color:lightgreen;
    border-width:2pt 4pt 8pt 16pt; padding:0pt 0pt 0pt 10pt;margin:0% 5%;
 }
-   
+
  .border3{
 		border-style:outset; border-color:#cc9900; background-color:#cc9900;
    border-width:2pt 4pt 8pt 16pt; padding:0pt 0pt 0pt 10pt;margin:0% 5%;
@@ -35,7 +35,7 @@ P.border1{
 		border-style:solid; border-color:green; background-color:white;
    border-width:0pt 1pt 1pt 1pt; padding:0pt 30pt 0pt 0pt;margin:0% 5% 3% 5%;
 }
-   
+
  .border6{
 		border-style:solid; border-color:blue; background-color:white;
    border-width:1pt 1pt 1pt 1pt; padding:5pt 30pt 5pt 30pt;margin:0% 5%;line-height:18pt;
@@ -60,14 +60,14 @@ P.border1{
 
 </head>
 <body id="hpb-template-02-03a-01" class="hpb-layoutset-02">
-<p style="text-align : center;" align="center"><font color="#000000"><img src="daihon/logo2.gif" width="524" height="43" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="’†Šw¶‚ª‰‰‚¶‚é‚±‚Æ‚Å@‹P‚­Œ€‚ð‹‚ß‚Ä"></font></p>
+<p style="text-align : center;" align="center"><font color="#000000"><img src="daihon/logo2.gif" width="524" height="43" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Å@ï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½"></font></p>
 <div id="hpb-skip"></div>
 
 <div id="hpb-container">
   <!-- header -->
   <div id="hpb-header">
     <div id="hpb-headerMain">
-      <p style="text-align : center;" align="center"><font color="#000000" size="+2" style="font-size : 150%;"><img src="logo15.gif" width="781" height="61" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="‰‰Œ€•”@—ûK“à—eE—ûK•û–@Ð‰î"></font></p>
+      <p style="text-align : center;" align="center"><font color="#000000" size="+2" style="font-size : 150%;"><img src="logo15.gif" width="781" height="61" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½eï¿½Eï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½Ð‰ï¿½"></font></p>
     </div>
     <div id="hpb-headerExtra1">
       </div>
@@ -75,1747 +75,1747 @@ P.border1{
   <!-- header end -->
   <div id="hpb-inner" style="text-align : center;" align="center"><img src="daihon/nanatsumori.gif" width="876" height="239" border="0">
     <hr>
-    <p class="border6"><font color="#000000">@‚±‚±””N‚³‚Ü‚´‚Ü‚ÈêŠ‚ÅŒ€Žw“±‚ÌuŽt‚ð–±‚ß‚Ü‚µ‚½B‚Í‚¶‚ß‚Ä‰‰Œ€•”‚ÌŒÚ–â‚É‚È‚Á‚½‹³Žt‚É‚Æ‚Á‚ÄA‚P”Ô‚Ì”Y‚Ý‚Í‚Ç‚Ì‚æ‚¤‚É“úX‚Ì—ûK‚ðs‚Á‚½‚ç‚æ‚¢‚©‚í‚©‚ç‚È‚¢‚Æ‚¢‚¤‚à‚Ì‚Å‚·B‚»‚±‚Å‚È‚É‚©‚ÌŽQl‚Æ‚È‚é‚æ‚¤‚ÉAŽ„‚ª‹vŠì’†ŠwZE‘¾“Œ’†ŠwZ‚Ås‚Á‚Ä‚«‚½(Œ»Ýs‚Á‚Ä‚¢‚é)—ûK•û–@‚ðÐ‰î‚·‚é‚±‚Æ‚É‚µ‚Ü‚µ‚½B(uŒ€‚Ã‚­‚è`‘äŽŒ—ûK`v‚ÍŠwZEŠw”NEŠw‹‰Œ€‚Ì—ûK‚É‚à–ð‚É—§‚Â‚Í‚¸‚Å‚·B‚Ü‚½‚±‚ê‚ç‚Í’†Šw¶‚ªŽ©•ª‚½‚¿Ž©g‚Å—ûK‚ði‚ß‚ç‚ê‚éŽæ‚è‘g‚Ý‚Å‚à‚ ‚è‚Ü‚·B)</font><br>
-    <font color="#000000">¡‰ñÐ‰î‚·‚é—ûK“à—e‚Æ—ûK•û–@‚ÍAƒWƒƒƒpƒ“ƒ‰ƒCƒ€Š”Ž®‰ïŽÐ‚©‚çƒŠƒŠ[ƒX‚³‚ê‚½DVD <a href="http://www.japanlaim.co.jp/P01/" target="_blank">uŠ´î‚É‘äŽŒ‚ðæ‚¹‚é!‘¦‹»‚ðŠˆ‚©‚µ‚½‰‰Œ€Žw“±pv</a>‚ðƒx[ƒX‚É‚µ‚Äì¬‚µ‚Ü‚µ‚½B<br>
-    @Ž„‚½‚¿‚Í‰‰Œ€•”‚Æ‚¢‚¤–¼‘O‚ðƒQƒL•”‚Æ•Ï‚¦‚ÄŠˆ“®‚µ‚Ä‚¢‚Ü‚·BŽæ‚è‘g‚ñ‚Å‚¢‚é‚Ì‚Í‰‰Œ€‚¾‚¯‚Å‚Í‚È‚­AƒpƒtƒH[ƒ~ƒ“ƒOƒA[ƒc(•‘‘äŒ|p)‚Å‚·B‰‰Œ€‚Ì”­•\‚às‚¢‚Ü‚·‚ªA‚»‚ê‚Æ“¯‚¶‚­‚ç‚¢ƒEƒFƒCƒg‚ð’u‚¢‚Ä‚¢‚é‚Ì‚ª</font><font color="#ff0000"><b>ƒVƒ‡ƒEƒQƒL</b></font><font color="#000000">‚Æ‚¢‚¤Šˆ“®‚Å‚·B¬Šw¶‚â’nˆæ‚Ì‚¨”NŠñ‚è‚Ì‚½‚ß‚Ì”­•\AƒIƒŒƒ“ƒWƒRƒ“ƒT[ƒg‚Æ‚¢‚¤lŒ W‰ï‚ÅƒpƒtƒH[ƒ~ƒ“ƒOƒA[ƒg‚ð‘g‚Ýž‚ñ‚¾‚P‚T•ª`‚Q‚O•ª’ö“x‚Ì”­•\‚ðs‚Á‚Ä‚¢‚Ü‚·BƒVƒ‡ƒEƒQƒL‚Í‚S‚Â‚ÌˆÓ–¡‚ðŽ‚Á‚Ä‚¢‚Ü‚·B‚»‚Ì‚S‚Â‚ÌˆÓ–¡‚Æ‚ÍA‡@¬Œ€(‚S•ª’ö“x‚Ì’Z‚¢ƒQƒL)A‡AÎŒ€(ƒRƒ“ƒg‚ª“ü‚Á‚ÄÎ‚¢‚ª‚ ‚éŒ€)A‡BShowŒ€(‰ÌAƒ_ƒ“ƒXAƒpƒ“ƒgƒ}ƒCƒ€‚È‚Ç‚ÌƒpƒtƒH[ƒ~ƒ“ƒOƒA[ƒc‚ªŠÜ‚Ü‚ê‚éŒ€)A‡CÕŒ‚(ÕŒ‚‚ª‚ ‚éŒ€)‚Å‚·B’Z‚¢—ûKŽžŠÔ‚Å—lX‚È‚±‚Æ‚ð‚ÉŽæ‚è‘g‚Þ‚½‚ßA‘½‚­‚ÌŠwZ‚ªs‚Á‚Ä‚¢‚é”­º—ûK‚Í‚Ù‚Æ‚ñ‚Çs‚Á‚Ä‚¢‚Ü‚¹‚ñB</font></p>
-    <p class="border6"><font color="#000000">¦Šî–{“I‚É‚PTŠÔ‚Ì—ûK‚Í‚S“ú‚Å‚·B’©—ûK‚Ís‚¢‚Ü‚¹‚ñB“yE“úEj“ú‚Ì—ûK‚Ís‚¢‚Ü‚¹‚ñB”­•\‘O‚ðœ‚«A’·Šú‹x‰É’†‚Ì—ûK‚Ís‚¢‚Ü‚¹‚ñB‚½‚¾‚µ‘å‰ï‘O‚RTŠÔ‘O‚©‚ç‚Í“yE“úEj“ú‚Ì—ûK‚ðs‚¢‚Ü‚·B<br>
-    —ûKƒƒjƒ…[‚ª‘½‚¢‚±‚Æ‚ð‘åØ‚É‚µ‚Ä‚¢‚Ü‚·B‚»‚µ‚ÄA‚ ‚é’ö“x‚Ì‚‚¢ƒn[ƒhƒ‹‚ª‚ ‚é‚±‚Æ‚ð‘åØ‚É‚µ‚Ä‚¢‚Ü‚·Bƒƒjƒ…[‚ª‘½‚­A‚ ‚é’ö“x‚Ì‚‚¢ƒn[ƒhƒ‹‚ª‚ ‚é‚±‚Æ‚Å–ˆ“ú‚Ì—ûK‚ªƒ}ƒ“ƒlƒŠ‚ÉŠ×‚é‚±‚Æ‚È‚­i‚ß‚ç‚ê‚é‚©‚ç‚Å‚·B‚Ü‚½A—ûK‚ªŽžŠÔ‚Â‚Ô‚µ‚Å‚Í‚È‚­A‚»‚Ì—ûK‚ªŒ€‚Ìã‰‰‚É‚¨‚¢‚Ä‚Ç‚Ì‚æ‚¤‚É–ð—§‚Â‚©–¾Šm‚Å‚ ‚é‚±‚Æ‚à‘åØ‚Å‚·B‚»‚¤‚ ‚é‚±‚Æ‚É‚æ‚Á‚ÄA“úX‚Ì—ûK‚É–Ú•W‚ðŽ‚Á‚ÄŽæ‚è‘g‚ß‚é‚©‚ç‚Å‚·B<br>
-    @—ûK‚É‚©‚¯‚éŽžŠÔ‚æ‚è‚à‚»‚ÌŽ¿‚ð‘åØ‚É‚µ‚Ä‚¢‚Ü‚·B‚È‚©‚È‚©ŽžŠÔ‚ª‰ß‚¬‚Ä‚¢‚©‚È‚¢•”Šˆ‚Å‚Í‚È‚­Au‚¦‚ÁA‚à‚¤I‚í‚èIv‚ÆŠ´‚¶‚ç‚ê‚é•”Šˆ‚ð‚P”N‚ð’Ê‚µ‚Äs‚¢‚½‚¢‚à‚Ì‚Å‚·B<br>
-    @–ˆ“ú–ˆ“úA‚È‚É‚©‚ÌŽûŠn‚ª‚ ‚é‚±‚Æ‚ª‘åØ‚¾‚ÆŽv‚Á‚Ä‚¢‚Ü‚·BŽQ‰Á‚·‚é‚Æ‰½‚©‚ð“¾‚ç‚ê‚éA‚»‚µ‚Ä‚È‚ñ‚©“¾‚µ‚½‹C•ª‚É‚È‚é•”Šˆ‚ª—‘z‚Å‚·B</font></p>
+    <p class="border6"><font color="#000000">ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ÈêŠï¿½ÅŒï¿½ï¿½wï¿½ï¿½ï¿½Ìuï¿½tï¿½ð–±‚ß‚Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½Í‚ï¿½ï¿½ß‚Ä‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŒÚ–ï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½É‚Æ‚ï¿½ï¿½ÄAï¿½Pï¿½Ô‚Ì”Yï¿½Ý‚Í‚Ç‚Ì‚æ‚¤ï¿½É“ï¿½ï¿½Xï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¢ï¿½ï¿½ï¿½í‚©ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Å‚È‚É‚ï¿½ï¿½ÌŽQï¿½lï¿½Æ‚È‚ï¿½æ‚¤ï¿½ÉAï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ì’†ï¿½wï¿½Zï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Zï¿½Åsï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½Ýsï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ð‰î‚·ï¿½é‚±ï¿½Æ‚É‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B(ï¿½uï¿½ï¿½ï¿½Ã‚ï¿½ï¿½ï¿½`ï¿½äŽŒï¿½ï¿½ï¿½Kï¿½`ï¿½vï¿½ÍŠwï¿½Zï¿½Eï¿½wï¿½Nï¿½Eï¿½wï¿½ï¿½ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½É‚ï¿½ï¿½ï¿½ï¿½É—ï¿½ï¿½Â‚Í‚ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í’ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½Å—ï¿½ï¿½Kï¿½ï¿½iï¿½ß‚ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½Ý‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B)</font><br>
+    <font color="#000000">ï¿½ï¿½ï¿½ï¿½Ð‰î‚·ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½eï¿½Æ—ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½ÍAï¿½Wï¿½ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð‚ï¿½ï¿½çƒŠï¿½ï¿½ï¿½[ï¿½Xï¿½ï¿½ï¿½ê‚½DVD <a href="http://www.japanlaim.co.jp/P01/" target="_blank">ï¿½uï¿½ï¿½ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½!ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½pï¿½v</a>ï¿½ï¿½ï¿½xï¿½[ï¿½Xï¿½É‚ï¿½ï¿½Äì¬ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Qï¿½Lï¿½ï¿½ï¿½Æ•Ï‚ï¿½ï¿½ÄŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½gï¿½ï¿½Å‚ï¿½ï¿½ï¿½Ì‚Í‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í‚È‚ï¿½ï¿½Aï¿½pï¿½tï¿½Hï¿½[ï¿½~ï¿½ï¿½ï¿½Oï¿½Aï¿½[ï¿½c(ï¿½ï¿½ï¿½ï¿½|ï¿½p)ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ì”ï¿½ï¿½\ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½Eï¿½Fï¿½Cï¿½gï¿½ï¿½uï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½</font><font color="#ff0000"><b>ï¿½Vï¿½ï¿½ï¿½Eï¿½Qï¿½L</b></font><font color="#000000">ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½nï¿½ï¿½Ì‚ï¿½ï¿½Nï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚Ì”ï¿½ï¿½\ï¿½Aï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½Rï¿½ï¿½ï¿½Tï¿½[ï¿½gï¿½Æ‚ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½Wï¿½ï¿½Åƒpï¿½tï¿½Hï¿½[ï¿½~ï¿½ï¿½ï¿½Oï¿½Aï¿½[ï¿½gï¿½ï¿½gï¿½Ýï¿½ï¿½ñ‚¾‚Pï¿½Tï¿½ï¿½ï¿½`ï¿½Qï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Ì”ï¿½ï¿½\ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Vï¿½ï¿½ï¿½Eï¿½Qï¿½Lï¿½Í‚Sï¿½Â‚ÌˆÓ–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚Sï¿½Â‚ÌˆÓ–ï¿½ï¿½Æ‚ÍAï¿½@ï¿½ï¿½ï¿½ï¿½(ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Ì’Zï¿½ï¿½ï¿½Qï¿½L)ï¿½Aï¿½Aï¿½ÎŒï¿½(ï¿½Rï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄÎ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½éŒ€)ï¿½Aï¿½BShowï¿½ï¿½(ï¿½ÌAï¿½_ï¿½ï¿½ï¿½Xï¿½Aï¿½pï¿½ï¿½ï¿½gï¿½}ï¿½Cï¿½ï¿½ï¿½È‚Ç‚Ìƒpï¿½tï¿½Hï¿½[ï¿½~ï¿½ï¿½ï¿½Oï¿½Aï¿½[ï¿½cï¿½ï¿½ï¿½Ü‚Ü‚ï¿½éŒ€)ï¿½Aï¿½Cï¿½ÕŒï¿½(ï¿½ÕŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½éŒ€)ï¿½Å‚ï¿½ï¿½Bï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½Ô‚Å—lï¿½Xï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½ÉŽï¿½ï¿½gï¿½Þ‚ï¿½ï¿½ßAï¿½ï¿½ï¿½ï¿½ï¿½ÌŠwï¿½Zï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é”­ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Í‚Ù‚Æ‚ï¿½Çsï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B</font></p>
+    <p class="border6"><font color="#000000">ï¿½ï¿½ï¿½ï¿½{ï¿½Iï¿½É‚Pï¿½Tï¿½Ô‚Ì—ï¿½ï¿½Kï¿½Í‚Sï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Ísï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½yï¿½Eï¿½ï¿½ï¿½Eï¿½jï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½Ísï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½\ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½xï¿½É’ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½Ísï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½Rï¿½Tï¿½Ô‘Oï¿½ï¿½ï¿½ï¿½Í“yï¿½Eï¿½ï¿½ï¿½Eï¿½jï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ø‚É‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Ìï¿½ï¿½ï¿½ï¿½nï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Ø‚É‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Ìï¿½ï¿½ï¿½ï¿½nï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Å–ï¿½ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ÉŠ×‚é‚±ï¿½Æ‚È‚ï¿½ï¿½iï¿½ß‚ï¿½ï¿½é‚©ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Ô‚Â‚Ô‚ï¿½ï¿½Å‚Í‚È‚ï¿½ï¿½Aï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Ìã‰‰ï¿½É‚ï¿½ï¿½ï¿½ï¿½Ä‚Ç‚Ì‚æ‚¤ï¿½É–ð—§‚Â‚ï¿½ï¿½ï¿½ï¿½mï¿½Å‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½Ø‚Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚É‚ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½Xï¿½Ì—ï¿½ï¿½Kï¿½É–Ú•Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŽï¿½ï¿½gï¿½ß‚é‚©ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½@ï¿½ï¿½ï¿½Kï¿½É‚ï¿½ï¿½ï¿½ï¿½éŽžï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½Ø‚É‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ß‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í‚È‚ï¿½ï¿½Aï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½Iï¿½vï¿½ÆŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é•”ï¿½ï¿½ï¿½ï¿½ï¿½Pï¿½Nï¿½ï¿½Ê‚ï¿½ï¿½Äsï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½B<br>
+    ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½È‚É‚ï¿½ï¿½ÌŽï¿½ï¿½nï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½Ø‚ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‰ï¿½ï¿½ï¿½ï¿½ð“¾‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä‚È‚ñ‚©“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½É‚È‚é•”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½zï¿½Å‚ï¿½ï¿½B</font></p>
    <br>
-<p class="border6"><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="mokuji" id="mokuji">–ÚŽŸ</a></b></font><font color="#000000"><br>
- <b><a href="#jumping rope">1.“ê’µ‚Ñ</a><br>
-    <a href="#dancing">2.ƒ_ƒ“ƒX</a> (ƒWƒƒƒYƒ_ƒ“ƒXAƒqƒbƒvƒzƒbƒvAƒNƒ‰ƒVƒbƒNƒoƒŒƒG)<br>
-    <a href="#chorus">3.‡¥</a> <br>   
- <a href="#tate">4.ŽEw</a> <br>
-    <a href="#gymnastics">5.ŠíŠB‰^“®</a> <br>
-    <a href="#gekizukuri">6.Œ€‚Ã‚­‚è`‘äŽŒ—ûK`</a> <br>
-    </b>@‚P@<a href="#improvisation">‘¦‹»‚ð—˜—p‚µ‚Ä‚ÌŒ€‚Ã‚­‚è</a> <br>
-    @@@u‘¦‹»v‚ð—˜—p‚µ‚½—ûK•û–@E‘S‘Ì‚Ì—¬‚ê <br>
-    @@@<a href="#kadai-1">‰Û‘è‚P@Žg—p‚·‚éƒeƒLƒXƒgu‚Æ‚«‚ß‚«‚æ‚ë‚ß‚«ƒtƒHƒgƒOƒ‰ƒtv</a><br>
-    @@@<a href="#kadai-2">‰Û‘è‚Q@Žg—p‚·‚éƒeƒLƒXƒgu‚Æ‚«‚ß‚«‚æ‚ë‚ß‚«ƒtƒHƒgƒOƒ‰ƒtv</a> <br>
-    @@@<a href="#kadai-3">‰Û‘è‚R@Žg—p‚·‚éƒeƒLƒXƒgu‚Ó‚é‚³‚Æv</a> <br>
-    @‚Q@<a href="#emotion">Š´î‚É‘äŽŒ‚ðæ‚¹‚é</a> <br>
-    @@@<a href="#kadai-one">‰Û‘è‚Pu“{‚èv‚É‘äŽŒ‚ðæ‚¹‚é@Žg—p‚·‚éƒeƒLƒXƒgutˆê”Ôv</a> <br>
-    @@@<a href="#kadai-two">‰Û‘è‚QuŠì‚Ñv‚É‘äŽŒ‚ðæ‚¹‚é@Žg—p‚·‚éƒeƒLƒXƒgu‚Æ‚àv</a> <br>
-    @@@<a href="#kadai-three">‰Û‘è‚Ru—Ü‡@@”ß‚µ‚¢—Üv@Žg—p‚·‚éƒeƒLƒXƒgu~‚é‚æ‚¤‚È¯‹óv</a> <br>
-    @@@<a href="#kadai-four">‰Û‘è‚Su—Ü‡A@‚¤‚ê‚µ—Üv@Žg—p‚·‚éƒeƒLƒXƒgutˆê”Ôv</a> <br>
-    @‚R@<a href="#application">‰ž—p—ûK</a> <br>
-    @@@<a href="#kadai1">‰Û‘è‚P@u‚í‚­‚í‚­‚ð‰‰‚¶‚évŽg—p‚·‚éƒeƒLƒXƒgu‰Ä‹x‚Ýv</a><br>
-    @@@<a href="#kadai2">‰Û‘è‚Q@u’·‚¢ƒV[ƒ“‚ð‚Â‚­‚Á‚Ä‚Ý‚évŽg—p‚·‚éƒeƒLƒXƒgu‰Ä‹x‚Ýv</a><br>
-    @@@<a href="#kadai3">‰Û‘è‚R@u‚¢‚¶‚ß‚ðs‚Á‚Ä‚¢‚é‘¤‚ð‰‰‚¶‚Ä‚Ý‚évŽg—p‚·‚éƒeƒLƒXƒgu‚Ó‚é‚³‚Æv </a><br>
-    @@@<a href="#kadai4">‰Û‘è‚S@u•¡ŽG‚ÈS‚Ì“®‚«‚ð•`‚­vŽg—p‚·‚éƒeƒLƒXƒgu‚Æ‚«‚ß‚«‚æ‚ë‚ß‚«ƒtƒHƒgƒOƒ‰ƒtv</a><br>
-    @@@<a href="#kadai5">‰Û‘è‚T@u•¡ŽG‚ÈS‚Ì“®‚«‚ð•`‚­vŽg—p‚·‚éƒeƒLƒXƒgutˆê”Ôv</a><br>
-    @@@<a href="#kadai6">‰Û‘è‚U@uÎ‚¢‚É’§í‚·‚évŽg—p‚·‚éƒeƒLƒXƒguŽµ‚ÂXv</a><br>
-    @@@<a href="#kadai7">‰Û‘è‚V@uÎ‚¢‚É’§í‚·‚éE’jŽq•”ˆõ‚Ì‚½‚ß‚ÉvŽg—p‚·‚éƒeƒLƒXƒguƒAƒgƒ€v</a> <br>
-    @@@<a href="#kadai8">‰Û‘è‚W @u¬Šw¶‚Ì—‚ÌŽq‚ð‰‰‚¶‚éEŠ‹“¡‚ð‰‰‚¶‚évŽg—p‚·‚éƒeƒLƒXƒguƒAƒgƒ€v</a><br>
-    <b><a href="#indroduction">7.•”Šˆ“®Ð‰îEV“ü¶Š©—U‚Ì‚½‚ß‚ÌŒ€‚Ã‚­‚è</a> <br>
-    </b>@@@<a href="#daihon1">‘ä–{‚P@Žg—p‚·‚éƒeƒLƒXƒgu‹°•|‚ÌƒoƒŒƒ“ƒ^ƒCƒ“v</a> <br>
-    @@@<a href="#daihon2">‘ä–{‚Q@Žg—p‚·‚éƒeƒLƒXƒgu‰ö’k‚Ì‘½‚¢—¿—“Xv</a></font> <br>
- <b><a href="#voice">8.”­º—ûK</a><br>
-    </b><font color="#000000">@”­º—ûK‚P@’·”­º@@@@@@@@”­º—ûK‚Q@’Z”­º <br>
-    @”­º—ûK‚Ru‚ ‚¢‚¤‚¦‚¨v@@@@@”­º—ûK‚Su‚ ‚©‚³‚½‚Èv<br>
-    @”­º—ûK‚Tu‚ ‚¦‚¢‚¤‚¦‚¨‚ ‚¨v@@”­º—ûK‚UuŒÜ\‰¹(‚ ‚ß‚ñ‚Ú)@–kŒ´”’Hv</font> <br>
-    <b>  
-    <a href="#nature">9.Ž©‘RŠÏŽ@</a>@</b>
+<p class="border6"><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="mokuji" id="mokuji">ï¿½ÚŽï¿½</a></b></font><font color="#000000"><br>
+ <b><a href="#jumping rope">1.ï¿½ê’µï¿½ï¿½</a><br>
+    <a href="#dancing">2.ï¿½_ï¿½ï¿½ï¿½X</a> (ï¿½Wï¿½ï¿½ï¿½Yï¿½_ï¿½ï¿½ï¿½Xï¿½Aï¿½qï¿½bï¿½vï¿½zï¿½bï¿½vï¿½Aï¿½Nï¿½ï¿½ï¿½Vï¿½bï¿½Nï¿½oï¿½ï¿½ï¿½G)<br>
+    <a href="#chorus">3.ï¿½ï¿½ï¿½ï¿½</a> <br>
+ <a href="#tate">4.ï¿½Eï¿½w</a> <br>
+    <a href="#gymnastics">5.ï¿½ï¿½Bï¿½^ï¿½ï¿½</a> <br>
+    <a href="#gekizukuri">6.ï¿½ï¿½ï¿½Ã‚ï¿½ï¿½ï¿½`ï¿½äŽŒï¿½ï¿½ï¿½Kï¿½`</a> <br>
+    </b>ï¿½@ï¿½Pï¿½@<a href="#improvisation">ï¿½ï¿½ï¿½ï¿½ï¿½ð—˜—pï¿½ï¿½ï¿½Ä‚ÌŒï¿½ï¿½Ã‚ï¿½ï¿½ï¿½</a> <br>
+    ï¿½@ï¿½@ï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ð—˜—pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½Eï¿½Sï¿½Ì‚Ì—ï¿½ï¿½ï¿½ <br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai-1">ï¿½Û‘ï¿½Pï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½tï¿½Hï¿½gï¿½Oï¿½ï¿½ï¿½tï¿½v</a><br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai-2">ï¿½Û‘ï¿½Qï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½tï¿½Hï¿½gï¿½Oï¿½ï¿½ï¿½tï¿½v</a> <br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai-3">ï¿½Û‘ï¿½Rï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Ó‚é‚³ï¿½Æv</a> <br>
+    ï¿½@ï¿½Qï¿½@<a href="#emotion">ï¿½ï¿½ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½</a> <br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai-one">ï¿½Û‘ï¿½Pï¿½uï¿½{ï¿½ï¿½vï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½tï¿½ï¿½Ôv</a> <br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai-two">ï¿½Û‘ï¿½Qï¿½uï¿½ï¿½Ñvï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Æ‚ï¿½ï¿½v</a> <br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai-three">ï¿½Û‘ï¿½Rï¿½uï¿½Ü‡@ï¿½@ï¿½ß‚ï¿½ï¿½ï¿½ï¿½Üvï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½~ï¿½ï¿½æ‚¤ï¿½Èï¿½ï¿½ï¿½v</a> <br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai-four">ï¿½Û‘ï¿½Sï¿½uï¿½Ü‡Aï¿½@ï¿½ï¿½ï¿½ê‚µï¿½Üvï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½tï¿½ï¿½Ôv</a> <br>
+    ï¿½@ï¿½Rï¿½@<a href="#application">ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½K</a> <br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai1">ï¿½Û‘ï¿½Pï¿½@ï¿½uï¿½í‚­ï¿½í‚­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Ä‹xï¿½Ýv</a><br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai2">ï¿½Û‘ï¿½Qï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Ä‹xï¿½Ýv</a><br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai3">ï¿½Û‘ï¿½Rï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‘¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Ó‚é‚³ï¿½Æv </a><br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai4">ï¿½Û‘ï¿½Sï¿½@ï¿½uï¿½ï¿½ï¿½Gï¿½ÈSï¿½Ì“ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½tï¿½Hï¿½gï¿½Oï¿½ï¿½ï¿½tï¿½v</a><br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai5">ï¿½Û‘ï¿½Tï¿½@ï¿½uï¿½ï¿½ï¿½Gï¿½ÈSï¿½Ì“ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½tï¿½ï¿½Ôv</a><br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai6">ï¿½Û‘ï¿½Uï¿½@ï¿½uï¿½Î‚ï¿½ï¿½É’ï¿½ï¿½í‚·ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½ï¿½ï¿½ÂXï¿½v</a><br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai7">ï¿½Û‘ï¿½Vï¿½@ï¿½uï¿½Î‚ï¿½ï¿½É’ï¿½ï¿½í‚·ï¿½ï¿½Eï¿½jï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚Évï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Aï¿½gï¿½ï¿½ï¿½v</a> <br>
+    ï¿½@ï¿½@ï¿½@<a href="#kadai8">ï¿½Û‘ï¿½W ï¿½@ï¿½uï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Ìï¿½ï¿½ÌŽqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Aï¿½gï¿½ï¿½ï¿½v</a><br>
+    <b><a href="#indroduction">7.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð‰ï¿½Eï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Uï¿½Ì‚ï¿½ï¿½ß‚ÌŒï¿½ï¿½Ã‚ï¿½ï¿½ï¿½</a> <br>
+    </b>ï¿½@ï¿½@ï¿½@<a href="#daihon1">ï¿½ï¿½{ï¿½Pï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½ï¿½ï¿½|ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½v</a> <br>
+    ï¿½@ï¿½@ï¿½@<a href="#daihon2">ï¿½ï¿½{ï¿½Qï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½ï¿½ï¿½kï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½v</a></font> <br>
+ <b><a href="#voice">8.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½K</a><br>
+    </b><font color="#000000">ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½@ï¿½@ï¿½@ï¿½@ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Qï¿½@ï¿½Zï¿½ï¿½ï¿½ï¿½ <br>
+    ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Rï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½@ï¿½@ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Sï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Èv<br>
+    ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Tï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Uï¿½uï¿½Ü\ï¿½ï¿½(ï¿½ï¿½ï¿½ß‚ï¿½ï¿½)ï¿½@ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½Hï¿½v</font> <br>
+    <b>
+    <a href="#nature">9.ï¿½ï¿½ï¿½Rï¿½ÏŽ@</a>ï¿½@</b>
     <blockquote>
-    <p><b><font color="#000000" size="+4" style="font-size : 310%;">1E<a name="jumping rope" id="jumping rope">“ê’µ‚Ñ</a><br>
+    <p><b><font color="#000000" size="+4" style="font-size : 310%;">1ï¿½E<a name="jumping rope" id="jumping rope">ï¿½ê’µï¿½ï¿½</a><br>
     </font></b></p>
-    <p class="border8" align="left"><font color="#000000">”­•\‚ÉŒü‚¯‚Ä‚Ì—ûK‚ªŽn‚Ü‚é‚Æ‚È‚©‚È‚©ŽžŠÔ‚ªŽæ‚ê‚Ü‚¹‚ñ‚ªAŽžŠÔ‚É—]—T‚ª‚ ‚é‚Æ‚«‚ÍA‚Ù‚Ú–ˆ“ú“ê’µ‚Ñ‚ðs‚¢‚Ü‚·B<br>
-    ƒ_ƒ“ƒX‚ð—x‚é‘Ì—Íì‚è‚Æ‚Æ‚à‚ÉAƒŠƒYƒ€ŠÏ‚ð—{‚¤—ûK‚É‚à‚È‚è‚Ü‚·B“ê’µ‚Ñ‚ðs‚¤‚Æ‚«‚Í”‚ð”‚¦‚È‚ª‚ç’µ‚Ô‚Ì‚ÅA”­º—ûK‚Ì‘ã‚í‚è‚É‚È‚è‚Ü‚·B’µ‚ñ‚Å‚¢‚él‚ð‰ž‰‡‚·‚é‚±‚Æ‚ÅA“ü•”“–Žž‚Í¬‚³‚¢º‚µ‚©o‚¹‚È‚©‚Á‚½¶“k‚àAŽ©‘R‚Æº‚ª‘å‚«‚­‚È‚Á‚Ä‚¢‚«‚Ü‚·B‚±‚Ì”­º—ûK‚ÍA‚½‚¾º‚ð‘å‚«‚­o‚·‚±‚Æ‚ð–Ú“I‚É‚µ‚½”­º—ûK‚Å‚Í‚ ‚è‚Ü‚¹‚ñBŠ´î•\Œ»‚Ì”º‚Á‚½”­º—ûK‚Å‚·B<font size="+2" style="font-size : 150%;"><br>
+    <p class="border8" align="left"><font color="#000000">ï¿½ï¿½ï¿½\ï¿½ÉŒï¿½ï¿½ï¿½ï¿½Ä‚Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½nï¿½Ü‚ï¿½Æ‚È‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ñ‚ªAï¿½ï¿½ï¿½Ô‚É—]ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÍAï¿½Ù‚Ú–ï¿½ï¿½ï¿½ï¿½ê’µï¿½Ñ‚ï¿½ï¿½sï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½xï¿½ï¿½Ì—Íï¿½ï¿½Æ‚Æ‚ï¿½ï¿½ÉAï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½Ï‚ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½É‚ï¿½ï¿½È‚ï¿½Ü‚ï¿½ï¿½Bï¿½ê’µï¿½Ñ‚ï¿½ï¿½sï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Íï¿½ï¿½ð”‚ï¿½ï¿½È‚ï¿½ï¿½ç’µï¿½Ô‚Ì‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Ì‘ï¿½ï¿½ï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Rï¿½Æï¿½ï¿½ï¿½ï¿½å‚«ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å‚«ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½Ú“Iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Å‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Å‚ï¿½ï¿½B<font size="+2" style="font-size : 150%;"><br>
     </font></font></p>
     <br>
-   
-    <p class="border2"><font color="#000000" size="+1" style="font-size : 117%;"><font color="#000000" size="+1" style="font-size : 117%;"><b>‘O’µ‚Ñ‚R‚O‚O‰ñ<br>
+
+    <p class="border2"><font color="#000000" size="+1" style="font-size : 117%;"><font color="#000000" size="+1" style="font-size : 117%;"><b>ï¿½Oï¿½ï¿½ï¿½Ñ‚Rï¿½Oï¿½Oï¿½ï¿½<br>
     </b></font></font></p>
     <br>
- <p class="border4"><font color="#000000"><font color="#000000">‚Q‚Â‚Ì”Ç‚É•ª‚¯‚ÄŒð‘ã‚Å•’Ê’µ‚Ñ‚Å‚R‚O‚O‰ñ˜A‘±‚µ‚Ä’µ‚Ñ‚Ü‚·B<br>
-    ‚Ü‚¸‚Í•”’·‚Ìu‚æ[‚¢AŽn‚ßv‚Æ‚¢‚¤º‚ð‡}‚ÉÅ‰‚ÌƒOƒ‹[ƒv‚ª•’Ê’µ‚Ñ‚ðŽn‚ß‚Ü‚·B<br>
-    ‚à‚¤ˆê•û‚ÌƒOƒ‹[ƒv‚Í—§‚Á‚Ä‚¢‚Ü‚·B<br>
-    ŽÀÛ‚É”ò‚ÔƒOƒ‹[ƒv‚ªu‚P`10v‚Ü‚Å‚ð”‚¦‚Ü‚·B<br>
-    ‘±‚¢‚Ä”ò‚ñ‚Å‚¢‚È‚¢ƒOƒ‹[ƒv‚ªu11`20v‚ð”‚¦‚Ü‚·B<br>
-    ‘±‚¢‚Ä’µ‚ñ‚Å‚¢‚éƒOƒ‹[ƒv‚ªu21`30v‚ð”‚¦‚Ü‚·B<br>
-    ‚±‚Ì‚æ‚¤‚É10‚¸‚ÂŒð‘ã‚Å”‚¦‚Ä‚¢‚«‚Ü‚·B<br>
-    ”‚¦‚È‚ª‚ç‚¸‚Á‚Æ’µ‚Ñ‘±‚¯‚é‚Æ”æ‚ê‚Ä’µ‚Ñ‘±‚¯‚é‚±‚Æ‚ª¢“ï‚Å‚·AŒð‘ã‚Å”‚¦‚é‚±‚Æ‚Å­‚µ‘§‚ª®‚¦‚ç‚ê‚Ü‚·B<br>
-    ‚Ü‚½u‚¶‚ã‚¤‚¢‚¿E‚¶‚ã‚¤‚Év‚Æ”‚¦‚é‚Ì‚Í‚±‚ê‚Ü‚ð‚½‹ê‚µ‚¢‚Ì‚Å<br>
-    u‚PE‚QE‚RE‚SE‚TE‚UE‚VE‚WE‚XE‚Q‚Ov‚ÆØ‚è‚Ì‚¢‚¢ÅŒã‚¾‚¯³Šm‚É\‚ÌˆÊ‚à“ü‚ê‚ÄŒ¾‚¢A‚ ‚Æ‚Íˆê‚ÌˆÊ‚¾‚¯‚Å”‚¦‚Ä‚¢‚«‚Ü‚·B<br>
-    ˜A‘±‚Å‚R‚O‚O‰ñ‘±‚¯‚Ä’µ‚×‚½‚çI—¹‚Å‚·B“r’†‚Åˆø‚Á‚©‚©‚Á‚Ä‚µ‚Ü‚Á‚½ê‡‚ÍAˆø‚Á‚©‚©‚Á‚½‰ñ”~‚Q‚O‰ñ‚ðI—¹Œãƒvƒ‰ƒX‚µ‚Ä’µ‚Ñ‚Ü‚·B<br>
-    ‘O”¼‚ÌƒOƒ‹[ƒv‚ªI—¹‚µ‚½‚çŒã”¼‚ÌƒOƒ‹[ƒv‚ÆŒð‘ã‚µ‚Ä“¯‚¶‚±‚Æ‚ðŒJ‚è‘Ö‚¦‚µ‚Ü‚·B<br>
+ <p class="border4"><font color="#000000"><font color="#000000">ï¿½Qï¿½Â‚Ì”Ç‚É•ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½Å•ï¿½ï¿½Ê’ï¿½ï¿½Ñ‚Å‚Rï¿½Oï¿½Oï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä’ï¿½ï¿½Ñ‚Ü‚ï¿½ï¿½B<br>
+    ï¿½Ü‚ï¿½ï¿½Í•ï¿½ï¿½ï¿½ï¿½Ìuï¿½ï¿½[ï¿½ï¿½ï¿½Aï¿½nï¿½ßvï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ÉÅï¿½ï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Ê’ï¿½ï¿½Ñ‚ï¿½ï¿½nï¿½ß‚Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½Í—ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½Û‚É”ï¿½ÔƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½uï¿½Pï¿½`10ï¿½vï¿½Ü‚Å‚ð”‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ä”ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½Oï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½u11ï¿½`20ï¿½vï¿½ð”‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ä’ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½u21ï¿½`30ï¿½vï¿½ð”‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½Ì‚æ‚¤ï¿½ï¿½10ï¿½ï¿½ï¿½ÂŒï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ç‚¸ï¿½ï¿½ï¿½Æ’ï¿½ï¿½Ñ‘ï¿½ï¿½ï¿½ï¿½ï¿½Æ”ï¿½ï¿½Ä’ï¿½ï¿½Ñ‘ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Aï¿½ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Åï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½Ü‚ï¿½ï¿½uï¿½ï¿½ï¿½ã‚¤ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ã‚¤ï¿½Évï¿½Æï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ê‚µï¿½ï¿½ï¿½Ì‚ï¿½<br>
+    ï¿½uï¿½Pï¿½Eï¿½Qï¿½Eï¿½Rï¿½Eï¿½Sï¿½Eï¿½Tï¿½Eï¿½Uï¿½Eï¿½Vï¿½Eï¿½Wï¿½Eï¿½Xï¿½Eï¿½Qï¿½Oï¿½vï¿½ÆØ‚ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ÅŒã‚¾ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½É\ï¿½ÌˆÊ‚ï¿½ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Æ‚Íˆï¿½ÌˆÊ‚ï¿½ï¿½ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½Aï¿½ï¿½ï¿½Å‚Rï¿½Oï¿½Oï¿½ñ‘±‚ï¿½ï¿½Ä’ï¿½ï¿½×‚ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½rï¿½ï¿½ï¿½Åˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ”~ï¿½Qï¿½Oï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Ä’ï¿½ï¿½Ñ‚Ü‚ï¿½ï¿½B<br>
+    ï¿½Oï¿½ï¿½ï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ã”¼ï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ÆŒï¿½ã‚µï¿½Ä“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Jï¿½ï¿½Ö‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     </font></font></p>
     <font color="#000000"><br>
     </font>
-    <p class="border2"><font color="#000000" size="+2" style="font-size : 150%;"><font color="#000000" size="+1" style="font-size : 117%;"><b>“ñd’µ‚Ñ<br>
+    <p class="border2"><font color="#000000" size="+2" style="font-size : 150%;"><font color="#000000" size="+1" style="font-size : 117%;"><b>ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½<br>
     </b></font></font></p>
     <p class="border4"><font color="#000000"><font color="#000000">
-    ‘O”¼‚ÌƒOƒ‹[ƒv‚ª‚Ü‚¸“¯Žž‚É’µ‚ÑŽn‚ß‚Ü‚·B<br>
-    ˆø‚Á‚©‚©‚Á‚½l‚©‚çÀ‚Á‚Ä‚¢‚«‚Ü‚·B<br>
-    ‘Sˆõ‚ªˆø‚Á‚©‚©‚Á‚½‚Æ‚±‚ë‚ÅAŒã”¼‚ÌƒOƒ‹[ƒv‚ÆŒð‘ã‚µ‚Ü‚·B<br>
-    Œã”¼‚Ì‘Sˆõ‚ªˆø‚Á‚©‚©‚Á‚½‚Æ‚±‚ë‚ÅŽ©—R‚Éƒ`ƒƒƒŒƒ“ƒW‚·‚éŽžŠÔ‚É‚È‚è‚Ü‚·B<br>
-    ‚»‚ê‚¼‚ê‚ªŽ©•ª‚ÌÅ‚XV‚ð–ÚŽw‚µ‚Ä’µ‚Ñ‚Ü‚·B<br>
-    ‚»‚ê‚¼‚ê‰½‰ñ‚©‚Ì’§í‚ð‚µ‚½‚Æ‚±‚ë‚ÅI—¹‚µA‹L˜^‚ð‚Æ‚è‚Ü‚·B<br>
-    –ˆ“ú‚Ì‹L˜^‚ð‚Æ‚é‚±‚Æ‚ª‘åØ‚Å‚·B<br>
-    ‚»‚ê‚¼‚ê‚ÌÅ‚‚Í‰½‰ñ‚È‚Ì‚©‚ð‹L˜^‚µ‚Ä‚¨‚­‚±‚Æ‚ª‘åØ‚Å‚·BŽ©•ª‚ÌÅ‚‚ðXV‚·‚é‚±‚Æ‚ª–ˆ“ú‚Ì–Ú•W‚Æ‚È‚é‚½‚ßA‚Æ‚è‚ ‚¦‚¸‚â‚Á‚Ä‚¢‚é‚¾‚¯‚Æ‚¢‚Á‚½—ûK‚É‚Í‚È‚è‚Ü‚¹‚ñB<br>
-    ‚±‚Ì—ûK‚É‚ÍŒÚ–â‚ÌŽ©•ª‚àŽQ‰Á‚µ‚Ü‚·B‚T9Î‚Ì¡‚Å‚à100‰ñˆÈã’µ‚Ô‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚±‚Ì—ûK‚ðŽn‚ß‚½‚Q‚O‘ã‘O”¼‚Í‚T‚O‰ñ‚ð’µ‚Ô‚Ì‚ª‚â‚Á‚Æ‚Å‚µ‚½‚ªA‚R‚O”NŒã‚É‚»‚êˆÈã’µ‚×‚é‚Ì‚ÍÈƒGƒl‚ð‚·‚é’µ‚Ñ•û‚ðƒ}ƒXƒ^[‚µ‚½‚©‚ç‚Å‚·B</font></font><br>
+    ï¿½Oï¿½ï¿½ï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É’ï¿½ï¿½ÑŽnï¿½ß‚Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ÅAï¿½ã”¼ï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ÆŒï¿½ã‚µï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ã”¼ï¿½Ì‘Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ÅŽï¿½ï¿½Rï¿½Éƒ`ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½éŽžï¿½Ô‚É‚È‚ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ê‚¼ï¿½ê‚ªï¿½ï¿½ï¿½ï¿½ï¿½ÌÅï¿½ï¿½Xï¿½Vï¿½ï¿½ÚŽwï¿½ï¿½ï¿½Ä’ï¿½ï¿½Ñ‚Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ê‚¼ï¿½ê‰½ï¿½ñ‚©‚Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ÅIï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Lï¿½^ï¿½ï¿½ï¿½Æ‚ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ì‹Lï¿½^ï¿½ï¿½ï¿½Æ‚é‚±ï¿½Æ‚ï¿½ï¿½ï¿½Ø‚Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ê‚¼ï¿½ï¿½ÌÅï¿½ï¿½Í‰ï¿½ï¿½ï¿½È‚Ì‚ï¿½ï¿½ï¿½ï¿½Lï¿½^ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Ø‚Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÌÅï¿½ï¿½ï¿½ï¿½Xï¿½Vï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì–Ú•Wï¿½Æ‚È‚é‚½ï¿½ßAï¿½Æ‚è‚ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚¾ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½É‚Í‚È‚ï¿½Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½É‚ÍŒÚ–ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Qï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½T9ï¿½Î‚Ìï¿½ï¿½Å‚ï¿½100ï¿½ï¿½Èã’µï¿½Ô‚ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½nï¿½ß‚ï¿½ï¿½Qï¿½Oï¿½ï¿½Oï¿½ï¿½ï¿½Í‚Tï¿½Oï¿½ï¿½ð’µ‚Ô‚Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Rï¿½Oï¿½Nï¿½ï¿½É‚ï¿½ï¿½ï¿½Èã’µï¿½×‚ï¿½Ì‚ÍÈƒGï¿½lï¿½ï¿½ï¿½ï¿½ï¿½é’µï¿½Ñ•ï¿½ï¿½ï¿½ï¿½}ï¿½Xï¿½^ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B</font></font><br>
     <font color="#000000">
-    Å‚‚ªo‚½‚Æ‚«‚É‚ÍA–{l‚ªuÅ‚‚Å‚Ü‚µ‚½››‰ñ‚Å‚·v‚Æ•ñ‚µA‚Ý‚ñ‚È‚ªu‚¨‚ß‚Å‚Æ‚¤v‚Æ”Žè‚ð‚µ‚Ü‚·B<br>
+    ï¿½Åï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É‚ÍAï¿½{ï¿½lï¿½ï¿½ï¿½uï¿½Åï¿½ï¿½Å‚Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½vï¿½Æ•ñ‚ï¿½ï¿½Aï¿½Ý‚ï¿½È‚ï¿½ï¿½uï¿½ï¿½ï¿½ß‚Å‚Æ‚ï¿½ï¿½vï¿½Æ”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     <br>
-    ‚±‚Ì—ûK‚Í”­º—ûK‚ðŒ“‚Ë‚Ä‚¢‚Ü‚·B<br>
-    ”­º—ûK‚Í‚Ç‚¤‚µ‚Ä‚à‹@ŠB“I‚È—ûK‚É‚È‚Á‚Ä‚µ‚Ü‚¤Œ™‚¢‚ª‚ ‚è‚Ü‚·‚ªA“ê’µ‚Ñ‚ð‚µ‚Ä‚¢‚éŠÔ‚Ì‚©‚¯º‚ÍS‚Ì‚±‚à‚Á‚½”­º—ûKAŠ´î‚Ì‹l‚Ü‚Á‚½”­º—ûK‚Æ‚È‚è‚Ü‚·B<br>
-    ÅŒã‚É¡“ú‚Ì‘Sˆõ‚ÌÅ‚‹L˜^‚ð•”’·‚ª•”Šˆƒm[ƒg‚É‹L˜^‚µ‚Ü‚·BÅ‚‚ÌXV‚ª‚ ‚Á‚½ê‡‚Íu¡“ú‚Í››‚³‚ñ‚ª››‰ñ‚ÅÅ‚‚ðo‚µ‚Ü‚µ‚½v‚Æ•ñ‚µA‚Ü‚í‚è‚ÍÄ‚Ñ”Žè‚ð‚µ‚Ü‚·B<br>
+    ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½Í”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Ë‚Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Í‚Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½@ï¿½Bï¿½Iï¿½È—ï¿½ï¿½Kï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½ê’µï¿½Ñ‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ô‚Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍSï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Aï¿½ï¿½ï¿½ï¿½Ì‹lï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Æ‚È‚ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ÅŒï¿½Éï¿½ï¿½ï¿½ï¿½Ì‘Sï¿½ï¿½ï¿½ÌÅï¿½ï¿½Lï¿½^ï¿½ð•”’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½[ï¿½gï¿½É‹Lï¿½^ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Åï¿½ï¿½ÌXï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½Íuï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚ªï¿½ï¿½ï¿½ï¿½ï¿½ÅÅï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½vï¿½Æ•ñ‚ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½ÍÄ‚Ñ”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     <br>
-    Œp‘±‚Í—Í‚È‚èB¡‚Ü‚Å‚R”NŠÔˆê‚É•”Šˆ‚ðs‚Á‚½¶“k‚Ì‚Ù‚Æ‚ñ‚Ç‚ª˜A‘±‚Å‚P‚O‚O‰ñˆÈã’µ‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚·B‰^“®_Œo‚ª‚æ‚­‚È‚¢‚©‚ç–³—‚Æ‚¢‚¤‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB‚T‚Oƒ[ƒgƒ‹‘–‚ª‚P‚O•b‘ä‚Ü‚½‚Í‚»‚±‚Ü‚Å“Í‚©‚È‚­‚Ä‚à˜A‘±‚P‚O‚O‰ñ’µ‚×‚é‚Ì‚Å‚·Bu–³—v‚Æ‚¢‚¤Œ¾—t‚ÍAŽ©•ª‚ÅŽ©•ª‚ÌŒÀŠE‚ðŒˆ‚ß‚Ä‚µ‚Ü‚¢‚Ü‚·BŽ„‚½‚¿‚ÍŒƒ‚µ‚­“®‚­Œ€‚É‚àŽæ‚è‘g‚Ý‚Ü‚·‚Ì‚Å“ê’µ‚Ñ‚Í‚Æ‚Ä‚à–ð‚É—§‚¿‚Ü‚·B<br>
-    ‚¿‚È‚Ý‚É‰‰Œ€•”ˆõ‚ªo‚µ‚½¡‚Ü‚Å‚ÌÅ‚‹L˜^‚ÍA˜A‘±‚P‚O‚O‚X‰ñ‚Å‚·B<br>
+    ï¿½pï¿½ï¿½ï¿½Í—Í‚È‚ï¿½Bï¿½ï¿½ï¿½Ü‚Å‚Rï¿½Nï¿½Ôˆêï¿½É•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½kï¿½Ì‚Ù‚Æ‚ï¿½Ç‚ï¿½ï¿½Aï¿½ï¿½ï¿½Å‚Pï¿½Oï¿½Oï¿½ï¿½Èã’µï¿½×‚ï¿½æ‚¤ï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½Bï¿½^ï¿½ï¿½ï¿½_ï¿½oï¿½ï¿½ï¿½æ‚­ï¿½È‚ï¿½ï¿½ï¿½ï¿½ç–³ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½Tï¿½Oï¿½ï¿½ï¿½[ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Pï¿½Oï¿½bï¿½ï¿½Ü‚ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½Ü‚Å“Í‚ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½ï¿½ï¿½Pï¿½Oï¿½Oï¿½ñ’µ‚×‚ï¿½Ì‚Å‚ï¿½ï¿½Bï¿½uï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ÅŽï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½gï¿½Ý‚Ü‚ï¿½ï¿½Ì‚Å“ê’µï¿½Ñ‚Í‚Æ‚Ä‚ï¿½ï¿½ï¿½ï¿½É—ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½È‚Ý‚É‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Å‚ÌÅï¿½ï¿½Lï¿½^ï¿½ÍAï¿½Aï¿½ï¿½ï¿½Pï¿½Oï¿½Oï¿½Xï¿½ï¿½Å‚ï¿½ï¿½B<br>
     </font></p>
     <font color="#000000"><br>
-   
+
     </font>
-    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ŽOd’µ‚Ñ<br>
+    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½Oï¿½dï¿½ï¿½ï¿½ï¿½<br>
     </b></font></font></p>
-    <p class="border4"><font color="#000000"><font color="#000000"> ˆÈ‘O–ˆ“ú‚ª‚TŽžŠÔŽö‹Æ‚¾‚Á‚½‚Æ‚«A‚»‚µ‚Ä“y—j“ú‚ÌŽö‹Æ‚ª‚ ‚Á‚½‚Æ‚«‚Í•ú‰ÛŒã‚Ì—ûKŽžŠÔ‚ª‚½‚Á‚Õ‚è‚ ‚Á‚½‚Ì‚ÅAŽOd’µ‚Ñ‚É‚àŽæ‚è‘g‚Ý‚Ü‚µ‚½B‚R”NŠÔ‘±‚¯‚é‚Æ‚T‚O‰ñˆÈã’µ‚×‚é¶“k‚ào‚Ä‚«‚Ü‚·B‚¿‚È‚Ý‚É¡‚Ü‚Å‚ÌÅ‚‹L˜^‚Í˜A‘±‚W‚T‰ñ‚Å‚·B<br>
+    <p class="border4"><font color="#000000"><font color="#000000"> ï¿½È‘Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½ï¿½ï¿½ÔŽï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä“yï¿½jï¿½ï¿½ï¿½ÌŽï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Í•ï¿½ï¿½ÛŒï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ‚è‚ ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÅAï¿½Oï¿½dï¿½ï¿½ï¿½Ñ‚É‚ï¿½ï¿½ï¿½ï¿½gï¿½Ý‚Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½Rï¿½Nï¿½Ô‘ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Tï¿½Oï¿½ï¿½Èã’µï¿½×‚é¶ï¿½kï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½È‚Ý‚Éï¿½ï¿½Ü‚Å‚ÌÅï¿½ï¿½Lï¿½^ï¿½Í˜Aï¿½ï¿½ï¿½Wï¿½Tï¿½ï¿½Å‚ï¿½ï¿½B<br>
     </font></font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <br><p>
-    <font color="#000000" size="+4" style="font-size : 310%;"><b>‚QE<a name="dancing" id="dancing">ƒ_ƒ“ƒX</a><br>
+    <font color="#000000" size="+4" style="font-size : 310%;"><b>ï¿½Qï¿½E<a name="dancing" id="dancing">ï¿½_ï¿½ï¿½ï¿½X</a><br>
     </b></font></p>
-    <p class="border8" align="left"><font color="#000000">‘äŽŒ—ûK‚Æ•À‚ñ‚ÅA—ûK‚É‘½‚­‚ÌŽžŠÔ‚ðŠ„‚¢‚Ä‚¢‚é‚Ì‚Íƒ_ƒ“ƒX‚Å‚·Bƒ_ƒ“ƒX‚ð“O’ê“I‚É‚â‚é‚ÆŽp¨‚ª”ü‚µ‚­‚È‚è‚Ü‚·B“®‚«‚ª‚«‚ê‚¢‚É‚È‚è‚Ü‚·B‚Ü‚½Aƒ_ƒ“ƒX‚»‚Ì‚à‚Ì‚ðuƒVƒ‡ƒEƒQƒLv(¬Œ€AShowŒ€c‰Ì‚âƒ_ƒ“ƒXAÎŒ€AÕŒ‚‚ÌˆÓ–¡‚ðŽ‚Â’Z‚¢ŽžŠÔ‚Ì•‘‘ä•\Œ»‚ð‘g‚Ý‡‚í‚¹‚½Œ€)‚Ì”­•\‚â‚R”N¶‚ð‘—‚é‰ï‚ÅÐ‰î‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·BŒÚ–â‚Å‚ ‚éŽ„‚Íƒ_ƒ“ƒX‚ð—x‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ‚ªA¡‚Í¶“k‚Ì’†‚É‚àƒ_ƒ“ƒX‚ðK‚Á‚Ä‚¢‚él‚Í‚½‚­‚³‚ñ‚¢‚Ü‚·B‘Ìˆç‚ÌŽö‹Æ‚É‚àŽæ‚è“ü‚ê‚ç‚ê‚Ä‚¢‚Ü‚·BŒÚ–â‚ªƒ_ƒ“ƒX‚ð‹³‚¦‚ç‚ê‚È‚­‚Ä‚àƒ_ƒ“ƒX‚ðŠˆ“®‚ÉŽæ‚è“ü‚ê‚é‚±‚Æ‚Í‰Â”\‚Å‚·B‚È‚ñ‚ÆŒ¾‚Á‚Ä‚àƒ_ƒ“ƒX‚Ì—ûK‚ÍŠy‚µ‚¢B‚»‚ê‚És‚«‚Ü‚·B<font size="+2" style="font-size : 150%;"><br>
+    <p class="border8" align="left"><font color="#000000">ï¿½äŽŒï¿½ï¿½ï¿½Kï¿½Æ•ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½Kï¿½É‘ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚Íƒ_ï¿½ï¿½ï¿½Xï¿½Å‚ï¿½ï¿½Bï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½Oï¿½ï¿½Iï¿½É‚ï¿½ï¿½ÆŽpï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚¢ï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ì‚ï¿½ï¿½uï¿½Vï¿½ï¿½ï¿½Eï¿½Qï¿½Lï¿½v(ï¿½ï¿½ï¿½ï¿½ï¿½AShowï¿½ï¿½ï¿½cï¿½Ì‚ï¿½_ï¿½ï¿½ï¿½Xï¿½Aï¿½ÎŒï¿½ï¿½Aï¿½ÕŒï¿½ï¿½ÌˆÓ–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â’Zï¿½ï¿½ï¿½ï¿½ï¿½Ô‚Ì•ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½gï¿½Ýï¿½ï¿½í‚¹ï¿½ï¿½ï¿½ï¿½)ï¿½Ì”ï¿½ï¿½\ï¿½ï¿½Rï¿½Nï¿½ï¿½ï¿½ð‘—‚ï¿½ï¿½ÅÐ‰î‚·ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ú–ï¿½Å‚ï¿½ï¿½éŽ„ï¿½Íƒ_ï¿½ï¿½ï¿½Xï¿½ï¿½xï¿½é‚±ï¿½Æ‚Í‚Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ñ‚ªAï¿½ï¿½ï¿½Íï¿½ï¿½kï¿½Ì’ï¿½ï¿½É‚ï¿½ï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½lï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¢‚Ü‚ï¿½ï¿½Bï¿½Ìˆï¿½ÌŽï¿½ï¿½Æ‚É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ú–â‚ªï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Í‰Â”\ï¿½Å‚ï¿½ï¿½Bï¿½È‚ï¿½ÆŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½_ï¿½ï¿½ï¿½Xï¿½Ì—ï¿½ï¿½Kï¿½ÍŠyï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<font size="+2" style="font-size : 150%;"><br>
     </font></font></p>
     <br>
-    <p class="border2"><font color="#000000" size="+2" style="font-size : 150%;"><b>ƒ_ƒ“ƒX‚Ì‚½‚ß‚ÌŠî–{—ûK</b></font></p>
-    <p class="border4"><font color="#000000"><font color="#000000"><b>_“î</b><br>
+    <p class="border2"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½_ï¿½ï¿½ï¿½Xï¿½Ì‚ï¿½ï¿½ß‚ÌŠï¿½{ï¿½ï¿½ï¿½K</b></font></p>
+    <p class="border4"><font color="#000000"><font color="#000000"><b>ï¿½_ï¿½ï¿½</b><br>
     <b><br>
-    ƒNƒ‰ƒVƒbƒNƒoƒŒƒG</b>cƒNƒ‰ƒVƒbƒNƒoƒŒƒG‚ðK‚Á‚Ä‚¢‚é¶“k‚ª’†S‚Æ‚È‚Á‚ÄAƒoƒŒƒG‚Ì—ûK‚ð‚µ‚Ü‚·B<b><br>
-    @@ƒsƒ‹ƒGƒbƒg</b><br>
-    @@‚P‰ñ“]<br>
-    @@‚Q‰ñ“]<br>
-    @@‚Q‰ñ“]ˆÈã<br>
+    ï¿½Nï¿½ï¿½ï¿½Vï¿½bï¿½Nï¿½oï¿½ï¿½ï¿½G</b>ï¿½cï¿½Nï¿½ï¿½ï¿½Vï¿½bï¿½Nï¿½oï¿½ï¿½ï¿½Gï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é¶ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Æ‚È‚ï¿½ï¿½ÄAï¿½oï¿½ï¿½ï¿½Gï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<b><br>
+    ï¿½@ï¿½@ï¿½sï¿½ï¿½ï¿½Gï¿½bï¿½g</b><br>
+    ï¿½@ï¿½@ï¿½Pï¿½ï¿½]<br>
+    ï¿½@ï¿½@ï¿½Qï¿½ï¿½]<br>
+    ï¿½@ï¿½@ï¿½Qï¿½ï¿½]ï¿½Èï¿½<br>
     <br>
-    <b>@@ƒXƒgƒDƒjƒ…AƒVƒFƒl</b>cƒoƒŒƒG—pŒêB‘¬‚¢‘¬“x‚Åg‘Ì‚ð˜A‘±“I‚É‰ñ“]‚³‚¹‚é‚±‚ÆB<br>
-    @@@‘½‚­‚Í•‘‘ä‚ðˆê’¼ü‚É‘¬‚¢ƒeƒ“ƒ|‚ÅC’Üæ—§‚¿‚Ås‚í‚ê‚éB<br>
-    @@@ÅI“I‚É‚Í‘¬‚¢ƒeƒ“ƒ|‚ÌƒŠƒYƒ€‚É‡‚í‚¹‚Ä˜A‘±‚Å‰ñ‚ê‚é‚±‚Æ‚ð–ÚŽw‚·B<br>
-    @@@‚Å‚«‚é‚æ‚¤‚É‚È‚é‚ÆA—d¸‚â“VŽg‚È‚Ç‚Ì“oêƒV[ƒ“‚È‚Ç‚Å‚»‚Ì•\Œ»‚ª‚Â‚©‚¦‚éB<br>
+    <b>ï¿½@ï¿½@ï¿½Xï¿½gï¿½Dï¿½jï¿½ï¿½ï¿½Aï¿½Vï¿½Fï¿½l</b>ï¿½cï¿½oï¿½ï¿½ï¿½Gï¿½pï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Ågï¿½Ì‚ï¿½Aï¿½ï¿½ï¿½Iï¿½É‰ï¿½]ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½ÆB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Í•ï¿½ï¿½ï¿½ï¿½ï¿½ê’¼ï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½eï¿½ï¿½ï¿½|ï¿½ÅCï¿½Üæ—§ï¿½ï¿½ï¿½Åsï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ÅIï¿½Iï¿½É‚Í‘ï¿½ï¿½ï¿½ï¿½eï¿½ï¿½ï¿½|ï¿½Ìƒï¿½ï¿½Yï¿½ï¿½ï¿½Éï¿½ï¿½í‚¹ï¿½Ä˜Aï¿½ï¿½ï¿½Å‰ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ÚŽwï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Å‚ï¿½ï¿½ï¿½æ‚¤ï¿½É‚È‚ï¿½ÆAï¿½dï¿½ï¿½ï¿½ï¿½Vï¿½gï¿½È‚Ç‚Ì“oï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½È‚Ç‚Å‚ï¿½ï¿½Ì•\ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    <b>ƒqƒbƒvƒzƒbƒv</b>cƒqƒbƒvƒzƒbƒv‚ðK‚Á‚Ä‚¢‚é•”ˆõ‚ª’†S‚Æ‚È‚Á‚ÄAƒqƒbƒvƒzƒbƒv‚Ì—ûK‚ð‚µ‚Ü‚·B<br>
+    <b>ï¿½qï¿½bï¿½vï¿½zï¿½bï¿½v</b>ï¿½cï¿½qï¿½bï¿½vï¿½zï¿½bï¿½vï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é•”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Æ‚È‚ï¿½ï¿½ÄAï¿½qï¿½bï¿½vï¿½zï¿½bï¿½vï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     <br>
-    <b>’iƒ{[ƒ‹‚ðŽg‚Á‚½’µ‚ÑR‚è‚Ì—ûK</b>@<br>
-    ‚Ql‘g‚É‚È‚Á‚ÄA‚Pl‚ª’iƒ{[ƒ‹‚ð“ª‚Ìã‚Ì‚‚³‚ÅŽ‚¿A‚à‚¤1l‚ª‚»‚ê‚ð’µ‚ÑR‚è‚ÅR‚éB<br>
-    Šµ‚ê‚Ä‚«‚½‚çA‘–‚Á‚½Œã‚É’µ‚ÑR‚è‚ð‚·‚é—ûK‚à‚µ‚Ü‚·Bƒoƒ‰ƒ“ƒX‚ð•ö‚µ‚Ä“|‚ê‚éŠëŒ¯‚ª‚ ‚é‚Ì‚ÅA‰º‚Éƒƒ“ƒOƒ}ƒbƒg‚ð•~‚¢‚Ä—ûK‚µ‚Ä‚¢‚Ü‚·B</font></font></p>
+    <b>ï¿½iï¿½{ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÑRï¿½ï¿½Ì—ï¿½ï¿½K</b>ï¿½@<br>
+    ï¿½Qï¿½lï¿½gï¿½É‚È‚ï¿½ï¿½ÄAï¿½Pï¿½lï¿½ï¿½ï¿½iï¿½{ï¿½[ï¿½ï¿½ï¿½ð“ª‚Ìï¿½Ìï¿½ï¿½ï¿½ï¿½ÅŽï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½1ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ð’µ‚ÑRï¿½ï¿½ÅRï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É’ï¿½ï¿½ÑRï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä“|ï¿½ï¿½ï¿½ëŒ¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÅAï¿½ï¿½ï¿½Éƒï¿½ï¿½ï¿½ï¿½Oï¿½}ï¿½bï¿½gï¿½ï¿½~ï¿½ï¿½ï¿½Ä—ï¿½ï¿½Kï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B</font></font></p>
     <br>
-    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ƒ_ƒ“ƒX<br>
+    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½_ï¿½ï¿½ï¿½X<br>
     </b></font></font></p>
     <p class="border4"><font color="#000000"><font color="#000000">
-    ‡@uƒUEƒJƒ€ƒCv@”EŽÒ‚ðƒCƒ[ƒW‚µ‚Äì‚Á‚½AƒAƒNƒƒoƒeƒbƒN‚È“ï‚µ‚¢ƒ_ƒ“ƒX‚Å‚·B‚R”N¶‚ð‘—‚é‰ï‚È‚Ç‚Å”­•\‚µ‚Ü‚·B<br>
-    ‡Auƒ‰ƒOƒ^ƒCƒ€ƒ_ƒ“ƒXv@ƒ‚ƒbƒv‚âŽP‚ðŽg‚Á‚½AV‘Ì‘€“I‚Èƒ_ƒ“ƒX‚Å‚·B<br>
+    ï¿½@ï¿½uï¿½Uï¿½Eï¿½Jï¿½ï¿½ï¿½Cï¿½vï¿½@ï¿½Eï¿½Ò‚ï¿½ï¿½Cï¿½ï¿½ï¿½[ï¿½Wï¿½ï¿½ï¿½Äï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Aï¿½Nï¿½ï¿½ï¿½oï¿½eï¿½bï¿½Nï¿½È“ï‚µï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½Xï¿½Å‚ï¿½ï¿½Bï¿½Rï¿½Nï¿½ï¿½ï¿½ð‘—‚ï¿½ï¿½È‚Ç‚Å”ï¿½ï¿½\ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½Aï¿½uï¿½ï¿½ï¿½Oï¿½^ï¿½Cï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½Xï¿½vï¿½@ï¿½ï¿½ï¿½bï¿½vï¿½ï¿½Pï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Vï¿½Ì‘ï¿½ï¿½Iï¿½Èƒ_ï¿½ï¿½ï¿½Xï¿½Å‚ï¿½ï¿½B<br>
     </font></font></p>
-<p><font color="#000000" size="+4" style="font-size : 310%;"><b>‚RE<a name="chorus" id="chorus">‡¥</a></b><br>
+<p><font color="#000000" size="+4" style="font-size : 310%;"><b>ï¿½Rï¿½E<a name="chorus" id="chorus">ï¿½ï¿½ï¿½ï¿½</a></b><br>
     </font></p>
- <p class="border8" align="left"><font color="#000000">ƒ_ƒ“ƒX—ûK‚Æ•À‚ñ‚ÅA‘½‚­‚ÌŽžŠÔ‚ðŠ„‚¢‚Ä‚¢‚é‚Ì‚Í‡¥—ûK‚Å‚·B
-‡¥‚»‚Ì‚à‚Ì‚ðuƒVƒ‡ƒEƒQƒLv(¬Œ€AShowŒ€c‰Ì‚âƒ_ƒ“ƒXAÎŒ€AÕŒ‚‚ÌˆÓ–¡‚ðŽ‚Â’Z‚¢ŽžŠÔ‚Ì•‘‘ä•\Œ»‚ð‘g‚Ý‡‚í‚¹‚½Œ€)‚Ì”­•\‚â‚R”N¶‚ð‘—‚é‰ï‚ÅÐ‰î‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-‹³Žº‚âŒö–¯ŠÙ‚Å‚Ì”­•\‚ª’†S‚Å‚·‚Ì‚ÅAƒAƒJƒyƒ‰‚Å‰Ì‚¤‚±‚Æ‚ª‘O’ñ‚Æ‚È‚éŽæ‘g‚ðs‚Á‚Ä‚¢‚Ü‚·B
-ŒÚ–â‚ª‡¥‚ÌŽw“±‚ª‚Å‚«‚È‚­‚Ä‚àA‰¹Šy‚Ìæ¶‚ÉŽè“`‚Á‚Ä‚à‚ç‚¤‚È‚Ç‚µ‚Ä‡¥‚ðŠˆ“®‚ÉŽæ‚è“ü‚ê‚é‚±‚Æ‚Í‰Â”\‚Å‚·B
-‡¥—ûK‚ÌDVD‚È‚Ç‚àŽQl‚É‚µ‚Ä‚¢‚Ü‚·B
+ <p class="border8" align="left"><font color="#000000">ï¿½_ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Kï¿½Æ•ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚Íï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Å‚ï¿½ï¿½B
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ì‚ï¿½ï¿½uï¿½Vï¿½ï¿½ï¿½Eï¿½Qï¿½Lï¿½v(ï¿½ï¿½ï¿½ï¿½ï¿½AShowï¿½ï¿½ï¿½cï¿½Ì‚ï¿½_ï¿½ï¿½ï¿½Xï¿½Aï¿½ÎŒï¿½ï¿½Aï¿½ÕŒï¿½ï¿½ÌˆÓ–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â’Zï¿½ï¿½ï¿½ï¿½ï¿½Ô‚Ì•ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½gï¿½Ýï¿½ï¿½í‚¹ï¿½ï¿½ï¿½ï¿½)ï¿½Ì”ï¿½ï¿½\ï¿½ï¿½Rï¿½Nï¿½ï¿½ï¿½ð‘—‚ï¿½ï¿½ÅÐ‰î‚·ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½B
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù‚Å‚Ì”ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½Å‚ï¿½ï¿½Ì‚ÅAï¿½Aï¿½Jï¿½yï¿½ï¿½ï¿½Å‰Ì‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Oï¿½ï¿½Æ‚È‚ï¿½ï¿½gï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B
+ï¿½Ú–â‚ªï¿½ï¿½ï¿½ï¿½ï¿½ÌŽwï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½ï¿½ï¿½yï¿½Ìæ¶ï¿½ÉŽï¿½`ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ç‚¤ï¿½È‚Ç‚ï¿½ï¿½Äï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Í‰Â”\ï¿½Å‚ï¿½ï¿½B
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½DVDï¿½È‚Ç‚ï¿½ï¿½Qï¿½lï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B
 <font size="+2" style="font-size : 150%;"><br>
     </font></font></p>
-    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>”­º—ûK<br>
+    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½K<br>
     </b></font></font></p>
-    <p class="border4"><font color="#000000">‡¥‚Ì‚½‚ß‚Ì”­º—ûK‚ðs‚¤B‚±‚Ì”­º—ûK‚ÍA¬ŠwZ‚ÌŽž‚É‡¥’c‚É“ü‚Á‚Ä‚¢‚½•”ˆõ‚ª’†S‚É‚È‚Á‚Ä—ûKƒƒjƒ…[‚ðl‚¦‚Äs‚Á‚Ä‚¢‚éB<br>
+    <p class="border4"><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ÍAï¿½ï¿½ï¿½wï¿½Zï¿½ÌŽï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½cï¿½É“ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½É‚È‚ï¿½ï¿½Ä—ï¿½ï¿½Kï¿½ï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½Äsï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     </font></p>
     <br>
-    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>uŒÌ‹½v‚ÌŽO•”‡¥<br>
+    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½uï¿½Ì‹ï¿½ï¿½vï¿½ÌŽOï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
     </b></font></font></p>
     <p class="border4"><font color="#000000">
-    ‡@uŒÌ‹½v@ƒ\ƒvƒ‰ƒmAƒƒ]AƒAƒ‹ƒg‚Ìƒp[ƒg‚É•Ê‚ê‚Ä—ûK‚ð‚·‚éB<br>
-    ‡AuŒÌ‹½v‚ðƒAƒJƒyƒ‰‚ÌŽO•”‡¥‚Å‰Ì‚¤‚±‚Æ‚ª‚Å‚«‚éB<br>
-    ‡BuŒÌ‹½v@Šeƒp[ƒg3l‚Å‰Ì‚Á‚Ä‚àƒnƒ‚‚é‚±‚Æ‚ª‚Å‚«‚éB<br>
-    ‡CuŒÌ‹½v@ŽO•”‡¥‚É’Jìr‘¾˜Y‚Ìu¶‚«‚év‚Ì˜N“Ç‚ðd‚Ë‚é‚±‚Æ‚ª‚Å‚«‚é<br>
-    @@uŒÌ‹½v‚P”ÔE‚Q”Ô<br>
-    @@uŒÌ‹½v‚Ìƒnƒ~ƒ“ƒO@‚»‚ê‚Éu¶‚«‚év‚Ì˜N“Ç‚ðd‚Ë‚éB˜N“Ç‚ªI‚í‚é‚Æ“¯Žž‚ÉA‚R”Ô‚ªŽn‚Ü‚ê‚é‚æ‚¤‚É—ûK‚·‚éB<br>
-    @@uŒÌ‹½v‚R”Ô<br>
+    ï¿½@ï¿½uï¿½Ì‹ï¿½ï¿½vï¿½@ï¿½\ï¿½vï¿½ï¿½ï¿½mï¿½Aï¿½ï¿½ï¿½]ï¿½Aï¿½Aï¿½ï¿½ï¿½gï¿½Ìƒpï¿½[ï¿½gï¿½É•Ê‚ï¿½Ä—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Aï¿½uï¿½Ì‹ï¿½ï¿½vï¿½ï¿½ï¿½Aï¿½Jï¿½yï¿½ï¿½ï¿½ÌŽOï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‰Ì‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Bï¿½uï¿½Ì‹ï¿½ï¿½vï¿½@ï¿½eï¿½pï¿½[ï¿½g3ï¿½lï¿½Å‰Ì‚ï¿½ï¿½Ä‚ï¿½ï¿½nï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Cï¿½uï¿½Ì‹ï¿½ï¿½vï¿½@ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É’Jï¿½ï¿½rï¿½ï¿½ï¿½Yï¿½Ìuï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Ì˜Nï¿½Ç‚ï¿½ï¿½dï¿½Ë‚é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½<br>
+    ï¿½@ï¿½@ï¿½uï¿½Ì‹ï¿½ï¿½vï¿½Pï¿½ÔEï¿½Qï¿½ï¿½<br>
+    ï¿½@ï¿½@ï¿½uï¿½Ì‹ï¿½ï¿½vï¿½Ìƒnï¿½~ï¿½ï¿½ï¿½Oï¿½@ï¿½ï¿½ï¿½ï¿½Éuï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Ì˜Nï¿½Ç‚ï¿½ï¿½dï¿½Ë‚ï¿½Bï¿½Nï¿½Ç‚ï¿½ï¿½Iï¿½ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½ÉAï¿½Rï¿½Ô‚ï¿½ï¿½nï¿½Ü‚ï¿½ï¿½æ‚¤ï¿½É—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½uï¿½Ì‹ï¿½ï¿½vï¿½Rï¿½ï¿½<br>
     <br>
-    Ž‘—¿@u¶‚«‚év@’Jìr‘¾˜Y<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½@ï¿½Jï¿½ï¿½rï¿½ï¿½ï¿½Y<br>
     <br>
-    ¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ@¡¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚»‚ê‚Í‚Ì‚Ç‚ª‚©‚í‚­‚Æ‚¢‚¤‚±‚Æ<br>
-    –Ø‚à‚ê—z‚ª‚Ü‚Ô‚µ‚¢‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚Ó‚Æ‚ ‚éƒƒƒfƒB[‚ðŽv‚¢o‚·‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚­‚µ‚á‚Ý‚ð‚·‚é‚±‚Æ<br>
-    ‚ ‚È‚½‚ÆŽè‚ð‚Â‚È‚®‚±‚Æ<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½Í‚Ì‚Ç‚ï¿½ï¿½ï¿½ï¿½í‚­ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½Ø‚ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½Ü‚Ô‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½Ó‚Æ‚ï¿½ï¿½éƒï¿½ï¿½ï¿½fï¿½Bï¿½[ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½é‚±ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÆŽï¿½ï¿½ï¿½Â‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½<br>
     <br>
-    ¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚ÆB¡¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚»‚ê‚Íƒ~ƒjƒXƒJ[ƒg<br>
-    ‚»‚ê‚Íƒvƒ‰ƒlƒ^ƒŠƒEƒ€<br>
-    ‚»‚ê‚Íƒˆƒnƒ“EƒVƒ…ƒgƒ‰ƒEƒX<br>
-    ‚»‚ê‚ÍƒsƒJƒ\<br>
-    ‚»‚ê‚ÍƒAƒ‹ƒvƒX<br>
-    ‚·‚×‚Ä‚Ì”ü‚µ‚¢‚à‚Ì‚Éo‰ï‚¤‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚»‚µ‚Ä‚©‚­‚³‚ê‚½ˆ«‚ð’ˆÓ[‚­‚±‚Î‚Þ‚±‚Æ<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½Íƒ~ï¿½jï¿½Xï¿½Jï¿½[ï¿½g<br>
+    ï¿½ï¿½ï¿½ï¿½Íƒvï¿½ï¿½ï¿½lï¿½^ï¿½ï¿½ï¿½Eï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½Íƒï¿½ï¿½nï¿½ï¿½ï¿½Eï¿½Vï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Eï¿½X<br>
+    ï¿½ï¿½ï¿½ï¿½Íƒsï¿½Jï¿½\<br>
+    ï¿½ï¿½ï¿½ï¿½ÍƒAï¿½ï¿½ï¿½vï¿½X<br>
+    ï¿½ï¿½ï¿½×‚Ä‚Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Éoï¿½ï‚¤ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½ð’ˆÓ[ï¿½ï¿½ï¿½ï¿½ï¿½Î‚Þ‚ï¿½ï¿½ï¿½<br>
     <br>
-    ¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ@¡¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‹ƒ‚¯‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    Î‚¦‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    “{‚ê‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    Ž©—R‚Æ‚¢‚¤‚±‚Æ<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½Î‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½{ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Rï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
     <br>
-    ¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ@¡¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚¢‚Ü‰“‚­‚ÅŒ¢‚ª–i‚¦‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚¢‚Ü’n‹…‚ª‰ñ‚Á‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚¢‚Ü‚Ç‚±‚©‚ÅŽYº‚ª‚ ‚ª‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚¢‚Ü‚Ç‚±‚©‚Å•ºŽm‚ª‚Â‚­‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚¢‚Ü‚Ô‚ç‚ñ‚±‚ª‚ä‚ê‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚¢‚Ü@‚¢‚Ü‚ª‰ß‚¬‚Ä‚ä‚­‚±‚Æ<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Ü‰ï¿½ï¿½ï¿½ï¿½ÅŒï¿½ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Ü’nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Ü‚Ç‚ï¿½ï¿½ï¿½ï¿½ÅŽYï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Ü‚Ç‚ï¿½ï¿½ï¿½ï¿½Å•ï¿½ï¿½mï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Ü‚Ô‚ï¿½ñ‚±‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Ü@ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ß‚ï¿½ï¿½Ä‚ä‚­ï¿½ï¿½ï¿½ï¿½<br>
     <br>
-    ¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ@‚¢‚Ü¶‚«‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ’¹‚Í‚Í‚Î‚½‚­‚Æ‚¢‚¤‚±‚Æ<br>
-    ŠC‚Í‚Æ‚Ç‚ë‚­‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚©‚½‚Â‚Þ‚è‚Í‚Í‚¤‚Æ‚¢‚¤‚±‚Æ<br>
-    l‚Íˆ¤‚·‚é‚Æ‚¢‚¤‚±‚Æ<br>
-    ‚ ‚È‚½‚ÌŽè‚Ì‚Ê‚­‚Ý@‚¢‚Ì‚¿‚Æ‚¢‚¤‚±‚Æ<br>
-    </font></p>   <br> 
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ@ï¿½ï¿½ï¿½Üï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Í‚Í‚Î‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½Cï¿½Í‚Æ‚Ç‚ë‚­ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Â‚Þ‚ï¿½Í‚Í‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½lï¿½Íˆï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌŽï¿½Ì‚Ê‚ï¿½ï¿½Ý@ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    </font></p>   <br>
 
-    <p class="border2"><b>‡¥—ûK‚ÌƒŒƒp[ƒgƒŠ[</b><font color="#000000"><b><font size="+3"><a name="gekizukuri" id="gekizukuri"></a></font></b></font></p>
-    <p class="border4"><font color="#000000">‡@‰Ä‚ÌŽv‚¢o@@@“ñ•”‡¥cŽ©ìu‚È‚Â‚ÌŽv‚¢ov‚Æ˜A“®‚³‚¹‚é‚Æ‚ª‚Å‚«‚é<br>
-    ‡A—ƒ‚ð‚­‚¾‚³‚¢@@ŽO•”‡¥cŽ©ìu‚Â‚Î‚³v‚Æ˜A“®‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚é<br>
-    ‡BƒCƒ}ƒWƒ“@@@@ŽO•”‡¥cŽ©ìuƒCƒ}ƒWƒ“v‚Æ˜A“®‚³‚¹‚é‚±‚Æ‚Æ‚ª‚Å‚«‚éB<br>
-    ‡C‰Ô‚Íç‚­@@@@“ñ•”‡¥cŽ©ìuƒQƒL‚ðŽ~‚ß‚é‚ÈIv‚Æ˜A“®‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚éB</font><font color="#000000"><b><font size="+3"><a name="gekizukuri" id="gekizukuri"></a></font></b></font></p>    
-<a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <p class="border2"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Ìƒï¿½ï¿½pï¿½[ï¿½gï¿½ï¿½ï¿½[</b><font color="#000000"><b><font size="+3"><a name="gekizukuri" id="gekizukuri"></a></font></b></font></p>
+    <p class="border4"><font color="#000000">ï¿½@ï¿½Ä‚ÌŽvï¿½ï¿½ï¿½oï¿½@ï¿½@ï¿½@ï¿½ñ•”ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½uï¿½È‚Â‚ÌŽvï¿½ï¿½ï¿½oï¿½vï¿½Æ˜Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½<br>
+    ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½@ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½uï¿½Â‚Î‚ï¿½ï¿½vï¿½Æ˜Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½<br>
+    ï¿½Bï¿½Cï¿½}ï¿½Wï¿½ï¿½ï¿½@ï¿½@ï¿½@ï¿½@ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½uï¿½Cï¿½}ï¿½Wï¿½ï¿½ï¿½vï¿½Æ˜Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Cï¿½Ô‚Íç‚­ï¿½@ï¿½@ï¿½@ï¿½@ï¿½ñ•”ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½uï¿½Qï¿½Lï¿½ï¿½ï¿½~ï¿½ß‚ï¿½ÈIï¿½vï¿½Æ˜Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B</font><font color="#000000"><b><font size="+3"><a name="gekizukuri" id="gekizukuri"></a></font></b></font></p>
+<a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <p><font color="#000000"><br>
-    </font><b><font color="#000000" size="+4" style="font-size : 310%;">‚SE<a name="tate" id="tate">ŽEw</a><br>
+    </font><b><font color="#000000" size="+4" style="font-size : 310%;">ï¿½Sï¿½E<a name="tate" id="tate">ï¿½Eï¿½w</a><br>
     </font></b></p>
-    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>Šî‘b<br>
+    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½ï¿½b<br>
     </b></font></font></p>
     <p class="border4"><font color="#000000"><font color="#000000">
-    ŽEw‚ÌŠî‘b‚ðƒŠ[ƒ_[‚Ì†—ß‚ÌŒ³‚É‘Sˆõ‚Ås‚¤B<br>
+    ï¿½Eï¿½wï¿½ÌŠï¿½bï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½_ï¿½[ï¿½Ìï¿½ï¿½ß‚ÌŒï¿½ï¿½É‘Sï¿½ï¿½ï¿½Åsï¿½ï¿½ï¿½B<br>
     </font></font></p>
     <font color="#000000"><br>
     </font>
-    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>‰ž—p(í‚¢)<br>
+    <p class="border2"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½ï¿½ï¿½p(ï¿½í‚¢)<br>
     </b></font></font></p>
-    <p class="border4"><font color="#000000"><font color="#000000">ˆê‘Îˆê‚Å‚Ìí‚¢‚Ì—ûK‚ð‚·‚éB<br>
-    ÅI“I‚É‚Í‹È‚Éæ‚Á‚Äí‚¢‚ðs‚¤B<br>
+    <p class="border4"><font color="#000000"><font color="#000000">ï¿½ï¿½Îˆï¿½Å‚Ìí‚¢ï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ÅIï¿½Iï¿½É‚Í‹È‚Éï¿½ï¿½ï¿½Äí‚¢ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½B<br>
     </font></font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <p><font color="#000000"><br>
-    </font><font color="#000000" size="+4" style="font-size : 310%;"><b>‚TE<a name="gymnastics" id="gymnastics">ŠíŠB‰^“®</a></b><br>
+    </font><font color="#000000" size="+4" style="font-size : 310%;"><b>ï¿½Tï¿½E<a name="gymnastics" id="gymnastics">ï¿½ï¿½Bï¿½^ï¿½ï¿½</a></b><br>
     </font></p>
-    <p class="border4"><font color="#000000">‘¤“]<br>
-    ƒƒ“ƒ_[ƒg<br>
-    “]‰ñ<br>
-    ‹tƒuƒŠ<br>
-    ¦ŠëŒ¯‚ª”º‚¤‚Ì‚ÅŒÚ–â‚ª‚Â‚¯‚È‚¢‚Æ‚«‚ÍŠíŠB‰^“®‚Ì—ûK‚Í‚µ‚È‚¢B<br>
+    <p class="border4"><font color="#000000">ï¿½ï¿½ï¿½]<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½_ï¿½[ï¿½g<br>
+    ï¿½]ï¿½ï¿½<br>
+    ï¿½tï¿½uï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ëŒ¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÅŒÚ–â‚ªï¿½Â‚ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½ÍŠï¿½Bï¿½^ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½B<br>
     </font></p>
     <p style="text-align : center;" align="center"><a href="#mokuji">
-<img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+<img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000"><br></font></p>
-    
-    <p><font color="#000000" size="+1" style="font-size : 117%;"><b><font size="+4" style="font-size : 310%;"><a name="gekizukuri" id="gekizukuri">‚UEŒ€‚Ã‚­‚è‚Ì‚½‚ß‚Ì‘äŽŒ—ûK</a></font></b></font><font size="+1">@@@@ </font></p>
-    <p class="border8" align="left"><font color="#000000">‘äŽŒ‚Ì—ûK‚É‚ÍŽ©•ª‚Ìì•iˆÈŠO‚©‚ç‚à—ûK‚ÉŽæ‚è“ü‚ê‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªA‚±‚±‚Å‚Í’˜ìŒ ‚ÌŠÖŒW‚©‚çŽ©ìƒeƒLƒXƒg(uÄ“¡r—Yì•iW‚P ‰Ä‹x‚ÝvuÄ“¡r—Yì•iW‚Q@Žµ‚ÂXvvu‚Ó‚é‚³‚ÆvuƒAƒgƒ€v)‚ðŽg‚Á‚½Žæ‘g‚Ì‚Ý‚ðÐ‰î‚µ‚Ü‚·B—ûK‚ÉŽæ‚èã‚°‚½ì•i‚É‚Â‚¢‚ÄÚ‚µ‚­’m‚è‚½‚¢•û‚ÍA<a href="daihon/daihon-top2.html" target="_blank">‚±‚±‚ðƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢</a>B</font></p>
+
+    <p><font color="#000000" size="+1" style="font-size : 117%;"><b><font size="+4" style="font-size : 310%;"><a name="gekizukuri" id="gekizukuri">ï¿½Uï¿½Eï¿½ï¿½ï¿½Ã‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚Ì‘äŽŒï¿½ï¿½ï¿½K</a></font></b></font><font size="+1">ï¿½@ï¿½@ï¿½@ï¿½@ </font></p>
+    <p class="border8" align="left"><font color="#000000">ï¿½äŽŒï¿½Ì—ï¿½ï¿½Kï¿½É‚ÍŽï¿½ï¿½ï¿½ï¿½Ìï¿½iï¿½ÈŠOï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í’ï¿½ï¿½ìŒ ï¿½ÌŠÖŒWï¿½ï¿½ï¿½çŽ©ï¿½ï¿½eï¿½Lï¿½Xï¿½g(ï¿½uï¿½Ä“ï¿½ï¿½rï¿½Yï¿½ï¿½iï¿½Wï¿½P ï¿½Ä‹xï¿½Ývï¿½uï¿½Ä“ï¿½ï¿½rï¿½Yï¿½ï¿½iï¿½Wï¿½Qï¿½@ï¿½ï¿½ï¿½ÂXï¿½vï¿½vï¿½uï¿½Ó‚é‚³ï¿½Ævï¿½uï¿½Aï¿½gï¿½ï¿½ï¿½v)ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½Ì‚Ý‚ï¿½ï¿½Ð‰î‚µï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½Kï¿½ÉŽï¿½ï¿½ã‚°ï¿½ï¿½ï¿½ï¿½iï¿½É‚Â‚ï¿½ï¿½ÄÚ‚ï¿½ï¿½ï¿½ï¿½mï¿½è‚½ï¿½ï¿½ï¿½ï¿½ï¿½ÍA<a href="daihon/daihon-top2.html" target="_blank">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½Nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</a>ï¿½B</font></p>
     <br>
-    <p class="border7"><b><font color="#000000" size="+3" style="font-size : 200%;"><a name="improvisation" id="improvisation">‚P@‘¦‹»‚ð—˜—p‚µ‚Ä‚ÌŒ€‚Ã‚­‚è</a></font><font color="#000000">@@@</font></b></p>
-    
-    <p class="border8" align="left"><font color="#000000">‚±‚±‚ÅÐ‰î‚·‚é‚Ì‚ÍAŽ©‘R‚È‰ï˜bA¶‚«¶‚«‚Æ‚µ‚½•‘‘ä‚ð‘n‚é‚½‚ß‚Éu‘¦‹»v‚ð—˜—p‚µ‚Ä‚½Ž©‘R‚È‰ï˜b‚ÌƒLƒƒƒbƒ`ƒ{[ƒ‹‚ð‚¨‚±‚È‚¤—ûK•û–@‚Å‚·BŽ„‚½‚¿‚ªs‚Á‚Ä‚¢‚é‘¦‹»‚ÍAã‰‰Œ€‚ÆƒŠƒ“ƒN‚µ‚½‘¦‹»‚Å‚ ‚èA“Æ—§‚µ‚½‘¦‹»—ûK‚Æ‚Íˆá‚¢‚Ü‚·B<br>
-    <br>¡‘¦‹»‚ðŽæ‚è“ü‚ê‚é–Ú“I<br>
-    E‘¦‹»‚Ås‚Á‚½Ž©‘R‚È‰ï˜b‚ÌƒLƒƒƒbƒ`ƒ{[ƒ‹‚ðŒ€‚ÉŽæ‚è“ü‚ê‚éB<br>
-    E ‘¦‹»‚Ås‚Á‚½AŽ©•ª‚ª‘äŽŒ‚ðŒ¾‚Á‚Ä‚¢‚È‚¢‚Æ‚«‚ÌS‚Ì“®‚«‚ðŒ€‚ÉŽæ‚è“ü‚ê‚éB<br>
-    E ‘äŽŒ‚ð’m‚è‚·‚¬‚Ä‚¢‚é‚±‚Æ‚©‚ç¶‚¶‚é•sŽ©‘R‚È—¬‚ê‚ðC³‚·‚éB(‘ŠŽè‚ªŒ¾‚¤‘äŽŒ‚ð’m‚Á‚Ä‚¢‚é‚½‚ß‚ÉA‘äŽŒ‚ðÅŒã‚Ü‚Å•·‚©‚È‚¢‚¤‚¿‚ÉŽ©•ª‚Ì‘äŽŒ‚ðŒ¾‚¢o‚µ‚½‚èA‘ŠŽè‚ª‚±‚Á‚¿‚ðˆÓŽ¯‚µ‚Ä‚¢‚È‚¢‚Ì‚É‚Ç‚ñ‚Ç‚ñ‘äŽŒ‚ðŒ¾‚Á‚Ä‚µ‚Ü‚Á‚½‚èE‚È‚Ç)<br>
+    <p class="border7"><b><font color="#000000" size="+3" style="font-size : 200%;"><a name="improvisation" id="improvisation">ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ð—˜—pï¿½ï¿½ï¿½Ä‚ÌŒï¿½ï¿½Ã‚ï¿½ï¿½ï¿½</a></font><font color="#000000">ï¿½@ï¿½@ï¿½@</font></b></p>
+
+    <p class="border8" align="left"><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½ÅÐ‰î‚·ï¿½ï¿½Ì‚ÍAï¿½ï¿½ï¿½Rï¿½È‰ï¿½bï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½é‚½ï¿½ß‚Éuï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ð—˜—pï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Rï¿½È‰ï¿½bï¿½ÌƒLï¿½ï¿½ï¿½bï¿½`ï¿½{ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‘¦ï¿½ï¿½ï¿½ÍAï¿½ã‰‰ï¿½ï¿½ï¿½Æƒï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Aï¿½Æ—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Æ‚Íˆá‚¢ï¿½Ü‚ï¿½ï¿½B<br>
+    <br>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú“I<br>
+    ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½Åsï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½È‰ï¿½bï¿½ÌƒLï¿½ï¿½ï¿½bï¿½`ï¿½{ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½E ï¿½ï¿½ï¿½ï¿½ï¿½Åsï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½ÌSï¿½Ì“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½E ï¿½äŽŒï¿½ï¿½mï¿½è‚·ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ç¶ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Rï¿½È—ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B(ï¿½ï¿½ï¿½è‚ªï¿½ï¿½ï¿½ï¿½ï¿½äŽŒï¿½ï¿½mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚½ï¿½ß‚ÉAï¿½äŽŒï¿½ï¿½ï¿½ÅŒï¿½Ü‚Å•ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½è‚ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÓŽï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½Ì‚É‚Ç‚ï¿½Ç‚ï¿½äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½È‚ï¿½)<br>
     </font></p>
-    
-    <p class="border8" align="left"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>u‘¦‹»v‚ð—˜—p‚µ‚½—ûK•û–@E‘S‘Ì‚Ì—¬‚ê</b></font><font color="#000000"><br>
-    ‡@	‘S‘Ì‚ð“oêl•¨‚Ìl”A‚Ü‚½‚Í‚»‚êƒvƒ‰ƒX1l‚ðˆêƒOƒ‹[ƒv‚Ìƒƒ“ƒo[‚Æ‚µ‚ÄAƒOƒ‹[ƒv‚ð•ª‚¯‚éB‚Ç‚ÌƒOƒ‹[ƒv‚É‚àŠeŠw”N‚Ì•”ˆõ‚ª“ü‚é‚æ‚¤‚É‚·‚éB‚P”N‚¾‚¯‚ª‚©‚½‚Ü‚é‚æ‚¤‚ÈƒOƒ‹[ƒv•ª‚¯‚Í‚µ‚È‚¢B‚»‚ê‚¼‚ê‚ª‚P‚Â‚Ì–ð‚ð‰‰‚¶‚éB“oêl•¨ƒvƒ‰ƒX‚P‚ª‚¢‚éƒOƒ‹[ƒv‚ÍA1l‚ª‰‰o‚ð’S“–‚·‚éB<br>
-    ‡A	‘Sˆõ‚ªA‘ä–{‚ð“Ç‚ñ‚ÅŒ€‚Ì—¬‚ê‚ðŠm”F‚·‚éB<br>
-    ‡B	‚Ü‚¸‚ÍA‚Æ‚è‚ ‚¦‚¸‚±‚Ìê–Ê‚ð‰½‰ñ‚©‰‰‚¶‚Ä‚Ý‚éB‚Í‚¶‚ß‚Í‘ä–{‚ð‚à‚Á‚Äs‚¤‚ªA‚¾‚ñ‚¾‚ñ‘ä–{‚ðŽ‚½‚¸‚És‚¤‚æ‚¤‚É‚·‚éB<br>
-    ‚ ‚é’ö“xA—¬‚ê‚ª‚Å‚«‚Ä‚«‚½‚çA‰‰o‚ðŒð‚¦‚ÄU‚è•Ô‚è‚ðs‚¤B<br>
-    @@‘½‚­‚Ìê‡ŽŸ‚Ì‚æ‚¤‚È‚±‚Æ‚ª‹N‚±‚éB<br>
-    EŽ©•ª‚Ì‘äŽŒ‚ð‘Ò‚Á‚Ä‚µ‚Ü‚¢AŽ©•ª‚Ì‘äŽŒ‚ª‰ñ‚Á‚Ä‚­‚é‚Ü‚Å‚ÍS‚ª“®‚©‚È‚¢B<br>
-    E•’i‚Ì‰ï˜b‚Å‚ÍAS‚Ì’†‚Å(‚ñc)‚Æ‚©(‚ [)‚Æ‚©l‚¦‚½‚è‚·‚é‚Ì‚ÉA‚»‚ê‚ª¶‚Ü‚ê‚È‚¢B‰ï˜b‚ªŒˆ‚ß‚ç‚ê‚½‚Æ‚¨‚è‚É‘f’¼‚Éi‚Ý‚·‚¬‚éB<br>
+
+    <p class="border8" align="left"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ð—˜—pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½Eï¿½Sï¿½Ì‚Ì—ï¿½ï¿½ï¿½</b></font><font color="#000000"><br>
+    ï¿½@	ï¿½Sï¿½Ì‚ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½Ìlï¿½ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½Í‚ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½X1ï¿½lï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½[ï¿½vï¿½Ìƒï¿½ï¿½ï¿½ï¿½oï¿½[ï¿½Æ‚ï¿½ï¿½ÄAï¿½Oï¿½ï¿½ï¿½[ï¿½vï¿½ð•ª‚ï¿½ï¿½ï¿½Bï¿½Ç‚ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½É‚ï¿½ï¿½eï¿½wï¿½Nï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½ï¿½Bï¿½Pï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½æ‚¤ï¿½ÈƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ê‚¼ï¿½ê‚ªï¿½Pï¿½Â‚Ì–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½oï¿½ï¿½lï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Xï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½[ï¿½vï¿½ÍA1ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½A	ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½{ï¿½ï¿½Ç‚ï¿½ÅŒï¿½ï¿½Ì—ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½Fï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½B	ï¿½Ü‚ï¿½ï¿½ÍAï¿½Æ‚è‚ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½Ê‚ï¿½ï¿½ï¿½ï¿½ñ‚©‰ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½Bï¿½Í‚ï¿½ï¿½ß‚Í‘ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äsï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Aï¿½ï¿½ï¿½ê‚ªï¿½Å‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄUï¿½ï¿½Ô‚ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ìê‡ï¿½ï¿½ï¿½Ì‚æ‚¤ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½Ì‘äŽŒï¿½ï¿½Ò‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚Å‚ÍSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½Eï¿½ï¿½ï¿½iï¿½Ì‰ï¿½bï¿½Å‚ÍAï¿½Sï¿½Ì’ï¿½ï¿½ï¿½(ï¿½ï¿½c)ï¿½Æ‚ï¿½(ï¿½ï¿½ï¿½[)ï¿½Æ‚ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½è‚·ï¿½ï¿½Ì‚ÉAï¿½ï¿½ï¿½ê‚ªï¿½ï¿½ï¿½Ü‚ï¿½È‚ï¿½ï¿½Bï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ê‚½ï¿½Æ‚ï¿½ï¿½ï¿½É‘fï¿½ï¿½ï¿½Éiï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    </font><font color="#ff0000"><b>‡C	‘¦‹»‚Ì—˜—p@(—ûK‚P‚Ìê‡cÚ‚µ‚­‚ÍƒeƒLƒXƒg‚ÌŒã‚Ì•”•ª‚Åq‚×‚é)</b></font><font color="#000000"><br>
-    Ž©‘R‚È‰ï˜b‚ð¶‚Ýo‚·‚½‚ß‚Ì‘¦‹»uD‚«‚É‚È‚ê‚È‚¢Œö–‚­‚ñv<br>
-    •’i‚Ì‰ï˜b‚Å‚ÍŒ€‚Ì‚æ‚¤‚É‚Ç‚Ì‚æ‚¤‚È‡”Ô‚Å‚Ç‚ñ‚È‘äŽŒ‚ðŒ¾‚¤‚©‚ªŒˆ‚Ü‚Á‚Ä‚¢‚È‚¢B‚»‚Ìó‹µ‚ð•‘‘ä‚ÅÄŒ»‚·‚é‚½‚ß‚ÉB‚±‚ÌŒ€‚ÆŽ—‚½‚æ‚¤‚È•‘‘äEl•¨Ý’è‚ð—p‚¢‚ÄA‘¦‹»‚Å‘äŽŒ‚ðŒ¾‚Á‚Ä‚Ý‚é‚Æ‚¢‚¤—ûK‚ð‚·‚éB‚±‚ÌƒV[ƒ“‚Í•×‹­‚ª‚Å‚«‚È‚¢¶“k‚ª•×‹­‚ª‚Å‚«‚é¶“k‚Ìˆ«Œû‚ðŒ¾‚¤ƒV[ƒ“‚È‚Ì‚ÅA‚»‚ê‚ÆŽ—‚½‚æ‚¤Ý’è‚ðˆÓŽ¯“I‚É‘n‚éB<br>
+    </font><font color="#ff0000"><b>ï¿½C	ï¿½ï¿½ï¿½ï¿½ï¿½Ì—ï¿½ï¿½pï¿½@(ï¿½ï¿½ï¿½Kï¿½Pï¿½Ìê‡ï¿½cï¿½Ú‚ï¿½ï¿½ï¿½ï¿½Íƒeï¿½Lï¿½Xï¿½gï¿½ÌŒï¿½Ì•ï¿½ï¿½ï¿½ï¿½Åqï¿½×‚ï¿½)</b></font><font color="#000000"><br>
+    ï¿½ï¿½ï¿½Rï¿½È‰ï¿½bï¿½ð¶‚Ýoï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ì‘ï¿½ï¿½ï¿½ï¿½uï¿½Dï¿½ï¿½ï¿½É‚È‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½v<br>
+    ï¿½ï¿½ï¿½iï¿½Ì‰ï¿½bï¿½Å‚ÍŒï¿½ï¿½Ì‚æ‚¤ï¿½É‚Ç‚Ì‚æ‚¤ï¿½Èï¿½ï¿½Ô‚Å‚Ç‚ï¿½È‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ìó‹µ‚ð•‘‘ï¿½ÅÄŒï¿½ï¿½ï¿½ï¿½é‚½ï¿½ß‚ÉBï¿½ï¿½ï¿½ÌŒï¿½ï¿½ÆŽï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½È•ï¿½ï¿½ï¿½Eï¿½lï¿½ï¿½ï¿½Ý’ï¿½ï¿½pï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½Å‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½Í•×‹ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½×‹ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½é¶ï¿½kï¿½Ìˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½È‚Ì‚ÅAï¿½ï¿½ï¿½ï¿½ÆŽï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½Ý’ï¿½ï¿½ï¿½ÓŽï¿½ï¿½Iï¿½É‘nï¿½ï¿½B<br>
     </font><br>
-    ‡D	‘±‚¢‚ÄA‘¦‹»‚Å‚ÌŽæ‚è‘g‚Ý‚ðAŒ€‚É—˜—p‚·‚éB<br>
-    ‚Í‚¶‚ß‚Í‘äŽŒ‚ª•Ï‚í‚Á‚Ä‚µ‚Ü‚Á‚Ä‚à‚æ‚¢‚±‚Æ‚É‚·‚éB‘äŽŒ’Ê‚è‚ÉŒ¾‚¤‚±‚Æ‚æ‚è‚àAƒhƒ‰ƒ}‚Ì—¬‚êAŽ©‘R‚È‰ï˜b‚ÌƒLƒƒƒbƒ`ƒ{[ƒ‹‚ð‘åØ‚·‚éB‘Sˆõ‚ª•‘‘ä‚Ìã‚Å¶‚«‚Ä‚¢‚é‚±‚Æ‚ð‘åØ‚É‚·‚éB‚»‚Ì‚½‚ß‘ä–{‚ð‚à‚½‚È‚¢‚Å‰‰‹Z‚ð‚·‚éB<br>
+    ï¿½D	ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½Å‚ÌŽï¿½ï¿½gï¿½Ý‚ï¿½ï¿½Aï¿½ï¿½ï¿½É—ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Í‚ï¿½ï¿½ß‚Í‘äŽŒï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½æ‚¢ï¿½ï¿½ï¿½Æ‚É‚ï¿½ï¿½ï¿½Bï¿½äŽŒï¿½Ê‚ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Aï¿½hï¿½ï¿½ï¿½}ï¿½Ì—ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Rï¿½È‰ï¿½bï¿½ÌƒLï¿½ï¿½ï¿½bï¿½`ï¿½{ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Ø‚ï¿½ï¿½ï¿½Bï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½Åï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Ø‚É‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‘ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‰ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ‡E	Ž©‘R‚È—¬‚ê‚ª‚Å‚«‚Ä‚«‚½‚çAŽŸ‘æŽŸ‘æ‚É‘äŽŒ‚Í‘ä–{’Ê‚è‚É–ß‚·<br>
-    ¦‘äŽŒ‚ð•Ï‚¦‚é‚±‚Æ‚ÅÎ‚¢‚ðŽæ‚èA‚»‚ê‚ðŠy‚µ‚Þ‚±‚Æ‚Î‚©‚è‚Ì—ûK‚ð‚µ‚Ä‚¢‚é‚ÆA•”‚Ì’†‚É‘äŽŒ‚ð‘åØ‚É‚µ‚È‚¢•µˆÍ‹C‚ª¶‚Ü‚ê‚Ä‚«‚Ü‚·B‚»‚µ‚Ä‚Ü‚é‚Å‘äŽŒ‚ð‘¦‹»‚Å•Ï‚¦‚é‚±‚Æ‚É‰¿’lŠÏ‚ð’u‚«‚ª‚¿‚Å‚·Bˆê‚Âˆê‚Â‚Ì‘äŽŒ‚ÍìŽÒ‚ªl‚¦‚Él‚¦‚½’†‚Å¶‚Ü‚ê‚½‚à‚Ì‚Å‚·‚©‚çA‚»‚ê‚ð‘åØ‚É‚·‚éŽp¨‚ðŽ‚½‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB‚»‚Ì‚½‚ß‚ÉÅI“I‚É‚Í‘ä–{‚Æ“¯‚¶‘äŽŒ‚Å”­•\‚·‚é‚±‚Æ‚ª‘åØ‚¾‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B<br>
+    ï¿½E	ï¿½ï¿½ï¿½Rï¿½È—ï¿½ï¿½ê‚ªï¿½Å‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½æŽŸï¿½ï¿½É‘äŽŒï¿½Í‘ï¿½{ï¿½Ê‚ï¿½É–ß‚ï¿½<br>
+    ï¿½ï¿½ï¿½äŽŒï¿½ï¿½Ï‚ï¿½ï¿½é‚±ï¿½Æ‚ÅÎ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½Þ‚ï¿½ï¿½Æ‚Î‚ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½Ì’ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½Ø‚É‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Í‹Cï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ü‚ï¿½Å‘äŽŒï¿½ð‘¦‹ï¿½ï¿½Å•Ï‚ï¿½ï¿½é‚±ï¿½Æ‚É‰ï¿½ï¿½lï¿½Ï‚ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½Âˆï¿½Â‚Ì‘äŽŒï¿½Íï¿½Ò‚ï¿½ï¿½lï¿½ï¿½ï¿½Élï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åï¿½ï¿½Ü‚ê‚½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø‚É‚ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Î‚È‚ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚ÉÅIï¿½Iï¿½É‚Í‘ï¿½{ï¿½Æ“ï¿½ï¿½ï¿½ï¿½äŽŒï¿½Å”ï¿½ï¿½\ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½Ø‚ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     <br>
-    ‡F	–ð‚Æ‰‰o’S“–‚ðƒ[ƒe[ƒVƒ‡ƒ“‚Å‰ñ‚µ‚Ä‚¢‚­B‰‰o’S“–‚Í‚»‚ê‚¼‚ê‚Ì•‘‘ä‚Ì—§‚¿ˆÊ’u‚È‚Ç‚ÌƒAƒhƒoƒCƒX‚à‚·‚é‚æ‚¤‚É‚·‚éB(‚»‚ÌˆÊ’u‚Å‚ÍŠÏ‹q‚©‚çŒ©‚¦‚È‚¢‚æA’N‚Æ’N‚ªd‚È‚Á‚Ä‚¢‚é‚È‚Ç)B<br>
-    ‡G	ÅŒã‚Í•K‚¸ŠeƒOƒ‹[ƒv‚Ì”­•\‚ðs‚¤B‚»‚ÌŽž‚ÍAŠó–]‚ð•·‚«‚Â‚Â‚àŽ©•ª‚½‚¿‚Ì’†‚Å‚±‚Ì”z–ð‚ªˆê”Ô‚¢‚¢‚¾‚ë‚¤‚ÆŽv‚í‚ê‚é”z–ð‚Å”­•\‚·‚éB—ûK‚ðŽn‚ß‚é‘O‚ÉA”­•\‚ÌŽžŠÔ‚Í‘O‚à‚Á‚ÄÝ’è‚·‚éB‚µ‚©‚µA‚»‚ê‚¼‚ê‚ÌƒOƒ‹[ƒv‚ª‚æ‚è‚æ‚¢”­•\‚ð‚µ‚½‚¢‚ÆA‚à‚Á‚ÆŒ€‚ð‘n‚é‚½‚ß‚ÌŽžŠÔ‚ª‚Ù‚µ‚¢‚Æ—v‹‚µ‚Ä‚«‚½‚Æ‚«‚ÍA‚»‚Ì—v‹‚É‰ž‚¦‚é‚±‚Æ‚à‘½‚¢B<br>
-    ‡H	‚·‚×‚Ä‚ÌƒOƒ‹[ƒv‚ªA”­•\‚ðs‚¤Bˆê‚Âˆê‚Â‚ÌƒOƒ‹[ƒv‚Ì”­•\‚ªI‚í‚Á‚½’¼Œã‚ÉAŒ€‚ðŠÏ‚½Š´‘z‚ðŽè‚ðã‚°‚ÄŒ¾‚Á‚Ä‚à‚ç‚¤BŠ´‘z‚Í‚æ‚¢‚Æ‚±‚ë‚ð•]‰¿‚·‚é•ûŒü«‚ª–]‚Ü‚µ‚¢BŽ„‚½‚¿‚Í‚±‚ê‚ðu‚æ‚µo‚µv‚ÆŒÄ‚ñ‚Å‚¢‚éB<br>
+    ï¿½F	ï¿½ï¿½ï¿½Æ‰ï¿½ï¿½oï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½eï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½Å‰ñ‚µ‚Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½oï¿½Sï¿½ï¿½ï¿½Í‚ï¿½ï¿½ê‚¼ï¿½ï¿½Ì•ï¿½ï¿½ï¿½Ì—ï¿½ï¿½ï¿½ï¿½Ê’uï¿½È‚Ç‚ÌƒAï¿½hï¿½oï¿½Cï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½ï¿½B(ï¿½ï¿½ï¿½ÌˆÊ’uï¿½Å‚ÍŠÏ‹qï¿½ï¿½ï¿½çŒ©ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Aï¿½Nï¿½Æ’Nï¿½ï¿½ï¿½dï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½È‚ï¿½)ï¿½B<br>
+    ï¿½G	ï¿½ÅŒï¿½Í•Kï¿½ï¿½ï¿½eï¿½Oï¿½ï¿½ï¿½[ï¿½vï¿½Ì”ï¿½ï¿½\ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ÌŽï¿½ï¿½ÍAï¿½ï¿½]ï¿½ð•·‚ï¿½ï¿½Â‚Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½Å‚ï¿½ï¿½Ì”zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚¤ï¿½ÆŽvï¿½ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½Å”ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½nï¿½ß‚ï¿½Oï¿½ÉAï¿½ï¿½ï¿½\ï¿½ÌŽï¿½ï¿½Ô‚Í‘Oï¿½ï¿½ï¿½ï¿½ï¿½ÄÝ’è‚·ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ê‚¼ï¿½ï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½æ‚¢ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½ï¿½ï¿½ÆŒï¿½ï¿½ï¿½nï¿½é‚½ï¿½ß‚ÌŽï¿½ï¿½Ô‚ï¿½ï¿½Ù‚ï¿½ï¿½ï¿½ï¿½Æ—vï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÍAï¿½ï¿½ï¿½Ì—vï¿½ï¿½ï¿½É‰ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½H	ï¿½ï¿½ï¿½×‚Ä‚ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Bï¿½ï¿½Âˆï¿½Â‚ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½Ì”ï¿½ï¿½\ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉAï¿½ï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ã‚°ï¿½ÄŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ç‚¤ï¿½Bï¿½ï¿½ï¿½zï¿½Í‚æ‚¢ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½]ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½æ‚µï¿½oï¿½ï¿½ï¿½vï¿½ÆŒÄ‚ï¿½Å‚ï¿½ï¿½ï¿½B<br>
     <br>
-    š‚±‚Ì—¬‚ê‚ÍA–ˆ‰ñ“¯‚¶‚Å‚ ‚éB‰Û‘è—ûK‚Ìà–¾‚Å‚Í‡C‚Ì•”•ª‚Ì‚ÝÚ‚µ‚­Ð‰î‚·‚éB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ì—ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ñ“¯‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½Û‘ï¿½ï¿½ï¿½Kï¿½Ìï¿½ï¿½ï¿½ï¿½Å‚Í‡Cï¿½Ì•ï¿½ï¿½ï¿½ï¿½Ì‚ÝÚ‚ï¿½ï¿½ï¿½ï¿½Ð‰î‚·ï¿½ï¿½B<br>
     </font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
-    <font color="#000000"><br>   
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
+    <font color="#000000"><br>
  </font>
-    <P class=border1><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="kadai-1" id="kadai-1">‰Û‘è‚P@Žg—pƒeƒLƒXƒgu‚Æ‚«‚ß‚«‚æ‚ë‚ß‚«ƒtƒHƒgƒOƒ‰ƒtv</a></b></font></P>
-    
+    <P class=border1><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="kadai-1" id="kadai-1">ï¿½Û‘ï¿½Pï¿½@ï¿½gï¿½pï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½tï¿½Hï¿½gï¿½Oï¿½ï¿½ï¿½tï¿½v</a></b></font></P>
+
     <P class=border6><font color="#000000">
-    ¡ê–ÊÝ’è<br>
-    ê–Ê‚ÍŽµ‚ÂXŒö‰€BŒö‰€“à‚É‚Íƒxƒ“ƒ`‚â‚¢‚·‚ª’u‚©‚ê‚Ä‚¢‚éB<br>
-    ‰Ä”ü‚ªƒxƒ“ƒ`‚ÉÀ‚Á‚Ä‚¢‚éB‚»‚±‚É‰Ä”ü(‚Q”N)‚Ìæ”y‚Å‚ ‚é‘”ü(‚R”N)‚Æää»(‚R”N)‚ª‚â‚Á‚Ä‚­‚éB‚Rl‚ÍŽµ‚ÂX’†ŠwZ‚ÌŽÊ^•”‚ÉŠ‘®‚µ‚Ä‚¢‚éB‰Ä”ü‚ÍA‚Ql‚ª—ˆ‚é’¼‘O‚Ü‚ÅAŠw”N‚Å¬Ñ‚P”Ô‚ð‚¸‚Á‚Æ‚Æ‚è‘±‚¯‚Ä‚¢‚½•Ÿ‘ò‚ä‚«ŠG(‚R”N)‚Æ˜b‚ð‚µ‚Ä‚¢‚½B<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½ï¿½Ê‚ÍŽï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚Íƒxï¿½ï¿½ï¿½`ï¿½â‚¢ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Ä”ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½`ï¿½Éï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½É‰Ä”ï¿½(ï¿½Qï¿½N)ï¿½Ìï¿½yï¿½Å‚ï¿½ï¿½é‘ï¿½ï¿½(ï¿½Rï¿½N)ï¿½ï¿½ï¿½ï¿½(ï¿½Rï¿½N)ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½Rï¿½lï¿½ÍŽï¿½ï¿½ÂXï¿½ï¿½ï¿½wï¿½Zï¿½ÌŽÊ^ï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½Ä”ï¿½ï¿½ÍAï¿½Qï¿½lï¿½ï¿½ï¿½ï¿½ï¿½é’¼ï¿½Oï¿½Ü‚ÅAï¿½wï¿½Nï¿½Åï¿½ï¿½Ñ‚Pï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Æ‚è‘±ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ä‚«ï¿½G(ï¿½Rï¿½N)ï¿½Æ˜bï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡“oêl•¨@‚Sl<br>
-    ’ß“c‰Ä”ü<br>
-    ‹ß“¡@ˆ¤<br>
-    ‰«“c‘”ü<br>
-    ¼‹½ää»</font></P>
-    
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@ï¿½Sï¿½l<br>
+    ï¿½ß“cï¿½Ä”ï¿½<br>
+    ï¿½ß“ï¿½ï¿½@ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</font></P>
+
     <p class="border6" align="left"><font color="#000000">
-    ŸƒeƒLƒXƒg<br>
+    ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
     <br>
-    ‘”ü@‚¨‚Í‚æ‚¤B<br>
-    ää»@‚¨‚Á‚·B<br>
-    ‘”ü@‚à‚µ‚©‚µ‚Ä‰Ä”ü‚àŒÄ‚Î‚ê‚½‚ÌB<br>
-    ‰Ä”ü@‚Í‚¢Aˆ¤æ”y‚©‚çŽµ‚ÂXŒö‰€‚ÉW‡‚Á‚Äƒ[ƒ‹‚ª“ü‚Á‚ÄB<br>
-    ‘”ü@‰½‚¾‚ëH<br>
-    ää»@‚³‚ c<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Í‚æ‚¤ï¿½B<br>
+    ï¿½ä»@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‰Ä”ï¿½ï¿½ï¿½ï¿½Ä‚Î‚ê‚½ï¿½ÌB<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½çŽµï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½ÉWï¿½ï¿½ï¿½ï¿½ï¿½Äƒï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½ä»@ï¿½ï¿½ï¿½ï¿½ï¿½c<br>
     <br>
-    @@@‚»‚±‚Éˆ¤‚ª‚â‚Á‚Ä‚­‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Éˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ˆ¤@@‚¨‚Í‚æ‚¤B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½Í‚æ‚¤ï¿½B<br>
     <br>
-    @@@‚Ý‚ñ‚È‚ª”½‰ž‚·‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ý‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ˆ¤@@‚ [Œ™‚È‚â‚Â‚É‰ï‚Á‚¿‚á‚Á‚½B<br>
-    ‘”ü@’NB<br>
-    ˆ¤@@•Ÿ‘ò‚ä‚«ŠGB<br>
-    ‘”ü@‚ ‚êA‚»‚ê‚¶‚á¡‚³‚Á‚«‰Ä”ü‚ª‚±‚±‚Å˜b‚µ‚Ä‚½‚ÌA‚ä‚«ŠGH <br>
-    ‰Ä”ü@‚Í‚¢B<br>
-    ‘”ü@’m‚Á‚Ä‚é‚ÌH<br>
-    ‰Ä”ü@˜b‚µ‚½‚ÌA¡“ú‚ª‰‚ß‚Ä‚Å‚·B<br>
-    ˆ¤@@‚ä‚«ŠG‚ÆA˜b‚µ‚½‚ñ‚¾B<br>
-    ‰Ä”ü@˜b‚µ‚½‚Á‚Ä‚¢‚Á‚Ä‚àA‚Ù‚ñ‚Ì‚¿‚å‚Á‚Æ‚ÅA‚·‚®•Ÿ‘òæ”ys‚Á‚¿‚á‚Á‚½‚ñ‚Åc<br>
-    ˆ¤@@‚ä‚«ŠG‚Æ‰½‚Ì˜b‚µ‚½‚ÌH<br>
-    ‰Ä”ü@‰½‚Ì˜b‚Á‚Äc•Ÿ‘òæ”y‚Á‚Ä‚¸‚Á‚Æ¬Ñ‚ªŠw”Nˆê‚Å‚·‚æ‚Ë‚Á‚ÄA<br>
-    ˆ¤@@‚Æ‚±‚ë‚ª‚³B‚ ‚¢‚ÂA‚±‚ÌŠÔ‚Ì’†ŠÔŽŽŒ±‚Å‚Â‚¢‚ÉŠw”Nˆê”Ô‚ÌÀ‚©‚ç“]—Ž‚µ‚½‚ñ‚¾B<br>
-    ‘”ü@‚»‚êA‚Ù‚ñ‚ÆH<br>
-    ˆ¤@@\”ÔˆÈ“à‚É‚à“ü‚ê‚È‚©‚Á‚½‚Á‚ÄB‚´‚Ü[‚Ý‚ë‚¾(Î‚¤)B<br>
-    ‰Ä”ü@ˆ¤æ”yB•Ÿ‘òæ”y‚É¦‚Ý‚Å‚à‚ ‚é‚ñ‚Å‚·‚©H<br>
-    ˆ¤@@‚»‚¤‚¢‚¤‚í‚¯‚¶‚á‚È‚¢‚ñ‚¾‚¯‚Ç‚³B‚È‚ñ‚©•×‹­‚Î‚Á‚©‚è‚µ‚Ä‚éƒ„ƒc‚Á‚Ä‚Þ‚©‚Â‚­‚ñ‚¾‚æ‚ËB<br>
-    ‘”ü@‚í‚©‚éA‚È‚ñ‚©Œ™(‚â)‚¾‚æ‚ËB<br>
-    ˆ¤@@‚ä‚«ŠG‚Á‚ÄƒeƒXƒg‚Ù‚Æ‚ñ‚Ç•S“_‚¶‚á‚È‚¢B‘S‘R–Ê”’–¡‚ª‚È‚¢‚ñ‚¾‚æB<br>
-    ‘”ü@ˆê‚É˜b‚µ‚Ä‚é‚Æ”nŽ­‚É‚³‚ê‚Ä‚é‹C‚ª‚·‚é‚µB<br>
-    ˆ¤@@‚ ‚ê”nŽ­‚É‚µ‚Ä‚ñ‚¾‚æA‚Ù‚ñ‚Æ‚Ì‚Æ‚±‚ëB‚ ‚½‚µA‚ä‚«ŠG‚Æ“¯‚¶ƒNƒ‰ƒX‚¶‚á‚È‚¢B‚à‚¤A‚Ù‚ñ‚ÆŒ™(‚â)‚É‚È‚éB‚±‚È‚¢‚¾‚Ì‘Œê‚ÌŽžŠÔAŽ‚Ì˜N“Ç‚¾‚Á‚½‚ñ‚¾‚¯‚Ç‚³BuŽ„‚ÍŠC‚ðŒ©‚½‚±‚Æ‚ª‚È‚¢v‚Á‚ÄŽ‚ ‚é‚¶‚á‚È‚¢B‚ ‚ê‚ð‚³A‚ ‚½‚µAuƒ^ƒƒV‚ÍŠC‚ðŒ©‚½‚±‚Æ‚ª‚È‚¢v‚Á‚Ä“Ç‚ñ‚¶‚á‚Á‚½‚ñ‚¾‚æB‚»‚µ‚½‚çA‚ä‚«ŠGAƒv‚Á‚Ä‚«o‚µ‚Ä‚³B<br>
-    ää»@‚»‚è‚áÎ‚¤‚¾‚ëBƒ^ƒƒV‚ªŠC‚ðŒ©‚é‚©B<br>
-    ˆ¤@@‚¾‚©‚ç‚³Aää»‚ªÎ‚¤‚ñ‚È‚ç‹–‚¹‚é‚ñ‚¾‚æB‚Å‚à‚³A‚ä‚«ŠG‚¾‚Æ‹–‚¹‚È‚¢‚ñ‚¾‚æ‚ËBÎ‚¢‚©‚çu‚ ‚È‚½‚Ù‚ñ‚Æ‚É”nŽ­‚Ëv‚Á‚Ä“`‚í‚Á‚Ä‚­‚é‚ñ‚¾‚æB<br>
-    ää»@ŽÀÛ‚»‚¤‚¶‚á‚ñB<br>
-    ˆ¤@@‚»‚¤‚¾‚¯‚Ç‚³B<br>
-    ‘”ü@‚Å‚à¡‰ñ‚ÌˆêˆÊ“]—Ž‚ÍƒVƒ‡ƒbƒN‚¾‚Á‚½‚ë‚¤‚ËB<br>
-    ˆ¤@@‚¢‚¢ŒoŒ±B‚¸‚Á‚Æˆê”Ô‚È‚ñ‚ÄlŠÔ‚Æ‚µ‚Ä‚¨‚©‚µ‚¢‚æB<br>
-    ‘”ü@‚í‚©‚éB<br>
-    ˆ¤@@‚Å‚µ‚åB‚Å‚µ‚åB‚ ‚êA‰½‚Å‚ ‚½‚µ‚½‚¿‚ä‚«ŠG‚Ì˜b‚µ‚Ä‚ñ‚¾B<br>
-    ‘”ü@ˆ¤‚ªŽn‚ß‚½‚ñ‚Å‚µ‚å‚¤B<br>
-    ˆ¤@@‚»‚¤‚¾‚Á‚¯B<br>
-    ‘”ü@‚ÅA‰½‚ÅW‡‚©‚¯‚½‚Ì‚æB<br>
-    ˆ¤@@‚»‚¤‚»‚¤A‚»‚ê‚»‚êB‚Ý‚ñ‚ÈAŒ©‚Ä‹Á‚¯‚æB<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½È‚ï¿½Â‚É‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Nï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ä‚«ï¿½Gï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ê‚¶ï¿½á¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å˜bï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ÌAï¿½ä‚«ï¿½Gï¿½H <br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½mï¿½ï¿½ï¿½Ä‚ï¿½ÌH<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ÌAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ä‚Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ä‚«ï¿½Gï¿½ÆAï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾B<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½Ù‚ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åc<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ä‚«ï¿½Gï¿½Æ‰ï¿½ï¿½Ì˜bï¿½ï¿½ï¿½ï¿½ï¿½ÌH<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½Ì˜bï¿½ï¿½ï¿½Äcï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Æï¿½ï¿½Ñ‚ï¿½ï¿½wï¿½Nï¿½ï¿½Å‚ï¿½ï¿½ï¿½Ë‚ï¿½ï¿½ÄA<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Æ‚ï¿½ï¿½ë‚ªï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÂAï¿½ï¿½ï¿½ÌŠÔ‚Ì’ï¿½ï¿½ÔŽï¿½ï¿½ï¿½ï¿½Å‚Â‚ï¿½ï¿½ÉŠwï¿½Nï¿½ï¿½Ô‚Ìï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½Ù‚ï¿½ÆH<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½\ï¿½ÔˆÈ“ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄBï¿½ï¿½ï¿½Ü[ï¿½Ý‚ë‚¾(ï¿½Î‚ï¿½)ï¿½B<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½yï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½yï¿½Éï¿½ï¿½Ý‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½í‚¯ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾‚ï¿½ï¿½Ç‚ï¿½ï¿½Bï¿½È‚ñ‚©•×‹ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½è‚µï¿½Ä‚éƒ„ï¿½cï¿½ï¿½ï¿½Ä‚Þ‚ï¿½ï¿½Â‚ï¿½ï¿½ñ‚¾‚ï¿½ËB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½í‚©ï¿½ï¿½Aï¿½È‚ñ‚©Œï¿½(ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ä‚«ï¿½Gï¿½ï¿½ï¿½Äƒeï¿½Xï¿½gï¿½Ù‚Æ‚ï¿½Ç•Sï¿½_ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½Sï¿½Rï¿½Ê”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½êï¿½É˜bï¿½ï¿½ï¿½Ä‚ï¿½Æ”nï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½Ä‚ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½é‚µï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½É‚ï¿½ï¿½Ä‚ñ‚¾‚ï¿½Aï¿½Ù‚ï¿½Æ‚Ì‚Æ‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ä‚«ï¿½Gï¿½Æ“ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ù‚ï¿½ÆŒï¿½(ï¿½ï¿½)ï¿½É‚È‚ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ÌŽï¿½ï¿½ÔAï¿½ï¿½ï¿½Ì˜Nï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½Ç‚ï¿½ï¿½Bï¿½uï¿½ï¿½ï¿½ÍŠCï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½È‚ï¿½ï¿½vï¿½ï¿½ï¿½ÄŽï¿½ï¿½ï¿½ï¿½é‚¶ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½uï¿½^ï¿½ï¿½ï¿½Vï¿½ÍŠCï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½È‚ï¿½ï¿½vï¿½ï¿½ï¿½Ä“Ç‚ñ‚¶‚ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ä‚«ï¿½Gï¿½Aï¿½vï¿½ï¿½ï¿½Äï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½B<br>
+    ï¿½ä»@ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½^ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ç‚³ï¿½Aï¿½ä»‚ï¿½ï¿½Î‚ï¿½ï¿½ï¿½È‚ç‹–ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Bï¿½Å‚ï¿½ï¿½ï¿½ï¿½Aï¿½ä‚«ï¿½Gï¿½ï¿½ï¿½Æ‹ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾‚ï¿½ËBï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½È‚ï¿½ï¿½Ù‚ï¿½Æ‚É”nï¿½ï¿½ï¿½Ëvï¿½ï¿½ï¿½Ä“`ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½ä»@ï¿½ï¿½ï¿½Û‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½Ìˆï¿½Ê“]ï¿½ï¿½ï¿½ÍƒVï¿½ï¿½ï¿½bï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚¤ï¿½ËB<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Æˆï¿½Ô‚È‚ï¿½Älï¿½Ô‚Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½í‚©ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ä‚«ï¿½Gï¿½Ì˜bï¿½ï¿½ï¿½Ä‚ñ‚¾B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ß‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½å‚¤ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ÅAï¿½ï¿½ï¿½ÅWï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ê‚»ï¿½ï¿½Bï¿½Ý‚ï¿½ÈAï¿½ï¿½ï¿½Ä‹ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@ˆ¤‚ªV•·‚ÌL‚ðŽæ‚èo‚·B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½ÌLï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½B<br>
     <br>
-    ˆ¤@@‚¶‚á[‚ñB<br>
-    ‘”ü@‰½‚»‚êB<br>
-    ˆ¤@@Œ©‚ê‚Î‚í‚©‚é‚Á‚ÄB<br>
-    ‘”ü@‘æ\“ñ‰ñƒIƒNƒgƒpƒXƒtƒHƒgƒRƒ“ƒN[ƒ‹B</font></P>
-    <p class="border6" align="left"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;">‰Û‘è‚P‚Ì—ûK•û–@E‡C‚Ì‘¦‹»‚Ì•”•ª</font><font color="#000000"><br>
-    <b>¡‘¦‹»‚Ì—˜—p</b><br>
-    Ž©‘R‚È‰ï˜b‚ð¶‚Ýo‚·‚½‚ß‚Ì‘¦‹»uD‚«‚É‚È‚ê‚È‚¢Œö–‚­‚ñv<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½Î‚í‚©ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½\ï¿½ï¿½ï¿½Iï¿½Nï¿½gï¿½pï¿½Xï¿½tï¿½Hï¿½gï¿½Rï¿½ï¿½ï¿½Nï¿½[ï¿½ï¿½ï¿½B</font></P>
+    <p class="border6" align="left"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;">ï¿½Û‘ï¿½Pï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½@ï¿½Eï¿½Cï¿½Ì‘ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½</font><font color="#000000"><br>
+    <b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì—ï¿½ï¿½p</b><br>
+    ï¿½ï¿½ï¿½Rï¿½È‰ï¿½bï¿½ð¶‚Ýoï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ì‘ï¿½ï¿½ï¿½ï¿½uï¿½Dï¿½ï¿½ï¿½É‚È‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½v<br>
     <br>
-    ˆ¤‚Í‘O‰ñA”Šw‚Å‚R‚O“_‚ðŽæ‚Á‚½B‚¢‚Â‚àˆêŒ…‚¾‚Á‚½ˆ¤‚ª‚R‚O“_‚Å‚ ‚éBˆ¤‚Í‚»‚Ì–ôi‚É‘åŠì‚ÑB‚»‚ÌŽžA—×‚ÉÀ‚Á‚Ä‚¢‚½Œö–‚­‚ñ‚ª‘å‚«‚È‚½‚ß‘§‚ð‚Â‚­BŒö–‚­‚ñ‚Í”Šw‚ÌƒeƒXƒg‚Å‚P‚O‚O“_‚µ‚©Žæ‚Á‚½‚±‚Æ‚ª‚È‚¢B‚µ‚©‚µA¡‰ñ‚Ì“_”‚Í‚X‚X“_B”Þ‚Í‚Â‚Ô‚â‚­u‚±‚Ì¢‚ÌI‚í‚è‚¾vB‚»‚µ‚ÄA”Þ‚Í“ª‚ð•ø‚¦‚éB‚»‚ê‚ðŒ©‚½ˆ¤‚ÍA‚»‚ÌŽž‚ÌŽv‚¢‚ðŽÊ^•”‚Ì’‡ŠÔ‚É“`‚¦‚éB<br>
+    ï¿½ï¿½ï¿½Í‘Oï¿½ï¿½Aï¿½ï¿½ï¿½wï¿½Å‚Rï¿½Oï¿½_ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Â‚ï¿½ï¿½êŒ…ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½Oï¿½_ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Í‚ï¿½ï¿½Ì–ï¿½ï¿½iï¿½É‘ï¿½ï¿½ÑBï¿½ï¿½ï¿½ÌŽï¿½ï¿½Aï¿½×‚Éï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚ª‘å‚«ï¿½È‚ï¿½ï¿½ß‘ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½wï¿½Ìƒeï¿½Xï¿½gï¿½Å‚Pï¿½Oï¿½Oï¿½_ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Ì“_ï¿½ï¿½ï¿½Í‚Xï¿½Xï¿½_ï¿½Bï¿½Þ‚Í‚Â‚Ô‚â‚­ï¿½uï¿½ï¿½ï¿½Ìï¿½ï¿½ÌIï¿½ï¿½è‚¾ï¿½vï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½Þ‚Í“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ÌŽï¿½ï¿½ÌŽvï¿½ï¿½ï¿½ï¿½ï¿½Ê^ï¿½ï¿½ï¿½Ì’ï¿½ï¿½Ô‚É“`ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    <b>¡‘¦‹»—ûK‚ÌŽd•û</b><br>
-    ‚Ü‚¸ˆ¤‚Ì–ð‚ð’S“–‚·‚é‚à‚Ì‚ªAŒö–‚­‚ñ‚Ì˜b‚ðŽn‚ß‚éBÝ’è‚ðŒ³‚É˜b‚µ‚ð‚·‚é‚ªA‚»‚ÌŒã‚Ç‚ñ‚È“WŠJ‚É‚È‚é‚©‚ÍŒˆ‚Ü‚Á‚Ä‚¢‚È‚¢B‚»‚Ì˜b‚µ‚ÉŽü‚è‚Í”½‰ž‚µ‚Ä‚¢‚­B‚»‚ê‚¼‚ê‚ÍŒö–‚­‚ñ‚ð’m‚Á‚Ä‚¢‚Ä‚à’m‚ç‚È‚­‚Ä‚à‚æ‚¢BV‚½‚Èî•ñ‚ð’ñ‹Ÿ‚µ‚Ä‚à‚æ‚¢B˜b‚·‡”Ô‚àŒˆ‚Ü‚Á‚Ä‚¢‚È‚¢‚Ì‚ÅA‚Ç‚ñ‚È“WŠJ‚É‚È‚Á‚Ä‚à‚¢‚¢B‚Æ‚É‚©‚­A‚»‚Ì˜b‘è‚ð–²’†‚Å˜b‚·ó‹µ‚ðì‚èo‚·B<br>
+    <b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ÌŽdï¿½ï¿½</b><br>
+    ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì˜bï¿½ï¿½ï¿½nï¿½ß‚ï¿½Bï¿½Ý’ï¿½ï¿½ï¿½ï¿½ï¿½É˜bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚ªï¿½Aï¿½ï¿½ï¿½ÌŒï¿½Ç‚ï¿½È“Wï¿½Jï¿½É‚È‚é‚©ï¿½ÍŒï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì˜bï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½Í”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ê‚¼ï¿½ï¿½ÍŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ä‚ï¿½ï¿½mï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½æ‚¢ï¿½Bï¿½Vï¿½ï¿½ï¿½Èï¿½ï¿½ï¿½ñ‹Ÿ‚ï¿½ï¿½Ä‚ï¿½ï¿½æ‚¢ï¿½Bï¿½bï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½Ì‚ÅAï¿½Ç‚ï¿½È“Wï¿½Jï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Æ‚É‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì˜bï¿½ï¿½ð–²’ï¿½ï¿½Å˜bï¿½ï¿½ï¿½ó‹µ‚ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½B<br>
     <br>
-    <b>¡‚±‚Ì‘¦‹»‚ðs‚¤‚Æ‚«‚Ì—¯ˆÓ“_</b><br>
-    ˆ«Œû‚ðŒ¾‚¤—ûK‚Í‚â‚è‚â‚·‚¢‚æ‚¤‚Å‚·B•’i‚©‚ç‚»‚ñ‚ÈŒoŒ±‚ª‘½‚¢‚©‚ç‚È‚Ì‚Å‚µ‚å‚¤‚©B‚Æ‚à‚·‚é‚ÆAˆ«Œû‚ðŒ¾‚¤‚±‚Æ‚ðŠy‚µ‚ñ‚Å‚µ‚Ü‚¤‚Æ‚¢‚¤‚±‚Æ‚ª‹N‚«‚Ä‚µ‚Ü‚¢‚Ü‚·B—ûK‚ð‚·‚é‚±‚Æ‚É‚æ‚Á‚Äˆ«Œû‚ðŒ¾‚¤‚±‚Æ‚ªŠy‚µ‚­‚È‚ç‚È‚¢‚æ‚¤‚É’ˆÓ‚ª•K—v‚Å‚·BŒ€‚Ì’†‚¾‚¯‚Ì‚±‚Æ‚Æ‚¢‚¤‚±‚Æ‚ðA‚µ‚Á‚©‚è—‰ð‚µ‚½’†‚Ås‚¤‚æ‚¤‚É‚µ‚Ä‚¢‚Ü‚·B‘¦‹»‚ÅŒö–‚­‚ñ‚Æ‚¢‚¤¶“k‚ðŽg‚¤‚Ì‚ÍA‚¨‚»‚ç‚­Œö–‚Æ‚¢‚¤¶“k‚ÍŠwZ‚É‚¢‚È‚¢‚©‚ç‚Å‚ ‚èA‚à‚µ‚»‚ñ‚È–¼‘O‚Ì¶“k‚ª‚¢‚ê‚Î‚»‚Ì–¼‘O‚Íâ‘ÎŽg‚¢‚Ü‚¹‚ñB‚Ü‚½AŽÀÛ‚É‘¶Ý‚·‚é¶“k‚ðƒ‚ƒfƒ‹‚Æ‚µ‚Ä‘¦‹»‚ÉŽg‚¤‚±‚Æ‚Íâ‘Î‚É‚ ‚Á‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB‚¿‚È‚Ý‚Éu‚Æ‚«‚ß‚«‚æ‚ë‚ß‚«ƒtƒHƒgƒOƒ‰ƒtv‚ðÅŒã‚Ü‚Å“Ç‚ß‚Î‚í‚©‚é‚±‚Æ‚Å‚·‚ªA‚±‚±‚Åˆ«Œû‚ðŒ¾‚í‚ê‚Ä‚¢‚é•Ÿ‘ò‚ä‚«ŠG‚Í‚±‚ÌŒ€‚ÌŒã”¼‚Æ‚Á‚Ä‚à–£—Í“I‚È¶“k‚Æ‚µ‚ÄŠÏ‹q‚É”FŽ¯‚³‚ê‚é‚Í‚¸‚Å‚·<br>
+    <b>ï¿½ï¿½ï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ì—ï¿½ï¿½Ó“_</b><br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Í‚ï¿½ï¿½â‚·ï¿½ï¿½ï¿½æ‚¤ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ç‚»ï¿½ï¿½ÈŒoï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚Ì‚Å‚ï¿½ï¿½å‚¤ï¿½ï¿½ï¿½Bï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚É‚ï¿½ï¿½ï¿½Äˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½È‚ï¿½ï¿½æ‚¤ï¿½É’ï¿½ï¿½Ó‚ï¿½ï¿½Kï¿½vï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Æ‚Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åsï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÅŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ì‚ÍAï¿½ï¿½ï¿½ï¿½ï¿½ç‚­ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ÍŠwï¿½Zï¿½É‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È–ï¿½ï¿½Oï¿½Ìï¿½ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½Ì–ï¿½ï¿½Oï¿½Íï¿½ÎŽgï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½Û‚É‘ï¿½ï¿½Ý‚ï¿½ï¿½é¶ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä‘ï¿½ï¿½ï¿½ï¿½ÉŽgï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Íï¿½Î‚É‚ï¿½ï¿½ï¿½ï¿½Ä‚Í‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½È‚Ý‚Éuï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½tï¿½Hï¿½gï¿½Oï¿½ï¿½ï¿½tï¿½vï¿½ï¿½ï¿½ÅŒï¿½Ü‚Å“Ç‚ß‚Î‚í‚©ï¿½é‚±ï¿½Æ‚Å‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Åˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é•Ÿï¿½ï¿½ä‚«ï¿½Gï¿½Í‚ï¿½ï¿½ÌŒï¿½ï¿½ÌŒã”¼ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Í“Iï¿½Èï¿½ï¿½kï¿½Æ‚ï¿½ï¿½ÄŠÏ‹qï¿½É”Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½Å‚ï¿½<br>
     </font></font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
-    <font color="#000000"><br>   
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
+    <font color="#000000"><br>
  </font>
-    <P class=border1><font size="+1"><b><font color="#000000" size="+1" style="font-size : 117%;"><a name="kadai-2" id="kadai-2">‰Û‘è‚Q@Žg—pƒeƒLƒXƒgu‚Æ‚«‚ß‚«‚æ‚ë‚ß‚«ƒtƒHƒgƒOƒ‰ƒtv</a></font></b></font></P>
-    
-    <P class=border6><font color="#000000"><b>¡ê–ÊÝ’è<br>
-    </b>ƒIƒNƒgƒpƒXƒtƒHƒgƒRƒ“ƒeƒXƒg‚Ö‚Ì‰ž•å‚ðŒˆˆÓ‚µ‚½ŽÊ^•”‚Ì‚SlBƒe[ƒ}‚Í‚»‚ê‚¼‚ê‚Ìu‚Æ‚«‚ß‚«v‚ðŽÊ‚·‚±‚ÆB‘”ü‚Í¡‚ÌŽ©•ª‚Ì‚Æ‚«‚ß‚«‚Å‚ ‚é—×‚Ì’†ŠwZ‚É’Ê‚Á‚Ä‚¢‚é•“cŒN‚ÌŽÊ^‚ðŒ©‚Ä‚¢‚éB<br>
+    <P class=border1><font size="+1"><b><font color="#000000" size="+1" style="font-size : 117%;"><a name="kadai-2" id="kadai-2">ï¿½Û‘ï¿½Qï¿½@ï¿½gï¿½pï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½tï¿½Hï¿½gï¿½Oï¿½ï¿½ï¿½tï¿½v</a></font></b></font></P>
+
+    <P class=border6><font color="#000000"><b>ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    </b>ï¿½Iï¿½Nï¿½gï¿½pï¿½Xï¿½tï¿½Hï¿½gï¿½Rï¿½ï¿½ï¿½eï¿½Xï¿½gï¿½Ö‚Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ï¿½ï¿½Ê^ï¿½ï¿½ï¿½Ì‚Sï¿½lï¿½Bï¿½eï¿½[ï¿½}ï¿½Í‚ï¿½ï¿½ê‚¼ï¿½ï¿½Ìuï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½vï¿½ï¿½ï¿½Ê‚ï¿½ï¿½ï¿½ï¿½ÆBï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½Ì‚Æ‚ï¿½ï¿½ß‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½×‚Ì’ï¿½ï¿½wï¿½Zï¿½É’Ê‚ï¿½ï¿½Ä‚ï¿½ï¿½é•ï¿½cï¿½Nï¿½ÌŽÊ^ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    <b>¡“oêl•¨@‚Sl<br>
-    </b>’ß“c‰Ä”ü<br>
-    ‹ß“¡@ˆ¤<br>
-    ‰«“c‘”ü<br>
-    ¼‹½ää»</font></P>
-    
-    <p class="border6" align="left"><font color="#000000"><b>¡ƒeƒLƒXƒg<br>
-    </b>@@@‘”ü‚ªŽÊ^‚ðˆê–‡Žæ‚èo‚µ‚»‚ê‚ð’­‚ß‚Ä‚¢‚éB<br>
-    @@@šˆ¤‚ª‚»‚ÌŽÊ^‚ðŒã‚ë‚©‚ç”`‚¢‚ÄB<br>
+    <b>ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@ï¿½Sï¿½l<br>
+    </b>ï¿½ß“cï¿½Ä”ï¿½<br>
+    ï¿½ß“ï¿½ï¿½@ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</font></P>
+
+    <p class="border6" align="left"><font color="#000000"><b>ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
+    </b>ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê^ï¿½ï¿½ï¿½ê–‡ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ð’­‚ß‚Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽÊ^ï¿½ï¿½ï¿½ï¿½ë‚©ï¿½ï¿½`ï¿½ï¿½ï¿½ÄB<br>
     <br>
-    ˆ¤@@‘”üA’N‚»‚êH<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Nï¿½ï¿½ï¿½ï¿½H<br>
     <br>
-    @@@‘”ü‚ªŽÊ^‚ð”w’†‚É‚à‚Á‚Ä‚¢‚­B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê^ï¿½ï¿½wï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ˆ¤@@’N‚æA‚»‚êB<br>
-    ‘”ü@‰½‚Å‚à‚È‚¢‚©‚çB<br>
-    ˆ¤@@‚»‚ÌŽÊ^‚ÌŽqA‘”ü‚Ì‚Æ‚«‚ß‚«H<br>
-    ‘”ü@c<br>
-    ˆ¤@@‚»‚¤‚È‚Ì‚ËB’NA’NA’NA’NH‚Â‚«‚ ‚Á‚Ä‚é‚ÌH<br>
-    ‘”ü@(Žñ‚ðU‚Á‚Ä)–¼‘O‚à’m‚ç‚È‚¢B‚¤‚¿‚ÌŠwZ‚¶‚á‚È‚¢‚©‚çB<br>
-    ää»@š(‘”ü‚Ì”w’†‚ÌŽÊ^‚ðŒ©‚Ä)•“crÆB<br>
-    ‘”ü@’m‚Á‚Ä‚é‚ÌH<br>
-    ää»@—×‚Ì“ñ‚ÂX’†Šw‚É’Ê‚Á‚Ä‚éB–ì‹…•”Aƒsƒbƒ`ƒƒ[B<br>
-    ‘”ü@‰½‚Åc<br>
-    ää»@m‚ªˆêB<br>
-    ‘”ü@”Þ—‚ÍH<br>
-    ää»@‰´A‚»‚¤‚¢‚¤‚±‚Æ‚É‹»–¡‚È‚¢‚©‚çB<br>
-    ˆ¤@@‘”üA‚Ç‚¤‚·‚éH<br>
-    ‘”ü@‚Ç‚¤‚·‚é‚Á‚ÄB<br>
-    ˆ¤@@“²‚ê‚¾‚¯‚Å‚¢‚¢‚ÌH”ÞŽ‚É‚µ‚½‚¢‚ÆŽv‚í‚È‚¢‚ÌH<br>
-    ‘”ü@‚»‚ê‚Íc<br>
-    ˆ¤@@Žv‚¤‚Å‚µ‚åH<br>
-    ‘”ü@(‚¤‚È‚¸‚­)Œˆ‚ß‚½B‚Æ‚«‚ß‚«‚Í—öB<br>
-    ‰Ä”ü@‰«“cæ”yAæ”y‚Í‚±‚ÌŽÊ^‚ð‘—‚é‚±‚Æ‚ÅŒˆ‚Ü‚è‚Å‚·‚©B<br>
-    ‘”ü@(Žñ‚ðU‚Á‚Ä)Ž„A”Þ‚ÌŽÊ^ŽB‚è‚Ü‚­‚éB<br>
-    ˆ¤@@ŽÊ^ŽB‚é‚¾‚¯‚¶‚á‚¾‚ß‚¾‚æBs“®‚µ‚È‚­‚Á‚¿‚áB<br>
-    ‘”ü@‚í‚©‚Á‚½B‚Æ‚«‚ß‚«‚Ìƒ‰ƒXƒg‚Í”Þ‚Æ‚Ìƒc[ƒVƒ‡ƒbƒg‚É‚·‚éB<br>
-    ˆ¤@@‚»‚¤‚»‚¤B<br>
-    ‰Ä”ü@Ž©M‚ ‚é‚ñ‚Å‚·‚©B<br>
-    ‘”ü  (Žñ‚ðU‚é‚Á‚Ä)‚Ç‚¤‚µ‚½‚ç‚¢‚¢‚¾‚ëB<br>
-    ˆ¤@@‚â‚Á‚ÏA‚Ü‚¸‚Í‰½‚Æ‚©‚µ‚ÄƒƒAƒh‚ð•·‚«o‚·‚±‚ÆB<br>
-    ‘”ü@‚Ç‚¤‚â‚Á‚ÄB<br>
-    ˆ¤@@‚Ü‚¸‚Í‚«‚Á‚©‚¯ì‚è‚¶‚á‚È‚¢B‚Ü‚¾˜b‚µ‚½‚±‚Æ‚à‚È‚¢‚ñ‚Å‚µ‚åB<br>
-    ‘”ü@”Þ‚Ì‘O‚Åƒnƒ“ƒJƒ`‚ð—Ž‚Æ‚·‚Æ‚©B<br>
-    ˆ¤@@ƒnƒ“ƒJƒ`H‚»‚ñ‚ÈŽèAŒÃ‚·‚¬‚é‚æBo‰ï‚¢‚Í‹ô‘R‚ÆŽ©‘R‚³‚ð‘•‚Á‚Ä‰‰o‚µ‚È‚­‚Á‚¿‚áB—á‚¦‚ÎA”Þ‚Ì‘O‚Å‰ö‰ä‚ð‚·‚é‚Æ‚©B<br>
-    ‘”ü@‚»‚Ì•û‚ª‚í‚´‚Æ‚ç‚µ‚­‚È‚¢B<br>
-    ˆ¤@@‚¾‚©‚ç‚»‚ê‚ðŽ©‘R‚É‚â‚é‚Ì‚æB<br>
-    ‘”ü@‚Ç‚¤‚â‚Á‚ÄH</font></P>
-    <p class="border6" align="left"><font color="#000000"><font color="#000000"><b>¡@‘¦‹»‚ÌÝ’è‚Æ‚»‚Ì—¬‚ê<br>
-    </b>‘”ü‚ÌŽ‚Á‚Ä‚¢‚éŽÊ^‚ð•Ê‚ÌŽÊ^‚É•Ï‚¦‚éB<br>
-    ‚Ý‚ñ‚ÈA”Þ—‚ª‚Ç‚ñ‚ÈŽÊ^‚ðŽ‚Á‚Ä‚¢‚é‚©‚í‚©‚ç‚È‚¢B‚»‚ÌŽÊ^‚ðŒ©‚½ó‹µ‚Å‰ï˜b‚ði‚ß‚Ä‚¢‚­B<br>
-    —á‚¦‚Î<br>
-    EŽ©•ª‚ÌD‚«‚È‰ÌŽè‚âƒ^ƒŒƒ“ƒg<br>
-    ED‚«‚Èƒyƒbƒg‚ÌŽÊ^<br>
-    EŽ©•ª‚Ì‚¨‚¶‚¢‚¿‚á‚ñ‚ÌŽÊ^<br>
-    ECŠw—·s‚ÅŽÊ‚µ‚½ŽÊ^<br>
-    ‚È‚Ç<br>
-    ‚»‚ÌŽÊ^‚ªŽ©•ª‚Ì‚ ‚±‚ª‚ê‚Å‚ ‚é——R‚ð‚±‚¶‚Â‚¯‚Å‚¢‚¢‚©‚ç‚Â‚¯‚é(Žv‚¢‚à‚æ‚ç‚È‚¢ŽÊ^‚ÉŽv‚¢‚à‚æ‚ç‚È‚¢——R‚ª‚Â‚¢‚Ä‚¢‚é‚ÆŠˆ“®‚ª–Ê”’‚­‚È‚é)B<br>
-    ”Þ—‚Í‚»‚Ì”íŽÊ‘Ì‚ð‚ ‚±‚ª‚ê‚Æ‚µ‚ÄŽÊ^‚ðŽB‚Á‚Ä‚¢‚­ŒˆˆÓ‚ð‚·‚éB‚»‚Ì—¬‚ê‚Å‘¦‹»‚Å‰ï˜b‚ð‘±‚¯‚Ä‚¢‚­B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Nï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ÌŽÊ^ï¿½ÌŽqï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Æ‚ï¿½ï¿½ß‚ï¿½ï¿½H<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½c<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½È‚Ì‚ËBï¿½Nï¿½Aï¿½Nï¿½Aï¿½Nï¿½Aï¿½Nï¿½Hï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ÌH<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@(ï¿½ï¿½ï¿½Uï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½mï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÌŠwï¿½Zï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ä»@ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½Ì”wï¿½ï¿½ï¿½ÌŽÊ^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½cï¿½rï¿½ÆB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½mï¿½ï¿½ï¿½Ä‚ï¿½ÌH<br>
+    ï¿½ä»@ï¿½×‚Ì“ï¿½ÂXï¿½ï¿½ï¿½wï¿½É’Ê‚ï¿½ï¿½Ä‚ï¿½Bï¿½ì‹…ï¿½ï¿½ï¿½Aï¿½sï¿½bï¿½`ï¿½ï¿½ï¿½[ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Åc<br>
+    ï¿½ä»@ï¿½mï¿½ï¿½ï¿½êï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Þï¿½ï¿½ÍH<br>
+    ï¿½ä»@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚É‹ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ê‚¾ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ÌHï¿½ÞŽï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½È‚ï¿½ï¿½ÌH<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Íc<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½vï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½H<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@(ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Bï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½Í—ï¿½ï¿½B<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½cï¿½ï¿½yï¿½Aï¿½ï¿½yï¿½Í‚ï¿½ï¿½ÌŽÊ^ï¿½ð‘—‚é‚±ï¿½Æ‚ÅŒï¿½ï¿½Ü‚ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@(ï¿½ï¿½ï¿½Uï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Aï¿½Þ‚ÌŽÊ^ï¿½Bï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Ê^ï¿½Bï¿½é‚¾ï¿½ï¿½ï¿½ï¿½ï¿½á‚¾ï¿½ß‚ï¿½ï¿½ï¿½Bï¿½sï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½Ìƒï¿½ï¿½Xï¿½gï¿½Í”Þ‚Æ‚Ìƒcï¿½[ï¿½Vï¿½ï¿½ï¿½bï¿½gï¿½É‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½Mï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½  (ï¿½ï¿½ï¿½Uï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ÏAï¿½Ü‚ï¿½ï¿½Í‰ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Äƒï¿½ï¿½Aï¿½hï¿½ð•·‚ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ÆB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Ü‚ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚¶ï¿½ï¿½È‚ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Þ‚Ì‘Oï¿½Åƒnï¿½ï¿½ï¿½Jï¿½`ï¿½ð—Ž‚Æ‚ï¿½ï¿½Æ‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½nï¿½ï¿½ï¿½Jï¿½`ï¿½Hï¿½ï¿½ï¿½ï¿½ÈŽï¿½Aï¿½Ã‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½oï¿½ï‚¢ï¿½Í‹ï¿½ï¿½Rï¿½ÆŽï¿½ï¿½Rï¿½ï¿½ï¿½ð‘•‚ï¿½ï¿½Ä‰ï¿½ï¿½oï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½á‚¦ï¿½ÎAï¿½Þ‚Ì‘Oï¿½Å‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½í‚´ï¿½Æ‚ç‚µï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ç‚»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½É‚ï¿½ï¿½Ì‚ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ÄH</font></P>
+    <p class="border6" align="left"><font color="#000000"><font color="#000000"><b>ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÌÝ’ï¿½Æ‚ï¿½ï¿½Ì—ï¿½ï¿½ï¿½<br>
+    </b>ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ê^ï¿½ï¿½Ê‚ÌŽÊ^ï¿½É•Ï‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Ý‚ï¿½ÈAï¿½Þï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ÈŽÊ^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚©ï¿½í‚©ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÌŽÊ^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ó‹µ‚Å‰ï¿½bï¿½ï¿½iï¿½ß‚Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½á‚¦ï¿½ï¿½<br>
+    ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ÌDï¿½ï¿½ï¿½È‰ÌŽï¿½ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½g<br>
+    ï¿½Eï¿½Dï¿½ï¿½ï¿½Èƒyï¿½bï¿½gï¿½ÌŽÊ^<br>
+    ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽÊ^<br>
+    ï¿½Eï¿½Cï¿½wï¿½ï¿½ï¿½sï¿½ÅŽÊ‚ï¿½ï¿½ï¿½ï¿½Ê^<br>
+    ï¿½È‚ï¿½<br>
+    ï¿½ï¿½ï¿½ÌŽÊ^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½é—ï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½(ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ê^ï¿½ÉŽvï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ÆŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê”ï¿½ï¿½ï¿½ï¿½È‚ï¿½)ï¿½B<br>
+    ï¿½Þï¿½ï¿½Í‚ï¿½ï¿½Ì”ï¿½Ê‘Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÄŽÊ^ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì—ï¿½ï¿½ï¿½Å‘ï¿½ï¿½ï¿½ï¿½Å‰ï¿½bï¿½ð‘±‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    <b>¡‘¦‹»‚ðŽæ‚è“ü‚ê‚é–Ú“I<br>
-    </b>E —¬‚ê‚ð’m‚è‚·‚¬‚Ä‚¢‚é‚½‚ß‚É‹N‚±‚é•sŽ©‘R‚³‚É‹C‚ª‚Â‚­B—á‚¦‚ÎA—ûK‚ðd‚Ë‚é‚ÆŽÊ^‚ÉŽÊ‚Á‚Ä‚¢‚é‚Ì‚ª‰½‚¾‚©‚í‚©‚Á‚Ä‚¢‚é‚½‚ß‚ÉAŽÊ^‚ðŽÀÛŒ©‚È‚¢‚Åu’NXv‚Æ‚È‚Ç‚Æ•·‚¢‚Ä‚µ‚Ü‚¤Bu’NXv‚Æ•·‚¢‚Ä‚¢‚½ŽÊ^‚ªŽÀ‚ÍuŒ¢v‚¾‚Á‚½Aˆê“x‚»‚ñ‚ÈŒoŒ±‚ð‚·‚é‚ÆAŽÊ^‚ð‚µ‚Á‚©‚è”`‚¢‚Ä‚©‚ç‘äŽŒ‚ðŒ¾‚¤‚±‚Æ‚ªg‚É‚Â‚­B<br>
-    E ‘¦‹»‚Ås‚Á‚½Ž©‘R‚ÈƒLƒƒƒbƒ`ƒ{[ƒ‹‚É‚æ‚é‰ï˜b‚ðŽÀÛ‚ÌŒ€‚ÉŽæ‚è“ü‚ê‚éB<br>
+    <b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú“I<br>
+    </b>ï¿½E ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½è‚·ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚½ï¿½ß‚É‹Nï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½É‹Cï¿½ï¿½ï¿½Â‚ï¿½ï¿½Bï¿½á‚¦ï¿½ÎAï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½dï¿½Ë‚ï¿½ÆŽÊ^ï¿½ÉŽÊ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½í‚©ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚½ï¿½ß‚ÉAï¿½Ê^ï¿½ï¿½ï¿½ï¿½ï¿½ÛŒï¿½ï¿½È‚ï¿½ï¿½Åuï¿½Nï¿½Xï¿½vï¿½Æ‚È‚Ç‚Æ•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½uï¿½Nï¿½Xï¿½vï¿½Æ•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ê^ï¿½ï¿½ï¿½ï¿½ï¿½Íuï¿½ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ÈŒoï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆAï¿½Ê^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½gï¿½É‚Â‚ï¿½ï¿½B<br>
+    ï¿½E ï¿½ï¿½ï¿½ï¿½ï¿½Åsï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½ÈƒLï¿½ï¿½ï¿½bï¿½`ï¿½{ï¿½[ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½Û‚ÌŒï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     </font></font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000"><br>
     </font>
-    <p class="border1"><b><font color="#000000" size="+2" style="font-size : 150%;"><a name="kadai-3" id="kadai-3">‰Û‘è‚R@Žg—pƒeƒLƒXƒgu‚Ó‚é‚³‚Æv</a></font></b></p>
-    
-    <P class=border6><font color="#000000"><b>¡ê–ÊÝ’è</b><br>
-    ŒÃì—¢”ü‚Í¬Šw‚T”N¶‚Ì—‚ÌŽqBŠÖ¼‚©‚çŽµ‚ÂX’†ŠwZ‚É“]Z‚µ‚Ä‚«‚½B”Þ—‚ÌƒNƒ‰ƒX‚Å‚ÍŒ«‘¾˜Y‚Æ“ì‚Æ‚¢‚¤‚Ql‚Ì¶“k‚ª‚¢‚¶‚ß‚É‚ ‚Á‚Ä‚¢‚½B‚»‚Ì’†Sl•¨‚ÍçHB”Þ—‚Í“]Z‚µ‚Ä‚«‚½‰“ú‚ÉŠw‹‰ˆÏˆõ‚É—§Œó•â‚µAƒNƒ‰ƒX‚ð•Ï‚¦‚æ‚¤‚Æ‚·‚é‚ªŒƒ‚µ‚¢’ïR‚É‘˜‚¤B‚±‚Ì“úA—¢”ü‚Í‚U”N¶‚ð‘—‚é‰ï‚Ì‚T”N¶‚Ìo‚µ•¨‚ðuŒÌ‹½v‚Ì‡¥‚É‚µ‚æ‚¤‚Æ’ñˆÄ‚·‚éB‚µ‚©‚µA‚»‚ê‚ÉŽ^¬‚·‚é‚Ì‚ÍŒ«‘¾˜Y‚Æ‚Ý‚È‚Ý‚Ì‚Ql‚µ‚©‚¢‚È‚©‚Á‚½B</font> <br>
-    <font color="#000000"><b>¡“oêl•¨</b><br>
-    —¢”ü<br>
-    Œ«‘¾˜Y<br>
-    ‚Ý‚È‚Ý(¦l”‚ª­‚È‚¢ê‡‚Í‚Ý‚È‚Ý‚Í“ü‚ê‚È‚­‚Ä‚à‚æ‚¢)<br>
-    çH<br>
-    ‘ñŠC<br>
-    ãÄ‘¾<br>
-    _‰î<br>
-    ’B–ç(¦ãÄ‘¾A_‰îA’B–ç‚Í‚Pl‚ªŽŸX‚Æ‰‰‚¶‚Ä‚à‚æ‚¢)<br>
+    <p class="border1"><b><font color="#000000" size="+2" style="font-size : 150%;"><a name="kadai-3" id="kadai-3">ï¿½Û‘ï¿½Rï¿½@ï¿½gï¿½pï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Ó‚é‚³ï¿½Æv</a></font></b></p>
+
+    <P class=border6><font color="#000000"><b>ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½</b><br>
+    ï¿½Ãì—¢ï¿½ï¿½ï¿½Íï¿½ï¿½wï¿½Tï¿½Nï¿½ï¿½ï¿½Ìï¿½ï¿½ÌŽqï¿½Bï¿½Öï¿½ï¿½ï¿½ï¿½çŽµï¿½ÂXï¿½ï¿½ï¿½wï¿½Zï¿½É“]ï¿½Zï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½Þï¿½ï¿½ÌƒNï¿½ï¿½ï¿½Xï¿½Å‚ÍŒï¿½ï¿½ï¿½ï¿½Yï¿½Æ“ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Qï¿½lï¿½Ìï¿½ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚É‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì’ï¿½ï¿½Sï¿½lï¿½ï¿½ï¿½Íï¿½Hï¿½Bï¿½Þï¿½ï¿½Í“]ï¿½Zï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŠwï¿½ï¿½ï¿½Ïˆï¿½ï¿½É—ï¿½ï¿½ï¿½â‚µï¿½Aï¿½Nï¿½ï¿½ï¿½Xï¿½ï¿½Ï‚ï¿½ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½é‚ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½É‘ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì“ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Í‚Uï¿½Nï¿½ï¿½ï¿½ð‘—‚ï¿½ï¿½Ì‚Tï¿½Nï¿½ï¿½ï¿½Ìoï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Ì‹ï¿½ï¿½vï¿½Ìï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½æ‚¤ï¿½Æ’ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ÉŽ^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÍŒï¿½ï¿½ï¿½ï¿½Yï¿½Æ‚Ý‚È‚Ý‚Ì‚Qï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</font> <br>
+    <font color="#000000"><b>ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½</b><br>
+    ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Y<br>
+    ï¿½Ý‚È‚ï¿½(ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ê‡ï¿½Í‚Ý‚È‚Ý‚Í“ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½æ‚¢)<br>
+    ï¿½ï¿½H<br>
+    ï¿½ï¿½C<br>
+    ï¿½Ä‘ï¿½<br>
+    ï¿½_ï¿½ï¿½<br>
+    ï¿½Bï¿½ï¿½(ï¿½ï¿½ï¿½Ä‘ï¿½ï¿½Aï¿½_ï¿½ï¿½Aï¿½Bï¿½ï¿½Í‚Pï¿½lï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½Æ‰ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½æ‚¢)<br>
     <br>
-    @¦‚Ul`‚Xl‚Ìƒ`[ƒ€‚ðì‚éB‚Tl‚Ìê‡‚Í‚Ý‚È‚Ý‚ð“oêl•¨‚©‚ç”²‚«BãÄ‘¾E_‰îE’B–ç‚ð‚Pl‚ª‰‰‚¶‚éB‚Xl‚Ìê‡‚ÍA‚Wlƒvƒ‰ƒX‰‰o‚ð“ü‚ê‚éB‚Ü‚½‚ÍA‰ž‰‡‚·‚éƒƒ“ƒo[‚ð‘‚â‚µA•”Šˆ‘Sˆõ‚Å‚P‚Â‚ÌƒV[ƒ“‚ð‘n‚Á‚Ä‚à‚æ‚¢B<br>
+    ï¿½@ï¿½ï¿½ï¿½Uï¿½lï¿½`ï¿½Xï¿½lï¿½Ìƒ`ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Tï¿½lï¿½Ìê‡ï¿½Í‚Ý‚È‚Ý‚ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ç”²ï¿½ï¿½ï¿½Bï¿½Ä‘ï¿½ï¿½Eï¿½_ï¿½ï¿½Eï¿½Bï¿½ï¿½ï¿½ï¿½Pï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Xï¿½lï¿½Ìê‡ï¿½ÍAï¿½Wï¿½lï¿½vï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½éƒï¿½ï¿½ï¿½oï¿½[ï¿½ð‘‚â‚µï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½Å‚Pï¿½Â‚ÌƒVï¿½[ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½æ‚¢ï¿½B<br>
     </font></P>
-    <p class="border6" align="left"><font color="#000000"><b>¡ƒeƒLƒXƒg</b><br>
-    ‘ñŠC@(‚µ‚Î‚ç‚­l‚¦‚½Œã)‚í‚©‚Á‚½BŒ«‘¾˜YA‚¨‚Ü‚¦‚ÉŽ^¬‚µ‚Ä‚à‚¢‚¢‚æB<br>
-    Œ«‘¾˜Y@‚Ù‚ñ‚ÆB<br>
-    ‘ñŠC@(”nŽ­‚É‚µ‚Ä)‚¨‚Ü‚¦‚ª‰´‚½‚¿’jŽq‘Sˆõ‚É˜r‘Š–o‚ÅŸ‚Á‚½‚çB<br>
+    <p class="border6" align="left"><font color="#000000"><b>ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g</b><br>
+    ï¿½ï¿½Cï¿½@(ï¿½ï¿½ï¿½Î‚ç‚­ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½Aï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ÉŽ^ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½@ï¿½Ù‚ï¿½ÆB<br>
+    ï¿½ï¿½Cï¿½@(ï¿½nï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½jï¿½qï¿½Sï¿½ï¿½ï¿½É˜rï¿½ï¿½ï¿½oï¿½Åï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@‘ñŠC‚Ì‚Ü‚í‚è‚Ì’jŽq‚ªÎ‚¤B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½Cï¿½Ì‚Ü‚ï¿½ï¿½Ì’jï¿½qï¿½ï¿½ï¿½Î‚ï¿½ï¿½B<br>
     <br>
-    ‘ñŠC@‚Ç‚¤‚·‚éB<br>
-    Œ«‘¾˜Y@(‚µ‚Î‚ç‚­l‚¦‚Ä)‚â‚éB<br>
-    ‘ñŠC@(‹Á‚¢‚Ä)‚â‚é‚ÌH‚â‚é‚ñ‚¾(Î‚¢o‚·)B<br>
-    _‰î@‚Î‚Á‚©‚¶‚á‚È‚¢‚ÌB‰´‚½‚¿‚ª‚¨‚Ü‚¦‚É•‰‚¯‚é‚Í‚¸‚È‚¢‚¶‚á‚ñB<br>
-    ‘ñŠC@‚æ[‚µA‚¨‚à‚µ‚ë‚¢‚¶‚á‚ñB‚â‚ë‚¤‚ºI‚P”ÔŽèAãéãÄ‘¾A‚¢‚¯[B<br>
-    ãÄ‘¾@‚¨‚Á‚µ‚á[BŒ«‘¾˜YAŽè‰ÁŒ¸‚µ‚Ë[‚ºB<br>
-    çH@(Î‚¢‚È‚ª‚ç)‚»‚ê‚¶‚á‚í‚½‚µ‚ÉR”»‚â‚ç‚¹‚ÄB“ñl‚Æ‚à—pˆÓ‚Í‚¢‚¢Bi“ñl‚ªŠ÷‚Ìã‚Å˜r‚ð‘g‚ÞjƒŒƒfƒB[AƒS[I<br>
+    ï¿½ï¿½Cï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½@(ï¿½ï¿½ï¿½Î‚ç‚­ï¿½lï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Cï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ÌHï¿½ï¿½ï¿½ï¿½(ï¿½Î‚ï¿½ï¿½oï¿½ï¿½)ï¿½B<br>
+    ï¿½_ï¿½ï¿½@ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½É•ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Cï¿½@ï¿½ï¿½[ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚¢ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ë‚¤ï¿½ï¿½ï¿½Iï¿½Pï¿½ÔŽï¿½Aï¿½ï¿½ï¿½ï¿½Ä‘ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½B<br>
+    ï¿½Ä‘ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë[ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Hï¿½@(ï¿½Î‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½í‚½ï¿½ï¿½ï¿½ÉRï¿½ï¿½ï¿½ï¿½ç‚¹ï¿½ÄBï¿½ï¿½lï¿½Æ‚ï¿½ï¿½pï¿½Ó‚Í‚ï¿½ï¿½ï¿½ï¿½Bï¿½iï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½Å˜rï¿½ï¿½gï¿½Þjï¿½ï¿½ï¿½fï¿½Bï¿½[ï¿½Aï¿½Sï¿½[ï¿½I<br>
     <br>
-    @@@Œ«‘¾˜Y‚ÆãÄ‘¾‚Ì˜r‘Š–o‚ªŽn‚Ü‚éB<br>
-    @@@‹½Œ´‚½‚¿‚Í‚ ‚©‚ç‚³‚Ü‚ÉãÄ‘¾‚ð‰ž‰‡‚·‚éB<br>
-    @@@—¢”ü‚Æ‚Ý‚È‚Ý‚ÍŒ«‘¾˜Y‚ð‰ž‰‡‚·‚éB<br>
-    @@@Œ«‘¾˜Y‚Í•KŽ€‚ÉŸ‚Æ‚¤‚ÆŠæ’£‚éB<br>
-    @@@‚µ‚©‚µAŒ’“¬‚Þ‚È‚µ‚­AŸ‚Á‚½‚Ì‚ÍãÄ‘¾B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½Ä‘ï¿½ï¿½Ì˜rï¿½ï¿½ï¿½oï¿½ï¿½ï¿½nï¿½Ü‚ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ç‚³ï¿½Ü‚ï¿½ï¿½Ä‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Ý‚È‚Ý‚ÍŒï¿½ï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½Í•Kï¿½ï¿½ï¿½Éï¿½ï¿½Æ‚ï¿½ï¿½ÆŠæ’£ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Þ‚È‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ä‘ï¿½ï¿½B<br>
     <br>
-    Œ«‘¾˜Y@i—Ü‚ªo‚Ä‚­‚éjB<br>
-    _‰î@Œ«‘¾˜YA‹ƒ‚¢‚Ä‚ñ‚ÌHƒ}ƒW‚¾‚Á‚½‚ñ‚¾B<br>
-    ãÄ‘¾@Žc”O‚¾‚Á‚½‚È¤Œ«‘¾˜YB‚»‚ê‚¶‚á—Žq‚Æ‚â‚Á‚Ä‚àŸ‚Ä‚È‚¢‚æB<br>
-    —¢”ü@ãéI‚¨‚Ü‚¦¡A–{ŠÔŒN‚Ì‚±‚ÆA—Žq‚Æ‚â‚Á‚Ä‚àŸ‚Ä‚Ö‚ñŒ¾‚¤‚Ä”nŽ­‚É‚µ‚½‚ÈB‚æ‚µA‚»‚ñ‚È‚ç‚¤‚¿‚ª‘ŠŽè‚âB‚ ‚ñ‚½A—Žq‚É•‰‚¯‚½‚è‚µ‚È‚¢‚ñ‚â‚ëBŠâˆäA‚¤‚¿‚ª‚ ‚ñ‚½‚ç‘Sˆõ‘Å‚¿•‰‚©‚µ‚½‚çA‚¤‚¿‚ÌˆÓŒ©‚ÉŽ^¬‚·‚é‚©B<br>
-    ‘ñŠC@‚¨‚Ü‚¦‚ª˜r‘Š–o‚Å‰´‚½‚¿’jŽq‘Sˆõ‚ÉŸ‚Ä‚é‚Í‚¸‚È‚¢‚¾‚ëB<br>
-    —¢”ü@‚â‚Á‚Ä‚Ý‚È‚í‚©‚ç‚ñB<br>
-    ‘ñŠC@–³—‚¾‚Á‚ÄB<br>
-    —¢”ü@‚»‚ñ‚È‚ÉŽ©M‚ ‚é‚ñ‚â‚Á‚½‚çA‚â‚Á‚Ä‚à‚¦‚¦‚â‚ëB<br>
-    ‘ñŠC@‚í‚©‚Á‚½B‚¨‚Ü‚¦‚ª‰´‚½‚¿‘Sˆõ‚ÉŸ‚Á‚½‚çŽ^¬‚µ‚Ä‚â‚éB<br>
-    —¢”ü@‚æ‚µB<br>
-    ‘ñŠC@ãÄ‘¾A‚¢‚¯[B<br>
-    ãÄ‘¾@ƒI[B<br>
-    çH@ãÄ‘¾A•‰‚¯‚ñ‚È‚æB(í‚¢‚Ì€”õ‚ª®‚¤)ƒŒƒfƒB[AƒS[I<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½@ï¿½iï¿½Ü‚ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½jï¿½B<br>
+    ï¿½_ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ÌHï¿½}ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾B<br>
+    ï¿½Ä‘ï¿½ï¿½@ï¿½cï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¤ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½Bï¿½ï¿½ï¿½ê‚¶ï¿½á—ï¿½qï¿½Æ‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½{ï¿½ÔŒNï¿½Ì‚ï¿½ï¿½ÆAï¿½ï¿½ï¿½qï¿½Æ‚ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ä‚Ö‚ñŒ¾‚ï¿½ï¿½Ä”nï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ÈBï¿½æ‚µï¿½Aï¿½ï¿½ï¿½ï¿½È‚ç‚¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ñ‚½Aï¿½ï¿½ï¿½qï¿½É•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚½‚ï¿½Sï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÌˆÓŒï¿½ï¿½ÉŽ^ï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½B<br>
+    ï¿½ï¿½Cï¿½@ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½oï¿½Å‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½jï¿½qï¿½Sï¿½ï¿½ï¿½Éï¿½ï¿½Ä‚ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚È‚í‚©ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½È‚ÉŽï¿½ï¿½Mï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Cï¿½@ï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½æ‚µï¿½B<br>
+    ï¿½ï¿½Cï¿½@ï¿½Ä‘ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½B<br>
+    ï¿½Ä‘ï¿½ï¿½@ï¿½Iï¿½[ï¿½B<br>
+    ï¿½ï¿½Hï¿½@ï¿½Ä‘ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½B(ï¿½í‚¢ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½fï¿½Bï¿½[ï¿½Aï¿½Sï¿½[ï¿½I<br>
     <br>
-    @@@Ÿ•‰‚Íˆêu‚Å‚Â‚¢‚½B<br>
-    @@@Ÿ‚Á‚½‚Ì‚Í—¢”üB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Íˆï¿½uï¿½Å‚Â‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Í—ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ‘ñŠC@”nŽ­‚â‚ë‚¤B‚È‚É•‰‚¯‚Ä‚ñ‚¾B<br>
-    ãÄ‘¾@‚²‚ß‚ñB<br>
-    —¢”ü@ŽŸ‚Í’NH<br>
-    ‘ñŠC@_‰îB<br>
-    _‰î@ƒIƒbƒP[B<br>
-    ‘ñŠC@–û’f‚·‚é‚È‚æB<br>
-    _‰î@‘åä•v‚¾‚Á‚ÄB<br>
-    çH@_‰îA•‰‚¯‚ñ‚È‚æB—pˆÓ‚Í‚¢‚¢B(í‚¢‚Ì€”õ‚ª®‚¤)ƒŒƒfƒB[AƒS[I<br>
+    ï¿½ï¿½Cï¿½@ï¿½nï¿½ï¿½ï¿½ï¿½ë‚¤ï¿½Bï¿½È‚É•ï¿½ï¿½ï¿½ï¿½Ä‚ñ‚¾B<br>
+    ï¿½Ä‘ï¿½ï¿½@ï¿½ï¿½ï¿½ß‚ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Í’Nï¿½H<br>
+    ï¿½ï¿½Cï¿½@ï¿½_ï¿½ï¿½B<br>
+    ï¿½_ï¿½ï¿½@ï¿½Iï¿½bï¿½Pï¿½[ï¿½B<br>
+    ï¿½ï¿½Cï¿½@ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½È‚ï¿½B<br>
+    ï¿½_ï¿½ï¿½@ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½Hï¿½@ï¿½_ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½Bï¿½pï¿½Ó‚Í‚ï¿½ï¿½ï¿½ï¿½B(ï¿½í‚¢ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½fï¿½Bï¿½[ï¿½Aï¿½Sï¿½[ï¿½I<br>
     <br>
-    @@@Ÿ•‰‚Íˆêu‚Å‚Â‚¢‚½B<br>
-    @@@Ÿ‚Á‚½‚Ì‚Í—¢”üB<br>
-    @@@Šì‚ÔŒ«‘¾˜Y‚Æ‚Ý‚È‚ÝB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Íˆï¿½uï¿½Å‚Â‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Í—ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ÔŒï¿½ï¿½ï¿½ï¿½Yï¿½Æ‚Ý‚È‚ÝB<br>
     <br>
-    ‘ñŠC@_‰îA‚¨‚Ü‚¦‚Ü‚Å‰½‚â‚Á‚Ä‚ñ‚¾B<br>
-    _‰î@ƒ^ƒN‚¿‚á‚ñA‚²‚ß‚ñc<br>
-    ‘ñŠC@ŽŸA’B–çA‚¢‚¯[B<br>
-    ’B–ç@‚æ‚µB<br>
-    çH@’B–çA•‰‚¯‚½‚ç’j‚Ì’p‚¾‚æB(í‚¢‚Ì€”õ‚ª®‚¤)ƒŒƒfƒB[AƒS[I<br>
+    ï¿½ï¿½Cï¿½@ï¿½_ï¿½ï¿½Aï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚Å‰ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ñ‚¾B<br>
+    ï¿½_ï¿½ï¿½@ï¿½^ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ß‚ï¿½c<br>
+    ï¿½ï¿½Cï¿½@ï¿½ï¿½ï¿½Aï¿½Bï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½B<br>
+    ï¿½Bï¿½ï¿½@ï¿½æ‚µï¿½B<br>
+    ï¿½ï¿½Hï¿½@ï¿½Bï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½jï¿½Ì’pï¿½ï¿½ï¿½ï¿½B(ï¿½í‚¢ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½fï¿½Bï¿½[ï¿½Aï¿½Sï¿½[ï¿½I<br>
     <br>
-    @@@”’”M‚µ‚½ŽŽ‡‚ª“WŠJ‚³‚ê‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Mï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½Jï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    —¢”ü@‚±‚±‚Å•‰‚¯‚Ä‚½‚Ü‚é‚©B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Å•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚é‚©ï¿½B<br>
     <br>
-    @@@Ÿ‚Á‚½‚Ì‚Í—¢”üB<br>
-    @@@“ñl‚Æ‚à‘§‚ªr‚¢B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Í—ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½lï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½B<br>
     <br>
-    ‘ñŠC@’B–çI<br>
-    ’B–ç@ƒ^ƒN‚¿‚á‚ñA‚±‚¢‚ÂA‚Â‚¦[‚æB<br>
-    —¢”ü@‚±‚Ì‰Ä‹x‚Ý‚ÉA–ˆ“ú‚Î‚ ‚¿‚á‚ñ•ø‚¢‚Ä‰^‚ñ‚¾‚Ì‚ªŒø‚¢‚½‚©‚ÈBŒã‚QlI</font></P>
-    <p class="border6" align="left"><font color="#000000"><font color="#000000"><b>¡‘¦‹»‚ÌÝ’è‚Æ‚»‚Ì—¬‚ê</b><br>
-    ‰‰Œ€•”‚Å‘å˜r‘Š–o‘å‰ï‚ðs‚¤B<br>
-    ‚Q‚Â‚Ìƒ`[ƒ€‚É•Ê‚¯‚ÄAŠeƒ`[ƒ€‚©‚çˆêl‚¸‚Â‘ã•\‚ðo‚µŽÀÛ‚É–{‹C‚Ì˜r‘Š–o‚ðs‚¤B‚»‚ê‚¼‚ê‚Ìƒ`[ƒ€‚ª‚»‚ê‚¼‚ê‚Ì‘ã•\‚ð^Œ•‚É‰ž‰‡‚·‚éB<br>
-    ˆêlˆêl‚ªAŽ©•ª‚ª‚Ç‚Ì‚æ‚¤‚É‰ž‰‡‚µ‚½‚©‚ðŽv‚¢o‚·BŽ©•ª‚Ì‘äŽŒ‚ªŒˆ‚Ü‚Á‚Ä‚¢‚È‚¢ó‘Ô‚Å‚Ç‚Ì‚æ‚¤‚ÉS‚ª“®‚¢‚½‚©‚ðŽv‚¢o‚·B‚»‚µ‚ÄA‚»‚ê‚ðu‚Ó‚é‚³‚Æv‚Ì˜r‘Š–o‚ÌƒV[ƒ“‚ÉŽæ‚è“ü‚ê‚éB<br>
+    ï¿½ï¿½Cï¿½@ï¿½Bï¿½ï¿½I<br>
+    ï¿½Bï¿½ï¿½@ï¿½^ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÂAï¿½Â‚ï¿½ï¿½[ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ì‰Ä‹xï¿½Ý‚ÉAï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‰^ï¿½ñ‚¾‚Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½Qï¿½lï¿½I</font></P>
+    <p class="border6" align="left"><font color="#000000"><font color="#000000"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌÝ’ï¿½Æ‚ï¿½ï¿½Ì—ï¿½ï¿½ï¿½</b><br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‘ï¿½rï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½B<br>
+    ï¿½Qï¿½Â‚Ìƒ`ï¿½[ï¿½ï¿½ï¿½É•Ê‚ï¿½ï¿½ÄAï¿½eï¿½`ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½Â‘ï¿½\ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Û‚É–{ï¿½Cï¿½Ì˜rï¿½ï¿½ï¿½oï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ê‚¼ï¿½ï¿½Ìƒ`ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚¼ï¿½ï¿½Ì‘ï¿½\ï¿½ï¿½^ï¿½ï¿½ï¿½É‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½lï¿½ï¿½lï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚Ì‚æ‚¤ï¿½É‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½Ô‚Å‚Ç‚Ì‚æ‚¤ï¿½ÉSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Ó‚é‚³ï¿½Ævï¿½Ì˜rï¿½ï¿½ï¿½oï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     </font><br>
-    <font color="#000000"><b>¡‘¦‹»‚ðŽæ‚è“ü‚ê‚é–Ú“I</b><br>
-    Œ€‚Ì’†‚Å‚Í’N‚ª’N‚ð‰ž‰‡‚·‚é‚Æ‚¢‚¤‚±‚Æ‚ÍŒˆ‚Ü‚Á‚Ä‚¢‚éB‚Ü‚½A’N‚ª‚Ç‚Ì‚æ‚¤‚Èó‹µ‚ÅŸ‚Â‚©‚àŒˆ‚Ü‚Á‚Ä‚¢‚éB‚»‚Ì‚½‚ß‚É‰ž‰‡‚ªŒ`‚¾‚¯‚Ì‚à‚Ì‚Æ‚È‚èA‚Rl‚Æ‚Ìí‚¢‚ªA‚Ç‚ê‚àŽ—‚½‚æ‚¤‚ÈŒ`‚¾‚¯‚Ì‰ž‰‡‚Æ‚È‚Á‚Ä‚µ‚Ü‚¢‚ª‚¿‚Å‚ ‚éB‚»‚±‚ÅA–{‹C‚Å˜r‘Š–o‚ð‚·‚é‘å˜r‘Š–o‘å‰ï‚ðs‚¢AŸŽÒ‚ªŒˆ‚Ü‚Á‚Ä‚¢‚È‚¢í‚¢‚ðŽÀÛ‚És‚Á‚Ä‚Ý‚éB‚»‚Ìí‚¢‚Ì’†‚É‚ÍA‚ ‚Á‚Æ‚¢‚¤ŠÔ‚ÉŸ•‰‚ªŒˆ‚Ü‚éí‚¢‚à‚ ‚ê‚ÎA‚È‚©‚È‚©Ÿ•‰‚ª‚Â‚©‚È‚¢í‚¢A‚Ü‚½‚ÍÅŒã‚É‹t“]‚·‚é‚æ‚¤‚Èí‚¢‚à‚ ‚é‚¾‚ë‚¤B‚»‚Ìí‚¢‚Æ‚»‚ÌŽž‚Ì‰ž‰‡‚ðŒ€‚ÉŽæ‚è“ü‚ê‚é‚Ì‚Å‚ ‚éB‚»‚¤‚·‚é‚±‚Æ‚É‚æ‚Á‚ÄŒ€‚ª’P‚È‚éì‚èŽ–‚Å‚Í‚È‚­‚È‚éB<br>
+    <font color="#000000"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú“I</b><br>
+    ï¿½ï¿½ï¿½Ì’ï¿½ï¿½Å‚Í’Nï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÍŒï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½Nï¿½ï¿½ï¿½Ç‚Ì‚æ‚¤ï¿½Èó‹µ‚Åï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚É‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ì‚Æ‚È‚ï¿½Aï¿½Rï¿½lï¿½Æ‚Ìí‚¢ï¿½ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½ÈŒ`ï¿½ï¿½ï¿½ï¿½ï¿½Ì‰ï¿½ï¿½ï¿½ï¿½Æ‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÅAï¿½{ï¿½Cï¿½Å˜rï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ò‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½ï¿½Û‚Ésï¿½ï¿½ï¿½Ä‚Ý‚ï¿½Bï¿½ï¿½ï¿½Ìí‚¢ï¿½Ì’ï¿½ï¿½É‚ÍAï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Ô‚Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÎAï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½È‚ï¿½ï¿½í‚¢ï¿½Aï¿½Ü‚ï¿½ï¿½ÍÅŒï¿½É‹tï¿½]ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½Èí‚¢ï¿½ï¿½ï¿½ï¿½ï¿½é‚¾ï¿½ë‚¤ï¿½Bï¿½ï¿½ï¿½Ìí‚¢ï¿½Æ‚ï¿½ï¿½ÌŽï¿½ï¿½Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚É‚ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½Pï¿½È‚ï¿½ï¿½èŽ–ï¿½Å‚Í‚È‚ï¿½ï¿½È‚ï¿½B<br>
     <br>
-    <b><u>¡‚±‚Ì—ûK‚Å‚Ì—¯ˆÓ“_</u></b><br>
-    ‚½‚­‚³‚ñ‚Ì¶“k‚ª•‘‘ä‚É“oê‚·‚é‚Æ‚«‚É‚ ‚è‚ª‚¿‚È‚Ì‚ÍA‘äŽŒ‚ª‚È‚¢¶“k‚ÌS‚ª“®‚¢‚Ä‚¢‚È‚¢‚±‚Æ‚Å‚·B‘äŽŒ‚Ì‡”Ô‚ª—ˆ‚é‚Ì‚Æ“¯Žž‚É“®‚­‚Ì‚Å‚Í‚È‚­A‘Sˆõ‚ÌS‚ªí‚É“®‚¢‚Ä‚¢‚éŠ´‚¶‚ç‚ê‚é‚Æ‚«‚É•‘‘ä‚Í¶‚«¶‚«‚µ‚Ä‚«‚Ü‚·B<br>
-    ‰‰o‚É“–‚½‚Á‚½l‚ÍA•‘‘äã‚É–ðŽÒ‚ðŽg‚Á‚ÄŠG‚ð•`‚­‚±‚Æ‚ðS‚ª‚¯‚Ä‚­‚¾‚³‚¢BÅI“I‚É‚Í–ô“®Š´‚ª‚ ‚è‚È‚ª‚ç“ˆêŠ´‚Ì‚ ‚é‚P‚Â‚ÌŒ`‚É‘n‚èã‚°‚Ä‚¢‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB‚Å‚«‚ê‚ÎA‘Sˆõ‚ÌŽp‚ªŒ©‚¦‚Ä‚¢‚é‚±‚Æ(­‚È‚­‚Æ‚à’†‰›‚©‚ç‚Í)‚ª—‘z‚Å‚·B‚»‚Ì‘S‘Ì‚Ì“®‚«‚ðŒˆ‚ß‚Ä‚¢‚­‚Ì‚Í‰‰o‚ð’S“–‚·‚él‚Ì–ðŠ„‚¾‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B<br>
+    <b><u>ï¿½ï¿½ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½Å‚Ì—ï¿½ï¿½Ó“_</u></b><br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É“oï¿½ê‚·ï¿½ï¿½Æ‚ï¿½ï¿½É‚ï¿½ï¿½è‚ªï¿½ï¿½ï¿½È‚Ì‚ÍAï¿½äŽŒï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½kï¿½ÌSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Æ‚Å‚ï¿½ï¿½Bï¿½äŽŒï¿½Ìï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Æ“ï¿½ï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½Ì‚Å‚Í‚È‚ï¿½ï¿½Aï¿½Sï¿½ï¿½ï¿½ÌSï¿½ï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½éŠ´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É•ï¿½ï¿½ï¿½Íï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½oï¿½É“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½É–ï¿½ï¿½Ò‚ï¿½ï¿½gï¿½ï¿½ï¿½ÄŠGï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ÅIï¿½Iï¿½É‚Í–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ç“ï¿½êŠ´ï¿½Ì‚ï¿½ï¿½ï¿½Pï¿½Â‚ÌŒ`ï¿½É‘nï¿½ï¿½ã‚°ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Î‚È‚ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½ï¿½ÎAï¿½Sï¿½ï¿½ï¿½ÌŽpï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½ï¿½(ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½ï¿½zï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‘Sï¿½Ì‚Ì“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ä‚ï¿½ï¿½ï¿½ï¿½Ì‚Í‰ï¿½ï¿½oï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½Ì–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     </font></font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000"><br>
     </font>
-    <p class="border7"><font color="#000000" size="+3" style="font-size : 200%;"><a name="emotion" id="emotion"><b>‚Q@Š´î‚É‘äŽŒ‚ðæ‚¹‚é</b></a></font></p>
-    <p class="border8" align="left"><font color="#000000">u‹CŽ‚¿‚ðž‚ß‚Ä‘äŽŒ‚ðŒ¾‚¢‚Ü‚µ‚å‚¤vA‘Œê‚Ì˜N“Ç‚È‚Ç‚ð‚·‚é‚Æ‚«‚æ‚­•·‚­Œ¾—t‚Å‚Í‚È‚¢‚Å‚·‚©B‚µ‚©‚µA‚È‚©‚È‚©Žv‚¤‚æ‚¤‚É‹CŽ‚¿‚ðž‚ß‚ç‚ê‚¸A–_“Ç‚Ý‚É‚È‚Á‚Ä‚µ‚Ü‚¤‚±‚Æ‚ª‚ ‚è‚Ü‚·B‹CŽ‚¿‚ðž‚ß‚æ‚¤‚Æ‚·‚ê‚Î‚·‚é‚Ù‚Ç‚¬‚±‚¿‚È‚­‚È‚é‚±‚Æ‚ª‚µ‚Î‚µ‚Î‚¨‚«‚Ü‚·B‚Ü‚½A•K—vˆÈã‚É‘å‚°‚³‚È‰‰‹Z‚Æ‚È‚è‚ª‚¿‚Å‚·B<br>
-    ‚Å‚à“úí¶Šˆ‚ðU‚è•Ô‚Á‚Ä‚Ý‚Ä‚­‚¾‚³‚¢B–_“Ç‚Ý‚Å‰ï˜b‚ð‚µ‚Ä‚¢‚él‚ð‚Ý‚Â‚¯‚é‚±‚Æ‚Í¢“ï‚Å‚·B‘½‚­‚Ìl‚ªA“úí¶Šˆ‚Å‚Í’N‚à‚ª‚³‚Ü‚´‚Ü‚ÈŠ´î‚É–ž‚¿‚½Ž©‘R‚È‰ï˜b‚ð‚µ‚Ä‚¢‚é‚Ì‚Å‚·Bl‚ÍŒ¾—t‚ÉŠ´î‚ðž‚ß‚Ä‚¢‚é‚Ì‚Å‚Í‚È‚­AŠ´î‚ª‚Ü‚¸¶‚Ü‚êA‚»‚ÌŠ´î‚Ì’†‚ÅŒ¾—t‚ðŒ¾‚Á‚Ä‚¢‚Ü‚·BŠ´î‚Ìˆø‚«o‚µ‚ðì‚Á‚ÄA‚»‚±‚©‚çŠ´î‚ðˆø‚«o‚·‚±‚Æ‚ª‚Å‚«‚ê‚ÎA‹Á‚­‚Ù‚Ç‚Ì’ZŽžŠÔ‚Å‹CŽ‚¿‚Ì‚±‚à‚Á‚½Ž©‘R‚È‘äŽŒ‚ªŒ¾‚¦‚é‚æ‚¤‚É‚È‚è‚Ü‚·B<br>
-    Š´î‚ðŽ©•ª‚Ìˆø‚«o‚µ‚©‚çŽæ‚èo‚µAŽæ‚èo‚µ‚½‚Æ‚±‚ë‚Å‘äŽŒ‚ðŒ¾‚¤‚±‚Æ‚ðŽ„‚ÍuŠ´î‚É‘äŽŒ‚ðæ‚¹‚év‚Æ•\Œ»‚µ‚Ä‚¢‚Ü‚·B‚»‚ê‚Å‚ÍŽ„‚½‚¿‚ªs‚Á‚Ä‚¢‚é(s‚Á‚Ä‚«‚½)uŠ´î‚É‘äŽŒ‚ðæ‚¹‚év—ûK‚ðÐ‰î‚µ‚Ü‚µ‚å‚¤B<br>
+    <p class="border7"><font color="#000000" size="+3" style="font-size : 200%;"><a name="emotion" id="emotion"><b>ï¿½Qï¿½@ï¿½ï¿½ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½</b></a></font></p>
+    <p class="border8" align="left"><font color="#000000">ï¿½uï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ä‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½vï¿½Aï¿½ï¿½ï¿½ï¿½Ì˜Nï¿½Ç‚È‚Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½æ‚­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½Å‚Í‚È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½vï¿½ï¿½ï¿½æ‚¤ï¿½É‹Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ê‚¸ï¿½Aï¿½_ï¿½Ç‚Ý‚É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚æ‚¤ï¿½Æ‚ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½Ù‚Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½Kï¿½vï¿½Èï¿½É‘å‚°ï¿½ï¿½ï¿½È‰ï¿½ï¿½Zï¿½Æ‚È‚è‚ªï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½Å‚ï¿½ï¿½ï¿½ï¿½í¶ï¿½ï¿½ï¿½ï¿½Uï¿½ï¿½Ô‚ï¿½ï¿½Ä‚Ý‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½_ï¿½Ç‚Ý‚Å‰ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½Ý‚Â‚ï¿½ï¿½é‚±ï¿½Æ‚Íï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ìlï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½í¶ï¿½ï¿½ï¿½Å‚Í’Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ÈŠï¿½ï¿½ï¿½É–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½È‰ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½Bï¿½lï¿½ÍŒï¿½ï¿½tï¿½ÉŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ä‚ï¿½ï¿½ï¿½Ì‚Å‚Í‚È‚ï¿½ï¿½Aï¿½ï¿½ï¿½î‚ªï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½Aï¿½ï¿½ï¿½ÌŠï¿½ï¿½ï¿½Ì’ï¿½ï¿½ÅŒï¿½ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Ìˆï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½çŠ´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ÎAï¿½ï¿½ï¿½ï¿½ï¿½Ù‚Ç‚Ì’Zï¿½ï¿½ï¿½Ô‚Å‹Cï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½È‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìˆï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Å‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Íuï¿½ï¿½ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½vï¿½Æ•\ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚ÍŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½(ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½)ï¿½uï¿½ï¿½ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½vï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½Ð‰î‚µï¿½Ü‚ï¿½ï¿½å‚¤ï¿½B<br>
     </font></p>
     <font color="#000000">
     <br>
     </font>
-    <p class="border1"><b><font color="#000000" size="+2" style="font-size : 150%;"><a name="kadai-one" id="kadai-one">‰Û‘è‚Pu“{‚èv‚ÌŠ´î‚É‘äŽŒ‚ðæ‚¹‚é@Žg—p‚·‚éƒeƒLƒXƒgutˆê”Ôv</a><br>
+    <p class="border1"><b><font color="#000000" size="+2" style="font-size : 150%;"><a name="kadai-one" id="kadai-one">ï¿½Û‘ï¿½Pï¿½uï¿½{ï¿½ï¿½vï¿½ÌŠï¿½ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½tï¿½ï¿½Ôv</a><br>
     </font></b></p>
     <P class=border6><font color="#000000">
-    ¡‰Û‘è<br>
-    u“{‚èv‚Ì•\Œ»‚ðA‚Ü‚¸u“{‚èv‚Ì‹CŽ‚¿‚ð•ø‚¢‚½’†‚Å‘äŽŒ‚ðŒ¾‚¤‚±‚Æ‚Åg‚É‚Â‚¯‚Ä‚¢‚­B<br>
+    ï¿½ï¿½ï¿½Û‘ï¿½<br>
+    ï¿½uï¿½{ï¿½ï¿½vï¿½Ì•\ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½uï¿½{ï¿½ï¿½vï¿½Ì‹Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Ågï¿½É‚Â‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡‰Û‘è—ûK‚Ì‘O‚És‚¤Žæ‘g<br>
-    u“{‚èv‚ð•ø‚¢‚½ŒoŒ±‚ðŽv‚¢•‚‚©‚×‚ÄB‚»‚Ì‹CŽ‚¿‚ð•ø‚¢‚½’†‚ÅBu’´E“ª‚É—ˆ‚év‚ÆŒ¾‚Á‚ÄŒ©‚éBÃ‚©‚ÉŒ¾‚¤Œ¾‚¢•û‚à‚ ‚èA“{–Â‚éŒ¾‚¢•û‚à‚ ‚éB‚³‚Ü‚´‚Ü‚ÈŒ¾‚¢•û‚ðu“{‚èv‚ð•ø‚¢‚½’†‚ÅŽŽ‚Ý‚éB<br>
-    ’ˆÓ“_‚Æ‚µ‚ÄAu“{‚èv‚ÌŽv‚¢‚ð‚ ‚Ü‚èg‹ß‚È‚Æ‚±‚ë‚É‚Ý‚Â‚¯‚é‚ÆA—ûK‚ªŽE”°‚Æ‚µAŠwZ¶Šˆ‚É‚¨‚¢‚Ä‚æ‚¢‚Æ‚ÍŽv‚¦‚È‚¢ó‹µ‚ª‹N‚«‚é‰Â”\«‚ª‚ ‚é‚±‚Æ‚ÍA”O“ª‚É’u‚©‚È‚­‚Ä‚Í‚¢‚¯‚È‚¢B<br>
-    u“{‚èv‚Ìˆø‚«o‚µ‚ªAŒ©‚Â‚©‚Á‚½‚Æ‚±‚ë‚ÅAƒeƒLƒXƒg‚ÉŽæ‚è‘g‚ÞB<br>
+    ï¿½ï¿½ï¿½Û‘ï¿½ï¿½ï¿½Kï¿½Ì‘Oï¿½Ésï¿½ï¿½ï¿½ï¿½g<br>
+    ï¿½uï¿½{ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×‚ÄBï¿½ï¿½ï¿½Ì‹Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅBï¿½uï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½É—ï¿½ï¿½ï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½Bï¿½Ã‚ï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½{ï¿½Â‚éŒ¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ÈŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½{ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅŽï¿½ï¿½Ý‚ï¿½B<br>
+    ï¿½ï¿½ï¿½Ó“_ï¿½Æ‚ï¿½ï¿½ÄAï¿½uï¿½{ï¿½ï¿½vï¿½ÌŽvï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½gï¿½ß‚È‚Æ‚ï¿½ï¿½ï¿½É‚Ý‚Â‚ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Aï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½Ä‚æ‚¢ï¿½Æ‚ÍŽvï¿½ï¿½ï¿½È‚ï¿½ï¿½ó‹µ‚ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½Â”\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ÍAï¿½Oï¿½ï¿½ï¿½É’uï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚Í‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½uï¿½{ï¿½ï¿½vï¿½Ìˆï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ÅAï¿½eï¿½Lï¿½Xï¿½gï¿½ÉŽï¿½ï¿½gï¿½ÞB<br>
     <br>
-    ¡ê–ÊÝ’è<br>
-    ™yŽq‚Í‚¨’‹‚Ì•ú‘—‚Å‚Ó‚´‚¯‚Ä‚¢‚é‚Æ‚µ‚©Žv‚¦‚È‚¢‹‹H‚ÌÐ‰î‚ð‚·‚éB‚»‚ê‚ÍA‹³Žº‚És‚¯‚¸‚¸‚Á‚Æ•ú‘—Žº‚ÅŠwZ¶Šˆ‚ð‘—‚Á‚Ä‚¢‚é—T”ü‚ðÎ‚í‚¹‚é‚½‚ß‚Ì‚à‚Ì‚¾‚Á‚½‚ªA‚»‚ñ‚È‚±‚Æ‚ð’m‚ç‚È‚¢Œ´“cæ¶‚ª•ú‘—Žº‚É”ò‚Ñž‚ñ‚Å‚«‚ÄAˆê•û“I‚É™yŽq‚Ì‚±‚Æ‚ð“{‚éB<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½yï¿½qï¿½Í‚ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½Å‚Ó‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Hï¿½ÌÐ‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅŠwï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ð‘—‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½Î‚í‚¹ï¿½é‚½ï¿½ß‚Ì‚ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½mï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½cï¿½æ¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É”ï¿½Ñï¿½ï¿½ï¿½Å‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½Iï¿½É™yï¿½qï¿½Ì‚ï¿½ï¿½Æ‚ï¿½{ï¿½ï¿½B<br>
     <br>
-    ¡“oêl•¨<br>
-    ŠÝ@™yŽq<br>
-    Œ´“cæ¶<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½<br>
+    ï¿½Ý@ï¿½yï¿½q<br>
+    ï¿½ï¿½ï¿½cï¿½æ¶<br>
     </font></P>
     <p class="border6" align="left"><font color="#000000">
-    ¡ƒeƒLƒXƒg<br>
-    @@@•ú‘—Žº‚Ì•ú‘—‹@Ší‚Ì‚©‚ço‚Ä‚¢‚éƒ}ƒCƒN‚Ì‘O‚É™yŽq‚ªÀ‚Á‚Ä‚¢‚éB<br>
-    @@@™yŽq‚Ì‚¨’‹‚Ì•ú‘—‚ªŽn‚Ü‚éB‚»‚ê‚Í¶•ú‘—‚Å‚ ‚éB<br>
+    ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½}ï¿½Cï¿½Nï¿½Ì‘Oï¿½É™yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½yï¿½qï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½Ü‚ï¿½Bï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ™yŽq@‚Ý‚È‚³‚ñ‚±‚ñ‚É‚¿‚ÍA“ñŒŽ\˜Z“úŒŽ—j“úA‚¨’‹‚Ì•ú‘—‚ÌŽžŠÔ‚ª‚â‚Á‚Ä‚«‚Ü‚µ‚½B–ˆTŒŽ—j“ú‚Íu‚ ‚È‚½‚ÉƒCƒ“ƒ^ƒrƒ…[v‚ð•ú‘—‚µ‚Ä‚«‚Ü‚µ‚½‚ªA¡“ú‚Í—\’è‚ð•ÏX‚µ‚Äu¡“ú‚ÌŒ£—§‚©‚çv‚ð•ú‘—‚µ‚Ü‚·B‚»‚ê‚Å‚Íƒ~ƒ…[ƒWƒbƒNAƒXƒ^[ƒgB(™yŽq‚ª”ß‚µ‚°‚È‰¹Šy‚ð‚©‚¯A‚»‚ÌƒƒƒfƒB[‚Éæ‚Á‚Ä•ú‘—‚·‚é)¡“ú‚ÌŒ£—§‚ÍAƒJƒŒ[ƒ‰ƒCƒXAƒNƒWƒ‰“÷ƒmƒ‹ƒEƒF[•—A‚»‚µ‚Ä‹“û‚Å‚·BƒJƒŒ[ƒ‰ƒCƒX‚Íð”N‚ÌŽµŒŽAŠwZHŽ–Œ¤‹†‰ï‚ªs‚Á‚½’²¸‚ÅAu‹P‚¯IŽq‚Ç‚à‚½‚¿‚ªD‚«‚ÈŒ£—§ƒxƒXƒg‚P‚Ov‚Ìƒgƒbƒv‚É‘I‚Î‚ê‚½HŽ–‚Å‚·B‚³‚ A¡“ú‚Í‚»‚ÌƒJƒŒ[ƒ‰ƒCƒX‚ð‚¶‚Á‚­‚è–¡‚í‚Á‚ÄH‚×‚Ü‚µ‚å‚¤B<br>
+    ï¿½yï¿½qï¿½@ï¿½Ý‚È‚ï¿½ï¿½ñ‚±‚ï¿½É‚ï¿½ï¿½ÍAï¿½ñŒŽ\ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Tï¿½ï¿½ï¿½jï¿½ï¿½ï¿½Íuï¿½ï¿½ï¿½È‚ï¿½ï¿½ÉƒCï¿½ï¿½ï¿½^ï¿½rï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Í—\ï¿½ï¿½ï¿½ÏXï¿½ï¿½ï¿½Äuï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Å‚Íƒ~ï¿½ï¿½ï¿½[ï¿½Wï¿½bï¿½Nï¿½Aï¿½Xï¿½^ï¿½[ï¿½gï¿½B(ï¿½yï¿½qï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½È‰ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ìƒï¿½ï¿½ï¿½ï¿½fï¿½Bï¿½[ï¿½Éï¿½ï¿½ï¿½Ä•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ÍAï¿½Jï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Cï¿½Xï¿½Aï¿½Nï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½Eï¿½Fï¿½[ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä‹ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½Jï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Cï¿½Xï¿½Íï¿½Nï¿½ÌŽï¿½ï¿½ï¿½ï¿½Aï¿½wï¿½Zï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï‚ªï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅAï¿½uï¿½Pï¿½ï¿½ï¿½Iï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½ÈŒï¿½ï¿½ï¿½ï¿½xï¿½Xï¿½gï¿½Pï¿½Oï¿½vï¿½Ìƒgï¿½bï¿½vï¿½É‘Iï¿½Î‚ê‚½ï¿½Hï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ÌƒJï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Cï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è–¡ï¿½ï¿½ï¿½ï¿½ÄHï¿½×‚Ü‚ï¿½ï¿½å‚¤ï¿½B<br>
     <br>
-    @@@™yŽq‚ª”ß‚µ‚°‚È‰¹Šy‚ðŽ~‚ß‚éB<br>
-    @@@‚»‚±‚ÉAŒ´“cæ¶‚ª“ü‚Á‚Ä‚­‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½È‰ï¿½ï¿½yï¿½ï¿½ï¿½~ï¿½ß‚ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÉAï¿½ï¿½ï¿½cï¿½æ¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    <u>šŽÀÛ‚Ì—ûK‚Í‚±‚±‚©‚çB</u><br>
-    æ¶@ŠÝB‰½A¡‚Ì•ú‘—B<br>
-    ™yŽq@‰½‚©–â‘è‚Å‚àH<br>
-    æ¶@–â‘è‚Å‚à‚Á‚ÄA‚Ç‚¤‚µ‚Ä‚ ‚ñ‚È•ú‘—‚µ‚½‚ÌH<br>
-    ™yŽq@•Ê‚Éc<br>
-    æ¶@•Ê‚É‚Á‚ÄA–ó‚à‚È‚­‚â‚Á‚½‚ÌB<br>
-    ™yŽq@–ó‚Í‚ ‚é‚æB<br>
-    æ¶@‚ ‚é‚í‚¯‚È‚¢‚Å‚µ‚åB<br>
-    ™yŽq@–ó‚à‚È‚­‚â‚Á‚½‚Ì‚Á‚Ä•·‚¢‚Ä‚«‚½‚Ìæ¶‚Å‚µ‚åA‚¾‚©‚ç–ó‚ª‚ ‚é‚Á‚ÄcA‚»‚µ‚½‚ç‚ ‚é‚í‚¯‚È‚¢‚Å‚µ‚å‚Á‚ÄA–ó‚í‚©‚ñ‚Ë[B<br>
-    æ¶@–ó‚ª‚ ‚é‚Ì‚ËB<br>
-    ™yŽq@‚¾‚©‚ç‚ ‚é‚Á‚ÄB<br>
-    æ¶@(‚½‚½‚Ý‚©‚¯‚Ä)‚¶‚á‚Ç‚ñ‚È–ó‚ª‚ ‚é‚Á‚ÄŒ¾‚¤‚ÌB<br>
-    ™yŽq@‚±‚±‚¶‚áŒ¾‚¦‚Ë[B<br>
-    æ¶@‚»‚ê‚¶‚áA‚Ç‚±‚È‚çŒ¾‚¦‚é‚ÌB<br>
-    ™yŽq@(‚ ‚Á)‚Ç‚±‚Å‚àŒ¾‚¦‚Ë[c<br>
-    æ¶@‚â‚Á‚Ï‚è–ó‚È‚ñ‚©‚È‚¢‚ñ‚¶‚á‚È‚¢B<br>
-    ™yŽq@‚¾‚Á‚½‚ç‚Ç‚¤‚¾‚Á‚Ä‚¢‚¤‚í‚¯B<br>
-    æ¶@‚à‚¤‚ ‚ñ‚È‚Î‚©‚°‚½•ú‘—‚â‚ß‚ÄB<br>
-    ™yŽq@c<br>
-    æ¶@‚í‚©‚Á‚½H<br>
-    ™yŽq@‚Í‚¢‚Í‚¢B<br>
-    æ¶@‚Í‚¢‚Íˆê‰ñ‚Å‚¢‚¢B<br>
-    ™yŽq@(“Š‚°‚â‚è‚É)‚Í‚¢I<br>
-    æ¶@c<br>
+    <u>ï¿½ï¿½ï¿½ï¿½ï¿½Û‚Ì—ï¿½ï¿½Kï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B</u><br>
+    ï¿½æ¶ï¿½@ï¿½ÝBï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½H<br>
+    ï¿½æ¶ï¿½@ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ÄAï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½È•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌH<br>
+    ï¿½yï¿½qï¿½@ï¿½Ê‚Éc<br>
+    ï¿½æ¶ï¿½@ï¿½Ê‚É‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½í‚¯ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Ä•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ìæ¶ï¿½Å‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ó‚ª‚ï¿½ï¿½ï¿½ï¿½ï¿½Äcï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚ ï¿½ï¿½í‚¯ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½í‚©ï¿½ï¿½Ë[ï¿½B<br>
+    ï¿½æ¶ï¿½@ï¿½ó‚ª‚ï¿½ï¿½ï¿½Ì‚ËB<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ç‚ ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½æ¶ï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½È–ó‚ª‚ï¿½ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½áŒ¾ï¿½ï¿½ï¿½Ë[ï¿½B<br>
+    ï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½È‚çŒ¾ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½yï¿½qï¿½@(ï¿½ï¿½ï¿½ï¿½)ï¿½Ç‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë[ï¿½c<br>
+    ï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½È‚ñ‚©‚È‚ï¿½ï¿½ñ‚¶‚ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½í‚¯ï¿½B<br>
+    ï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ÄB<br>
+    ï¿½yï¿½qï¿½@ï¿½c<br>
+    ï¿½æ¶ï¿½@ï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½yï¿½qï¿½@ï¿½Í‚ï¿½ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½æ¶ï¿½@ï¿½Í‚ï¿½ï¿½Íˆï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½Í‚ï¿½ï¿½I<br>
+    ï¿½æ¶ï¿½@ï¿½c<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000">
     <br>
     </font>
-    <p class="border1"><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="kadai-two" id="kadai-two">‰Û‘è‚QuŠì‚Ñv‚ÌŠ´î‚É‘äŽŒ‚ðæ‚¹‚é@Žg—p‚·‚éƒeƒLƒXƒgu‚Æ‚àv</a></b></font></p>
+    <p class="border1"><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="kadai-two" id="kadai-two">ï¿½Û‘ï¿½Qï¿½uï¿½ï¿½Ñvï¿½ÌŠï¿½ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Æ‚ï¿½ï¿½v</a></b></font></p>
     <P class=border6><font color="#000000">
-    ¡‰Û‘è<br>
-    ‚³‚Ü‚´‚Ü‚ÈuŠì‚Ñv‚Ì•\Œ»‚ðg‚É‚Â‚¯‚éB‚³‚Ü‚´‚Ü‚ÈuŠì‚Ñv‚ªW‚Ü‚Á‚ÄA‚P‚Â‚Ì‘å‚«‚ÈuŠì‚Ñv‚Ì•\Œ»‚ð‘n‚èo‚·B<br>
-    ¡‰Û‘è—ûK‚Ì‘O‚És‚¤Žæ‘g<br>
-    u“ø‚Ì”Þ•û‚Öv‚Æ‚¢‚¤Œ€‚ªA‘å‰ï‚ÅÅ—DGÜ‚ðŽæ‚Á‚½‚Æ‚¢‚¤Ý’è‚ÅA‚³‚Ü‚´‚Ü‚ÈŠì‚Ñ‚ð•\Œ»‚·‚éB<br>
-    ‡@@‰‰o’S“–‚ªuÅ—DGÜcw“ø‚Ì”Þ•û‚Öxv‚ÆŒ¾‚Á‚½uŠÔA‹©‚Ñº‚ðã‚°‚é‚æ‚¤‚ÈŠ½Šì‚Ì•\Œ»‚ÅuŠì‚Ñv‚ð•\‚·B‚È‚©‚È‚©‚¤‚Ü‚­•\Œ»‚Å‚«‚È‚¢‚Æ‚«‚É‚ÍA¡‚Ü‚Å‚ÉŠð‚µ‚©‚Á‚½‚±‚Æ‚ðŽv‚¢o‚µA‚»‚ÌŽv‚¢o‚Å‹CŽ‚¿‚ª–ž‚½‚³‚ê‚½‚Æ‚±‚ë‚ÅuÅ—DGÜcw“ø‚Ì”Þ•û‚Öxv‚ÆŒ¾‚Á‚Ä‚à‚ç‚¤B<br>
-    ‡A@‰‰o’S“–‚ªuÅ—DGÜcw“ø‚Ì”Þ•û‚Öxv‚ÆŒ¾‚Á‚½Œã‚ÅA‚µ‚Ý‚¶‚Ý‚ÆŠì‚Ñ‚ð‚©‚Ý‚µ‚ß‚é•\Œ»‚ð‚·‚éBŠð‚µ‚­‚Ä‹ƒ‚¢‚Ä‚µ‚Ü‚¤‚æ‚¤‚ÈŠì‚Ñ‚Ì•\Œ»‚Å‚ ‚éB<br>
-    ‡B@‚Ql‘g‚ðì‚éB‰‰o’S“–‚ªuÅ—DGÜcw“ø‚Ì”Þ•û‚Öxv‚ÆŒ¾‚Á‚½uŠÔA‚Ql‚Í‹©‚Ñº‚ðã‚°‚ÄŠì‚Ñ‡‚¤B‚Ql‚Æ‚à‘¦‹»‚Å‰‰‹Z‚ð‘±‚¯‚Ä‚¢‚­B<br>
-    ‡C@‚»‚Ì‚Ql‘g‚ªA¡“x‚Í‰‰o’S“–‚ªuÅ—DGÜcw“ø‚Ì”Þ•û‚Öxv‚ÆŒ¾‚Á‚½Œã‚ÅAˆêl‚Í‹©‚Ñº‚ðo‚µ‚ÄŠì‚ÑA‚à‚¤ˆêl‚Í‚µ‚Ý‚¶‚Ý‚ÆŠì‚ÑA‚»‚µ‚Ä‚Ql‚Í‘¦‹»‚Å‰‰‹Z‚ð‘±‚¯‚Ä‚¢‚­B<br>
-    ‡D@‚Sl`‚Ul‚ÌƒOƒ‹[ƒv‚ðì‚éB‰‰o’S“–‚ªuÅ—DGÜcw“ø‚Ì”Þ•û‚Öxv‚ÆŒ¾‚Á‚½Œã‚ÅAƒOƒ‹[ƒv‘Sˆõ‚ªŠì‚Ñ‚ð•\Œ»‚·‚éB‚³‚Ü‚´‚Ü‚ÈŠì‚Ñ‚Ì•\Œ»‚ª¶‚Ü‚ê‚é‚±‚Æ‚ª–]‚Ü‚µ‚¢B<br>
-    ‡E@•”ˆõ‘Sˆõ‚ª”­•\‚ð‘Ò‚Á‚Ä‚¢‚éB•”’·‚ªuÅ—DGÜcw“ø‚Ì”Þ•û‚Öxv‚ÆŒ¾‚Á‚½Œã‚ÅA‘Sˆõ‚ªŠì‚Ñ‚ð•\Œ»‚·‚éB‚³‚Ü‚´‚Ü‚ÈŠì‚Ñ‚ÌŒ`‚ª‚P‚Â‚Ì‘å‚«‚ÈŠG‚É‚È‚é‚æ‚¤‚É‰‰o‚µ‚Ä‚¢‚­BÅI“I‚É‚Í‚P‚Â‚Ì‚«‚ê‚¢‚ÈŒ`‚ÅÃŽ~‚·‚éB<br>
+    ï¿½ï¿½ï¿½Û‘ï¿½<br>
+    ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚Èuï¿½ï¿½Ñvï¿½Ì•\ï¿½ï¿½ï¿½ï¿½gï¿½É‚Â‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚Èuï¿½ï¿½Ñvï¿½ï¿½ï¿½Wï¿½Ü‚ï¿½ï¿½ÄAï¿½Pï¿½Â‚Ì‘å‚«ï¿½Èuï¿½ï¿½Ñvï¿½Ì•\ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½oï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½Û‘ï¿½ï¿½ï¿½Kï¿½Ì‘Oï¿½Ésï¿½ï¿½ï¿½ï¿½g<br>
+    ï¿½uï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Övï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÅÅ—Dï¿½Gï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Ý’ï¿½ÅAï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ÈŠï¿½Ñ‚ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½ï¿½ï¿½oï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Å—Dï¿½Gï¿½Ücï¿½wï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Öxï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ÔAï¿½ï¿½ï¿½Ñï¿½ï¿½ï¿½ï¿½ã‚°ï¿½ï¿½æ‚¤ï¿½ÈŠï¿½ï¿½ï¿½Ì•\ï¿½ï¿½ï¿½Åuï¿½ï¿½Ñvï¿½ï¿½\ï¿½ï¿½ï¿½Bï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½\ï¿½ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½É‚ÍAï¿½ï¿½ï¿½Ü‚Å‚ÉŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŽvï¿½ï¿½ï¿½oï¿½Å‹Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½Æ‚ï¿½ï¿½ï¿½Åuï¿½Å—Dï¿½Gï¿½Ücï¿½wï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Öxï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ç‚¤ï¿½B<br>
+    ï¿½Aï¿½@ï¿½ï¿½ï¿½oï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Å—Dï¿½Gï¿½Ücï¿½wï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Öxï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½Ý‚ï¿½ï¿½Ý‚ÆŠï¿½Ñ‚ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ß‚ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‹ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½æ‚¤ï¿½ÈŠï¿½Ñ‚Ì•\ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Bï¿½@ï¿½Qï¿½lï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½oï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Å—Dï¿½Gï¿½Ücï¿½wï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Öxï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ÔAï¿½Qï¿½lï¿½Í‹ï¿½ï¿½Ñï¿½ï¿½ï¿½ï¿½ã‚°ï¿½ÄŠï¿½Ñï¿½ï¿½ï¿½ï¿½Bï¿½Qï¿½lï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‰ï¿½ï¿½Zï¿½ð‘±‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Cï¿½@ï¿½ï¿½ï¿½Ì‚Qï¿½lï¿½gï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½xï¿½Í‰ï¿½ï¿½oï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Å—Dï¿½Gï¿½Ücï¿½wï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Öxï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅAï¿½ï¿½lï¿½Í‹ï¿½ï¿½Ñï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ÄŠï¿½ÑAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½Í‚ï¿½ï¿½Ý‚ï¿½ï¿½Ý‚ÆŠï¿½ÑAï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Qï¿½lï¿½Í‘ï¿½ï¿½ï¿½ï¿½Å‰ï¿½ï¿½Zï¿½ð‘±‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Dï¿½@ï¿½Sï¿½lï¿½`ï¿½Uï¿½lï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½oï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Å—Dï¿½Gï¿½Ücï¿½wï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Öxï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅAï¿½Oï¿½ï¿½ï¿½[ï¿½vï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ‚ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ÈŠï¿½Ñ‚Ì•\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½é‚±ï¿½Æ‚ï¿½ï¿½]ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Eï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½Ò‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Å—Dï¿½Gï¿½Ücï¿½wï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Öxï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅAï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ‚ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ÈŠï¿½Ñ‚ÌŒ`ï¿½ï¿½ï¿½Pï¿½Â‚Ì‘å‚«ï¿½ÈŠGï¿½É‚È‚ï¿½æ‚¤ï¿½É‰ï¿½ï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ÅIï¿½Iï¿½É‚Í‚Pï¿½Â‚Ì‚ï¿½ï¿½ê‚¢ï¿½ÈŒ`ï¿½ÅÃŽ~ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡ê–ÊÝ’è<br>
-    •‘‘ä‚ÍŽµ‚ÂX‘‡•a‰@B•‘‘ä‚Ì‘O”¼•ª‚ª’q‰Ô‚Ì•aŽº‚Å‚ ‚èA’q‰Ô‚ÍŒÂŽº‚É“ü‚Á‚Ä‚¢‚éB<br>
-    @’†’ë‚ð‹²‚ñ‚ÅA’q‰Ô‚ª‚¢‚é•a“‚ÌŒü‚©‚¢‘¤‚É‚à•a“‚ª‚ ‚èA’q‰Ô‚Ì•aŽº‚Ì^Œü‚©‚¢‚Ì•aŽº‚É’m‹P‚ª“ü‚Á‚Ä‚¢‚éB“ñ‚Â‚Ì•aŽº‚ÍŒü‚©‚¢‡‚Á‚Ä‚¢‚é‚Ì‚Å‚ ‚é‚ªA•‘‘äã‚Å‚Í‚Ç‚¿‚ç‚à‹qÈ‚ðŒü‚¢‚Ä‚¢‚éB•‘‘ä‚ÌŒã‚ë”¼•ª‚ª’m‹P‚Ì•aŽº‚Æ‚È‚éB’m‹P‚Ì•aŽº‚ÍA’q‰Ô‚Ì•aŽº‚æ‚è‚à‚‚¢ˆÊ’u‚ÉÝ’è‚³‚ê‚Ä‚¢‚éB<br>
-    ’m‹P‚ª•aŽº‚Ì‘‹‚©‚ç’q‰Ô‚Ì•aŽº‚ð’­‚ß‚Ä‚¢‚éB’q‰Ô‚à‘‹‚ÌŠO‚ð’­‚ß‚Ä‚¢‚éB‚½‚¾’q‰Ô‚ª’­‚ß‚Ä‚¢‚é‚Ì‚Í•aŽº‚©‚çŒ©‚¦‚é‹ó‚Å‚ ‚éB’q‰Ô‚Í—¼‘«‚ð‚¯‚ª‚µ‚Ä‚¢‚éB‚»‚Ì‚½‚ß—¼˜e‚É¼—tñ‚ð‚Í‚³‚ÝA‚»‚ê‚ðŽx‚¦‚Æ‚µ‚Ä‘‹•Ó‚É—§‚Á‚Ä‚¢‚éB<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ÍŽï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½aï¿½@ï¿½Bï¿½ï¿½ï¿½ï¿½Ì‘Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½Ô‚Ì•aï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Aï¿½qï¿½Ô‚ÍŒÂŽï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅAï¿½qï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½aï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½qï¿½Ô‚Ì•aï¿½ï¿½ï¿½Ì^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì•aï¿½ï¿½ï¿½É’mï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½Â‚Ì•aï¿½ï¿½ï¿½ÍŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½é‚ªï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í‚Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ÌŒï¿½ë”¼ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½Pï¿½Ì•aï¿½ï¿½ï¿½Æ‚È‚ï¿½Bï¿½mï¿½Pï¿½Ì•aï¿½ï¿½ï¿½ÍAï¿½qï¿½Ô‚Ì•aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê’uï¿½ÉÝ’è‚³ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½mï¿½Pï¿½ï¿½ï¿½aï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½Ô‚Ì•aï¿½ï¿½ï¿½ð’­‚ß‚Ä‚ï¿½ï¿½ï¿½Bï¿½qï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ÌŠOï¿½ð’­‚ß‚Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½qï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ß‚Ä‚ï¿½ï¿½ï¿½Ì‚Í•aï¿½ï¿½ï¿½ï¿½ï¿½çŒ©ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½qï¿½Ô‚Í—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß—ï¿½ï¿½eï¿½Éï¿½ï¿½tï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ÝAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä‘ï¿½ï¿½Ó‚É—ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡“oêl•¨<br>
-    ’m‹P<br>
-    ’q‰Ô<br>
-    ‰‰Œ€•”ˆõ<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½<br>
+    ï¿½mï¿½P<br>
+    ï¿½qï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
     </font></P>
-    <p class="border6" align="left"><font color="#000000">¡ƒeƒLƒXƒg<img src="daihon/img051-Tomo.jpg" width="286" height="263" border="0" align="right">’m‹P@’q‰Ô‚Ì˜b‚ð‚µ‚æ‚¤B<br>
-    ’q‰Ô@’m‹P‚Ì˜b‚ð‚·‚éB<br>
-    ’m‹P@–l‚Ì•aŽº‚Ì‘‹‚©‚çAŒü‚±‚¤‚Ì“‚ªŒ©‚¦‚éB’q‰Ô‚Ì•”‰®‚Í–l‚Ì•”‰®‚Ì^³–ÊB’q‰Ô‚Í‚¸‚Á‚Æ‹ó‚ð’­‚ß‚Ä‚¢‚½B–l‚Í‚»‚ñ‚È’q‰Ô‚ð‚¸‚Á‚Æ’­‚ß‚Ä‚¢‚½B<br>
-    ’q‰Ô@‹ó‚ð’­‚ß‚Ä‚¢‚éŽ„‚ð’­‚ß‚Ä‚¢‚él‚ª‚¢‚é‚È‚ñ‚Ä‹C‚Ã‚©‚È‚©‚Á‚½B‚à‚¿‚ë‚ñ‚»‚ê‚ª’m‹P‚¾‚Æ‚¢‚¤‚±‚Æ‚àB‚»‚à‚»‚àŽ„‚Í’m‹P‚ð’m‚ç‚È‚©‚Á‚½B<br>
+    <p class="border6" align="left"><font color="#000000">ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<img src="daihon/img051-Tomo.jpg" width="286" height="263" border="0" align="right">ï¿½mï¿½Pï¿½@ï¿½qï¿½Ô‚Ì˜bï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½B<br>
+    ï¿½qï¿½Ô@ï¿½mï¿½Pï¿½Ì˜bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½mï¿½Pï¿½@ï¿½lï¿½Ì•aï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½qï¿½Ô‚Ì•ï¿½ï¿½ï¿½ï¿½Í–lï¿½Ì•ï¿½ï¿½ï¿½ï¿½Ì^ï¿½ï¿½ï¿½ÊBï¿½qï¿½Ô‚Í‚ï¿½ï¿½ï¿½ï¿½Æ‹ï¿½ð’­‚ß‚Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½lï¿½Í‚ï¿½ï¿½ï¿½È’qï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ’ï¿½ï¿½ß‚Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½qï¿½Ô@ï¿½ï¿½ð’­‚ß‚Ä‚ï¿½ï¿½éŽ„ï¿½ð’­‚ß‚Ä‚ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½Ä‹Cï¿½Ã‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚»‚ê‚ªï¿½mï¿½Pï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í’mï¿½Pï¿½ï¿½mï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    <u>šŽÀÛ‚Ì—ûK‚Í‚±‚±‚©‚ç<br>
-    </u>’m‹P@’q‰Ô‚ÍŽµ‚ÂX—Šw‰@’†ŠwZ‚Ì‚Q”N¶BæŒŽ‚©‚ç‚±‚±Žµ‚ÂX‘‡•a‰@‚É“ü‰@‚µ‚Ä‚¢‚éB‚±‚ê‚ÍŒã‚Å‚í‚©‚Á‚½‚±‚Æ‚¾‚¯‚ÇB<br>
-    ’q‰Ô@’m‹P‚ÍŽµ‚ÂX’†ŠwZ‚Ì‚Q”N¶Bð“ú‚©‚ç‚±‚±Žµ‚ÂX‘‡•a‰@‚É“ü‰@‚µ‚Ä‚¢‚éB‚Å‚àA‚±‚ê‚ÍŒã‚Å‚í‚©‚Á‚½‚±‚ÆB<br>
-    ’m‹P@Œü‚±‚¤‚Ì•”‰®‚Ì‘‹•Ó‚É’q‰Ô‚ÌŽp‚ðŒ©‚Â‚¯‚½ŽžA“d—¬‚ª—¬‚ê‚½B‚»‚µ‚ÄA‚ ‚Ì“ú‚Ì‚±‚Æ‚ðŽv‚¢o‚µ‚½B“ŒŠÖ“Œ’†ŠwZ‘‡•¶‰»Õ‚ªs‚í‚ê‚½‚ ‚Ì“ú‚Ì‚±‚Æ‚ðB<br>
+    <u>ï¿½ï¿½ï¿½ï¿½ï¿½Û‚Ì—ï¿½ï¿½Kï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    </u>ï¿½mï¿½Pï¿½@ï¿½qï¿½Ô‚ÍŽï¿½ï¿½ÂXï¿½ï¿½ï¿½wï¿½@ï¿½ï¿½ï¿½wï¿½Zï¿½Ì‚Qï¿½Nï¿½ï¿½ï¿½Bï¿½æŒŽï¿½ï¿½ï¿½ç‚±ï¿½ï¿½ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½aï¿½@ï¿½É“ï¿½ï¿½@ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ÍŒï¿½Å‚í‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ÇB<br>
+    ï¿½qï¿½Ô@ï¿½mï¿½Pï¿½ÍŽï¿½ï¿½ÂXï¿½ï¿½ï¿½wï¿½Zï¿½Ì‚Qï¿½Nï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚±ï¿½ï¿½ï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½aï¿½@ï¿½É“ï¿½ï¿½@ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ÍŒï¿½Å‚í‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆB<br>
+    ï¿½mï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½Ì‘ï¿½ï¿½Ó‚É’qï¿½Ô‚ÌŽpï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½Ì“ï¿½ï¿½Ì‚ï¿½ï¿½Æ‚ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ö“ï¿½ï¿½ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ‚ï¿½ï¿½sï¿½ï¿½ê‚½ï¿½ï¿½ï¿½Ì“ï¿½ï¿½Ì‚ï¿½ï¿½Æ‚ï¿½ï¿½B<br>
     <br>
-    @@@’m‹P‚ª‰ñ‘z‚·‚éA“ŒŠÖ“Œ’†ŠwZ‘‡•¶‰»Õ‚Ì¬Ñ”­•\‚Ìê–Ê‚ªA’q‰Ô‚Ì•”‰®‚Å‰‰‚¶‚ç‚ê‚éB<br>
-    @@@’q‰Ô‚Ì‰‰Œ€•”’‡ŠÔ‚ªA’q‰Ô‚ÌŽü‚è‚ÉW‚Ü‚Á‚Ä‚­‚éB<br>
-    @@@’q‰Ô‚Í¼—tñ‚ð—£‚µA‚ ‚Ì“ú‚Ì’q‰Ô‚É‚È‚éB<br>
-    @@@<u>ƒAƒiƒEƒ“ƒX@uÅ—DGÜ@w“ø‚Ì”Þ•û‚Öxv</u><br>
-    @@@<u>’q‰Ô’B‚ª‘åŠì‚Ñ‚·‚éB‹ƒ‚¢‚Ä‚¢‚é‚à‚Ì‚à‚¢‚éB•ø‚«‡‚¤‚à‚Ì‚à‚¢‚é</u>B<br>
-    @@@<u>Š½Šì‚Æ—Ü‚ªÅ‚’ª‚É’B‚µ‚½‚Æ‚±‚ë‚ÅAƒXƒgƒbƒvƒ‚[ƒVƒ‡ƒ“‚Æ‚È‚é</u>B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½mï¿½Pï¿½ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ö“ï¿½ï¿½ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ‚Ìï¿½ï¿½Ñ”ï¿½ï¿½\ï¿½Ìï¿½Ê‚ï¿½ï¿½Aï¿½qï¿½Ô‚Ì•ï¿½ï¿½ï¿½ï¿½Å‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½qï¿½Ô‚Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½Aï¿½qï¿½Ô‚ÌŽï¿½ï¿½ï¿½ÉWï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½qï¿½Ô‚Íï¿½ï¿½tï¿½ï¿½ð—£‚ï¿½ï¿½Aï¿½ï¿½ï¿½Ì“ï¿½ï¿½Ì’qï¿½Ô‚É‚È‚ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@<u>ï¿½Aï¿½iï¿½Eï¿½ï¿½ï¿½Xï¿½@ï¿½uï¿½Å—Dï¿½Gï¿½Ü@ï¿½wï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Öxï¿½v</u><br>
+    ï¿½@ï¿½@ï¿½@<u>ï¿½qï¿½Ô’Bï¿½ï¿½ï¿½ï¿½ï¿½Ñ‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½</u>ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@<u>ï¿½ï¿½ï¿½ï¿½Æ—Ü‚ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½É’Bï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ÅAï¿½Xï¿½gï¿½bï¿½vï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½Æ‚È‚ï¿½</u>ï¿½B<br>
     <br>
-    ’m‹P@‰‰Œ€•”–å‚ÅÅ—DGÜ‚ðŽæ‚Á‚½‚Ì‚Íw“ø‚Ì”Þ•û‚ÉxB‚»‚Ì‹r–{‚ð‘‚¢‚½‚Ì‚ªA’q‰Ô‚¾‚Á‚½B<br>
+    ï¿½mï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅÅ—Dï¿½Gï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Íwï¿½ï¿½ï¿½Ì”Þ•ï¿½ï¿½Éxï¿½Bï¿½ï¿½ï¿½Ì‹rï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Aï¿½qï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000">
     <br>
     </font>
-    <p class="border1"><font size="+1"><b><font color="#000000" size="+1" style="font-size : 117%;"><a name="kadai-three" id="kadai-three">‰Û‘è‚Ru—Ü‡@@”ß‚µ‚¢—Üv@Žg—p‚·‚éƒeƒLƒXƒgu~‚é‚æ‚¤‚È¯‹óv</a></font></b></font></p>
+    <p class="border1"><font size="+1"><b><font color="#000000" size="+1" style="font-size : 117%;"><a name="kadai-three" id="kadai-three">ï¿½Û‘ï¿½Rï¿½uï¿½Ü‡@ï¿½@ï¿½ß‚ï¿½ï¿½ï¿½ï¿½Üvï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½~ï¿½ï¿½æ‚¤ï¿½Èï¿½ï¿½ï¿½v</a></font></b></font></p>
     <P class=border6><font color="#000000">
-    ¡‰Û‘è<br>
-    ”ß‚µ‚Ý‚É‚æ‚é—Ü‚ð—¬‚·•\Œ»‚ªAŽ©‘R‚È‰‰‹Z‚Å‚Å‚«‚é‚æ‚¤‚É‚·‚éB<br>
+    ï¿½ï¿½ï¿½Û‘ï¿½<br>
+    ï¿½ß‚ï¿½ï¿½Ý‚É‚ï¿½ï¿½Ü‚ð—¬‚ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Rï¿½È‰ï¿½ï¿½Zï¿½Å‚Å‚ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡‰Û‘è—ûK‚Ì‘O‚És‚¤Žæ‘g<br>
-    Ž©•ª‚Ì‚Æ‚Á‚Ä‚à‘åØ‚Èl‚ªA‚±‚Ì¢‚©‚ç‚¢‚È‚­‚È‚Á‚Ä‚µ‚Ü‚¤‚±‚Æ‚ðl‚¦‚éB‘åØ‚Èl‚Æ‚Ì‚Æ‚Ä‚àŠy‚µ‚¢Žv‚¢oA‚»‚ÌŽv‚¢o‚ðˆê‚Éì‚Á‚Ä‚«‚½l‚ª‚¢‚È‚­‚È‚Á‚Ä‚µ‚Ü‚¤‚±‚Æ‚ðl‚¦‚éB‚»‚µ‚ÄA”ß‚µ‚¢‹CŽ‚¿‚Å–ž‚¿‚½‚Æ‚±‚ë‚ÅƒeƒLƒXƒg‚ÌÅŒã‚Ìê–Ê(ŽålŒö‚ÌÅˆ¤‚Ì’íE—E‚ÌŽ€š‚Ì‘äŽŒ)‚ð‰‰‚¶‚Ä‚Ý‚éB‚½‚¾A‘äŽŒ‚ðŒ¾‚¤‚Ì‚Å‚Í‚È‚­A’N‚©‚Ì‘äŽŒ‚ð‚Ü‚Ë‚é‚Ì‚Å‚à‚È‚­AŽ©•ª‚Ì‹CŽ‚¿‚ªA‘åØ‚Èl‚ð–S‚­‚µ‚½”ß‚µ‚Ý‚Å–ž‚¿‚½‚Æ‚±‚ë‚ÅA‹ƒ‚«‚½‚¢‹CŽ‚¿A‚Ü‚½‚Í–{“–‚É‹ƒ‚¢‚Ä‚µ‚Ü‚Á‚Ä‘äŽŒ‚ðŒ¾‚¤B<br>
-    “úí‚Å‚Í–_“Ç‚Ý‚Å‹ƒ‚¢‚Ä‚¢‚él‚È‚Ç‚¢‚È‚¢B‹ƒ‚«‚½‚¢‹CŽ‚¿‚Å‘äŽŒ‚ðŒ¾‚¦‚ê‚ÎA‚Ü‚½‚Í–{“–‚É‹ƒ‚«‚È‚ª‚ç‘äŽŒ‚ðŒ¾‚¦‚ê‚ÎA‚»‚ê‚ÍŽ©‘R‚È‰‰‹Z‚Æ‚È‚é‚Í‚¸‚Å‚ ‚éB<br>
+    ï¿½ï¿½ï¿½Û‘ï¿½ï¿½ï¿½Kï¿½Ì‘Oï¿½Ésï¿½ï¿½ï¿½ï¿½g<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ø‚Èlï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½Ø‚Èlï¿½Æ‚Ì‚Æ‚Ä‚ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½Aï¿½ï¿½ï¿½ÌŽvï¿½ï¿½ï¿½oï¿½ï¿½ï¿½êï¿½Éï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ß‚ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½Å–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Åƒeï¿½Lï¿½Xï¿½gï¿½ÌÅŒï¿½Ìï¿½ï¿½(ï¿½ï¿½lï¿½ï¿½ï¿½ÌÅˆï¿½ï¿½Ì’ï¿½Eï¿½Eï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‘äŽŒ)ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚Í‚È‚ï¿½ï¿½Aï¿½Nï¿½ï¿½ï¿½Ì‘äŽŒï¿½ï¿½ï¿½Ü‚Ë‚ï¿½Ì‚Å‚ï¿½ï¿½È‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ì‹Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½Ø‚Èlï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Ý‚Å–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½Í–{ï¿½ï¿½ï¿½É‹ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Ä‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½Å‚Í–_ï¿½Ç‚Ý‚Å‹ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½lï¿½È‚Ç‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½Å‘äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÎAï¿½Ü‚ï¿½ï¿½Í–{ï¿½ï¿½ï¿½É‹ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½äŽŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÎAï¿½ï¿½ï¿½ï¿½ÍŽï¿½ï¿½Rï¿½È‰ï¿½ï¿½Zï¿½Æ‚È‚ï¿½Í‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡ê–ÊÝ’è<br>
-    ŽålŒö‚Í¯ì‚Ð‚©‚èB‚±‚ê‚Í”Þ—‚Ì‰ñ‘zƒV[ƒ“‚Å‚ ‚éB”Þ—‚ÍŽ€‚ñ‚Å‚µ‚Ü‚Á‚½Åˆ¤‚Ì’íE—E‚Ì‚±‚Æ‚ðŽv‚¢o‚·B—E‚Í¯‚ª‘åD‚«‚¾‚Á‚½B‚µ‚©‚µA—E‚Í•a‚É“|‚ê•a‰@‚É“ü‰@‚µ‚Ä‚¢‚éB‚»‚Ì•a‰@‚©‚ç‚Í‘åD‚«‚È¯‚ðŒ©‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½ï¿½lï¿½ï¿½ï¿½Íï¿½ï¿½ï¿½Ð‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Í”Þï¿½ï¿½Ì‰ï¿½zï¿½Vï¿½[ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½Þï¿½ï¿½ÍŽï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Åˆï¿½ï¿½Ì’ï¿½Eï¿½Eï¿½Ì‚ï¿½ï¿½Æ‚ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Bï¿½Eï¿½Íï¿½ï¿½ï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Eï¿½Í•aï¿½É“|ï¿½ï¿½aï¿½@ï¿½É“ï¿½ï¿½@ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì•aï¿½@ï¿½ï¿½ï¿½ï¿½Í‘ï¿½Dï¿½ï¿½ï¿½Èï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡“oêl•¨<br>
-    ¯ì‚Ð‚©‚è<br>
-    ¯ì—E(‚¢‚³‚Þ)Ÿ<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½Ð‚ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½E(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½<br>
     </font></P>
-    <p class="border6" align="left"><font color="#000000">¡ƒeƒLƒXƒg<img src="daihon/img045.jpg" width="357" height="261" border="0" align="right" hspace="10">@@@‚»‚±‚Í•aŽºB<br>
-    @@@‚Ð‚©‚è‚Æ—E‚ª•‘‘ä‘O•û‚É˜‚©‚¯‚Ä‚¢‚éB<br>
-    @@@‚»‚±‚Íƒxƒbƒh‚Ìã‚ðˆÓ–¡‚·‚éB<br>
-    @@@—E‚Í–Ñ•z‚É‚­‚é‚Ü‚Á‚Ä‚¢‚éB<br>
+    <p class="border6" align="left"><font color="#000000">ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<img src="daihon/img045.jpg" width="357" height="261" border="0" align="right" hspace="10">ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Í•aï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ð‚ï¿½ï¿½ï¿½Æ—Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Íƒxï¿½bï¿½hï¿½Ìï¿½ï¿½ï¿½Ó–ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Eï¿½Í–Ñ•zï¿½É‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ‚Ð‚©‚è  —EB¡”Ó‚Í‚¨Žo‚¿‚á‚ñ‚ª‚±‚±‚É”‘‚Ü‚é‚©‚ç‚ËB<br>
-    —E    c<br>
-    ‚Ð‚©‚è  ‚¨•ê‚³‚ñ‚Ì•û‚ª‚æ‚©‚Á‚½‚©‚ÈB<br>
-    —E  iŽñ‚ðU‚éj‚¨Žo‚¿‚á‚ñBl‚Á‚ÄŽ€‚ñ‚¾‚ç¯‚É‚È‚é‚ÌH<br>
-    ‚Ð‚©‚è  ‰½‚Å‚»‚ñ‚È‚±‚Æ•·‚­‚ÌB<br>
-    —E  ‚¨Žo‚¿‚á‚ñA‘‹ŠJ‚¯‚Ä‚­‚ê‚éB<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½Eï¿½Bï¿½ï¿½ï¿½Ó‚Í‚ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ñ‚ª‚ï¿½ï¿½ï¿½ï¿½É”ï¿½ï¿½Ü‚é‚©ï¿½ï¿½ËB<br>
+    ï¿½E    ï¿½c<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½ï¿½ï¿½ê‚³ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½æ‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈB<br>
+    ï¿½E  ï¿½iï¿½ï¿½ï¿½Uï¿½ï¿½jï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½lï¿½ï¿½ï¿½ÄŽï¿½ï¿½ñ‚¾‚ç¯ï¿½É‚È‚ï¿½ÌH<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ•ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½E  ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@‚Ð‚©‚è‚ª‘‹‚ðŠJ‚¯‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ð‚ï¿½ï¿½è‚ªï¿½ï¿½ï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    —E  °‚ê‚Ä‚é‚Ì‚ÉA¡“ú‚à¯o‚Ä‚È‚¢‚ËB•a‰@‚É“ü‚Á‚Ä‚©‚ç‚Ü‚¾ˆê“x‚à¯‚ðŒ©‚Ä‚È‚¢‚âB<br>
-    ‚Ð‚©‚è  Žd•û‚È‚¢‚æBŽü‚è‚ª‚±‚ñ‚È‚É–¾‚é‚¢‚µ‹ó‹C‚à‰˜‚ê‚Ä‚¢‚é‚©‚çB<br>
-    —E  ¯‚ªŒ©‚¦‚È‚¢‚È‚ñ‚Ä—Ò‚µ‚¢‚ÈB‚±‚ê‚©‚ç‚ÍA¯‚ªŒ©‚¦‚é‚Æ‚±‚ë‚È‚ñ‚Ä‚È‚­‚È‚Á‚¿‚á‚¤‚Ì‚©‚ÈB‚»‚Ì‚¤‚¿‚Ý‚ñ‚È¯‚È‚ñ‚Ä‚à‚Ì–Y‚ê‚¿‚á‚¤‚ñ‚¶‚á‚È‚¢‚©‚ÈBi‹ó‚ðŒ©‚Â‚ß‚ÄAuƒGƒCIv‚Æ‚¢‚¤ƒ|[ƒY‚ð‚Æ‚éBj<br>
-    ‚Ð‚©‚è  ‚Ç‚¤‚µ‚½‚ÌH<br>
-    —E@u“d‹C‚æÁ‚¦‚ëB‰˜‚ê‚½‹ó‹C‚æ‚È‚­‚È‚êv‚Á‚ÄŠè‚Á‚½‚ñ‚¾B‚Å‚à‚¾‚ß‚¾‚ËB<br>
-    ‚Ð‚©‚è  –‚–@Žg‚¢‚¶‚á‚È‚¢‚ñ‚¾‚©‚çB<br>
-    —E  Žn‚ß‚È‚­‚Á‚¿‚áB<br>
-    ‚Ð‚©‚è@‰½‚ðŽn‚ß‚é‚ÌH<br>
-    —E@Œ€‚ð‘n‚é‚ñ‚¾‚æB<br>
-    ‚Ð‚©‚è  Œ€H<br>
-    —E@‚¤‚ñBw~‚é‚æ‚¤‚È¯‹óx‚Á‚Ä‚¢‚¤Œ€B¯‚ª‚È‚­‚È‚Á‚½¢ŠE‚É¯‚ðŒÄ‚Ñ–ß‚»‚¤‚Æ“w—Í‚·‚éˆêl‚Ì—‚ÌŽq‚ðŽålŒö‚É‚µ‚½Œ€‚³B‚»‚ÌŒ€‚ðŠÏ‚½l‚Í~‚é‚æ‚¤‚È¯‹ó‚ªŒ©‚½‚­‚È‚Á‚ÄA¯‚ªŒ©‚¦‚éŠÂ‹«‚ðŽæ‚è–ß‚µ‚Ä‚­‚ê‚é‚æB<br>
-    ‚Ð‚©‚è  ‚Ü‚½–²‚Ý‚½‚¢‚È‚±‚ÆŒ¾‚Á‚ÄB<br>
-    —E  ‚¨Žo‚¿‚á‚ñB–l–{‹C‚¾‚æB<br>
-    ‚Ð‚©‚è  –³—‚µ‚¿‚á‚¾‚ßBŽ¡‚Á‚Ä‚©‚ç‚É‚µ‚È‚³‚¢B<br>
-    —E  ¡‚¶‚á‚È‚­‚¿‚á‚¾‚ß‚¾‚æB‚¾‚Á‚ÄcA–lcA–l‚à‚¤•‚©‚ç‚È‚¢‚ñ‚Å‚µ‚åB<br>
-    ‚Ð‚©‚è  ‚È‚É‚Î‚©‚È‚±‚ÆŒ¾‚Á‚Ä‚ñ‚ÌB<br>
-    —E  ‚í‚©‚Á‚Ä‚é‚ñ‚¾B‚à‚µ–l‚ªŽ€‚ñ‚¾‚çA‚¨Žo‚¿‚á‚ñ‚ª–l‚Ì‘ã‚í‚è‚ÉŒ€‚ð‘‚¢‚Ä‚æB‚»‚µ‚Ä~‚é‚æ‚¤‚È¯‹ó‚ðŽæ‚è–ß‚µ‚ÄB‚±‚±‚¶‚á–l‚ª¯‚É‚È‚Á‚Ä‚à‚¨Žo‚¿‚á‚ñA–l‚Ì‚±‚ÆŒ©‚é‚±‚Æ‚Å‚«‚È‚¢‚Å‚µ‚åB<br>
-    ‚Ð‚©‚è  “{‚é‚æB—E‚Ì•a‹C‚ÍŽ¡‚é‚ñ‚¾‚©‚çB<br>
-    —E  cA‚²‚ß‚ñB<br>
-    ‚Ð‚©‚è  ‚»‚¤‚¾AŽ¡‚Á‚½‚çA‚Ü‚½ŽR‚É¯‚ðŒ©‚És‚±‚¤B<br>
-    —E  ‚¤‚ñB‚¨Žo‚¿‚á‚ñBŽR‚ÅŒ©‚½~‚é‚æ‚¤‚È¯‹óA‚«‚ê‚¢‚¾‚Á‚½‚ËB<br>
+    ï¿½E  ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½Ì‚ÉAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Ä‚È‚ï¿½ï¿½ËBï¿½aï¿½@ï¿½É“ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½dï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½è‚ªï¿½ï¿½ï¿½ï¿½È‚É–ï¿½ï¿½é‚¢ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚©ï¿½ï¿½B<br>
+    ï¿½E  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½Ä—Ò‚ï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½ê‚©ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½È‚ï¿½Ä‚È‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½á‚¤ï¿½Ì‚ï¿½ï¿½ÈBï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½Èï¿½ï¿½È‚ï¿½Ä‚ï¿½ï¿½Ì–Yï¿½ê‚¿ï¿½á‚¤ï¿½ñ‚¶‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÈBï¿½iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ß‚ÄAï¿½uï¿½Gï¿½Cï¿½Iï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½|ï¿½[ï¿½Yï¿½ï¿½ï¿½Æ‚ï¿½Bï¿½j<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌH<br>
+    ï¿½Eï¿½@ï¿½uï¿½dï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ê‚½ï¿½ï¿½Cï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½vï¿½ï¿½ï¿½ÄŠï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾Bï¿½Å‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ËB<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½ï¿½ï¿½@ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ï¿½B<br>
+    ï¿½E  ï¿½nï¿½ß‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ß‚ï¿½ÌH<br>
+    ï¿½Eï¿½@ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½ï¿½ï¿½H<br>
+    ï¿½Eï¿½@ï¿½ï¿½ï¿½ï¿½Bï¿½wï¿½~ï¿½ï¿½æ‚¤ï¿½Èï¿½ï¿½ï¿½xï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½Éï¿½ï¿½ï¿½ï¿½Ä‚Ñ–ß‚ï¿½ï¿½ï¿½ï¿½Æ“wï¿½Í‚ï¿½ï¿½ï¿½ï¿½lï¿½Ìï¿½ï¿½ÌŽqï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½lï¿½Í~ï¿½ï¿½æ‚¤ï¿½Èï¿½ï¿½ó‚ªŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½E  ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½lï¿½{ï¿½Cï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á‚¾ï¿½ßBï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½É‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½E  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½á‚¾ï¿½ß‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Äcï¿½Aï¿½lï¿½cï¿½Aï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½È‚É‚Î‚ï¿½ï¿½È‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ÌB<br>
+    ï¿½E  ï¿½í‚©ï¿½ï¿½ï¿½Ä‚ï¿½ñ‚¾Bï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Aï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ñ‚ª–lï¿½Ì‘ï¿½ï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ä~ï¿½ï¿½æ‚¤ï¿½Èï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ÄBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½lï¿½Ì‚ï¿½ï¿½ÆŒï¿½ï¿½é‚±ï¿½Æ‚Å‚ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½{ï¿½ï¿½ï¿½Bï¿½Eï¿½Ì•aï¿½Cï¿½ÍŽï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ï¿½B<br>
+    ï¿½E  ï¿½cï¿½Aï¿½ï¿½ï¿½ß‚ï¿½B<br>
+    ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½Rï¿½Éï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½E  ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Rï¿½ÅŒï¿½ï¿½ï¿½ï¿½~ï¿½ï¿½æ‚¤ï¿½Èï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ê‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËB<br>
     <br>
-    @@@“ñl‚ª”÷Î‚Ý‡‚¢A‚»‚µ‚ÄÃŽ~‚·‚éB<br>
-    @@@ˆÃ“]<br>
-    @@@–¾‚©‚è‚ª‚Â‚­‚Æ—E‚ª–Ñ•z‚É‚­‚é‚Ü‚èQ‚Ä‚¢‚éB<br>
-    @@@‚Ð‚©‚è‚ªA‚»‚Ì—E‚ð•KŽ€‚É—h‚è“®‚©‚µ‚Ä‚¢‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½Î‚Ýï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÄÃŽ~ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ã“]<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½è‚ªï¿½Â‚ï¿½ï¿½Æ—Eï¿½ï¿½ï¿½Ñ•zï¿½É‚ï¿½ï¿½ï¿½Ü‚ï¿½Qï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ð‚ï¿½ï¿½è‚ªï¿½Aï¿½ï¿½ï¿½Ì—Eï¿½ï¿½Kï¿½ï¿½ï¿½É—hï¿½è“®ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    š‚Ð‚©‚è  —EI—EI‚Ç‚¤‚µ‚½‚ÌB•ÔŽ–‚ð‚µ‚ÄA•ÔŽ–‚ð‚µ‚ÄB—EI—EI<br>
+    ï¿½ï¿½ï¿½Ð‚ï¿½ï¿½ï¿½  ï¿½Eï¿½Iï¿½Eï¿½Iï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌBï¿½ÔŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ÔŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄBï¿½Eï¿½Iï¿½Eï¿½I<br>
     <br>
-    @@@‚Ð‚©‚è‚Ì‹ƒ‚«º‚ª‹¿‚­B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ð‚ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000">
     <br>
     </font>
-    <p class="border1"><a name="kadai-four" id="kadai-four"><font color="#000000" size="+2" style="font-size : 150%;"><b>‰Û‘è‚Su—Ü‡A@‚¤‚ê‚µ—Üv@Žg—p‚·‚éƒeƒLƒXƒgutˆê”Ôv</b></font></a></p>
-    <P class=border6><font color="#000000">¡‰Û‘è<br>
-    ”ß‚µ‚¢—Ü‚æ‚è“ï‚µ‚¢‚Ì‚ª‚¤‚ê‚µ—ÜBl‚Ì—D‚µ‚³‚ÉG‚êA‚»‚±‚©‚ç—Ü‚ð—¬‚·ƒV[ƒ“‚ªŽ©‘R‚É‰‰‚¶‚é‚±‚Æ‚ª‚Å‚«‚éB<br>
+    <p class="border1"><a name="kadai-four" id="kadai-four"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½Û‘ï¿½Sï¿½uï¿½Ü‡Aï¿½@ï¿½ï¿½ï¿½ê‚µï¿½Üvï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½tï¿½ï¿½Ôv</b></font></a></p>
+    <P class=border6><font color="#000000">ï¿½ï¿½ï¿½Û‘ï¿½<br>
+    ï¿½ß‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï‚µï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ê‚µï¿½ÜBï¿½lï¿½Ì—Dï¿½ï¿½ï¿½ï¿½ï¿½ÉGï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ð—¬‚ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½É‰ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡‰Û‘è—ûK‚Ì‘O‚És‚¤Žæ‘g<br>
-    ŽRŒûŒbŽq‚Æ‚¢‚¤¶“k‰ï’·‚ÌŽv‚¢‚ð”w•‰‚¤BŽRŒûŒbŽq‚ÍŽü‚è‚©‚ç‰AŒû‚ð‚½‚½‚©‚ê‚Ä‚¢‚éB‚Ç‚ñ‚È‰AŒû‚©‚Æ‚¢‚¤‚ÆAuŠwZ‚ð‚æ‚­‚·‚é‚½‚ß‚É¶“k‰ï’·‚É‚È‚Á‚½‚Ì‚Å‚Í‚È‚¢A“à\‚ð‚æ‚­‚·‚é‚½‚ß‚É‚È‚Á‚½‚ñ‚¾‚ævu‚¢‚¢‚æ‚ËŒbŽq‚ÍAæ¶‚É‚Ð‚¢‚«‚³‚ê‚Ä‚¢‚é‚©‚çvu‚Í‚Á‚«‚è‚¢‚Á‚ÄAŒ™‚¢‚¾‚Ëv‚ÆA‚»‚ñ‚ÈŠ´‚¶‚Å‚ ‚éB‚»‚ñ‚ÈŽžA—R”üŽq‚Æ‚¢‚¤¶“k‚ªŽ©•ª‚ÌŽv‚¢‚ÉŠñ‚è“Y‚Á‚Ä‚­‚ê‚½B‚Ql‘g‚É‚È‚èA1l‚ªŒbŽq‚É‚È‚èA1l‚ª—R”üŽq‚É‚È‚éBŒbŽq–ð‚ªA‚Â‚ç‚¢Žv‚¢‚ð”w•‰‚Á‚½ŽžA‚à‚¤ˆêl‚ªuŒbŽq‚Íˆ«‚­‚È‚¢‚æBŽ„AŒbŽq‚Ì‚±‚ÆD‚«‚¾‚æv‚ÆŒ¾‚Á‚ÄA‚»‚ÌŒãuƒtƒŒ[AƒtƒŒ[AŒbŽqv‚Æ‰½“x‚à—D‚µ‚­‚³‚³‚â‚­‚æ‚¤‚ÉŒbŽq‚Ì‚±‚Æ‚ð‰ž‰‡‚·‚éB<br>
-    ‚Â‚ç‚¢‚Æ‚«‚É—D‚µ‚³‚ÉG‚ê‚é‚±‚Æ‚ª”§‚ÅŠ´‚¶‚ç‚ê‚½‚çAƒeƒLƒXƒg‚ÉŽæ‚è‘g‚ÞB<br>
+    ï¿½ï¿½ï¿½Û‘ï¿½ï¿½ï¿½Kï¿½Ì‘Oï¿½Ésï¿½ï¿½ï¿½ï¿½g<br>
+    ï¿½Rï¿½ï¿½ï¿½bï¿½qï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ï’·ï¿½ÌŽvï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Rï¿½ï¿½ï¿½bï¿½qï¿½ÍŽï¿½ï¿½è‚©ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½Ç‚ï¿½È‰Aï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ÆAï¿½uï¿½wï¿½Zï¿½ï¿½ï¿½æ‚­ï¿½ï¿½ï¿½é‚½ï¿½ß‚Éï¿½ï¿½kï¿½ï’·ï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½Ì‚Å‚Í‚È‚ï¿½ï¿½Aï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½æ‚­ï¿½ï¿½ï¿½é‚½ï¿½ß‚É‚È‚ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½vï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËŒbï¿½qï¿½ÍAï¿½æ¶ï¿½É‚Ð‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚©ï¿½ï¿½vï¿½uï¿½Í‚ï¿½ï¿½ï¿½ï¿½è‚¢ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ëvï¿½ÆAï¿½ï¿½ï¿½ï¿½ÈŠï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ÈŽï¿½ï¿½Aï¿½Rï¿½ï¿½ï¿½qï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽvï¿½ï¿½ï¿½ÉŠï¿½ï¿½Yï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ê‚½ï¿½Bï¿½Qï¿½lï¿½gï¿½É‚È‚ï¿½A1ï¿½lï¿½ï¿½ï¿½bï¿½qï¿½É‚È‚ï¿½A1ï¿½lï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½qï¿½É‚È‚ï¿½Bï¿½bï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Â‚ç‚¢ï¿½vï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½uï¿½bï¿½qï¿½Íˆï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½bï¿½qï¿½Ì‚ï¿½ï¿½ÆDï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ÌŒï¿½uï¿½tï¿½ï¿½ï¿½[ï¿½Aï¿½tï¿½ï¿½ï¿½[ï¿½Aï¿½bï¿½qï¿½vï¿½Æ‰ï¿½ï¿½xï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½â‚­ï¿½æ‚¤ï¿½ÉŒbï¿½qï¿½Ì‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Â‚ç‚¢ï¿½Æ‚ï¿½ï¿½É—Dï¿½ï¿½ï¿½ï¿½ï¿½ÉGï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ÅŠï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½Aï¿½eï¿½Lï¿½Xï¿½gï¿½ÉŽï¿½ï¿½gï¿½ÞB<br>
     <br>
-    ¡ê–ÊÝ’è<br>
-    —R”üŽq‚Í•ú‘—•”•”’·BŒbŽq‚Í¶“k‰ï‰ï’·BŒbŽq‚Íð“ú˜^‰¹‚µ‚½AŒ³¶“k‰ï’·‚Ö‚ÌƒCƒ“ƒ^ƒrƒ…[‚ÅAŽ©•ª‚½‚¿‚ÌŠwZEŽµ‚ÂX’†ŠwZ‚Íu‚©‚¯‚ª‚¦‚Ì‚È‚¢•ó•¨v‚Æ“š‚¦‚Ä‚¢‚½B‚µ‚©‚µA–{‰¹‚Íˆá‚Á‚½B‚Rl‚µ‚©‚¢‚È‚¢•ú‘—ŽºAŒbŽq‚Í—R”üŽq‚ª‘¦‹»‚ÅŽn‚ß‚½ƒCƒ“ƒ^ƒrƒ…[‚Å–{‰¹‚ðŒê‚èŽn‚ß‚éB<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½Í•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½bï¿½qï¿½Íï¿½ï¿½kï¿½ï¿½ï’·ï¿½Bï¿½bï¿½qï¿½Íï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ï’·ï¿½Ö‚ÌƒCï¿½ï¿½ï¿½^ï¿½rï¿½ï¿½ï¿½[ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŠwï¿½Zï¿½Eï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½wï¿½Zï¿½Íuï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚È‚ï¿½ï¿½ó•¨vï¿½Æ“ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½{ï¿½ï¿½ï¿½Íˆï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Rï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½bï¿½qï¿½Í—Rï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÅŽnï¿½ß‚ï¿½ï¿½Cï¿½ï¿½ï¿½^ï¿½rï¿½ï¿½ï¿½[ï¿½Å–{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ß‚ï¿½B<br>
     <br>
-    ¡“oêl•¨<br>
-    ¼–{—R”üŽq<br>
-    ŽRŒûŒbŽq<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½{ï¿½Rï¿½ï¿½ï¿½q<br>
+    ï¿½Rï¿½ï¿½ï¿½bï¿½q<br>
     </font></P>
     <p class="border6" align="left"><font color="#000000">
-    ¡ƒeƒLƒXƒg<br>
+    ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
     <br>
-    —R”üŽq@¶“k‰ï’·‚Æ‚µ‚ÄAˆê”Ô‚ÌŽv‚¢o‚Í‰½‚Å‚·‚©B<br>
-    ŒbŽq@wÂ‚¢’¹x‚Ìã‰‰‚Å‚·B‚Å‚àŠy‚µ‚¢Žv‚¢o‚Å‚Í‚ ‚è‚Ü‚¹‚ñBŽ„‚½‚¿¶“k‰ï‚ª‚â‚è‚½‚©‚Á‚½Œ€‚ÍŽ©•ª‚½‚¿‚ªì‚Á‚½Œ€B‚Å‚à‚»‚ê‚Í‹p‰º‚³‚ê‚Ü‚µ‚½BwÂ‚¢’¹xc‚â‚è‚½‚­‚È‚©‚Á‚½Bƒ`ƒ‹ƒ`ƒ‹‚Ì–ð‚àcA‚â‚è‚½‚¢l‚½‚­‚³‚ñ‚¢‚½‚©‚çBŽ„A— •û‚ðŠó–]‚µ‚Ü‚µ‚½B‚²‚½‚²‚½‚ÉŠª‚«ž‚Ü‚ê‚é‚Ì‚ªŒ™‚Å‚µ‚½B‚Å‚à’S“–‚ÌŽRéæ¶‚Éu¶“k‰ï’·‚Ì‚ ‚È‚½‚ª‚â‚ç‚È‚­‚¿‚á‚¾‚ß‚Å‚µ‚åv‚Á‚Ä“{‚ç‚ê‚Ü‚µ‚½Bu‚â‚è‚½‚­‚ ‚è‚Ü‚¹‚ñv‚ÆŒ¾‚¦‚Ü‚¹‚ñ‚Å‚µ‚½Bæ¶‚ÉŒ™‚í‚ê‚½‚­‚È‚©‚Á‚½‚©‚ç‚©‚à‚µ‚ê‚Ü‚¹‚ñBƒ`ƒ‹ƒ`ƒ‹‚ð‚â‚è‚½‚©‚Á‚½l‚½‚¿‚ªŽ„‚Ìˆ«Œû‚ðŒ¾‚Á‚Ä‚½‚±‚ÆA‹C‚Ã‚¢‚Ä‚Ü‚µ‚½BŽ„‚ªæ¶‚É—Š‚ñ‚ÅŽå–ð‚ð‚Æ‚Á‚½‚ÆŽv‚Á‚Ä‚¢‚é‚±‚Æ‚à’m‚Á‚Ä‚Ü‚µ‚½Buˆá‚¤v‚Á‚Ä“`‚¦‚æ‚¤‚Æ‚µ‚Ü‚µ‚½B‚»‚µ‚½‚çA—]Œv‹^‚í‚ê‚é‚±‚Æ‚É‚È‚è‚Ü‚µ‚½Bu‚Ð‚¢‚«‚³‚ê‚Ä‚¢‚él‚Í‚¢‚¢‚æ‚Ëv‚ÆŒ¾‚í‚ê‚½‚±‚Æ‚à‚ ‚è‚Ü‚µ‚½B<br>
-    @Ž„‚Íæ¶‚ÉŠ©‚ß‚ç‚ê‚Ä¶“k‰ï’·‚É‚È‚è‚Ü‚µ‚½B‚Å‚à‚È‚Á‚½‚©‚ç‚É‚ÍŽ©•ª‚Å‰½‚©‚â‚è‚½‚¢‚ÆŽv‚¢‚Ü‚µ‚½B‚Å‚àA‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½A‰½‚à‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½kï¿½ï’·ï¿½Æ‚ï¿½ï¿½ÄAï¿½ï¿½Ô‚ÌŽvï¿½ï¿½ï¿½oï¿½Í‰ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½bï¿½qï¿½@ï¿½wï¿½Â‚ï¿½ï¿½ï¿½ï¿½xï¿½Ìã‰‰ï¿½Å‚ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½Å‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ï‚ªï¿½ï¿½è‚½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½Í‹pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½wï¿½Â‚ï¿½ï¿½ï¿½ï¿½xï¿½cï¿½ï¿½è‚½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½`ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½cï¿½Aï¿½ï¿½è‚½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¢‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½Sï¿½ï¿½ï¿½ÌŽRï¿½ï¿½æ¶ï¿½Éuï¿½ï¿½ï¿½kï¿½ï’·ï¿½Ì‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½á‚¾ï¿½ß‚Å‚ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Ä“{ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½uï¿½ï¿½è‚½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Bï¿½æ¶ï¿½ÉŒï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½`ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÆAï¿½Cï¿½Ã‚ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½æ¶ï¿½É—ï¿½ï¿½ï¿½ÅŽï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½mï¿½ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½uï¿½á‚¤ï¿½vï¿½ï¿½ï¿½Ä“`ï¿½ï¿½ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½]ï¿½vï¿½^ï¿½ï¿½ï¿½é‚±ï¿½Æ‚É‚È‚ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½uï¿½Ð‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½lï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½Ëvï¿½ÆŒï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½ï¿½ï¿½Íæ¶ï¿½ÉŠï¿½ï¿½ß‚ï¿½ï¿½Äï¿½ï¿½kï¿½ï’·ï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ÍŽï¿½ï¿½ï¿½ï¿½Å‰ï¿½ï¿½ï¿½ï¿½ï¿½è‚½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½Aï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    <u>šŽÀÛ‚Ì—ûK‚Í‚±‚±‚©‚çs‚¤B</u><br>
-    —R”üŽq@cŽRŒû‚³‚ñ‚É‚Æ‚Á‚ÄŽµ‚ÂX’†Šw‚Á‚Ä‰½‚Å‚·‚©H<br>
-    ŒbŽq@c‰½A‚©‚Èc<br>
-    —R”üŽq@c‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B‚±‚ê‚Å¡“ú‚ÌƒCƒ“ƒ^ƒrƒ…[‚ðI‚í‚è‚É‚µ‚Ü‚·B<br>
-    ŒbŽq@c<br>
-    —R”üŽq@‚Ç‚Á‚¿‚ª‚Ù‚ñ‚Æ‚ÌŒbŽqH<br>
-    ŒbŽq@‚Ç‚Á‚¿‚ª‚¢‚¢H<br>
-    —R”üŽq@˜^‰¹AŽæ‚è’¼‚»‚Á‚©B<br>
-    ŒbŽq@(Žñ‚ðU‚é)‚µ‚Ü‚Á‚Ä‚¨‚¢‚½•û‚ª‚¢‚¢‹CŽ‚¿‚à‚ ‚é‚©‚çB<br>
-    —R”üŽq@‚Â‚ç‚¢‚ËB<br>
-    ŒbŽq@‚Å‚àA•\‚Éo‚µ‚½‚ç‚à‚Á‚Æ‚Â‚ç‚¢B<br>
-    —R”üŽq@ƒ^ƒCƒ€ƒJƒvƒZƒ‹‚ÌŠé‰æ‚ª’Ê‚Á‚½‚çAŽµ‚ÂX’†Šw‚Í‚©‚¯‚ª‚¦‚Ì‚È‚¢•ó•¨‚É‚È‚éH<br>
-    ŒbŽq@‚È‚é‚©‚à‚µ‚ê‚È‚¢‚Á‚ÄŽv‚Á‚ÄB‚¾‚©‚çAƒ^ƒCƒ€ƒJƒvƒZƒ‹‚ÌŠé‰æ‚ª’Ê‚Á‚Ä‚©‚çA•ú‘—‚µ‚Ä‚Ù‚µ‚¢‚Á‚ÄŽv‚Á‚½‚ÌB<br>
-    —R”üŽq@¶“k‚É‚Í‘Š’k‚µ‚È‚¢‚ÌH<br>
-    ŒbŽq (‚ ‚Á)‚Ù‚ñ‚Æ‚¾‚Á‚½‚çŽO”N¶‚Ý‚ñ‚È‚É‘Š’k‚·‚é‚×‚«‚È‚ñ‚¾‚æ‚ËB‚Å‚àcA‘Š’k‚µ‚½‚çA‚»‚±‚Å‚¾‚ß‚É‚È‚é‚©‚à‚µ‚ê‚È‚¢‚È‚ñ‚ÄŽv‚Á‚ÄcBŽ„‚Ì‚±‚ÆŒ™‚¢‚ÈlAŽ„‚ª’ñˆÄ‚µ‚½‚±‚Æ‚Í‚Ý‚ñ‚È”½‘Î‚µ‚»‚¤‚¾‚µB‚Å‚à‚ËAƒ^ƒCƒ€ƒJƒvƒZƒ‹‚É”½‘Î‚·‚él‚à“ñ\”NŒã‚É‚â‚Á‚Ä‚æ‚©‚Á‚½‚ÆŽv‚¤‚©‚à‚µ‚ê‚È‚¢‚µB(‚ [)Œ‹‹ÇAŽ„AŽ©•ª‚Ì‚½‚ß‚É‚â‚Á‚Ä‚é‚Ì‚©‚ÈBŽ„‚Á‚ÄŽ©•ªŸŽè‚¾‚æ‚Ëc<br>
-    —R”üŽq@ŒbŽqB<br>
-    ŒbŽq@c<br>
-    —R”üŽq@ƒ^ƒCƒ€ƒJƒvƒZƒ‹‚ÌŠé‰æA’Ê‚é‚Æ‚¢‚¢‚ËB<br>
-    ŒbŽq@(‚¦‚Á)<br>
-    —R”üŽq@’Ê‚é‚Æ‚¢‚¢‚ËB<br>
-    ŒbŽq@(‚¤‚ñ) <br>
-    —R”üŽq@ƒtƒŒ[ƒtƒŒ[ŒbŽqAƒtƒŒ[ƒtƒŒ[ŒbŽqAƒtƒŒ[ƒtƒŒ[ŒbŽqB<br>
-    ŒbŽq@(—Ü‚ª‚±‚Ú‚ê‚Ä‚­‚é)<br>
-    —R”üŽq@c<br>
-    ŒbŽq@¶“k‰ï’·‚É‚È‚Á‚Ä‚©‚çAæ¶‚É‚Í‰ž‰‡‚³‚ê‚Ä‚«‚½‚¯‚ÇA¶“k‚©‚ç‰ž‰‡‚³‚ê‚½‚±‚Æ‚È‚ñ‚Ä‚ ‚Á‚½‚©‚È‚Á‚ÄB‚¢‚Â‚àc<br>
-    —R”üŽq@ŒŽ—j‚Ì•ú‘—A‰„‚Î‚·‚©‚çBƒ^ƒCƒ€ƒJƒvƒZƒ‹‚ÌŠé‰æ‚ªŒˆ‚Ü‚é‚Ü‚ÅB<br>
-    ŒbŽq@‚ ‚è‚ª‚ÆB<br>
+    <u>ï¿½ï¿½ï¿½ï¿½ï¿½Û‚Ì—ï¿½ï¿½Kï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½B</u><br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½cï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚Æ‚ï¿½ï¿½ÄŽï¿½ï¿½ÂXï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Ä‰ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½bï¿½qï¿½@ï¿½cï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Èc<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½cï¿½ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½ÌƒCï¿½ï¿½ï¿½^ï¿½rï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½É‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½bï¿½qï¿½@ï¿½c<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù‚ï¿½Æ‚ÌŒbï¿½qï¿½H<br>
+    ï¿½bï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½^ï¿½ï¿½ï¿½Aï¿½ï¿½è’¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½bï¿½qï¿½@(ï¿½ï¿½ï¿½Uï¿½ï¿½)ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚©ï¿½ï¿½B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Â‚ç‚¢ï¿½ËB<br>
+    ï¿½bï¿½qï¿½@ï¿½Å‚ï¿½ï¿½Aï¿½\ï¿½Éoï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Â‚ç‚¢ï¿½B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½ÌŠï¿½æ‚ªï¿½Ê‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½wï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚È‚ï¿½ï¿½ó•¨‚É‚È‚ï¿½H<br>
+    ï¿½bï¿½qï¿½@ï¿½È‚é‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÄŽvï¿½ï¿½ï¿½ÄBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½ÌŠï¿½æ‚ªï¿½Ê‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ù‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŽvï¿½ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½kï¿½É‚Í‘ï¿½ï¿½kï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌH<br>
+    ï¿½bï¿½q (ï¿½ï¿½ï¿½ï¿½)ï¿½Ù‚ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½Nï¿½ï¿½ï¿½Ý‚ï¿½È‚É‘ï¿½ï¿½kï¿½ï¿½ï¿½ï¿½×‚ï¿½ï¿½È‚ñ‚¾‚ï¿½ËBï¿½Å‚ï¿½ï¿½cï¿½Aï¿½ï¿½ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ß‚É‚È‚é‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½ÄŽvï¿½ï¿½ï¿½Äcï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½Èlï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Í‚Ý‚ï¿½È”ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½ËAï¿½^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½É”ï¿½ï¿½Î‚ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½\ï¿½Nï¿½ï¿½É‚ï¿½ï¿½ï¿½Ä‚æ‚©ï¿½ï¿½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B(ï¿½ï¿½ï¿½[)ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚É‚ï¿½ï¿½ï¿½Ä‚ï¿½Ì‚ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½ÄŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚¾ï¿½ï¿½Ëc<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½bï¿½qï¿½B<br>
+    ï¿½bï¿½qï¿½@ï¿½c<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½ÌŠï¿½ï¿½Aï¿½Ê‚ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½bï¿½qï¿½@(ï¿½ï¿½ï¿½ï¿½)<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Ê‚ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½bï¿½qï¿½@(ï¿½ï¿½ï¿½ï¿½) <br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½tï¿½ï¿½ï¿½[ï¿½tï¿½ï¿½ï¿½[ï¿½bï¿½qï¿½Aï¿½tï¿½ï¿½ï¿½[ï¿½tï¿½ï¿½ï¿½[ï¿½bï¿½qï¿½Aï¿½tï¿½ï¿½ï¿½[ï¿½tï¿½ï¿½ï¿½[ï¿½bï¿½qï¿½B<br>
+    ï¿½bï¿½qï¿½@(ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Ú‚ï¿½Ä‚ï¿½ï¿½ï¿½)<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½c<br>
+    ï¿½bï¿½qï¿½@ï¿½ï¿½ï¿½kï¿½ï’·ï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Aï¿½æ¶ï¿½É‚Í‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½kï¿½ï¿½ï¿½ç‰žï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½Æ‚È‚ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÄBï¿½ï¿½ï¿½Â‚ï¿½ï¿½c<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½jï¿½Ì•ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½ÌŠï¿½æ‚ªï¿½ï¿½ï¿½Ü‚ï¿½Ü‚ÅB<br>
+    ï¿½bï¿½qï¿½@ï¿½ï¿½ï¿½è‚ªï¿½ÆB<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <br>
-    <p class="border7"><font color="#000000" size="+3" style="font-size : 200%;"><a name="application" id="application"><b>3.‰ž—p—ûK</b></a><a name="emotion" id="emotion"></a></font></p>
+    <p class="border7"><font color="#000000" size="+3" style="font-size : 200%;"><a name="application" id="application"><b>3.ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½K</b></a><a name="emotion" id="emotion"></a></font></p>
      <p class="border8" align="left"><font color="#000000">
-    u‘¦‹»‚ð—˜—p‚·‚éŒ€‚Ã‚­‚èv‚ÆuŠ´î‚É‘äŽŒ‚ðæ‚¹‚év‚±‚Æ‚ÅŽæ‚è‘g‚ñ‚¾‚±‚Æ‚ðŒ³‚ÉA‚³‚Ü‚´‚Ü‚ÈƒV[ƒ“‚ð¶“kŽ©g‚Å‰‰o‚µ‚Ä‚¢‚«‚Ü‚·B<br>
+    ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ð—˜—pï¿½ï¿½ï¿½éŒ€ï¿½Ã‚ï¿½ï¿½ï¿½vï¿½Æuï¿½ï¿½ï¿½ï¿½É‘äŽŒï¿½ï¿½ï¿½æ‚¹ï¿½ï¿½vï¿½ï¿½ï¿½Æ‚ÅŽï¿½ï¿½gï¿½ñ‚¾‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ÉAï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ÈƒVï¿½[ï¿½ï¿½ï¿½ð¶“kï¿½ï¿½ï¿½gï¿½Å‰ï¿½ï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     </font></p>
-   
+
     <br>
-    <p class="border1"><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="kadai1" id="kadai1">‰Û‘è‚P@u‚í‚­‚í‚­‚ð‰‰‚¶‚évŽg—p‚·‚éƒeƒLƒXƒgu‰Ä‹x‚Ýv</a><br>
+    <p class="border1"><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="kadai1" id="kadai1">ï¿½Û‘ï¿½Pï¿½@ï¿½uï¿½í‚­ï¿½í‚­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Ä‹xï¿½Ýv</a><br>
     </b></font>
     </p>
     <P class=border6><font color="#000000">
-    ¡ê–ÊÝ’è<br>
-    º˜a‚P‚P”N‚Ì‰Ä‹x‚Ý‚P“ú‘O‚Ì‹³ŽºBº˜a‚P‚P”NA’†‘‚Æ‚Ìí‚¢‚ÍŽn‚Ü‚Á‚Ä‚¢‚½‚ªA‘¾•½—mí‘ˆ‚ªŽn‚Ü‚é‚Ì‚Í‚Ü‚¾æ‚Ì‚±‚ÆBŽq‚Ç‚à‚½‚¿‚Í–¾“ú‚©‚çŽn‚Ü‚é‰Ä‹x‚ÝA‚»‚µ‚Äƒxƒ‹ƒŠƒ“ƒIƒŠƒ“ƒsƒbƒN‚É‹¹‚ð‚Æ‚«‚ß‚©‚¹‚Ä‚¢‚½B‘åêŒ›ˆê‚Í‹C‚ÍŽã‚¢‚ª—D‚µ‚­A‚¨‰»‚¯‚ª‘åD‚«B‚“c‚ÍƒXƒ|[ƒc–œ”\B“V–ì‚Í‰ÈŠwŽÒ‚É‚È‚é‚Ì‚ª–²B‘åŠâ‚Í’jŸ‚è‚Å——D‚É‚È‚é‚Ì‚ª–²B‰“–ì‚Ý‚Ç‚è‚Í‚¨ì—l‚Æ‚¢‚Á‚½Š´‚¶‚Ì­—‚ÅƒIƒyƒ‰‰ÌŽè‚É‚È‚é‚±‚Æ‚ð–²Œ©‚Ä‚¢‚½B<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½ï¿½ï¿½aï¿½Pï¿½Pï¿½Nï¿½Ì‰Ä‹xï¿½Ý‚Pï¿½ï¿½ï¿½Oï¿½Ì‹ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½aï¿½Pï¿½Pï¿½Nï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Ìí‚¢ï¿½ÍŽnï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½mï¿½í‘ˆï¿½ï¿½ï¿½nï¿½Ü‚ï¿½Ì‚Í‚Ü‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ÆBï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½Ü‚ï¿½Ä‹xï¿½ÝAï¿½ï¿½ï¿½ï¿½ï¿½Äƒxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½É‹ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½êŒ›ï¿½ï¿½Í‹Cï¿½ÍŽã‚¢ï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½cï¿½ÍƒXï¿½|ï¿½[ï¿½cï¿½ï¿½ï¿½\ï¿½Bï¿½Vï¿½ï¿½Í‰ÈŠwï¿½Ò‚É‚È‚ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Í’jï¿½ï¿½ï¿½ï¿½Åï¿½ï¿½Dï¿½É‚È‚ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Ý‚Ç‚ï¿½Í‚ï¿½ï¿½ï¿½lï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ÅƒIï¿½yï¿½ï¿½ï¿½ÌŽï¿½É‚È‚é‚±ï¿½Æ‚ð–²Œï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡“oêl•¨@‚Ul<br>
-    ‘åêŒ›ˆê<br>
-    ‚“cˆê˜Y<br>
-    “V–ì–ž•v<br>
-    ‘åŠâ—mŽq<br>
-    ‰“–ì‚Ý‚Ç‚è<br>
-    Â–ö‚±‚¾‚Ü<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@ï¿½Uï¿½l<br>
+    ï¿½ï¿½êŒ›ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½cï¿½ï¿½Y<br>
+    ï¿½Vï¿½ì–žï¿½v<br>
+    ï¿½ï¿½ï¿½mï¿½q<br>
+    ï¿½ï¿½ï¿½ï¿½Ý‚Ç‚ï¿½<br>
+    ï¿½Â–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
     </font></P>
-    <p class="border6" align="left"><font color="#000000">¡ƒeƒLƒXƒg<br>
+    <p class="border6" align="left"><font color="#000000">ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
     <img src="daihon/img041.jpg" width="264" height="338" border="0" align="right" hspace="10"><br>
-    ‚“c@‚ÈA‚â‚ë‚¤‚ºB‚ÈB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ÈAï¿½ï¿½ë‚¤ï¿½ï¿½ï¿½Bï¿½ÈB<br>
     <br>
-    @@@‚±‚ÌuŠÔA•‘‘ä‚Íº˜a\ˆê”N‚Æ‚È‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Ìuï¿½ÔAï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½aï¿½\ï¿½ï¿½Nï¿½Æ‚È‚ï¿½B<br>
     <br>
-    ‘åê@Œ™‚¾‚æA‚¾‚Á‚Ä—[•û‚©‚­‚ê‚ñ‚Ú‚ð‚·‚é‚Æ‰B‚µ_‚É‚³‚ç‚í‚ê‚Ä‚µ‚Ü‚¤‚ñ‚¾‚æB<br>
-    “V–ì@(Î‚Á‚Ä)‰B‚µ_‚¾‚Á‚Ä‚æB‚»‚ñ‚È‚Ì‚¢‚é‚í‚¯‚È‚¢‚¾‚ëB<br>
-    ‘åê@‰B‚µ_‚ðM‚¶‚È‚¢‚Æ¡‚É‘å•Ï‚È‚±‚Æ‚É‚È‚é‚æB<br>
-    “V–ì@(Î‚Á‚Ä)”nŽ­‚Æ‚Í‚Â‚«‡‚¢‚«‚ê‚È‚¢‚ËB<br>
-    ‘åê@‚È‚ñ‚¾‚Æ[B<br>
-    ‰“–ì@‚ ‚Ái‹F‚éj<br>
-    ‚“c@‰½‚µ‚Ä‚ñ‚¾‚¢B<br>
-    ‰“–ì@—¬‚ê¯‚ÉŠè‚¢‚ð‚©‚¯‚½‚ÌB—¬‚ê¯‚ª—Ž‚¿‚½Œã‚ÉŠè‚¢‚ð‚©‚¯‚é‚ÆA‚»‚ÌŠè‚¢‚ª‚©‚È‚¤‚Á‚ÄŒ¾‚í‚ê‚Ä‚¢‚é‚Ì‚æB<br>
-    “V–ì@–ÀM‚¾‚æA‚»‚ñ‚È‚ÌB¡‚Ì¢‚Ì’†‚Éc‚»‚ñ‚ÈcŒÃ‚­‚³‚¢B<br>
-    ‘åŠâ@“VŽ×‹S‚Í–²‚ª‚È‚¢‚í‚ËB‚ ‚½‚µ‚ÍM‚¶‚éB‘‚­—Ž‚¿‚È‚¢‚©‚ÈB—Ž‚¿‚ëB‚±‚ç—Ž‚¿‚ëBiƒhƒXƒ“AƒhƒXƒ“‚Æ’n‹¿‚«‚ð—§‚Ä‚éj‚ ‚ÁA—Ž‚¿‚½B<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä—[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú‚ï¿½ï¿½ï¿½ï¿½ï¿½Æ‰Bï¿½ï¿½ï¿½_ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½Vï¿½ï¿½@(ï¿½Î‚ï¿½ï¿½ï¿½)ï¿½Bï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½Bï¿½ï¿½ï¿½ï¿½È‚Ì‚ï¿½ï¿½ï¿½í‚¯ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Bï¿½ï¿½ï¿½_ï¿½ï¿½Mï¿½ï¿½ï¿½È‚ï¿½ï¿½Æï¿½ï¿½É‘ï¿½Ï‚È‚ï¿½ï¿½Æ‚É‚È‚ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@(ï¿½Î‚ï¿½ï¿½ï¿½)ï¿½nï¿½ï¿½ï¿½Æ‚Í‚Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ËB<br>
+    ï¿½ï¿½ï¿½@ï¿½È‚ñ‚¾‚Æ[ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½Fï¿½ï¿½j<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ñ‚¾‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ê¯ï¿½ÉŠè‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌBï¿½ï¿½ï¿½ê¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŠè‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½ÌŠè‚¢ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½ï¿½ï¿½Mï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½È‚ÌBï¿½ï¿½ï¿½Ìï¿½ï¿½Ì’ï¿½ï¿½Écï¿½ï¿½ï¿½ï¿½Ècï¿½Ã‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Vï¿½×‹Sï¿½Í–ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ËBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍMï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ç—Žï¿½ï¿½ï¿½ï¿½Bï¿½iï¿½hï¿½Xï¿½ï¿½ï¿½Aï¿½hï¿½Xï¿½ï¿½ï¿½Æ’nï¿½ï¿½ï¿½ï¿½ï¿½ð—§‚Ä‚ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@‘åŠâ‚ª‹F‚éB‰“–ìA‘åêA‚“c‚à‹F‚èŽn‚ß‚éB<br>
-    @@@“V–ì‚Í‹F‚ç‚¸A‘åê‚Ì‰¡‚ÅA•·‚«Ž¨‚ð—§‚Ä‚Ä‚¢‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½â‚ªï¿½Fï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½cï¿½ï¿½ï¿½Fï¿½ï¿½nï¿½ß‚ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Vï¿½ï¿½Í‹Fï¿½ç‚¸ï¿½Aï¿½ï¿½ï¿½Ì‰ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ð—§‚Ä‚Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    “V–ì@i“Ë‘Rj‚Í‚Í‚Í‚Í‚ÍA‚Í‚Í‚Í‚Í‚ÍB•·‚¢‚Ä‚­‚ê‚æAƒoƒP‚Ì“zA‚¨‰»‚¯‚É‰ï‚¢‚½‚¢‚¾‚Á‚Ä‚³B”nŽ­‚¶‚á‚Ë[‚©B‚±‚Ì‰ÈŠw‚ÌŽž‘ã‚É‚¨‰»‚¯‚È‚ñ‚Ä‚æB‚¨‚ß[˜Z”N¶‚Ì‚­‚¹‚Él‚¦‚Ä‚é‚±‚Æ‚ÍAˆê”N¶‚Æ“¯‚¶‚©A‚»‚êˆÈ‰º‚¶‚á‚Ë[‚ÌB<br>
-    ‘åê@‚È‚ñ‚¾‚Æ[B<br>
-    ‚“c@‚Ü‚ ‚Ü‚ B‚Ç‚ñ‚ÈŠè‚¢Ž–‚ð‚©‚¯‚æ‚¤‚Æ‚»‚Ìl‚ÌŸŽè‚¾‚ëBŒ–‰Ü‚Í‚»‚±‚Ü‚ÅA‚à‚¤ˆê“x‚©‚­‚ê‚ñ‚Ú‚µ‚æ‚¤B¡“x‚Í‚Ý[‚¿‚á‚ñ‚ª‹S‚¾‚æBƒoƒP‚à‚â‚ê‚æB<br>
-    ‘åê@‚Å‚à‰B‚µ_‚ªc<br>
-    ‚“c@‘åä•v‚¾‚æB‚¶‚á‚ Žn‚ß‚é‚¼B<br>
-    ‰“–ì@ˆêA“ñAŽOAŽlAŒÜA˜ZAŽµA”ªA‹ãA\B<br>
-    @<br>
-    @@@‚©‚­‚ê‚ñ‚Ú‚ªŽn‚Ü‚éB<br>
-    @@@‘SˆõŒ©‚Â‚©‚éB<br>
-    @@@¡‚Ü‚ÅŒÜl‚¾‚Á‚½Žq‚Ç‚à‚½‚¿‚ª˜Zl‚É‚È‚Á‚Ä‚¢‚éB<br>
+    ï¿½Vï¿½ï¿½@ï¿½iï¿½Ë‘Rï¿½jï¿½Í‚Í‚Í‚Í‚ÍAï¿½Í‚Í‚Í‚Í‚ÍBï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Aï¿½oï¿½Pï¿½Ì“zï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‰ï‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë[ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‰ÈŠwï¿½ÌŽï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½Ä‚ï¿½Bï¿½ï¿½ï¿½ß[ï¿½Zï¿½Nï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Élï¿½ï¿½ï¿½Ä‚é‚±ï¿½Æ‚ÍAï¿½ï¿½Nï¿½ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½È‰ï¿½ï¿½ï¿½ï¿½ï¿½Ë[ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½@ï¿½È‚ñ‚¾‚Æ[ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½Ü‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ç‚ï¿½ÈŠè‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½Ìlï¿½Ìï¿½ï¿½è‚¾ï¿½ï¿½Bï¿½ï¿½ï¿½Ü‚Í‚ï¿½ï¿½ï¿½ï¿½Ü‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú‚ï¿½ï¿½æ‚¤ï¿½Bï¿½ï¿½ï¿½xï¿½Í‚Ý[ï¿½ï¿½ï¿½ï¿½ñ‚ª‹Sï¿½ï¿½ï¿½ï¿½Bï¿½oï¿½Pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½c<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½á‚ ï¿½nï¿½ß‚é‚¼ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½Aï¿½ï¿½Aï¿½Oï¿½Aï¿½lï¿½Aï¿½ÜAï¿½Zï¿½Aï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Aï¿½ï¿½Aï¿½\ï¿½B<br>
+    ï¿½@<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú‚ï¿½ï¿½nï¿½Ü‚ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Ü‚ÅŒÜlï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½lï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ‚“c@‚ ‚ê[BˆêA“ñAŽOAŽlAŒÜA˜ZcˆêA“ñAŽOAŽlAŒÜA˜Zc‰´‚½‚¿˜Zl‚¾‚Á‚½‚©‚ÈBŒÜl‚¶‚á‚È‚©‚Á‚½‚Á‚¯B<br>
-    ‰“–ì@‚»‚¤‚¢‚¦‚Î‚»‚¤‚ËB‚Å‚à‚»‚Ìˆêl‚Í’NB<br>
-    ‘åŠâ@‚Å‚à‚Ý‚ñ‚ÈÅ‰‚Á‚©‚ç‚¢‚½‚æB@<br>
-    ‘åê@À•~“¶Žq‚¾B<br>
-    ‚Ý‚ñ‚È  À•~“¶ŽqH<br>
-    ‰“–ì@À•~“¶Žq‚Á‚Ä‰½B<br>
-    ‘åê@—d‰ö‚¾‚æB<br>
-    “V–ì@‚Ü‚½Žn‚Ü‚Á‚½B<br>
-    ‘åŠâ@‚Å‚à‚¨‚à‚µ‚ë‚»‚¤‚È˜b‚¶‚á‚È‚¢B‚Ç‚ñ‚È—d‰ö‚È‚ÌB<br>
-    ‘åê@—á‚¦‚ÎŒÜl‚Å—V‚ñ‚Å‚é‚Æ‚·‚é‚¾‚ëA‚Ó‚Æ‹C‚ª‚Â‚­‚Æl”‚ªˆêl‘‚¦‚Ä˜Zl‚É‚È‚Á‚Ä‚¢‚é‚ñ‚¾B‚Ý‚ñ‚È’m‚Á‚Ä‚¢‚éŠç‚È‚Ì‚É‚Ç‚¤”‚¦‚Ä‚à˜Zl‚¢‚é‚ñ‚¾B’N‚ªŒã‚©‚ç‚â‚Á‚Ä‚«‚½‚ñ‚¾‚©l‚¦‚Ä‚Ý‚Ä‚àA‚Ý‚ñ‚ÈÅ‰‚©‚ç‚¢‚½‚à‚Ì‚Î‚©‚è‚È‚ñ‚¾B‚Å‚àÅ‰‚ÍŠm‚©‚ÉŒÜl‚¾‚Á‚½‚ñ‚¾B‚»‚Ì‘‚¦‚½ˆêl‚ªÀ•~“¶Žq‚³B<br>
-    ‚“c@‚±‚Ì’†‚ÉˆêlÀ•~“¶Žq‚ª‚¢‚éB’N‚¾I<br>
-    “V–ì@ƒ^[‚¿‚á‚ñ‚Ü‚Å•Ï‚È‚±‚ÆŒ¾‚¤‚È‚æB<br>
-    ‚“c@‚³‚Ä‚Í‚¨‚Ü‚¦‚ªB<br>
-    “V–ì@”nŽ­‚È‚±‚ÆŒ¾‚¤‚È‚æB‰ÈŠw‚É‹­‚¢“V–ì–ž•v‚ð–Y‚ê‚½‚Ì‚©‚æB<br>
-    ‚“c@ç’k‚¾‚æB<br>
-    ‘åê@–l‚¾‚Á‚Ä‰‚ß‚©‚ç‚¢‚½‚³B<br>
-    “V–ì@Šo‚¦‚Ä‚È‚¢‚ÈB<br>
-    ‘åê@‚³‚Á‚«‚¯‚ñ‚©‚µ‚½‚Î‚©‚è‚¾‚ëB<br>
-    ‰“–ì@Ž„‚à‚Í‚¶‚ß‚©‚ç‚¢‚½‚íB‚³‚Á‚«—¬‚ê¯‚ÉŠè‚¢‚ð‚©‚¯‚½‚Î‚©‚è‚¾‚à‚ÌB<br>
-    ‚“c@‚»‚¤‚¾‚æ‚ÈB‚¶‚á‚ ŒN‚¾i‚ÆŒ¾‚Á‚Äˆêl‚Ì­—‚ðŽw·‚·B‚»‚Ì­—‚ª‘‚¦‚½ˆêl‚Å‚ ‚é‚ªA’N‚à‚»‚ê‚É‹C‚Ã‚¢‚Ä‚¢‚È‚¢B‚±‚ÌŒãA”Þ—‚ÍÂ–ö‚±‚¾‚Ü‚ÆŒÄ‚Î‚ê‚é‚±‚Æ‚É‚È‚éBj<br>
-    Â–ö@”nŽ­Œ¾‚í‚È‚¢‚Å‚æBŽ„‚¾‚Á‚Ä—¬‚ê¯‚ÉŠè‚¢‚ð‚©‚¯‚½‚µA‚Ý‚ñ‚È‚Æˆê‚É‚©‚­‚ê‚ñ‚Ú‚à‚µ‚½‚¶‚á‚È‚¢B<br>
-    ‚“c@‚»‚¤‚¾‚æ‚ÈB‚»‚ê‚¶‚á‚ ci‚Ý‚ñ‚È‘åŠâ‚ð‹^‚¢‚Ì–Ú‚ÅŒ©‚éj<br>
-    ‘åŠâ@‰½‚æ[B‚»‚ê‚¶‚á‚ ‚½‚µ‚ª—d‰ö‚¾‚Á‚ÄŒ¾‚¤‚ÌB<br>
-    ‚“c@‚à‚¤‚æ‚»‚¤A‚Ç‚¤‚â‚ç‰´‚ÌŽv‚¢ˆá‚¢‚¾‚Á‚½‚æ‚¤‚¾‚ÈB<br>
-    “V–ì@‚»‚¤‚»‚¤A‚±‚Ì¢‚Ì’†‚É—d‰ö‚È‚ñ‚Ä‚¢‚é‚í‚¯‚ª‚È‚¢‚à‚ñ‚ÈB<br>
-    ‘åê@‚»‚¤‚©‚È[B<br>
-    ‘åŠâ@ƒoƒPA‚Ü‚¾‚ ‚½‚µ‚ð—d‰ö‚É‚µ‚½‚¢‚Ì(‘åê‚É”—‚é)B<br>
-    ‘åê@‚»A‚»‚¤‚¢‚¤‚í‚¯‚¶‚á‚È‚¢‚¯‚ÇB<br>
-    ‰“–ì@(‘åŠâ‚ð‚È‚¾‚ß‚é‚æ‚¤‚É)‚ËA‚¨¯—l‚ª‚Æ‚Á‚Ä‚àãY—í‚æB‚Ü‚é‚Å¯‚Ì–ìŒ´‚É‚¢‚é‚Ý‚½‚¢B‚ ‚ÁA—¬‚ê¯B(‚»‚¤Œ¾‚Á‚ÄA‰½‚©‚ð‹F‚èŽn‚ß‚é)<br>
-    Â–ö@‚ ‚ÁB(‚»‚¤Œ¾‚Á‚ÄA‹ó‚Ì•Ê‚ÌêŠ‚ðŽw·‚µA‰½‚©‚ð‹F‚èŽn‚ß‚é)<br>
-    ‘åŠâ@‚¨[B(‚»‚¤Œ¾‚Á‚ÄA‹ó‚Ì•Ê‚ÌêŠ‚ðŽw·‚µA‰½‚©‚ð‹F‚èŽn‚ß‚é)<br>
-    ‘åê@‚í[B(‚»‚¤Œ¾‚Á‚ÄA‹ó‚Ì•Ê‚ÌêŠ‚ðŽw·‚µA‰½‚©‚ð‹F‚èŽn‚ß‚é)<br>
-    ‚“c@—¬‚ê¯‚Ì‰J‚¾B(‚»‚¤Œ¾‚Á‚ÄA‰½‚©‚ð‹F‚èŽn‚ß‚é) <br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½[ï¿½Bï¿½ï¿½Aï¿½ï¿½Aï¿½Oï¿½Aï¿½lï¿½Aï¿½ÜAï¿½Zï¿½cï¿½ï¿½Aï¿½ï¿½Aï¿½Oï¿½Aï¿½lï¿½Aï¿½ÜAï¿½Zï¿½cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈBï¿½Ülï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ËBï¿½Å‚ï¿½ï¿½ï¿½ï¿½Ìˆï¿½lï¿½Í’Nï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½Ý‚ï¿½ÈÅï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½Bï¿½@<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½qï¿½ï¿½ï¿½B<br>
+    ï¿½Ý‚ï¿½ï¿½  ï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½qï¿½H<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½qï¿½ï¿½ï¿½Ä‰ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½Ü‚ï¿½ï¿½nï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚»ï¿½ï¿½ï¿½È˜bï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½Ç‚ï¿½È—dï¿½ï¿½ï¿½È‚ÌB<br>
+    ï¿½ï¿½ï¿½@ï¿½á‚¦ï¿½ÎŒÜlï¿½Å—Vï¿½ï¿½Å‚ï¿½Æ‚ï¿½ï¿½é‚¾ï¿½ï¿½Aï¿½Ó‚Æ‹Cï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ælï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½Ä˜Zï¿½lï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ñ‚¾Bï¿½Ý‚ï¿½È’mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½È‚Ì‚É‚Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Zï¿½lï¿½ï¿½ï¿½ï¿½ñ‚¾Bï¿½Nï¿½ï¿½ï¿½ã‚©ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½lï¿½ï¿½ï¿½Ä‚Ý‚Ä‚ï¿½ï¿½Aï¿½Ý‚ï¿½ÈÅï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Î‚ï¿½ï¿½ï¿½È‚ñ‚¾Bï¿½Å‚ï¿½ï¿½Åï¿½ï¿½ÍŠmï¿½ï¿½ï¿½ÉŒÜlï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾Bï¿½ï¿½ï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½qï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½Ì’ï¿½ï¿½Éˆï¿½lï¿½ï¿½ï¿½~ï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Nï¿½ï¿½ï¿½I<br>
+    ï¿½Vï¿½ï¿½@ï¿½^ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Å•Ï‚È‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½È‚ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½Ä‚Í‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½nï¿½ï¿½ï¿½È‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½È‚ï¿½Bï¿½ÈŠwï¿½É‹ï¿½ï¿½ï¿½ï¿½Vï¿½ì–žï¿½vï¿½ï¿½Yï¿½ê‚½ï¿½Ì‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½kï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½Äï¿½ï¿½ß‚ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½oï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½ÈB<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚©‚ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½è‚¾ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ß‚ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê¯ï¿½ÉŠè‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½è‚¾ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½á‚ ï¿½Nï¿½ï¿½ï¿½iï¿½ÆŒï¿½ï¿½ï¿½ï¿½Äˆï¿½lï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½Å‚ï¿½ï¿½é‚ªï¿½Aï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‹Cï¿½Ã‚ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÌŒï¿½Aï¿½Þï¿½ï¿½ÍÂ–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ÆŒÄ‚Î‚ï¿½é‚±ï¿½Æ‚É‚È‚ï¿½Bï¿½j<br>
+    ï¿½Â–ï¿½ï¿½@ï¿½nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä—ï¿½ï¿½ê¯ï¿½ÉŠè‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ý‚ï¿½È‚Æˆêï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½ê‚¶ï¿½á‚ ï¿½cï¿½iï¿½Ý‚ï¿½È‘ï¿½ï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½Ì–Ú‚ÅŒï¿½ï¿½ï¿½j<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½[ï¿½Bï¿½ï¿½ï¿½ê‚¶ï¿½á‚ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½æ‚»ï¿½ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ç‰´ï¿½ÌŽvï¿½ï¿½ï¿½á‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½ï¿½ï¿½ÈB<br>
+    ï¿½Vï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ìï¿½ï¿½Ì’ï¿½ï¿½É—dï¿½ï¿½ï¿½È‚ï¿½Ä‚ï¿½ï¿½ï¿½í‚¯ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ÈB<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È[ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½oï¿½Pï¿½Aï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½É”ï¿½ï¿½ï¿½)ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½í‚¯ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÇB<br>
+    ï¿½ï¿½ï¿½ï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ß‚ï¿½æ‚¤ï¿½ï¿½)ï¿½ËAï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½Yï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½Åï¿½ï¿½Ì–ìŒ´ï¿½É‚ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ê¯ï¿½B(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Fï¿½ï¿½nï¿½ß‚ï¿½)<br>
+    ï¿½Â–ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½B(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½Ì•Ê‚ÌêŠï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Fï¿½ï¿½nï¿½ß‚ï¿½)<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½[ï¿½B(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½Ì•Ê‚ÌêŠï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Fï¿½ï¿½nï¿½ß‚ï¿½)<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½[ï¿½B(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½Ì•Ê‚ÌêŠï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Fï¿½ï¿½nï¿½ß‚ï¿½)<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ê¯ï¿½Ì‰Jï¿½ï¿½ï¿½B(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Fï¿½ï¿½nï¿½ß‚ï¿½) <br>
     <br>
-    @@@“V–ì‚Í‹F‚Á‚Ä‚¢‚é—F‚¾‚¿‚ð‚ ‚«‚ê‚½Šç‚ÅŒ©‚Ä‚¢‚éB<br>
-    @@@‚µ‚©‚µAÅŒã‚É‚Í‚Ý‚ñ‚È‚©‚ç—£‚ê‚½êŠ‚Å‰½‚©‚ð‹F‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Vï¿½ï¿½Í‹Fï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ÅŒï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ÅŒï¿½É‚Í‚Ý‚ï¿½È‚ï¿½ï¿½ç—£ï¿½ê‚½ï¿½êŠï¿½Å‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Fï¿½ï¿½B<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
-    <font color="#000000"><br>   
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
+    <font color="#000000"><br>
  </font>
-    <P class=border1><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="kadai2" id="kadai2">‰Û‘è‚Q@u’·‚¢ƒV[ƒ“‚ð‚Â‚­‚Á‚Ä‚Ý‚évŽg—p‚·‚éƒeƒLƒXƒgu‰Ä‹x‚Ýv</a><br>
+    <P class=border1><font color="#000000" size="+2" style="font-size : 150%;"><b><a name="kadai2" id="kadai2">ï¿½Û‘ï¿½Qï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Ä‹xï¿½Ýv</a><br>
     </b></font></P>
     <P class=border6><font color="#000000">
-    ¡ê–ÊÝ’è<br>
-    º˜a‚P‚P”N‚Ì‰Ä‹x‚Ý‚P“ú‘O‚Ì‹³ŽºBº˜a‚P‚P”NA’†‘‚Æ‚Ìí‚¢‚ÍŽn‚Ü‚Á‚Ä‚¢‚½‚ªA‘¾•½—mí‘ˆ‚ªŽn‚Ü‚é‚Ì‚Í‚Ü‚¾æ‚Ì‚±‚ÆBŽq‚Ç‚à‚½‚¿‚Í–¾“ú‚©‚çŽn‚Ü‚é‰Ä‹x‚ÝA‚»‚µ‚Äƒxƒ‹ƒŠƒ“ƒIƒŠƒ“ƒsƒbƒN‚É‹¹‚ð‚Æ‚«‚ß‚©‚¹‚Ä‚¢‚½B‘åêŒ›ˆê‚Í‹C‚ÍŽã‚¢‚ª—D‚µ‚­A‚¨‰»‚¯‚ª‘åD‚«B‚“c‚ÍƒXƒ|[ƒc–œ”\B“V–ì‚Í‰ÈŠwŽÒ‚É‚È‚é‚Ì‚ª–²B‘åŠâ‚Í’jŸ‚è‚Å——D‚É‚È‚é‚Ì‚ª–²B‰“–ì‚Ý‚Ç‚è‚Í‚¨ì—l‚Æ‚¢‚Á‚½Š´‚¶‚Ì­—‚ÅƒIƒyƒ‰‰ÌŽè‚É‚È‚é‚±‚Æ‚ð–²Œ©‚Ä‚¢‚½B<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½ï¿½ï¿½aï¿½Pï¿½Pï¿½Nï¿½Ì‰Ä‹xï¿½Ý‚Pï¿½ï¿½ï¿½Oï¿½Ì‹ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½aï¿½Pï¿½Pï¿½Nï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Ìí‚¢ï¿½ÍŽnï¿½Ü‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½mï¿½í‘ˆï¿½ï¿½ï¿½nï¿½Ü‚ï¿½Ì‚Í‚Ü‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ÆBï¿½qï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½Ü‚ï¿½Ä‹xï¿½ÝAï¿½ï¿½ï¿½ï¿½ï¿½Äƒxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½É‹ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½êŒ›ï¿½ï¿½Í‹Cï¿½ÍŽã‚¢ï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½cï¿½ÍƒXï¿½|ï¿½[ï¿½cï¿½ï¿½ï¿½\ï¿½Bï¿½Vï¿½ï¿½Í‰ÈŠwï¿½Ò‚É‚È‚ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Í’jï¿½ï¿½ï¿½ï¿½Åï¿½ï¿½Dï¿½É‚È‚ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Ý‚Ç‚ï¿½Í‚ï¿½ï¿½ï¿½lï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ÅƒIï¿½yï¿½ï¿½ï¿½ÌŽï¿½É‚È‚é‚±ï¿½Æ‚ð–²Œï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡“oêl•¨@‚Ul(‚Ü‚½‚Í‚Tl)<br>
-    ‘åêŒ›ˆê<br>
-    ‚“cˆê˜Y<br>
-    “V–ì–ž•v<br>
-    ‘åŠâ—mŽq<br>
-    ‰“–ì‚Ý‚Ç‚è<br>
-    Â–ö‚±‚¾‚Ü(“oêê–Ê‚ª­‚È‚¢‚½‚ßA‰“–ì‚Ý‚Ç‚è‚Æ‚Ì‚Q–ð‚ð‰‰‚¶‚éÝ’è‚Å‚à‚æ‚¢)Ÿ<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@ï¿½Uï¿½l(ï¿½Ü‚ï¿½ï¿½Í‚Tï¿½l)<br>
+    ï¿½ï¿½êŒ›ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½cï¿½ï¿½Y<br>
+    ï¿½Vï¿½ì–žï¿½v<br>
+    ï¿½ï¿½ï¿½mï¿½q<br>
+    ï¿½ï¿½ï¿½ï¿½Ý‚Ç‚ï¿½<br>
+    ï¿½Â–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½oï¿½ï¿½ï¿½Ê‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ßAï¿½ï¿½ï¿½ï¿½Ý‚Ç‚ï¿½Æ‚Ì‚Qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý’ï¿½Å‚ï¿½ï¿½æ‚¢)ï¿½ï¿½<br>
     </font></P>
     <p class="border6" align="left"><font color="#000000">
-    ¡ƒeƒLƒXƒg<br>
+    ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
     <br>
-    ‚“c@‹N—§B‹C‚ð‚Â‚¯Bæ¶‚¨‚Í‚æ‚¤‚²‚´‚¢‚Ü‚·B<br>
-    ‚Ý‚ñ‚È@‚¨‚Í‚æ‚¤‚²‚´‚¢‚Ü‚·B<br>
-    ‹{àVæ¶@‚¨‚Í‚æ‚¤‚²‚´‚¢‚Ü‚·B‚ ‚çAŠ÷‚Ì•À‚Ñ•û‚¨‚©‚µ‚­‚È‚¢BŠm‚©ˆê”ÔŒã‚ë‚ÌÈ‚Í—×‚ª‚¢‚È‚­‚ÄA“V–ìŒN‚ªˆêl‚ÅÀ‚Á‚Ä‚È‚©‚Á‚½B<br>
-    @@@<br>
-    @@@Â–ö‚ª‚Ñ‚Á‚­‚è‚µ‚Ä—§‚¿ã‚ª‚éB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½Nï¿½ï¿½ï¿½Bï¿½Cï¿½ï¿½ï¿½Â‚ï¿½ï¿½Bï¿½æ¶ï¿½ï¿½ï¿½Í‚æ‚¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½Ý‚ï¿½È@ï¿½ï¿½ï¿½Í‚æ‚¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½Í‚æ‚¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì•ï¿½ï¿½Ñ•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½mï¿½ï¿½ï¿½ï¿½ÔŒï¿½ï¿½ÌÈ‚Í—×‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÄAï¿½Vï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½lï¿½Åï¿½ï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Â–ï¿½ï¿½ï¿½ï¿½Ñ‚ï¿½ï¿½ï¿½ï¿½è‚µï¿½Ä—ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½ï¿½B<br>
     <br>
-    Â–ö@‚â‚¾æ¶A‚¨‚©‚µ‚È‚±‚ÆŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B‘O‚©‚ç‚±‚Ì‚Ü‚Ü‚Å‚·B<br>
-    ‹{àVæ¶@‚»‚¤‚æ‚ËA‹‚³‚Å‚Ú‚¯‚¿‚á‚Á‚½‚©‚ÈB‚³‚ÄA–¾“ú‚©‚ç‘Ò‚¿‚É‘Ò‚Á‚½‰Ä‹x‚ÝB‚Ý‚ñ‚È‹x‚Ý’†‚ÌŒv‰æ‚Í‚µ‚Á‚©‚è—§‚Ä‚½B<br>
-    ‘Sˆõ@‚Í[‚¢B<br>
-    ‹{àVæ¶@‚“cŒNB‚ ‚È‚½‚Í‚Ç‚ñ‚ÈŒv‰æ‚ð—§‚Ä‚½‚ÌB<br>
-    ‚“c@‰´‚ÍA–ˆ“úƒxƒ‹ƒŠƒ“EƒIƒŠƒ“ƒsƒbƒN‚ðƒ‰ƒWƒI‚Å’®‚±‚¤‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B‚È‚ñ‚¹A‰‚ß‚Ä‚Ì¶’†Œp‚Å‚·‚©‚çB<br>
-    ‹{àVæ¶@‚Å‚à•sŽv‹c‚Ë[BƒhƒCƒc‚Ås‚í‚ê‚Ä‚¢‚é‚±‚Æ‚ªA“¯‚¶ŽžŠÔ‚É“ú–{‚É‚¢‚Ä’®‚¯‚é‚È‚ñ‚ÄB<br>
-    “V–ì@æ¶Bƒ‰ƒWƒI‚Ì¶’†Œp‚­‚ç‚¢‚Å‹Á‚¢‚Ä‚¿‚áŽž‘ã‚É’x‚ê‚Ü‚·‚æB¡“x‚Ìƒxƒ‹ƒŠƒ“EƒIƒŠƒ“ƒsƒbƒN‚Å‚Í¢ŠE‰‚ÌƒeƒŒƒrƒWƒ‡ƒ“‚ªŽg‚í‚ê‚é‚ñ‚Å‚·‚æB@<br>
-    ‹{àVæ¶@ƒeƒŒƒrƒWƒ‡ƒ“H‚È‚É‚»‚êB<br>
-    “V–ì@‚¤[‚ñA‚¿‚å‚Á‚Æà–¾‚·‚é‚Ì“ï‚µ‚¢‚È[B‚ ‚Ì‰f‰æ’m‚Á‚Ä‚Ü‚·‚æ‚ËB—v‚·‚é‚ÉAƒxƒ‹ƒŠƒ“‘å‰ï‚Ì–Í—l‚ª“¯Žž‚É‰f‰æ‚Ì‰æ–Ê‚ð¬‚³‚­‚µ‚½A‚±‚Ì‚­‚ç‚¢‚Ì‰æ–Ê‚ÉŽÊ‚é‚ñ‚Å‚·‚æB<br>
-    ‘åŠâ@‚Ù‚ñ‚Æ[BM‚¶‚ç‚ê‚È‚¢B<br>
-    ‚“c@‚Å‚àA‚»‚¢‚Â‚Í‚·‚°[‚ÈB<br>
-    “V–ì@‚Ü‚¾‚Ü‚¾‹Á‚­‚Ì‚Í‘‚¢‚æBŽŸ‚Ìº˜a\ŒÜ”N‚ÌƒIƒŠƒ“ƒsƒbƒN‚ª‚à‚µ“Œ‹ž‚É‚È‚ê‚ÎA‚±‚Ì“ú–{‚Å‚àAƒIƒŠƒ“ƒsƒbƒN‚ðƒeƒŒƒrƒWƒ‡ƒ“‚Å•ú‘—‚·‚é—\’è‚È‚ñ‚¾‚¼B‚»‚µ‚Ä«—ˆ‚ÍAŽ©•ª‚Ì‚¤‚¿‚ÅƒeƒŒƒWƒ‡ƒ“‚ªŒ©‚ç‚ê‚é‚æ‚¤‚É‚È‚é‚©‚à‚µ‚ê‚È‚¢‚ñ‚¾‚¼B<br>
-    ‹{àVæ¶@‚³‚·‚ª“V–ìŒNA‚æ‚­’m‚Á‚Ä‚é‚í‚ËB<br>
-    ‚“c@æ¶B“VŽ×‹S‚ÍA‰ÈŠwŽÒ‚É‚È‚é‚Ì‚ª–²‚È‚ñ‚Å‚·B<br>
-    ‹{àVæ¶@“V–ìŒN‚È‚ç‚È‚ê‚é‚©‚à‚ËB@@<br>
+    ï¿½Â–ï¿½ï¿½@ï¿½â‚¾ï¿½æ¶ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÆŒï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Oï¿½ï¿½ï¿½ç‚±ï¿½Ì‚Ü‚Ü‚Å‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËAï¿½ï¿½ï¿½ï¿½ï¿½Å‚Ú‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò‚ï¿½ï¿½É‘Ò‚ï¿½ï¿½ï¿½ï¿½Ä‹xï¿½ÝBï¿½Ý‚ï¿½È‹xï¿½Ý’ï¿½ï¿½ÌŒvï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è—§ï¿½Ä‚ï¿½ï¿½B<br>
+    ï¿½Sï¿½ï¿½ï¿½@ï¿½Í[ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½cï¿½Nï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½Í‚Ç‚ï¿½ÈŒvï¿½ï¿½ð—§‚Ä‚ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½Iï¿½Å’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½È‚ñ‚¹Aï¿½ï¿½ï¿½ß‚Ä‚Ìï¿½ï¿½ï¿½ï¿½pï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Å‚ï¿½ï¿½sï¿½vï¿½cï¿½Ë[ï¿½Bï¿½hï¿½Cï¿½cï¿½Åsï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚É“ï¿½ï¿½{ï¿½É‚ï¿½ï¿½Ä’ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ÄB<br>
+    ï¿½Vï¿½ï¿½@ï¿½æ¶ï¿½Bï¿½ï¿½ï¿½Wï¿½Iï¿½Ìï¿½ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½ç‚¢ï¿½Å‹ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½áŽžï¿½ï¿½É’xï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½xï¿½Ìƒxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½Å‚Íï¿½ï¿½Eï¿½ï¿½ï¿½Ìƒeï¿½ï¿½ï¿½rï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½@<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½eï¿½ï¿½ï¿½rï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½Hï¿½È‚É‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½ï¿½ï¿½[ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì“ï‚µï¿½ï¿½ï¿½È[ï¿½Bï¿½ï¿½ï¿½Ì‰fï¿½ï¿½mï¿½ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½ï¿½ËBï¿½vï¿½ï¿½ï¿½ï¿½ÉAï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì–Í—lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‰fï¿½ï¿½Ì‰ï¿½Ê‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ç‚¢ï¿½Ì‰ï¿½Ê‚ÉŽÊ‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Ù‚ï¿½Æ[ï¿½Bï¿½Mï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½Å‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Â‚Í‚ï¿½ï¿½ï¿½ï¿½[ï¿½ÈB<br>
+    ï¿½Vï¿½ï¿½@ï¿½Ü‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Í‘ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìï¿½ï¿½aï¿½\ï¿½Ü”Nï¿½ÌƒIï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚È‚ï¿½ÎAï¿½ï¿½ï¿½Ì“ï¿½ï¿½{ï¿½Å‚ï¿½ï¿½Aï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½ï¿½ï¿½eï¿½ï¿½ï¿½rï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½Å•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½È‚ñ‚¾‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Äï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½Åƒeï¿½ï¿½ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‚È‚é‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Vï¿½ï¿½Nï¿½Aï¿½æ‚­ï¿½mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ËB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½æ¶ï¿½Bï¿½Vï¿½×‹Sï¿½ÍAï¿½ÈŠwï¿½Ò‚É‚È‚ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Vï¿½ï¿½Nï¿½È‚ï¿½È‚ï¿½é‚©ï¿½ï¿½ï¿½ËBï¿½@ï¿½@<br>
     <br>
-    @@@“V–ì‚ÍÆ‚ê‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Vï¿½ï¿½ÍÆ‚ï¿½ï¿½B<br>
     <br>
-    ‚“c@æ¶Aƒxƒ‹ƒŠƒ“‘å‰ï‚Å‚ÍA“ú–{‚Í‚Ç‚ê‚­‚ç‚¢‹àƒƒ_ƒ‹‚ªŽæ‚ê‚é‚ÆŽv‚¢‚Ü‚·‚©B<br>
-    ‹{àVæ¶@c‚“c‚­‚ñ‚Í‚Ç‚¤Žv‚¤‚ÌB<br>
-    ‚“c@‚«‚Á‚Æ…‰j‚Í‚½‚­‚³‚ñŽæ‚è‚Ü‚·‚æB‘O‰ñ‚ÌƒƒTƒ“ƒ[ƒ‹ƒX‘å‰ï‚Å“ñˆÊ‚¾‚Á‚½‘O”¨‚Í—DŸ‚·‚é‰Â”\«‘å‚©‚ÈBŽO’i’µ‚Ñ‚àAƒIƒŠƒ“ƒsƒbƒNŽO˜A”e‚ÍŒ˜‚¢‚ÈB‚’µ‚Ñ‚àŠú‘Ò‚Å‚«‚Ü‚·‚æB<br>
-    ‹{àVæ¶@Ú‚µ‚¢‚Ì‚ËB<br>
-    ‚“c@‰´‚ÍAƒIƒŠƒ“ƒsƒbƒN‚Éo‚é‚Ì‚ª–²‚È‚ñ‚Å‚·B<br>
-    ‹{àVæ¶@‚Ö[A‚“cŒNA‰^“®“¾ˆÓ‚¾‚©‚ç‚ËBŽŸ‚ÌƒIƒŠƒ“ƒsƒbƒN‚Éo‚ç‚ê‚é‚Æ‚¢‚¢‚í‚ËB<br>
-    ‚“c@ŽŸ‚ÌƒIƒŠƒ“ƒsƒbƒN‚ÍA“Œ‹ž‚©ƒwƒ‹ƒVƒ“ƒL‚Å‚·‚©‚ç‚ËB“Œ‹ž‚É‚È‚ê‚Î‚¢‚¢‚ÈB‚Å‚àŽl”NŒã‚Í‚Ü‚¾’†ŠwŽl”N¶‚¾‚©‚ço‚é‚Ì‚Í“ï‚µ‚¢‚ÈB<br>
-    ‹{àVæ¶@‰½‚©æ¶‚àƒIƒŠƒ“ƒsƒbƒN‚É‹»–¡‚ª‚í‚¢‚Ä‚«‚¿‚á‚Á‚½B•ú‘—‚Í‰½Žž‚È‚ÌB<br>
-    ‚“c@’©‚Ì˜ZŽž”¼‚©‚çŽµŽž‚Æ–é‚Ì\ˆêŽž‚©‚ç\“ñŽž‚Ü‚Å‚Å‚·B<br>
-    ‹{àVæ¶@—¼•û’®‚­‹C‚È‚ÌB<br>
-    ‚“c@‚Í‚¢B<br>
-    ‹{àVæ¶@’©‚Í‚Æ‚à‚©‚­A–é‚ÍQ‚È‚³‚¢B‚Ü‚¾Žq‚Ç‚à‚È‚ñ‚¾‚©‚çB<br>
-    “V–ì@æ¶A–l‚Í‚»‚¤‚µ‚Ü‚·B<br>
-    ‹{àVæ¶@‚“cŒN‚à‚»‚¤‚µ‚È‚³‚¢B<br>
-    ‚“c@(‚Ó‚Ä‚­‚³‚ê‚½Š´‚¶‚Å)‚Í[‚¢B<br>
-    ‘åŠâ@æ¶Iæ¶Iæ¶I‚ ‚½‚µA‰f‰æ‚ðŒ©‚É‚¢‚«‚Ü‚·B<br>
-    ‹{àVæ¶@‰½Œ©‚é‚ÌB<br>
-    ‘åŠâ@w‹•‰h‚ÌŽsx‚Å‚·Bæ¶A‚±‚Ì‰f‰æA‘“V‘RF‚È‚ñ‚Å‚·‚æB<br>
-    ‹{àVæ¶@‘“V‘RFH<br>
-    ‘åŠâ@”’‚Æ•‚Ì‰æ–Ê‚¶‚á‚È‚­‚Á‚ÄA¡‚ ‚½‚µ‚ªŒ©‚Ä‚¢‚é‚Ì‚Æ“¯‚¶F‚ÅŽÊ‚Á‚Ä‚¢‚é‚ñ‚Å‚·‚Á‚ÄB<br>
-    ‰“–ì@‚Ù‚ñ‚ÆA¦‚¢‚Ì‚ËB<br>
-    ‹{àVæ¶@‘åŠâ‚³‚ñA‚ ‚È‚½‰f‰æ‚Ì˜b‚É‚È‚é‚Æ‚Ù‚ñ‚Æ¶‚«¶‚«‚µ‚Ä‚­‚é‚í‚ËB<br>
-    ‘åŠâ@æ¶I‚ ‚½‚µA——DŽu–]‚È‚ñ‚Å‚·B<br>
-    “V–ì@‚Í‚Í[A–³—–³—B<br>
-    ‘åŠâ@‰½‚æ[B<br>
-    “V–ì@‚¨‚ß‚¦‚¶‚á–³—‚Á‚Ä[‚ÌB‹â–‹‚ÌƒXƒ^[‚Á‚Ä‚Ì‚Í‚ÈA—§‚Ä‚Îä‰–òAÀ‚ê‚Î‰²’OA•à‚­Žp‚Í•S‡‚Ì‰Ô‚Á‚ÄŠ´‚¶‚ÌãY—í‚È—‚ÌŽq‚µ‚©‚È‚ê‚È‚¢‚ÌB‚¨‚ß‚¦‚Í—§‚Ä‚Î‘åªAÀ‚ê‚ÎƒXƒCƒJA•à‚­Žp‚Í“Ø‚Ì•@‚¾‚ëBi‚Ý‚ñ‚ÈÎ‚¤j<br>
-    ‘åŠâ@‚Ä‚ß[A‚æ‚­‚àŒ¾‚Á‚Ä‚­‚ê‚½‚ÈB@@<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½æ¶ï¿½Aï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ÍAï¿½ï¿½ï¿½{ï¿½Í‚Ç‚ê‚­ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½cï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½Í‚Ç‚ï¿½ï¿½vï¿½ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Æï¿½ï¿½jï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½Oï¿½ï¿½Ìƒï¿½ï¿½Tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½Å“ï¿½Ê‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Í—Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â”\ï¿½ï¿½ï¿½å‚©ï¿½ÈBï¿½Oï¿½iï¿½ï¿½ï¿½Ñ‚ï¿½ï¿½Aï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½Oï¿½Aï¿½eï¿½ÍŒï¿½ï¿½ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½Ñ‚ï¿½ï¿½ï¿½ï¿½Ò‚Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Ú‚ï¿½ï¿½ï¿½ï¿½Ì‚ËB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ÍAï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½Éoï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Ö[ï¿½Aï¿½ï¿½ï¿½cï¿½Nï¿½Aï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½Ó‚ï¿½ï¿½ï¿½ï¿½ï¿½ËBï¿½ï¿½ï¿½ÌƒIï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½Éoï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ÌƒIï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½Lï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ËBï¿½ï¿½ï¿½ï¿½ï¿½É‚È‚ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ÈBï¿½Å‚ï¿½ï¿½lï¿½Nï¿½ï¿½Í‚Ü‚ï¿½ï¿½ï¿½ï¿½wï¿½lï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½Ì‚Í“ï‚µï¿½ï¿½ï¿½ÈB<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½æ¶ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½sï¿½bï¿½Nï¿½É‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½í‚¢ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½ï¿½ï¿½È‚ÌB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½Ì˜Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½çŽµï¿½ï¿½ï¿½Æ–ï¿½Ì\ï¿½êŽžï¿½ï¿½ï¿½ï¿½\ï¿½ñŽž‚Ü‚Å‚Å‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½È‚ÌB<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½Í‚Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ÍQï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½qï¿½Ç‚ï¿½ï¿½È‚ñ‚¾‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½æ¶ï¿½Aï¿½lï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½cï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@(ï¿½Ó‚Ä‚ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½Í[ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½æ¶ï¿½Iï¿½æ¶ï¿½Iï¿½æ¶ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½@ï¿½wï¿½ï¿½ï¿½hï¿½ÌŽsï¿½xï¿½Å‚ï¿½ï¿½Bï¿½æ¶ï¿½Aï¿½ï¿½ï¿½Ì‰fï¿½ï¿½Aï¿½ï¿½ï¿½Vï¿½Rï¿½Fï¿½È‚ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½Vï¿½Rï¿½Fï¿½H<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Æï¿½ï¿½Ì‰ï¿½Ê‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚Æ“ï¿½ï¿½ï¿½ï¿½Fï¿½ÅŽÊ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½Ù‚ï¿½ÆAï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ËB<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½â‚³ï¿½ï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½fï¿½ï¿½Ì˜bï¿½É‚È‚ï¿½Æ‚Ù‚ï¿½Æï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½ï¿½ï¿½@ï¿½æ¶ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Dï¿½uï¿½]ï¿½È‚ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½Í‚Í[ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½[ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½á–³ï¿½ï¿½ï¿½ï¿½ï¿½Ä[ï¿½ÌBï¿½â–‹ï¿½ÌƒXï¿½^ï¿½[ï¿½ï¿½ï¿½Ä‚Ì‚Í‚ÈAï¿½ï¿½ï¿½Ä‚ï¿½ä‰–ï¿½Aï¿½ï¿½ï¿½ï¿½Î‰ï¿½ï¿½Oï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½pï¿½Í•Sï¿½ï¿½ï¿½Ì‰Ô‚ï¿½ï¿½ÄŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Yï¿½ï¿½Èï¿½ï¿½ÌŽqï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½È‚ï¿½ï¿½ÌBï¿½ï¿½ï¿½ß‚ï¿½ï¿½Í—ï¿½ï¿½Ä‚Î‘åªï¿½Aï¿½ï¿½ï¿½ï¿½ÎƒXï¿½Cï¿½Jï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½pï¿½Í“Ø‚Ì•@ï¿½ï¿½ï¿½ï¿½Bï¿½iï¿½Ý‚ï¿½ÈÎ‚ï¿½ï¿½j<br>
+    ï¿½ï¿½ï¿½@ï¿½Ä‚ß[ï¿½Aï¿½æ‚­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ê‚½ï¿½ÈBï¿½@ï¿½@<br>
     <br>
-    @@@“V–ì‚ÉP‚¢‚©‚©‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Vï¿½ï¿½ÉPï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ‹{àVæ¶@‘åŠâ‚³‚ñA‚â‚ß‚È‚³‚¢B‚ ‚È‚½—‚ÌŽq‚Å‚µ‚åB<br>
-    ‘åŠâ@‚¾‚Á‚ÄBi‹ƒ‚«o‚·j<br>
-    ‹{àVæ¶@“V–ìŒNA‚ ‚È‚½‚ÍŒû‚ªˆ«‚·‚¬‚Ü‚·B‘åŠâ‚³‚ñA‚ ‚È‚½‚à‚»‚Ì‚­‚ç‚¢‚Ì‚±‚Æ‚Å‹ƒ‚­‚ñ‚¶‚á‚È‚¢‚ÌB<br>
-    ‘åŠâ@(“Ë‘R—§‚¿ã‚ª‚Á‚Ä)æ¶A¡‚Ì‰‰‹Z‚Å‚µ‚½B‚¤‚Ü‚©‚Á‚½H<br>
-    ‹{àVæ¶@‘åŠâ‚³‚ñI‘ål‚ð‚©‚ç‚©‚¤‚ñ‚¶‚á‚È‚¢‚ÌB<br>
-    ‘åŠâ@‚²‚ß‚ñ‚È‚³‚¢B<br>
-    ‹{àVæ¶@‰“–ì‚³‚ñB‚ ‚È‚½‚Í‰½‚©Œv‰æ‚ª‚ ‚é‚ÌB<br>
-    ‰“–ì@‰Ì‚ðK‚¢‚É‚¢‚±‚¤‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B<br>
-    ‹{àVæ¶@‚»‚¤B‚ ‚È‚½‚Æ‚Á‚Ä‚à‰Ì‚ª‚¨ãŽè‚¾‚à‚Ì‚ËB<br>
-    ‘åŠâ@æ¶A‚Ý[‚¿‚á‚ñ‚Ì–²‚Í‰ÌŽè‚È‚ñ‚Å‚·B<br>
-    ‹{àVæ¶@‚Ö[B“n•Ó‚Í‚ÜŽq‚Ì‚æ‚¤‚È‰ÌŽè‚ÉH<br>
-    ‰“–ì@‚¢‚¢‚¦AƒNƒ‰ƒVƒbƒN‚Å‚·BƒIƒyƒ‰‰ÌŽè‚É‚È‚è‚½‚¢‚ñ‚Å‚·B<br>
-    ‚“c@ƒIƒyƒ‰H‰½‚¾‚»‚êB<br>
-    ‘åŠâ@(“°X‚Æ‚µ‚½”­º‚Å)uƒA[ƒA[ƒA[v‚Á‚Ä‰Ì‚¤‚â‚Â‚Å‚µ‚åB<br>
-    ‰“–ì@(‚¤‚È‚¸‚­)<br>
-    ‹{àVæ¶@‚Ý‚ñ‚È‚¸‚¢‚Ô‚ñ‘å‚«‚È–²‚ð‚à‚Á‚Ä‚¢‚é‚Ì‚ËB–²‚ð‚à‚Â‚Á‚Ä‚Æ‚Á‚Ä‚à‘f“G‚È‚±‚Æ‚ËBÂ–ö‚³‚ñA‚³‚Á‚«‚Á‚©‚ç‚¸[‚Æ–Ù‚Á‚Ä‚¢‚é‚¯‚Ç‚ ‚È‚½‚Í‰Ä‹x‚Ý‚ð‚Ç‚Ì‚æ‚¤‚ÉŽg‚¤‚ÌB<br>
-    Â–ö@Ž„A‚Ü‚¾Œˆ‚ß‚Ä‚¢‚Ü‚¹‚ñB‚·‚Ý‚Ü‚¹‚ñB<br>
-    ‹{àVæ¶@‰½‚àAŽÓ‚é‚±‚Æ‚È‚ñ‚©‚È‚¢‚Ì‚æBæ¶‚¾‚Á‚Ä‰½‚·‚é‚©Œˆ‚ß‚Ä‚È‚¢‚ñ‚¾‚©‚çBl‚»‚ê‚¼‚ê‚Å‚¢‚¢‚ÌB‚³‚Ä‚Æ‚Ý‚ñ‚È‚Ì—\’è‚à•·‚«I‚Á‚½‚µ‚Æc<br>
-    ‚“c@æ¶A‚Ü‚¾ƒoƒP‚ªŽc‚Á‚Ä‚¢‚Ü‚·B<br>
-    ‹{àVæ¶@‚²‚ß‚ñ‚È‚³‚¢B‚Â‚¢‚Â‚¢–Y‚ê‚Ä‚µ‚Ü‚Á‚ÄB<br>
-    ‘åê@‚¢‚¢‚ñ‚Å‚·c‚Ç‚¤‚¹c<br>
-    ‹{àVæ¶@(—D‚µ‚­)‘åêŒNA‘åêŒNA‚ ‚È‚½‚Í‰Ä‹x‚Ý‚Ç‚¤‚·‚é‚ÌB<br>
-    ‘åê@‚¤‚¿•n–R‚¾‚©‚çA‚Ç‚±‚©‚Ös‚Á‚½‚è‚·‚é—]—T‚ª‚È‚¢‚ñ‚¾B‚»‚ê‚É‚¤‚¿‚Ì‚¨•ê‚¿‚á‚ñA‚±‚Ì‰Ä‚ÉÔ‚¿‚á‚ñŽY‚Þ‚ñ‚¾B‚¾‚©‚ç‰Æ‚ÌŽè“`‚¢‚µ‚È‚­‚¿‚áB<br>
-    ‹{àVæ¶@‚»‚ê‚¶‚áA‘åêŒN‚±‚Ì‰Ä‹x‚Ý‚É‚¨ŒZ‚³‚ñ‚É‚È‚é‚Ì‚ËBi‘åêÆ‚ê‚éj<br>
-    “V–ì@—Š‚è‚Ë[ŒZ‚³‚ñ‚¾‚ÈB<br>
-    ‘åê@‚È‚ñ‚¾‚ÆB<br>
-    ‹{àVæ¶@‚Ù‚ç‚Ü‚½B“V–ìŒNA‚¢‚¢‚©‚°‚ñ‚É‚µ‚È‚³‚¢B<br>
-    “V–ì@i‚Ó‚Ä‚­‚³‚ê‚Äj‚Í[‚¢B<br>
-    ‹{àVæ¶@‚³A‚¨‚µ‚á‚×‚è‚Í‚±‚ê‚­‚ç‚¢‚É‚µ‚ÄA‚¨‘Ò‚¿‚©‚Ë‚Ì’ÊM•ë‚ð•Ô‚µ‚Ü‚µ‚å‚¤B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½â‚³ï¿½ï¿½Aï¿½ï¿½ß‚È‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÌŽqï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÄBï¿½iï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½j<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Vï¿½ï¿½Nï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½ÍŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½â‚³ï¿½ï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ç‚¢ï¿½Ì‚ï¿½ï¿½Æ‚Å‹ï¿½ï¿½ï¿½ï¿½ñ‚¶‚ï¿½È‚ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½@(ï¿½Ë‘Rï¿½ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½ï¿½ï¿½ï¿½)ï¿½æ¶ï¿½Aï¿½ï¿½ï¿½Ì‰ï¿½ï¿½Zï¿½Å‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½â‚³ï¿½ï¿½Iï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ç‚©ï¿½ï¿½ï¿½ñ‚¶‚ï¿½È‚ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ß‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ì‚³ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½Í‰ï¿½ï¿½ï¿½ï¿½vï¿½æ‚ªï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½Ì‚ï¿½ï¿½Kï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½è‚¾ï¿½ï¿½ï¿½Ì‚ËB<br>
+    ï¿½ï¿½ï¿½@ï¿½æ¶ï¿½Aï¿½Ý[ï¿½ï¿½ï¿½ï¿½ï¿½Ì–ï¿½ï¿½Í‰ÌŽï¿½È‚ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Ö[ï¿½Bï¿½nï¿½Ó‚Í‚ÜŽqï¿½Ì‚æ‚¤ï¿½È‰ÌŽï¿½ÉH<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Nï¿½ï¿½ï¿½Vï¿½bï¿½Nï¿½Å‚ï¿½ï¿½Bï¿½Iï¿½yï¿½ï¿½ï¿½ÌŽï¿½É‚È‚è‚½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½Iï¿½yï¿½ï¿½ï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@(ï¿½ï¿½ï¿½Xï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½uï¿½Aï¿½[ï¿½Aï¿½[ï¿½Aï¿½[ï¿½vï¿½ï¿½ï¿½Ä‰Ì‚ï¿½ï¿½ï¿½Â‚Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@(ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½)<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Ý‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½å‚«ï¿½È–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ËBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ä‚Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½fï¿½Gï¿½È‚ï¿½ï¿½Æ‚ËBï¿½Â–ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¸ï¿½[ï¿½Æ–Ù‚ï¿½ï¿½Ä‚ï¿½ï¿½é‚¯ï¿½Ç‚ï¿½ï¿½È‚ï¿½ï¿½Í‰Ä‹xï¿½Ý‚ï¿½ï¿½Ç‚Ì‚æ‚¤ï¿½ÉŽgï¿½ï¿½ï¿½ÌB<br>
+    ï¿½Â–ï¿½ï¿½@ï¿½ï¿½ï¿½Aï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ß‚Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ó‚é‚±ï¿½Æ‚È‚ñ‚©‚È‚ï¿½ï¿½Ì‚ï¿½Bï¿½æ¶ï¿½ï¿½ï¿½ï¿½ï¿½Ä‰ï¿½ï¿½ï¿½ï¿½é‚©ï¿½ï¿½ï¿½ß‚Ä‚È‚ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ï¿½Bï¿½lï¿½ï¿½ï¿½ê‚¼ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ÌBï¿½ï¿½ï¿½Ä‚Æ‚Ý‚ï¿½È‚Ì—\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æc<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½æ¶ï¿½Aï¿½Ü‚ï¿½ï¿½oï¿½Pï¿½ï¿½ï¿½cï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ß‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½Â‚ï¿½ï¿½Â‚ï¿½ï¿½Yï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½cï¿½Ç‚ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@(ï¿½Dï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Nï¿½Aï¿½ï¿½ï¿½Nï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½Í‰Ä‹xï¿½Ý‚Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ösï¿½ï¿½ï¿½ï¿½ï¿½è‚·ï¿½ï¿½]ï¿½Tï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾Bï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ê‚¿ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì‰Ä‚ÉÔ‚ï¿½ï¿½ï¿½ï¿½Yï¿½Þ‚ñ‚¾Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÌŽï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½Aï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½Ì‰Ä‹xï¿½Ý‚É‚ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½É‚È‚ï¿½Ì‚ËBï¿½iï¿½ï¿½ï¿½Æ‚ï¿½ï¿½j<br>
+    ï¿½Vï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Ë[ï¿½Zï¿½ï¿½ï¿½ñ‚¾‚ÈB<br>
+    ï¿½ï¿½ï¿½@ï¿½È‚ñ‚¾‚ÆB<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Ù‚ï¿½Ü‚ï¿½ï¿½Bï¿½Vï¿½ï¿½Nï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½iï¿½Ó‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Äjï¿½Í[ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×‚ï¿½Í‚ï¿½ï¿½ê‚­ï¿½ç‚¢ï¿½É‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½Ò‚ï¿½ï¿½ï¿½ï¿½Ë‚Ì’ÊMï¿½ï¿½ï¿½Ô‚ï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½B<br>
     <br>
-    @@@Šð‚µ‚»‚¤‚ÈŠç‚ ‚èA—JŸT‚»‚¤‚ÈŠç‚ ‚èB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈŠç‚ ï¿½ï¿½Aï¿½Jï¿½Tï¿½ï¿½ï¿½ï¿½ï¿½ÈŠç‚ ï¿½ï¿½B<br>
     <br>
-    ‹{àVæ¶@‚“cŒNB<br>
-    ‚“c@‚Í‚¢Bi’ÊM•ë‚ð”`‚«‚±‚ñ‚Åj‚â‚Á‚½[A‘Ì‘€b‚¾B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½cï¿½Nï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½Í‚ï¿½ï¿½Bï¿½iï¿½ÊMï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åjï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½Aï¿½Ì‘ï¿½ï¿½bï¿½ï¿½ï¿½B<br>
     <br>
-    @@@‚“c‚ª‹³Žº‚ð‘–‚è‰ñ‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ð‘–‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ‹{àVæ¶@“V–ìŒNB<br>
-    “V–ì@‚Í‚¢iŽ©M‚ ‚è‚»‚¤‚ÉjB<br>
-    ‚“c@‚¸‚¢‚Ô‚ñŽ©M‚ ‚è‚»‚¤‚¶‚á‚È‚¢B<br>
-    “V–ì@i’ÊM•ë‚ðŠJ‚¢‚Ä¬Ñ‚ðŒ©‚¹‚éj‚Ü‚ÁA‚±‚ñ‚È‚à‚ñ‚³B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Vï¿½ï¿½Nï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½Í‚ï¿½ï¿½iï¿½ï¿½ï¿½Mï¿½ï¿½ï¿½è‚»ï¿½ï¿½ï¿½Éjï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ñŽ©Mï¿½ï¿½ï¿½è‚»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½iï¿½ÊMï¿½ï¿½ï¿½ï¿½Jï¿½ï¿½ï¿½Äï¿½ï¿½Ñ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½jï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚³B<br>
     <br>
-    @@@‘åŠâ‚ª’ÊM•ë‚ð‚Æ‚éB<br>
-    @@@‘åŠâ‚Ì‚Ü‚í‚è‚É‚Ý‚ñ‚È‚ªW‚Ü‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½â‚ªï¿½ÊMï¿½ï¿½ï¿½ï¿½Æ‚ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Ì‚Ü‚ï¿½ï¿½É‚Ý‚ï¿½È‚ï¿½ï¿½Wï¿½Ü‚ï¿½B<br>
     <br>
-    ‘åŠâ@ŽZpbB’Ô‚è•ûbB“Ç‚Ý•ûbB‘‚«•ûbB‘ŽjbB—‰ÈbB‘Ì‘€c‘Ì‘€B‚ ‚ñ‚½‘Ì‘€A•¸‚¶‚á‚È‚¢B<br>
-    “V–ì@‘Ì‘€‚È‚ñ‚©”nŽ­‚Ì‚â‚é‚à‚ñ‚¾B<br>
-    ‚“c@‚È‚ñ‚¾‚ÆB<br>
-    “V–ì@(‚µ‚Ü‚Á‚½‚Æ‚¢‚¤Šç)<br>
-    ‹{àVæ¶@“V–ìŒNI‚ ‚È‚½‚Ìl‚¦•û‚ÍŠÔˆá‚Á‚Ä‚¢‚Ü‚·B•×‹­‚ª‚¢‚­‚ç‚Å‚«‚Ä‚àA‚ ‚È‚½‚Ì‚æ‚¤‚Èl‚¦‚ÌŽq‚ÍAæ¶Œ™‚¢‚Å‚·B‘Ì‘€‚¾‚Á‚Ä‚Æ‚Á‚Ä‚à‘åØ‚È‰È–Ú‚È‚ñ‚Å‚·B<br>
-    ‚“c@‚»‚¤‚¢‚¤‚±‚Æ‚³B<br>
-    ‹{àVæ¶@‘±‚¯‚Ü‚·B‰“–ì‚³‚ñB<br>
-    ‰“–ì@‚Í‚¢B<br>
-    ‹{àVæ¶@¥‰Ì‚Íb‚Å‚·‚æB<br>
-    ‰“–ì@æ¶A‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B<br>
-    ‹{àVæ¶@iæ¶‚Í‚É‚±‚É‚±‚µ‚Ä’ÊM•ë‚ð“n‚·jŽŸA‘åŠâ‚³‚ñB<br>
-    ‘åŠâ@‚Í[‚¢BiŽ©M‚ ‚è‚»‚¤‚È‘fU‚èA‚µ‚©‚µ’ÊM•ë‚ðŒ©‚Ä‚Ñ‚Á‚­‚èj‚¤‚¨[A‚±‚ê‚ÍcB‚í[B<br>
+    ï¿½ï¿½ï¿½@ï¿½Zï¿½pï¿½bï¿½Bï¿½Ô‚ï¿½ï¿½ï¿½bï¿½Bï¿½Ç‚Ý•ï¿½ï¿½bï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½bï¿½Bï¿½ï¿½ï¿½jï¿½bï¿½Bï¿½ï¿½ï¿½Èbï¿½Bï¿½Ì‘ï¿½ï¿½cï¿½Ì‘ï¿½ï¿½Bï¿½ï¿½ï¿½ñ‚½‘Ì‘ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½Ì‘ï¿½ï¿½È‚ñ‚©”nï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ñ‚¾B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½È‚ñ‚¾‚ÆB<br>
+    ï¿½Vï¿½ï¿½@(ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½)<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Vï¿½ï¿½Nï¿½Iï¿½ï¿½ï¿½È‚ï¿½ï¿½Ìlï¿½ï¿½ï¿½ï¿½ï¿½ÍŠÔˆï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½×‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½Ì‚æ‚¤ï¿½Èlï¿½ï¿½ï¿½ÌŽqï¿½ÍAï¿½æ¶ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ø‚È‰È–Ú‚È‚ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ì‚³ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½Ì‚Íbï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½æ¶ï¿½Aï¿½ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½iï¿½æ¶ï¿½Í‚É‚ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½Ä’ÊMï¿½ï¿½ï¿½nï¿½ï¿½ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½â‚³ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Í[ï¿½ï¿½ï¿½Bï¿½iï¿½ï¿½ï¿½Mï¿½ï¿½ï¿½è‚»ï¿½ï¿½ï¿½È‘fï¿½Uï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÊMï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ñ‚ï¿½ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½Aï¿½ï¿½ï¿½ï¿½Ícï¿½Bï¿½ï¿½[ï¿½B<br>
     <br>
-    @@@‘åŠâ‚Í’ÊM•ë‚ð‚­‚µ‚á‚­‚µ‚á‚É‚µ‚Ä‚µ‚Ü‚¤B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Í’ÊMï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á‚­ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     <br>
-    ‹{àVæ¶@(Q‚Ä‚Ä‘åŠâ‚ðŽ~‚ß‚Ä)‚»‚ñ‚È‚±‚Æ‚µ‚¿‚á‘Ê–Ú‚Å‚µ‚å‚¤B<br>
-    ‘åŠâ@c‚²‚ß‚ñ‚È‚³‚¢B<br>
-    ‹{àVæ¶@ŽŸA‘åêŒNB<br>
-    ‘åê@‚Í‚¢B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@(ï¿½Qï¿½Ä‚Ä‘ï¿½ï¿½ï¿½ï¿½~ï¿½ß‚ï¿½)ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ê–Ú‚Å‚ï¿½ï¿½å‚¤ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½cï¿½ï¿½ï¿½ß‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Nï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
     <br>
-    @@@‘åê‚Í‹÷‚Å‚±‚Á‚»‚èŒ©‚æ‚¤‚Æ‚·‚éB<br>
-    @@@“V–ì‚ª‘åê‚Ì’ÊM•ë‚ðŽæ‚èã‚°‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Í‹ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½èŒ©ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Vï¿½ì‚ªï¿½ï¿½ï¿½Ì’ÊMï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ã‚°ï¿½ï¿½B<br>
     <br>
-    “V–ì@‚Í‚Í‚ÍB‚±‚¢‚Â‚Ý‚ñ‚È•¸‚Å‚â‚ñ‚ÌB”nŽ­‚¾‚Ë[B<br>
-    ‹{àVæ¶@“V–ìŒNI‚¢‚¢‚©‚°‚ñ‚É‚µ‚È‚³‚¢Bl¶A’ÊM•ë‚¾‚¯‚Å‚ÍŒˆ‚Ü‚ç‚È‚¢‚ÌBl‚»‚ê‚¼‚ê‚É’ÊM•ë‚Å‚Í•\‚¹‚È‚¢—Ç‚³‚ª‚ ‚é‚ÌB<br>
-    “V–ì@‚Å‚àAƒoƒP‚Ý‚½‚¢‚ÉA“ª‚ªˆ«‚­‚ÄA‚¤‚·‚Ì‚ë‚Ì“z‚É‰½‚©‚¢‚¢‚Æ‚±‚ë‚ª‚ ‚é‚ñ‚Å‚·‚©B<br>
-    ‹{àVæ¶@‘åêŒN‚É‚à‚¿‚á‚ñ‚Æ‚ ‚è‚Ü‚·B<br>
-    “V–ì@‚»‚ê‚Í‰½‚Å‚·‚©Aæ¶B<br>
-    ‹{àVæ¶@il‚¦ž‚ñ‚Åjc<br>
-    ‘åê@(Šú‘Ò‚ð‚à‚Á‚Äæ¶‚ð’­‚ß‚Ä‚¢‚½‚ªc)‚à‚¤‚¢‚¢‚ñ‚Å‚·c–l(‹ƒ‚«o‚·)B<br>
-    ‹{àVæ¶@(Q‚Ä‚Ä)‚»‚¤‚»‚¤A‘åêŒN‚Ì—Ç‚³‚Í—D‚µ‚³‚ËB’N‚É‘Î‚µ‚Ä‚à—D‚µ‚­‚Å‚«‚é‚Æ‚±‚ëB‚«‚Á‚Æ‚¢‚¢‚¨ŒZ‚³‚ñ‚É‚È‚ê‚é‚í‚æB<br>
+    ï¿½Vï¿½ï¿½@ï¿½Í‚Í‚ÍBï¿½ï¿½ï¿½ï¿½ï¿½Â‚Ý‚ï¿½È•ï¿½ï¿½Å‚ï¿½ï¿½ÌBï¿½nï¿½ï¿½ï¿½ï¿½ï¿½Ë[ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½Vï¿½ï¿½Nï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½lï¿½ï¿½ï¿½Aï¿½ÊMï¿½ë‚¾ï¿½ï¿½ï¿½Å‚ÍŒï¿½ï¿½Ü‚ï¿½È‚ï¿½ï¿½ÌBï¿½lï¿½ï¿½ï¿½ê‚¼ï¿½ï¿½É’ÊMï¿½ï¿½Å‚Í•\ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½Vï¿½ï¿½@ï¿½Å‚ï¿½ï¿½Aï¿½oï¿½Pï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ÉAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½Ì“zï¿½É‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ë‚ªï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½Nï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½Vï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Aï¿½æ¶ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½iï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åjï¿½c<br>
+    ï¿½ï¿½ï¿½@(ï¿½ï¿½ï¿½Ò‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äæ¶ï¿½ð’­‚ß‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½c)ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½cï¿½l(ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½)ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@(ï¿½Qï¿½Ä‚ï¿½)ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Nï¿½Ì—Ç‚ï¿½ï¿½Í—Dï¿½ï¿½ï¿½ï¿½ï¿½ËBï¿½Nï¿½É‘Î‚ï¿½ï¿½Ä‚ï¿½ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@‘åê‚ªŠç‚ðã‚°‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ê‚ªï¿½ï¿½ï¿½ï¿½ã‚°ï¿½ï¿½B<br>
     <br>
-    ‹{àVæ¶@‚à‚Á‚ÆŽ©M‚ðŽ‚Á‚ÄA‹¹‚ð’£‚Á‚ÄB‚³‚ ‚Ä‚ÆA‚»‚ê‚Å‚Í’ÊM•ë‚Í‚µ‚Ü‚Á‚ÄB‚¿‚á‚ñ‚Æ‚¨‚¤‚¿‚Ìl‚ÉŒ©‚¹‚é‚Ì‚æB<br>
-    ‘åŠâ@æ¶A‚±‚¾‚Ü‚ª‚Ü‚¾’ÊM•ë‚ð•Ô‚³‚ê‚Ä‚Ü‚¹‚ñB<br>
-    ‹{àVæ¶@(‚ ‚Ác)Â–ö‚³‚ñA‚²‚ß‚ñ‚È‚³‚¢B‚¦‚Á‚ÆA‚ ‚êcAŠm‚©‚Éð“ú‚Ý‚ñ‚È‚Ì’ÊM•ë‚Æˆê‚É‚±‚±‚É“ü‚ê‚Ä‚¨‚¢‚½‚Í‚¸‚È‚Ì‚ÉB‚¨‚©‚µ‚¢‚í‚ËB<br>
-    Â–ö@æ¶A‚¢‚¢‚ñ‚Å‚·B<br>
-    ‹{àVæ¶  ‚²‚ß‚ñ‚ËB–¾“ú‚Ü‚Å‚É‘{‚µ‚Æ‚­‚©‚çB–¾“ú‚Ü‚½Žæ‚è‚É‚«‚Ä‚­‚ê‚éH<br>
-    Â–ö@‚Í‚¢B<br>
-    ‹{àVæ¶@‚»‚ê‚Å‚Í‚±‚ê‚ÅI‚í‚è‚É‚µ‚Ü‚µ‚å‚¤B‚Ý‚ñ‚È‚É‚Æ‚Á‚ÄŠy‚µ‚¢‰Ä‹x‚Ý‚É‚È‚é‚Æ‚¢‚¢‚í‚ËB‚»‚ê‚ÆA“V–ìŒNA‘åêŒNA‚à‚¤Œ–‰Ü‚µ‚¿‚á‘Ê–Ú‚æB<br>
-    “V–ìA‘åê@‚Í[‚¢B<br>
-    ‚“c@‹N—§B‹C‚ð‚Â‚¯Bæ¶‚³‚æ‚¤‚È‚çB<br>
-    ‘Sˆõ@‚³‚æ‚¤‚È‚çB<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÆŽï¿½ï¿½Mï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ð’£‚ï¿½ï¿½ÄBï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ÆAï¿½ï¿½ï¿½ï¿½Å‚Í’ÊMï¿½ï¿½Í‚ï¿½ï¿½Ü‚ï¿½ï¿½ÄBï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìlï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½æ¶ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚ï¿½ï¿½ÊMï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½c)ï¿½Â–ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ß‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÆAï¿½ï¿½ï¿½ï¿½cï¿½Aï¿½mï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½Ý‚ï¿½È‚Ì’ÊMï¿½ï¿½Æˆêï¿½É‚ï¿½ï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚Ì‚ÉBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½Â–ï¿½ï¿½@ï¿½æ¶ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶  ï¿½ï¿½ï¿½ß‚ï¿½ËBï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Å‚É‘{ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½Â–ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½{ï¿½Vï¿½æ¶ï¿½@ï¿½ï¿½ï¿½ï¿½Å‚Í‚ï¿½ï¿½ï¿½ÅIï¿½ï¿½ï¿½É‚ï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½Bï¿½Ý‚ï¿½È‚É‚Æ‚ï¿½ï¿½ÄŠyï¿½ï¿½ï¿½ï¿½ï¿½Ä‹xï¿½Ý‚É‚È‚ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ËBï¿½ï¿½ï¿½ï¿½ÆAï¿½Vï¿½ï¿½Nï¿½Aï¿½ï¿½ï¿½Nï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½Ê–Ú‚ï¿½B<br>
+    ï¿½Vï¿½ï¿½Aï¿½ï¿½ï¿½@ï¿½Í[ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½cï¿½@ï¿½Nï¿½ï¿½ï¿½Bï¿½Cï¿½ï¿½ï¿½Â‚ï¿½ï¿½Bï¿½æ¶ï¿½ï¿½ï¿½æ‚¤ï¿½È‚ï¿½B<br>
+    ï¿½Sï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½æ‚¤ï¿½È‚ï¿½B<br>
     <br>
-    @@@æ¶A‹³Žº‚©‚ço‚Äs‚­B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½æ¶ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Äsï¿½ï¿½ï¿½B<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
-    <font color="#000000"><br>   
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
+    <font color="#000000"><br>
  </font>
-    <P class=border1><a name="kadai3" id="kadai3"><font color="#000000" size="+2" style="font-size : 150%;"><b>‰Û‘è‚R@u‚¢‚¶‚ß‚ðs‚Á‚Ä‚¢‚é‘¤‚ð‰‰‚¶‚Ä‚Ý‚évŽg—p‚·‚éƒeƒLƒXƒgu‚Ó‚é‚³‚Æv<br>
+    <P class=border1><a name="kadai3" id="kadai3"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½Û‘ï¿½Rï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½sï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‘¤ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Ó‚é‚³ï¿½Æv<br>
     </b></font></a></P>
-    <P class=border6><font color="#000000">¡ê–ÊÝ’è<br>
-    “]Z‚µ‚Ä‚·‚®‚ÉŠw‹‰ˆÏˆõ‚É—§Œó•â‚µ‚ÄŠw‹‰ˆÏˆõ‚É‘Io‚³‚ê‚½ŒÃì—¢”ü‚Éu‚±‚ÌƒNƒ‰ƒX‚É‚Í‚¢‚¶‚ß‚ª‚ ‚è‚Ü‚·v‚ÆŽw“E‚³‚ê‚½çH‚ð’†S‚Æ‚µ‚½ƒƒ“ƒo[B”Þ—‚ç‚ÍŒÃì—¢”ü‚ª‹³Žº‚ðo‚é‚È‚è”Þ—‚Ìˆ«Œû‚ðŒ¾‚¢o‚·B<br>
-    ¡“oêl•¨<br>
-    çH<br>
-    ™z<br>
-    —œ‰Ô<br>
-    ‚Í‚é‚©<br>
+    <P class=border6><font color="#000000">ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½]ï¿½Zï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÉŠwï¿½ï¿½ï¿½Ïˆï¿½ï¿½É—ï¿½ï¿½ï¿½â‚µï¿½ÄŠwï¿½ï¿½ï¿½Ïˆï¿½ï¿½É‘Iï¿½oï¿½ï¿½ï¿½ê‚½ï¿½Ãì—¢ï¿½ï¿½ï¿½Éuï¿½ï¿½ï¿½ÌƒNï¿½ï¿½ï¿½Xï¿½É‚Í‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½vï¿½ÆŽwï¿½Eï¿½ï¿½ï¿½ê‚½ï¿½ï¿½Hï¿½ð’†Sï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½[ï¿½Bï¿½Þï¿½ï¿½ï¿½ÍŒÃì—¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½È‚ï¿½Þï¿½ï¿½Ìˆï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½<br>
+    ï¿½ï¿½H<br>
+    ï¿½z<br>
+    ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½Í‚é‚©<br>
     </font></P>
     <p class="border6" align="left"><font color="#000000">
-    ¡ƒeƒLƒXƒg<br>
-    çH@‰½‚ ‚êB‚¿‚å[“ª‚É‚­‚éB<br>
-    ™z@‰½—l‚Á‚ÄŠ´‚¶H<br>
-    çH@“]Z‚µ‚Ä‚½‚»‚Ì“ú‚ÉŠw‹‰ˆÏˆõ‚É—§Œó•â‚·‚é‚©B<br>
-    —œ‰Ô@•’Ê‚µ‚È‚¢‚Å‚µ‚åB<br>
-    ‚Í‚é‚©@‚¾‚æ‚ËB<br>
-    çH@‰½‚ªŒ€‚¾‚æB‚à‚µA¡‚Ì‚í‚½‚µ‚½‚¿‚ðŒ©‚Ä‚él‚½‚¿‚ªŒü‚±‚¤‚É‚¢‚½‚çA‚»‚Ìl‚½‚¿â‘Î‚í‚½‚µ‚½‚¿‚ð‰ž‰‡‚·‚é‚æB<br>
-    ™z@‚·‚éA‚·‚éB<br>
-    çH@(‹qÈ‚ðŒ©‚Ä)‚Ù‚çA‹qÈ‚©‚ç”Žè•·‚±‚¦‚Ä‚­‚é‚à‚ñB‚ ‚Ìl‚È‚ñ‚©—§‚¿ã‚ª‚Á‚Ä”Žè‚µ‚Ä‚é‚µB‚ ‚Ìl‚È‚ñ‚©‹ó”ò‚Ñ‚È‚ª‚ç”Žè‚µ‚Ä‚é‚µB<br>
-    ™z@çH‚Ì–Ú‚É‰f‚Á‚Ä‚éŠÏ‹qA‚·‚²‚¢‚ËB<br>
-    çH@‚»‚ê‚É‚µ‚Ä‚àA‚ ‚¢‚ÂŽ©•ª‚Ì‚±‚Æ‰½‚¾‚ÆŽv‚Á‚Ä‚ñ‚¾‚ëB<br>
-    ™z@ƒhƒ‰ƒ}‚ÌƒqƒƒCƒ“‚Æ‚©B<br>
-    —œ‰Ô@i‚ [j‰‰Œ€ƒNƒ‰ƒu‚É“ü‚Á‚Ä‚½‚Á‚ÄŒ¾‚Á‚Ä‚½‚à‚ñ‚ËB<br>
-    çH@‚È‚ñ‚©AŒ€‚Ì’†‚Å‚»‚ñ‚ÈƒqƒƒCƒ“‚©‰½‚©‚â‚Á‚Ä‚³AŠ¨ˆá‚¢‚µ‚¿‚á‚Á‚Ä‚ñ‚Ì‚©‚ÈB<br>
-    —œ‰Ô@‚í‚½‚µ‚½‚¿‚Ì‚±‚Æˆ«–ð‚æ‚Î‚í‚è‚µ‚½‚©‚ñ‚ËB<br>
-    ‚Í‚é‚©@‚Ç‚Á‚¿‚ªˆ«–ð‚¾‚æB<br>
-    çH@‚â‚Á‚Ïˆ«–ð‚Í‚ ‚¢‚Â‚Å‚µ‚åB<br>
-    ‚Í‚é‚©@‚¾‚æ‚ËB<br>
-    çH@Œˆ‚ß‚½B‚í‚½‚µâ‘Î‚ ‚¢‚Â‚Æ‚ÍŒû•·‚©‚È‚¢B(‚ ‚Á)‚±‚ê¤‚¢‚¶‚ß‚¶‚á‚È‚¢‚©‚çBæ¶A“¹“¿‚ÌŽžŠÔ‚ÉŒ¾‚Á‚Ä‚½‚¶‚á‚ñBul‚ð‚¢‚¶‚ß‚é‚Ì‚Í‚æ‚­‚È‚¢B‚Å‚àAl‚ðŒ™‚¢‚É‚È‚é‚Ì‚ÍŽd•û‚ª‚È‚¢v‚Á‚ÄB<br>
-    ™z@•’ÊAŒ™‚¢‚Èl‚Æ‚Í‚µ‚á‚×‚ç‚È‚¢‚à‚ñ‚ËB<br>
-    çH@i‚»‚Áj‚¾‚©‚ç‚µ‚á‚×‚ç‚È‚¢‚Ì‚Í–³Ž‹‚Æ‚Íˆá‚¤B‚¢‚¶‚ß‚¶‚á‚È‚¢B<br>
-    ‚Í‚é‚©@‚¾‚æ‚ËB<br>
+    ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
+    ï¿½ï¿½Hï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½B<br>
+    ï¿½zï¿½@ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ÄŠï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½ï¿½Hï¿½@ï¿½]ï¿½Zï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ì“ï¿½ï¿½ÉŠwï¿½ï¿½ï¿½Ïˆï¿½ï¿½É—ï¿½ï¿½ï¿½â‚·ï¿½é‚©ï¿½B<br>
+    ï¿½ï¿½ï¿½Ô@ï¿½ï¿½ï¿½Ê‚ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Í‚é‚©ï¿½@ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½ï¿½Hï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì‚í‚½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ìlï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚í‚½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½zï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Hï¿½@(ï¿½qï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½Ù‚ï¿½Aï¿½qï¿½È‚ï¿½ï¿½ç”ï¿½è•·ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìlï¿½È‚ñ‚©—ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½ï¿½ï¿½Ä”ï¿½ï¿½è‚µï¿½Ä‚é‚µï¿½Bï¿½ï¿½ï¿½Ìlï¿½È‚ñ‚©‹ï¿½ï¿½Ñ‚È‚ï¿½ï¿½ç”ï¿½è‚µï¿½Ä‚é‚µï¿½B<br>
+    ï¿½zï¿½@ï¿½ï¿½Hï¿½Ì–Ú‚É‰fï¿½ï¿½ï¿½Ä‚ï¿½Ï‹qï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½ï¿½Hï¿½@ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÂŽï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Æ‰ï¿½ï¿½ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ñ‚¾‚ï¿½B<br>
+    ï¿½zï¿½@ï¿½hï¿½ï¿½ï¿½}ï¿½Ìƒqï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½Æ‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½Ô@ï¿½iï¿½ï¿½ï¿½[ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½uï¿½É“ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½ï¿½Hï¿½@ï¿½È‚ñ‚©Aï¿½ï¿½ï¿½Ì’ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Èƒqï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Aï¿½ï¿½ï¿½á‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½Ì‚ï¿½ï¿½ÈB<br>
+    ï¿½ï¿½ï¿½Ô@ï¿½í‚½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Æˆï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½è‚µï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½Í‚é‚©ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Hï¿½@ï¿½ï¿½ï¿½ï¿½Ïˆï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½Â‚Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Í‚é‚©ï¿½@ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½ï¿½Hï¿½@ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Bï¿½í‚½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½Â‚Æ‚ÍŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B(ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ê¤‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½æ¶ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ô‚ÉŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½uï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½Ì‚Í‚æ‚­ï¿½È‚ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½Aï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚È‚ï¿½Ì‚ÍŽdï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½vï¿½ï¿½ï¿½ÄB<br>
+    ï¿½zï¿½@ï¿½ï¿½ï¿½ÊAï¿½ï¿½ï¿½ï¿½ï¿½Èlï¿½Æ‚Í‚ï¿½ï¿½ï¿½×‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½ï¿½Hï¿½@ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½ï¿½ï¿½ç‚µï¿½ï¿½×‚ï¿½È‚ï¿½ï¿½Ì‚Í–ï¿½ï¿½ï¿½ï¿½Æ‚Íˆá‚¤ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½Í‚é‚©ï¿½@ï¿½ï¿½ï¿½ï¿½ËB<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <br>
-    
-    <P class=border1><font size="6" style="font-size : 200%;"><b><font color="#000000" size="-2" style="font-size : 67%;"><a name="kadai4" id="kadai4">‰Û‘è‚Su•¡ŽG‚ÈS‚Ì“®‚«‚ð•`‚­vŽg—p‚·‚éƒeƒLƒXƒgu‚Æ‚«‚ß‚«‚æ‚ë‚ß‚«ƒtƒHƒgƒOƒ‰ƒtv</a><br>
+
+    <P class=border1><font size="6" style="font-size : 200%;"><b><font color="#000000" size="-2" style="font-size : 67%;"><a name="kadai4" id="kadai4">ï¿½Û‘ï¿½Sï¿½uï¿½ï¿½ï¿½Gï¿½ÈSï¿½Ì“ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½tï¿½Hï¿½gï¿½Oï¿½ï¿½ï¿½tï¿½v</a><br>
     </font></b></font></P>
     <P class=border6><font color="#000000">
-    ¡ê–ÊÝ’è@<br>
-    ’ß“c‰Ä”ü‚Í–Ú‚Ì‰ö‰ä‚Å•a‰@‚É“ü‰@‚µ‚Ä‚¢‚éB‚±‚Ì‚Ü‚Ü‚Å‚ÍŽ¸–¾‚Ì‰Â”\«‚ª‚ ‚é‚Æ‚¢‚¤B<br>
-    ‚ä‚«ŠG‚Íˆêl‚Å‚¢‚é‚Ì‚ª‘åD‚«‚ÈA¬Ñ—DG‚È­—‚¾‚ªA‚»‚ÌŽv‚¢‚ð—‰ð‚µ‚Ä‚­‚ê‚él‚Í‚¢‚È‚¢B—Bˆê‰Ä”ü‚¾‚¯‚ªA‚»‚ÌŽv‚¢‚ð—‰ð‚µ‚Ä‚¢‚éB‚»‚±‚É‚ä‚«ŠG‚ª‚P”Ô‹êŽè‚Æ‚µ‚Ä‚¢‚éˆ¤‚Æ‚»‚Ì—F‚¾‚¿‚ª‚â‚Á‚Ä‚«‚½Bˆ¤‚Í‰Ä”ü‚ÌŽÊ^•”‚Ìæ”y‚Å‚ ‚éB<br>
-    ‚±‚Ìê–Ê‚Ì“ï‚µ‚³‚ÍA‚»‚ê‚¼‚ê‚ª˜b‚µ‚Ä‚¢‚éŒ¾—t‚ªA–{“–‚Ì‹CŽ‚¿‚©‚ço‚Ä‚¢‚é‚Æ‚ÍŒÀ‚ç‚È‚¢•”•ª‚ª‚ ‚é‚±‚Æ‚Å‚ ‚éB‚Ü‚½A‚±‚ÌƒeƒLƒXƒg‚ÌÅŒã‚Ì•û‚ÅA‰Ä”ü‚ªˆ¤‚ÉŒü‚©‚Á‚Ä˜b‚·Œ¾—t‚ÍA“¯Žž‚É‚ä‚«ŠG‚ÉŒü‚¯‚Ä‚ÌƒƒbƒZ[ƒW‚Å‚à‚ ‚éB‚ä‚«ŠG‚Í‚Ý‚ñ‚È‚©‚ç‰Œ‚½‚ª‚ç‚ê‚Ä‚¢‚é‘¶Ý‚Å‚ ‚éB‚¾‚©‚çA‚Ý‚ñ‚È‚Ì‘O‚Å‚Í’¼Ú‚ä‚«ŠG‚ÉŽv‚¢‚ð“`‚¦‚ç‚ê‚È‚¢B‚»‚ê‚Åˆ¤‚ÉŒü‚©‚Á‚Ä˜b‚·Œ¾—t‚Ì’†‚ÉA‚ä‚«ŠG‚ÉŒü‚¯‚Ä‚ÌƒƒbƒZ[ƒW‚ð‘}“ü‚µ‚Ä‚¢‚é‚Ì‚¾B‚±‚ÌƒV[ƒ“‚Å‚Í‘äŽŒ‚ª‚È‚­‚Ä‚à‚ä‚«ŠG‚ÌS‚à“®‚­‚Í‚¸B‚»‚ÌŽv‚¢‚à•\Œ»‚µ‚È‚­‚Ä‚Í‚¢‚¯‚È‚¢B<br>
-    ¡“oêl•¨@‚Tl<br>
-    ’ß“c‰Ä”ü<br>
-    •Ÿ‘ò‚ä‚«ŠG<br>
-    ‰«“c‘”ü<br>
-    ‹ß“¡@ˆ¤<br>
-    ¼‹½ää»Ÿ<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½@<br>
+    ï¿½ß“cï¿½Ä”ï¿½ï¿½Í–Ú‚Ì‰ï¿½ï¿½ï¿½Å•aï¿½@ï¿½É“ï¿½ï¿½@ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚Ü‚Ü‚Å‚ÍŽï¿½ï¿½ï¿½ï¿½Ì‰Â”\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ä‚«ï¿½Gï¿½Íˆï¿½lï¿½Å‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½ÈAï¿½ï¿½ï¿½Ñ—Dï¿½Gï¿½Èï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŽvï¿½ï¿½ï¿½ð—‰ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½lï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½Bï¿½ï¿½Ä”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŽvï¿½ï¿½ï¿½ð—‰ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½É‚ä‚«ï¿½Gï¿½ï¿½ï¿½Pï¿½Ô‹ï¿½ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½éˆ¤ï¿½Æ‚ï¿½ï¿½Ì—Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Í‰Ä”ï¿½ï¿½ÌŽÊ^ï¿½ï¿½ï¿½Ìï¿½yï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½Ìï¿½Ê‚Ì“ï‚µï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ê‚¼ï¿½ê‚ªï¿½bï¿½ï¿½ï¿½Ä‚ï¿½ï¿½éŒ¾ï¿½tï¿½ï¿½ï¿½Aï¿½{ï¿½ï¿½ï¿½Ì‹Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Ä‚ï¿½ï¿½ï¿½Æ‚ÍŒï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Å‚ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½Ìƒeï¿½Lï¿½Xï¿½gï¿½ÌÅŒï¿½Ì•ï¿½ï¿½ÅAï¿½Ä”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä˜bï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½É‚ä‚«ï¿½Gï¿½ÉŒï¿½ï¿½ï¿½ï¿½Ä‚Ìƒï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ä‚«ï¿½Gï¿½Í‚Ý‚ï¿½È‚ï¿½ï¿½ç‰Œï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‘¶ï¿½Ý‚Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ý‚ï¿½È‚Ì‘Oï¿½Å‚Í’ï¿½ï¿½Ú‚ä‚«ï¿½Gï¿½ÉŽvï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Åˆï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä˜bï¿½ï¿½ï¿½ï¿½ï¿½tï¿½Ì’ï¿½ï¿½ÉAï¿½ä‚«ï¿½Gï¿½ÉŒï¿½ï¿½ï¿½ï¿½Ä‚Ìƒï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½ï¿½}ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½Å‚Í‘äŽŒï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ä‚«ï¿½Gï¿½ÌSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÌŽvï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚Í‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@ï¿½Tï¿½l<br>
+    ï¿½ß“cï¿½Ä”ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ä‚«ï¿½G<br>
+    ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ß“ï¿½ï¿½@ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ä»ï¿½<br>
     </font></P>
     <p class="border6" align="left"><font color="#000000">
-    ¡ƒeƒLƒXƒg<br>
+    ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
     <br>
-    @@@u‰Ä”üv‚Æ‚¢‚¤º‚ª•·‚±‚¦‚Ä‚­‚éB<br>
-    @@@ŽÊ^•”‚Ìæ”y’B‚ªŒ»‚ê‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½uï¿½Ä”ï¿½ï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ê^ï¿½ï¿½ï¿½Ìï¿½yï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ‰Ä”ü@æ”yB<br>
-    ‘”ü@•a‰@‚É‚¨Œ©•‘‚¢‚És‚Á‚½‚çAŒö‰€‚És‚Á‚½‚Á‚ÄŒ¾‚í‚ê‚ÄB<br>
-    ˆ¤@@‚±‚ñ‚È‚Æ‚±‚ë‚É—ˆ‚Ä‘åä•v‚È‚ÌB<br>
-    ‰Ä”ü@•a‰@‚æ‚èA‚±‚±‚Ì•û‚ª‚¢‚¢‚ñ‚Å‚·B<br>
-    ˆ¤@@‚ä‚«ŠG‚Í‚Ç‚¤‚µ‚Ä(‚±‚±‚É‚¢‚é‚Ì)H<br>
-    ‚ä‚«ŠG@‚¿‚å‚Á‚ÆB<br>
-    ‘”ü@‰Ä”ü‚Æ’m‚è‡‚¢‚È‚ÌH<br>
-    ‚ä‚«ŠG@‚Ü‚ B‚¿‚å‚Á‚ÆB<br>
-    ˆ¤@@Œ³‹C‚É‚È‚Á‚½H‚à[‚ ‚½‚µ‚½‚¿‚Ý‚ñ‚ÈS”z‚µ‚½‚ñ‚¾‚æB‰Æo‚È‚ñ‚©‚·‚Á‚©‚ç‚³B<br>
-    ‚ä‚«ŠG@‚ [B<br>
-    ˆ¤@@‚à‚¤A‚ä‚«ŠG‚È‚ñ‚©‚³‚Ç‚ñ‚È‚É¬Ñ—Ž‚¿‚½‚Á‚Ä‚¢‚Á‚Ä‚àâ‘Î‚ ‚½‚µ‚æ‚è‚Íã‚È‚ñ‚¾‚©‚ç‚³B<br>
-    ää»@‚»‚è‚á‚»‚¤‚¾B<br>
-    ˆ¤@@‚ ‚½‚µ‚áA‚¤‚ç‚â‚Ü‚µ‚¢‚æB<br>
-    ‚ä‚«ŠG@c<br>
-    ‘”ü@‰Ä”üB<br>
-    ‰Ä”ü@‚Í‚¢B<br>
-    ‘”ü@‰½‚©Ž„‚½‚¿‚É‚Å‚«‚é‚±‚Æ‚Á‚Ä‚ ‚éH<br>
-    ‰Ä”ü@‚Å‚«‚é‚±‚Æ‚Å‚·‚©H(l‚¦‚Ä)“Á‚Éc<br>
-    ‘”ü@‰½‚©‚È‚¢‚ÌH <br>
-    ‰Ä”ü@(Î‚Á‚Ä)‚»‚ê‚¶‚áA‹F‚Á‚Ä‚­‚¾‚³‚¢B<br>
-    ‘”ü@‹F‚éH<br>
-    ‰Ä”ü@‚±‚ÌŒö‰€‚ÌƒPƒ„ƒL‚Ì‘å–ØB_‚ªh‚é‚Á‚ÄŒ¾‚í‚ê‚Ä‚¢‚é‚Ì’m‚Á‚Ä‚Ü‚·H<br>
-    ‘”ü@‚»‚¤‚È‚ÌH<br>
-    ‰Ä”ü@(èõ‚­A‚»‚µ‚ÄÎ‚Á‚Ä)‚»‚Ì–Ø‚ÉAŽ„‚Ì–Ú‚ªŽ¡‚é‚æ‚¤‚É‹F‚Á‚Ä‚­‚¾‚³‚¢B<br>
-    ˆ¤@@ŠÈ’P‚¶‚á‚ñB‚ËB<br>
-    ‘”ü@‚¤‚ñB<br>
-    ää»@‹F‚éHƒLƒƒƒ‰‚¶‚á‚Ë[‚ÈB‰´A@‹³‚È‚¢‚µB<br>
-    ‘”ü@‰Ä”üAŽè‚ÉŽ‚Á‚Ä‚ñ‚Ì‰Ä”ü‚ªŽB‚Á‚½ŽÊ^H<br>
-    ‰Ä”ü@‚Í‚¢B<br>
-    ‘”ü@Œ©‚Ä‚¢‚¢H<br>
-    ‰Ä”ü@‚Í‚¢B<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½yï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½aï¿½@ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½È‚Æ‚ï¿½ï¿½ï¿½É—ï¿½ï¿½Ä‘ï¿½ï¿½vï¿½È‚ÌB<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½aï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ä‚«ï¿½Gï¿½Í‚Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½)ï¿½H<br>
+    ï¿½ä‚«ï¿½Gï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ä”ï¿½ï¿½Æ’mï¿½è‡ï¿½ï¿½ï¿½È‚ÌH<br>
+    ï¿½ä‚«ï¿½Gï¿½@ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆB<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½Cï¿½É‚È‚ï¿½ï¿½ï¿½ï¿½Hï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ÈSï¿½zï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Bï¿½Æoï¿½È‚ñ‚©‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚³ï¿½B<br>
+    ï¿½ä‚«ï¿½Gï¿½@ï¿½ï¿½ï¿½[ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ä‚«ï¿½Gï¿½È‚ñ‚©‚ï¿½ï¿½Ç‚ï¿½È‚Éï¿½ï¿½Ñ—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½È‚ñ‚¾‚ï¿½ï¿½ç‚³ï¿½B<br>
+    ï¿½ä»@ï¿½ï¿½ï¿½ï¿½á‚»ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ä‚«ï¿½Gï¿½@ï¿½c<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ä”ï¿½ï¿½B<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚Å‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½H<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½é‚±ï¿½Æ‚Å‚ï¿½ï¿½ï¿½ï¿½H(ï¿½lï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Éc<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌH <br>
+    ï¿½Ä”ï¿½ï¿½@(ï¿½Î‚ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ê‚¶ï¿½ï¿½Aï¿½Fï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Fï¿½ï¿½H<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ÌƒPï¿½ï¿½ï¿½Lï¿½Ì‘ï¿½ØBï¿½_ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì’mï¿½ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½H<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½È‚ÌH<br>
+    ï¿½Ä”ï¿½ï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÄÎ‚ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Ì–Ø‚ÉAï¿½ï¿½ï¿½Ì–Ú‚ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½É‹Fï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½È’Pï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ËB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ä»@ï¿½Fï¿½ï¿½Hï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë[ï¿½ÈBï¿½ï¿½ï¿½Aï¿½@ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ä”ï¿½ï¿½Aï¿½ï¿½ÉŽï¿½ï¿½ï¿½ï¿½Ä‚ï¿½Ì‰Ä”ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ê^ï¿½H<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
     <br>
-    @@@‘”üEˆ¤Eää»‚ÌŽOl‚ª‰Ä”ü‚ÌŽÊ^‚ðŒ©‚éB<br>
-    @@@u‚·‚²‚¢vu‚©‚í‚¢‚¢vu‚¢‚ÂŽB‚Á‚½‚Ìv‚È‚ÇŽOl‚ªŽOl‚»‚ê‚¼‚ê‚ÌŠ´‘zA‹Á‚«‚Ìº‚ð”­‚·‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½Eï¿½ä»‚ÌŽOï¿½lï¿½ï¿½ï¿½Ä”ï¿½ï¿½ÌŽÊ^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½uï¿½ï¿½ï¿½í‚¢ï¿½ï¿½ï¿½vï¿½uï¿½ï¿½ï¿½ÂŽBï¿½ï¿½ï¿½ï¿½ï¿½Ìvï¿½È‚ÇŽOï¿½lï¿½ï¿½ï¿½Oï¿½lï¿½ï¿½ï¿½ê‚¼ï¿½ï¿½ÌŠï¿½ï¿½zï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ð”­‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ˆ¤@@‚±‚êƒRƒ“ƒN[ƒ‹‚É‘—‚ê‚Î‚Ü‚½ÜŽæ‚ê‚Á‚©‚à‚µ‚ê‚È‚¢‚ËB<br>
-    ‘”ü@Žæ‚ê‚é‚æ‚±‚êB<br>
-    ˆ¤@@‚ ‚êH‰½‚±‚êHƒsƒ“‚Ú‚¯‚¶‚á‚ñB‚Ç‚¤‚µ‚½‚Ì‰Ä”üA‚±‚ñ‚Èƒ{ƒPƒ{ƒPŽÊ^B<br>
-    ‘”ü@‚±‚ê‚¾‚¯‚·‚Á‚²‚­•ÏB<br>
-    ‚ä‚«ŠG@‚»‚êc<br>
-    ‰Ä”ü@•Ÿ‘òæ”yB<br>
-    ˆ¤@@(Î‚Á‚Ä)‰Ä”üA‚±‚ñ‚ÈŽÊ^‚·‚Ä‚¿‚á‚¦‚ÎB<br>
-    ‰Ä”ü@ˆ¤æ”yI<br>
-    ˆ¤@@c<br>
-    ‰Ä”ü@‚Æ‚«‚ß‚«‚È‚ñ‚Å‚·B<br>
-    ˆ¤@@H<br>
-    ‰Ä”ü@‚»‚êAŽ„‚Ì‚Æ‚«‚ß‚«ƒtƒHƒgƒOƒ‰ƒt‚È‚ñ‚Å‚·B<br>
-    ˆ¤@@(‚«o‚µ‚Ä)‚±‚ñ‚Èƒsƒ“‚Ú‚¯ŽÊ^‚ªH<br>
-    ‰Ä”ü@ˆ¤æ”yAÎ‚í‚È‚¢‚Å‚­‚¾‚³‚¢A¡‚ÌŽ„‚Ìˆê”Ô‚Ì‚Æ‚«‚ß‚«‚ðB<br>
-    ˆ¤@@‚È‚ñ‚¾‚©‚í‚©‚ç‚È‚¢‚¯‚ÇA‚í‚©‚Á‚½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½Nï¿½[ï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½Î‚Ü‚ï¿½ï¿½ÜŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ËB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½æ‚±ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Hï¿½sï¿½ï¿½ï¿½Ú‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‰Ä”ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Èƒ{ï¿½Pï¿½{ï¿½Pï¿½Ê^ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ê‚¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÏB<br>
+    ï¿½ä‚«ï¿½Gï¿½@ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@(ï¿½Î‚ï¿½ï¿½ï¿½)ï¿½Ä”ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ÈŽÊ^ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½á‚¦ï¿½ÎB<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½yï¿½I<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½c<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½Æ‚ï¿½ï¿½ß‚ï¿½ï¿½È‚ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½H<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì‚Æ‚ï¿½ï¿½ß‚ï¿½ï¿½tï¿½Hï¿½gï¿½Oï¿½ï¿½ï¿½tï¿½È‚ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½Èƒsï¿½ï¿½ï¿½Ú‚ï¿½ï¿½Ê^ï¿½ï¿½ï¿½H<br>
+    ï¿½Ä”ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½yï¿½Aï¿½Î‚ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŽï¿½ï¿½Ìˆï¿½Ô‚Ì‚Æ‚ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½È‚ñ‚¾‚ï¿½ï¿½í‚©ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÇAï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
-    <font color="#000000"><br>   
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
+    <font color="#000000"><br>
  </font>
-    <P class=border1><font color="#000000" size="+1" style="font-size : 130%;"><b><a name="kadai5" id="kadai5">‰Û‘è‚T@u•¡ŽG‚ÈS‚Ì“®‚«‚ð•`‚­vŽg—p‚·‚éƒeƒLƒXƒgutˆê”Ôv</a><br>
+    <P class=border1><font color="#000000" size="+1" style="font-size : 130%;"><b><a name="kadai5" id="kadai5">ï¿½Û‘ï¿½Tï¿½@ï¿½uï¿½ï¿½ï¿½Gï¿½ÈSï¿½Ì“ï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½tï¿½ï¿½Ôv</a><br>
     </b></font></P>
-    <P class=border6><font color="#000000">¡‰Û‘è@<br>
-    S‚É•‚‚©‚ñ‚¾Žv‚¢‚ð‚»‚Ì‚Ü‚Ü‚»‚Ì‚Ü‚Ü‚ÌŒê‚éê–Ê‚©‚ç•¡ŽG‚ÈŽv‚¢‚ªŒðö‚·‚éê–Ê‚ÖB<br>
-    ‚Ul‚ÌƒOƒ‹[ƒv‚ðì‚éB—R”üŽq–ð‚ð‚Ql‚Â‚­‚èA‘O”¼‚Ì—R”üŽqAŒã”¼‚Ì—R”üŽq‚ð’S“–‚µ‚Ä‚à‚ç‚¤B<br>
-    ‚»‚Ì‚P‚ð—R”üŽq‚PA™yŽqA—T”ü‚Å—ûK<br>
-    ‚»‚Ì‚Q‚ð—R”üŽq‚QAŒbŽqA‚Ý‚ä‚«‚Å—ûK<br>
-    ‚µ‚Î‚ç‚­‚µ‚½‚çA‚Q‚Â‚Ìƒ`[ƒ€‚ÅŒ©‚¹‡‚¤B‚»‚µ‚ÄA‚P‚Â‚Ì—¬‚ê‚Æ‚µ‚Äì‚éB<br>
+    <P class=border6><font color="#000000">ï¿½ï¿½ï¿½Û‘ï¿½@<br>
+    ï¿½Sï¿½É•ï¿½ï¿½ï¿½ï¿½ñ‚¾Žvï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Ü‚Ü‚ï¿½ï¿½Ì‚Ü‚Ü‚ÌŒï¿½ï¿½ï¿½Ê‚ï¿½ï¿½ç•¡ï¿½Gï¿½ÈŽvï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê‚ÖB<br>
+    ï¿½Uï¿½lï¿½ÌƒOï¿½ï¿½ï¿½[ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Rï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Qï¿½lï¿½Â‚ï¿½ï¿½ï¿½Aï¿½Oï¿½ï¿½ï¿½Ì—Rï¿½ï¿½ï¿½qï¿½Aï¿½ã”¼ï¿½Ì—Rï¿½ï¿½ï¿½qï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ç‚¤ï¿½B<br>
+    ï¿½ï¿½ï¿½Ì‚Pï¿½ï¿½Rï¿½ï¿½ï¿½qï¿½Pï¿½Aï¿½yï¿½qï¿½Aï¿½Tï¿½ï¿½ï¿½Å—ï¿½ï¿½K<br>
+    ï¿½ï¿½ï¿½Ì‚Qï¿½ï¿½Rï¿½ï¿½ï¿½qï¿½Qï¿½Aï¿½bï¿½qï¿½Aï¿½Ý‚ä‚«ï¿½Å—ï¿½ï¿½K<br>
+    ï¿½ï¿½ï¿½Î‚ç‚­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Qï¿½Â‚Ìƒ`ï¿½[ï¿½ï¿½ï¿½ÅŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½Pï¿½Â‚Ì—ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Äï¿½ï¿½B<br>
     <br>
-    ¡ê–ÊÝ’è<br>
-    •ú‘—•”‚Ì’‡—Ç‚µ‚Sl‘g‚Å‚ ‚éA—R”üŽqA‚Ý‚ä‚«A—T”üA™yŽqB¡“ú‚ÍAŒö—§‚Z‚Ì‡Ši”­•\‚Ì“úB—T”ü‚ÍŽ„—§‚Ì“ñ‚ÂX‚Z‚Ö‚Ì“üŠw‚ðŒˆ‚ß‚Ä‚¢‚éB—R”üŽq‚Æ‚Ý‚ä‚«‚Í•¹ŠèZ‚Æ‚µ‚Ä“ñ‚ÂX‚Z‚É‡Ši‚µ‚Ä‚¢‚éB‚Ql‚ÅŽµ‚ÂX‚Z‚ÉiŠw‚·‚é‚±‚Æ‚ð–ÚŽw‚µ‚Ä‚¢‚½—R”üŽq‚Æ‚Ý‚ä‚«‚Å‚ ‚Á‚½‚ª—R”üŽq‚Í‡Ši‚·‚é‚ªA‚Ý‚ä‚«‚Í•s‡Ši‚Æ‚È‚Á‚Ä‚µ‚Ü‚¤B<br>
-    â–]‚Ì•£‚É‚ ‚é‚Ý‚ä‚«‚Í‘åŒ™‚¢‚È¶“k‰ï’·‚ÌŒbŽq‚É‚Ð‚Ç‚¢Œ¾—t‚ð‚Ô‚Â‚¯‚éBŒbŽq‚Ì–{“–‚Ì‹CŽ‚¿‚ð’m‚Á‚Ä‚¢‚é—R”üŽq‚Í‚»‚ê‚ð‚â‚ß‚³‚¹‚æ‚¤‚Æ‚·‚éB‚»‚Ìsˆ×‚É‚Ý‚ä‚«‚Íe—F‚ÆŠ´‚¶‚Ä‚¢‚½—R”üŽq‚É— Ø‚ç‚ê‚½‚ÆŠ´‚¶A—R”üŽq‚ðÓ‚ß‚é‚ªA‚»‚ÌŒ¾—t‚ª—R”üŽq‚¾‚¯‚Å‚Í‚È‚­A—T”ü‚ð[‚­‚Â‚¯‚é‚±‚Æ‚Æ‚È‚Á‚Ä‚µ‚Ü‚¤B<br>
-    ‚±‚ÌƒV[ƒ“‚Ì“ï‚µ‚³‚ÍAl‚ªl‚É“Š‚°‚©‚¯‚½Œ¾—t‚ªA‚»‚ÌŽv‚¢‚Æ‚Í•Ê‚Ì‚à‚Ì‚Æ‚µ‚Ä‚Æ‚ç‚¦‚ç‚ê‚Ä‚µ‚Ü‚¤‚±‚ÆA‚Ü‚½‚P‚Â‚ÌŒ¾—t‚ª“Š‚°‚©‚¯‚½l‚Æ‚Í•Ê‚Ìl‚ð‚Â‚¯‚Ä‚µ‚Ü‚¤‚Æ‚¢‚Á‚½AŒ¾—t‚ªŽv‚¢’Ê‚è‚É“`‚í‚ç‚È‚¢‚±‚Æ‚ð•\Œ»‚·‚é‚±‚Æ‚¾‚ÆŽv‚¤B<br>
-    ¡“oêl•¨<br>
-    <b>‘O”¼</b><br>
-    ¼–{—R”üŽq<br>
-    Œ¢“c—T”ü<br>
-    ŠÝ™yŽq<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½Ç‚ï¿½ï¿½Sï¿½lï¿½gï¿½Å‚ï¿½ï¿½ï¿½Aï¿½Rï¿½ï¿½ï¿½qï¿½Aï¿½Ý‚ä‚«ï¿½Aï¿½Tï¿½ï¿½ï¿½Aï¿½yï¿½qï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½Ìï¿½ï¿½iï¿½ï¿½ï¿½\ï¿½Ì“ï¿½ï¿½Bï¿½Tï¿½ï¿½ï¿½ÍŽï¿½ï¿½ï¿½ï¿½Ì“ï¿½ÂXï¿½ï¿½ï¿½Zï¿½Ö‚Ì“ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ä‚ï¿½ï¿½ï¿½Bï¿½Rï¿½ï¿½ï¿½qï¿½Æ‚Ý‚ä‚«ï¿½Í•ï¿½ï¿½ï¿½Zï¿½Æ‚ï¿½ï¿½Ä“ï¿½ÂXï¿½ï¿½ï¿½Zï¿½Éï¿½ï¿½iï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½Qï¿½lï¿½ÅŽï¿½ï¿½ÂXï¿½ï¿½ï¿½Zï¿½Éiï¿½wï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ÚŽwï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½qï¿½Æ‚Ý‚ä‚«ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½qï¿½Íï¿½ï¿½iï¿½ï¿½ï¿½é‚ªï¿½Aï¿½Ý‚ä‚«ï¿½Í•sï¿½ï¿½ï¿½iï¿½Æ‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½]ï¿½Ì•ï¿½ï¿½É‚ï¿½ï¿½ï¿½Ý‚ä‚«ï¿½Í‘åŒ™ï¿½ï¿½ï¿½Èï¿½ï¿½kï¿½ï’·ï¿½ÌŒbï¿½qï¿½É‚Ð‚Ç‚ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½Ô‚Â‚ï¿½ï¿½ï¿½Bï¿½bï¿½qï¿½Ì–{ï¿½ï¿½ï¿½Ì‹Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½qï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½æ‚¤ï¿½Æ‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìsï¿½×‚É‚Ý‚ä‚«ï¿½Íeï¿½Fï¿½ÆŠï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½qï¿½É—ï¿½ï¿½Ø‚ï¿½ê‚½ï¿½ÆŠï¿½ï¿½ï¿½ï¿½Aï¿½Rï¿½ï¿½ï¿½qï¿½ï¿½Ó‚ß‚é‚ªï¿½Aï¿½ï¿½ï¿½ÌŒï¿½ï¿½tï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í‚È‚ï¿½ï¿½Aï¿½Tï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½é‚±ï¿½Æ‚Æ‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½Ì“ï‚µï¿½ï¿½ï¿½ÍAï¿½lï¿½ï¿½ï¿½lï¿½É“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŽvï¿½ï¿½ï¿½Æ‚Í•Ê‚Ì‚ï¿½ï¿½Ì‚Æ‚ï¿½ï¿½Ä‚Æ‚ç‚¦ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ÆAï¿½Ü‚ï¿½ï¿½Pï¿½Â‚ÌŒï¿½ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½Æ‚Í•Ê‚Ìlï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½tï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Ê‚ï¿½É“`ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½ÆŽvï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½<br>
+    <b>ï¿½Oï¿½ï¿½</b><br>
+    ï¿½ï¿½ï¿½{ï¿½Rï¿½ï¿½ï¿½q<br>
+    ï¿½ï¿½ï¿½cï¿½Tï¿½ï¿½<br>
+    ï¿½Ý™yï¿½q<br>
     <br>
-    <b>Œã”¼</b><br>
-    ¼–{—R”üŽq<br>
-    Šâè‚Ý‚ä‚«<br>
-    ŽRŒûŒbŽq<br>
-    Œ¢“c—T”ü<br>
-    ŠÝ™yŽq<br>
+    <b>ï¿½ã”¼</b><br>
+    ï¿½ï¿½ï¿½{ï¿½Rï¿½ï¿½ï¿½q<br>
+    ï¿½ï¿½ï¿½Ý‚ä‚«<br>
+    ï¿½Rï¿½ï¿½ï¿½bï¿½q<br>
+    ï¿½ï¿½ï¿½cï¿½Tï¿½ï¿½<br>
+    ï¿½Ý™yï¿½q<br>
     </font></P>
     <p class="border6" align="left"><font color="#000000">
-    ¡ƒeƒLƒXƒg<br>
-    Ÿ‘O”¼<br>
-    @@@ˆÃ“]‚Ì’†A™yŽq‚Ìu‚â‚Á‚½[AŽµ‚ÂX“Œ‚É‡Ši‚µ‚½v‚ÌºB<br>
-    @@@–¾‚©‚è‚ª‚Â‚­A™yŽq‚ª•ú‘—Žº‚É“ü‚Á‚Ä‚«‚½‚Æ‚±‚ë‚Å‚ ‚éB<br>
-    @@@•ú‘—Žº‚É‚Í—T”ü‚ªˆêlAˆÖŽq‚ÉÀ‚Á‚Ä‚¢‚éB<br>
+    ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
+    ï¿½ï¿½ï¿½Oï¿½ï¿½<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ã“]ï¿½Ì’ï¿½ï¿½Aï¿½yï¿½qï¿½Ìuï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½Aï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½Éï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Ìï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½è‚ªï¿½Â‚ï¿½ï¿½Aï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚Í—Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½Aï¿½ÖŽqï¿½Éï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    —T”ü@™yŽq‚¿‚á‚ñA‚¨‚ß‚Å‚Æ‚¤B<br>
-    ™yŽq@ŠïÕ‚¾‚ËB‚ ‚½‚µ‚ªŽó‚©‚Á‚½‚È‚ñ‚ÄBŽµ‚ÂX“Œ‚È‚ñ‚Äâ‘Î–³—‚¾‚Á‚ÄŽv‚Á‚Ä‚½‚¯‚ÇB<br>
-    —T”ü@‚Å‚à™yŽq‚¿‚á‚ñ‚ªŽó‚©‚Á‚½‚ÌA‚ ‚½‚µ‚ªŽó‚©‚Á‚½‚Ì‚É”ä‚×‚ê‚ÎŠïÕ‚¶‚á‚È‚¢‚æB<br>
-    ™yŽq@—R”üŽq‚Æ‚Ý‚ä‚«A‚Ç‚¤‚È‚Á‚½‚©‚ÈH <br>
-    —T”ü@Žó‚©‚Á‚Ä‚é‚Æ‚¢‚¢‚ËB<br>
-    ™yŽq@‚Ý‚ä‚«‚Í‚Ü‚¸Žó‚©‚Á‚Ä‚é‚Å‚µ‚åB¡‚Ü‚ÅŽó‚¯‚½–Í‹[ƒeƒXƒgA‘S•”ˆÀ‘SŒ—‚¾‚Á‚½‚Ý‚Ä[‚¾‚µB–â‘è‚Í—R”üŽq‚¾‚æB<br>
-    —T”ü@“ñl‚ÅŽµ‚ÂX‚Z‚Ì•ú‘—•”‚É“ü‚é‚ñ‚¾‚©‚çA“ñl‚Æ‚àŽó‚©‚Á‚Ä‚È‚­‚¿‚á‚¾‚ß‚¾‚æB<br>
-    ™yŽq@(‚ ‚ )<br>
+    ï¿½Tï¿½ï¿½ï¿½@ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ß‚Å‚Æ‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½Õ‚ï¿½ï¿½ËBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ó‚©‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ÄBï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½È‚ï¿½Äï¿½Î–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÇB<br>
+    ï¿½Tï¿½ï¿½ï¿½@ï¿½Å‚ï¿½ï¿½yï¿½qï¿½ï¿½ï¿½ï¿½ñ‚ªŽó‚©‚ï¿½ï¿½ï¿½ï¿½ÌAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ó‚©‚ï¿½ï¿½ï¿½ï¿½Ì‚É”ï¿½×‚ï¿½ÎŠï¿½Õ‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½Rï¿½ï¿½ï¿½qï¿½Æ‚Ý‚ä‚«ï¿½Aï¿½Ç‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈH <br>
+    ï¿½Tï¿½ï¿½ï¿½@ï¿½ó‚©‚ï¿½ï¿½Ä‚ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ËB<br>
+    ï¿½yï¿½qï¿½@ï¿½Ý‚ä‚«ï¿½Í‚Ü‚ï¿½ï¿½ó‚©‚ï¿½ï¿½Ä‚ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ü‚ÅŽó‚¯‚ï¿½ï¿½Í‹[ï¿½eï¿½Xï¿½gï¿½Aï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚Ä[ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Í—Rï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½lï¿½ÅŽï¿½ï¿½ÂXï¿½ï¿½ï¿½Zï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ï¿½Aï¿½ï¿½lï¿½Æ‚ï¿½ï¿½ó‚©‚ï¿½ï¿½Ä‚È‚ï¿½ï¿½ï¿½ï¿½á‚¾ï¿½ß‚ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@(ï¿½ï¿½ï¿½ï¿½)<br>
     <br>
-    @@@‚»‚±‚É—R”üŽq‚ª“ü‚Á‚Ä‚­‚éB•\î‚ª–¾‚é‚­‚È‚¢Bd‹ê‚µ‚¢•µˆÍ‹CB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½É—Rï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½\ï¿½î‚ªï¿½ï¿½ï¿½é‚­ï¿½È‚ï¿½ï¿½Bï¿½dï¿½ê‚µï¿½ï¿½ï¿½ï¿½ï¿½Í‹Cï¿½B<br>
     <br>
-    ™yŽq@c(‹°‚é‹°‚é)‚Ç‚¤‚¾‚Á‚½B<br>
-    —R”üŽq@(‚¤‚ñ)Žó‚©‚Á‚½B<br>
-    ™yŽq@‚â‚Á‚½[B<br>
-    —T”ü@‚¨‚ß‚Å‚Æ‚¤B<br>
-    —R”üŽq@‚Å‚àcA‚Ý‚ä‚«‚Ì”Ô†‚ª‚È‚©‚Á‚½‚ñ‚¾B<br>
-    ™yŽq@‚¤‚»c<br>
-    —T”ü@¡A‚Ý‚ä‚«‚¿‚á‚ñ‚Ç‚¤‚µ‚Ä‚é‚ÌH<br>
-    —R”üŽq@‚í‚©‚ç‚È‚¢B¡“ú‚Í‰ï‚Á‚Ä‚È‚¢‚©‚çB<br>
-    ™yŽq@‚Ý‚ä‚«‚Æˆê‚És‚Á‚½‚ñ‚¶‚á‚Ë[‚ÌA‡Ši”­•\c<br>
-    —R”üŽq@¡“ú‚Í•ÊX‚É”­•\‚ðŒ©‚És‚­‚±‚Æ‚É‚µ‚½‚ñ‚¾BŽ„AŽ©M‚È‚©‚Á‚½‚©‚çB<br>
-    ™yŽq@‚Ý‚ä‚«A‚Ç‚¤‚È‚ñ‚¾H<br>
-    —R”üŽq@“ñ‚ÂX‚És‚­‚Ì‚©‚ÈB<br>
-    —T”ü@‚ ‚½‚µ‚Æ“¯‚¶I‚Ý‚ä‚«‚¿‚á‚ñ‚ªH<br>
-    —R”üŽq@‚½‚Ô‚ñB<br>
-    —T”ü@‚ ‚½‚µA‚Ý‚ä‚«‚¿‚á‚ñ‚É‰½‚ÄŒ¾‚Á‚½‚ç‚¢‚¢‚Ì‚©‚ÈBŠð‚µ‚¢‚¯‚ÇA‚Å‚àŠð‚µ‚­‚È‚¢B<br>
-    —R”üŽq@˜bA‚Å‚«‚é‚©‚ÈB<br>
+    ï¿½yï¿½qï¿½@ï¿½c(ï¿½ï¿½ï¿½é‹°ï¿½ï¿½)ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@(ï¿½ï¿½ï¿½ï¿½)ï¿½ó‚©‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½B<br>
+    ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ß‚Å‚Æ‚ï¿½ï¿½B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Å‚ï¿½ï¿½cï¿½Aï¿½Ý‚ä‚«ï¿½Ì”Ôï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Aï¿½Ý‚ä‚«ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ÌH<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½í‚©ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½Ý‚ä‚«ï¿½Æˆêï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¶‚ï¿½Ë[ï¿½ÌAï¿½ï¿½ï¿½iï¿½ï¿½ï¿½\ï¿½c<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Í•ÊXï¿½É”ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½Æ‚É‚ï¿½ï¿½ï¿½ï¿½ñ‚¾Bï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Mï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½Ý‚ä‚«ï¿½Aï¿½Ç‚ï¿½ï¿½È‚ñ‚¾H<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ÂXï¿½Ésï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ÈB<br>
+    ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½Iï¿½Ý‚ä‚«ï¿½ï¿½ï¿½ï¿½ñ‚ªH<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½Ô‚ï¿½B<br>
+    ï¿½Tï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ý‚ä‚«ï¿½ï¿½ï¿½ï¿½ï¿½É‰ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÇAï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½bï¿½Aï¿½Å‚ï¿½ï¿½é‚©ï¿½ÈB<br>
     <br>
-    ŸŒã”¼<br>
+    ï¿½ï¿½ï¿½ã”¼<br>
     <br>
-    @@@‚»‚±‚ÉŒbŽq‚ªŒ»‚ê‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÉŒbï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ŒbŽq@‚¿‚å‚Á‚Æ‚¢‚¢H<br>
-    —R”üŽq@‰½B<br>
-    ŒbŽq@ƒ^ƒCƒ€ƒJƒvƒZƒ‹‚Ì‚±‚Æ‚ÅA•ú‘—‚µ‚½‚¢‚ñ‚¾‚¯‚ÇA‚¢‚¢‚©‚ÈBŠwZ‚Ì‹–‰Â‚ÍŽæ‚Á‚Ä‚ ‚é‚ñ‚¾‚¯‚ÇB<br>
-    —R”üŽq@¡’‹‹x‚Ý‚¾‚©‚çAŒbŽq‚ª•ú‘—‚µ‚Ä‚¢‚¢‚æB<br>
-    ŒbŽq@‚Ë‚ÁA—R”üŽq‚Íƒ^ƒCƒ€ƒJƒvƒZƒ‹‚É“ü‚ê‚é‚à‚ÌŒˆ‚Ü‚Á‚½H<br>
-    —R”üŽq@‚Ü‚¾B‰½“ü‚ê‚½‚ç‚¢‚¢‚©–À‚Á‚Ä‚éB<br>
-    ŒbŽq@ŽÀ‚Í•ú‘—•”‚ÌŽllA‘Sˆõo‚µ‚Ä‚È‚¢‚ñ‚¾B<br>
-    —R”üŽq@‚»‚¤‚È‚ñ‚¾‚¤‚çB<br>
-    ™yŽq@—DG‚¶‚á‚ñA‚ ‚½‚µ‚½‚¿B<br>
+    ï¿½bï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½B<br>
+    ï¿½bï¿½qï¿½@ï¿½^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Æ‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ÇAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈBï¿½wï¿½Zï¿½Ì‹ï¿½ï¿½Â‚ÍŽï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ÇB<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½bï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½bï¿½qï¿½@ï¿½Ë‚ï¿½ï¿½Aï¿½Rï¿½ï¿½ï¿½qï¿½Íƒ^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½B<br>
+    ï¿½bï¿½qï¿½@ï¿½ï¿½ï¿½Í•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽlï¿½lï¿½Aï¿½Sï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½ñ‚¾B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½È‚ñ‚¾‚ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½Dï¿½Gï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@‰ï˜b‚Ì’†‚Å—R”üŽq‚ª•ú‘—‚Ì€”õ‚ðI‚¦‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½bï¿½Ì’ï¿½ï¿½Å—Rï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    —R”üŽq@‚Ç‚¤‚¼B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@ŒbŽq‚ªƒ}ƒCƒN‚Ì‘O‚ÉÀ‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½bï¿½qï¿½ï¿½ï¿½}ï¿½Cï¿½Nï¿½Ì‘Oï¿½Éï¿½ï¿½ï¿½B<br>
     <br>
-    ŒbŽq@(ƒ}ƒCƒN‚ÉŒü‚©‚Á‚Ä)‹Œ¶“k‰ï‚©‚ç‚Ì˜A—‚Å‚·BŽOŒŽ˜Z“úŒ»Ý‚Ìƒ^ƒCƒ€ƒJƒvƒZƒ‹ƒvƒƒWƒFƒNƒg‚Ìi‚Ý‹ï‡‚ð•ñ‚µ‚Ü‚·BŒ»ÝAƒ^ƒCƒ€ƒJƒvƒZƒ‹‚É“ü‚ê‚é‚à‚Ì‚ð’ño‚µ‚½‚Ì‚ÍŽO”N¶“ñ•SŽO\l’†A“ñ•S\ˆêl‚Å‚·B‚Ü‚¾’ño‚µ‚Ä‚¢‚È‚¢¶“k‚Í¥”ñAŽOŒŽ\ŒÜ“úA‘²‹ÆŽ®‚Ì—‚“ú‚Ü‚Å‚É’ño‚µ‚Ä‚­‚¾‚³‚¢B“ñ\”NŒã‚ÌˆêŒŽˆê“úA‚Ý‚ñ‚È‚ÅŽµ‚ÂX’†ŠwZ‚ÉW‚Ü‚èA“ñ\”N‘O‚ð‰ù‚©‚µ‚­Žv‚¢o‚µ‚Ü‚µ‚å‚¤B<br>
-    ‚±‚ê‚ÅA‹Œ¶“k‰ï‚©‚ç‚Ì˜A—‚ðI‚í‚è‚É‚µ‚Ü‚·B<br>
+    ï¿½bï¿½qï¿½@(ï¿½}ï¿½Cï¿½Nï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ï‚©ï¿½ï¿½Ì˜Aï¿½ï¿½ï¿½Å‚ï¿½ï¿½Bï¿½Oï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½Ý‚Ìƒ^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Wï¿½Fï¿½Nï¿½gï¿½Ìiï¿½Ý‹ï‡ï¿½ï¿½ñ‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÝAï¿½^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÍŽOï¿½Nï¿½ï¿½ï¿½ï¿½Sï¿½Oï¿½\ï¿½lï¿½ï¿½ï¿½Aï¿½ï¿½Sï¿½\ï¿½ï¿½lï¿½Å‚ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½kï¿½Íï¿½ï¿½ï¿½Aï¿½Oï¿½ï¿½ï¿½\ï¿½Ü“ï¿½ï¿½Aï¿½ï¿½ï¿½ÆŽï¿½ï¿½Ì—ï¿½ï¿½ï¿½ï¿½Ü‚Å‚É’ï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½\ï¿½Nï¿½ï¿½ÌˆêŒŽï¿½ï¿½ï¿½ï¿½Aï¿½Ý‚ï¿½È‚ÅŽï¿½ï¿½ÂXï¿½ï¿½ï¿½wï¿½Zï¿½ÉWï¿½Ü‚ï¿½Aï¿½ï¿½\ï¿½Nï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½kï¿½ï‚©ï¿½ï¿½Ì˜Aï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½É‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     <br>
-    @@@‚±‚Ì•ú‘—’†‚É‚¢‚Â‚ÌŠÔ‚É‚©‚Ý‚ä‚«‚ª•ú‘—Žº‚Ì“üŒû‚É—§‚Á‚Ä‚¢‚éB<br>
-    @@@‚½‚¾‚¾‚ê‚à‚Ý‚ä‚«‚ª“ü‚Á‚Ä‚«‚½‚±‚Æ‚É‚Í‹C‚Ã‚©‚È‚¢B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½Â‚ÌŠÔ‚É‚ï¿½ï¿½Ý‚ä‚«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì“ï¿½ï¿½ï¿½ï¿½É—ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ä‚«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚É‚Í‹Cï¿½Ã‚ï¿½ï¿½È‚ï¿½ï¿½B<br>
     <br>
-    ‚Ý‚ä‚«@ŽRŒûB(‚Ý‚ñ‚È‚ª‚Ý‚ä‚«‚ðŒ©‚é)Ž„Aƒ^ƒCƒ€ƒJƒvƒZƒ‹‚É“ü‚ê‚é‚à‚Ìo‚³‚È‚¢‚©‚çBŽ„A‰ù‚©‚µ‚­Žv‚¢o‚·‚±‚Æ‚È‚ñ‚©‚È‚¢‚©‚çB“ñ\”NŒãA¡‚ÌŽ„‚ðŽv‚¢o‚µ‚Ä‰½‚É‚È‚é‚í‚¯Bl‚É‚ÍŽv‚¢o‚µ‚½‚­‚È‚¢Žv‚¢o‚¾‚Á‚Ä‚ ‚é‚ÌB<br>
-    ŒbŽq@‚Å‚àAˆ«‚¢Žv‚¢o‚Î‚©‚è‚¶‚á‚È‚©‚Á‚½‚Å‚µ‚åB<br>
-    ‚Ý‚ä‚«@Ž„A‚¸‚Á‚Æ‚¸‚Á‚Æs‚«‚½‚©‚Á‚½‚Z‚É—Ž‚¿‚½‚ñ‚¾‚æB<br>
-    ŒbŽq@c<br>
-    ‚Ý‚ä‚«@ŽRŒû‚Í‚¢‚¢‚æB‚Z‚Í„‘E‚Å—Šw‰@‚ÉŒˆ‚Ü‚Á‚ÄAŒ€‚¶‚á‚Ý‚ñ‚È‚ª‚â‚è‚½‚©‚Á‚½Žå–ð‚É‚È‚ê‚ÄA‚È‚ñ‚Å‚àŽv‚¢’Ê‚è‚É‚È‚Á‚ÄB‚Å‚à‚Ý‚ñ‚ÈŽRŒû‚Ý‚½‚¢‚É‚Í‚¢‚©‚È‚¢‚ñ‚¾‚æB<br>
-    —R”üŽq@‚Ý‚ä‚«I<br>
-    ‚Ý‚ä‚«@c<br>
-    —R”üŽq@‚à‚¤‚â‚ß‚ÄB‚»‚êˆÈãŒ¾‚í‚È‚¢‚ÅB<br>
-    ‚Ý‚ä‚«@—R”üŽqcA‰½‚ÅŽRŒû‚Ì–¡•û‚·‚é‚ñ‚¾‚æB<br>
-    —R”üŽq@‚Ý‚ä‚«c<br>
-    ‚Ý‚ä‚«@—R”üŽq‚Í‚¢‚¢‚æAŽµ‚ÂXŽó‚©‚Á‚ÄB•ú‘—•”‚É‚à“ü‚ê‚éB‚Å‚àAŽ„‚Íc<br>
-    —R”üŽq@Ž„A‚¿‚Á‚Æ‚àŠð‚µ‚­‚È‚¢BŽµ‚ÂXŽó‚©‚Á‚Ä‚àŠð‚µ‚­‚È‚¢B<br>
-    ‚Ý‚ä‚«@‚¶‚áAŽ„‚Æˆê‚É“ñ‚ÂXs‚­H<br>
-    —R”üŽq@c<br>
-    ‚Ý‚ä‚«@‚Ç‚¤‚È‚ÌH<br>
-    —R”üŽq@c<br>
-    ‚Ý‚ä‚«@s‚¯‚È‚¢‚Å‚µ‚åBŽ„A“ñ‚ÂX‚És‚­‚ñ‚¾‚æB“ñ‚ÂX‚È‚ñ‚Äs‚«‚½‚­‚È‚¢B“ñ‚ÂX‚È‚ñ‚ÄAŽ„‚Ìs‚­ŠwZ‚¶‚á‚È‚¢I<br>
-    ™yŽq@‚Ý‚ä‚«I<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½Rï¿½ï¿½ï¿½B(ï¿½Ý‚ï¿½È‚ï¿½ï¿½Ý‚ä‚«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Aï¿½^ï¿½Cï¿½ï¿½ï¿½Jï¿½vï¿½Zï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìoï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Æ‚È‚ñ‚©‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½\ï¿½Nï¿½ï¿½Aï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ä‰ï¿½ï¿½É‚È‚ï¿½í‚¯ï¿½Bï¿½lï¿½É‚ÍŽvï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½bï¿½qï¿½@ï¿½Å‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½Î‚ï¿½ï¿½è‚¶ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Æsï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Zï¿½É—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½bï¿½qï¿½@ï¿½c<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½Rï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Zï¿½Íï¿½ï¿½Eï¿½Åï¿½ï¿½wï¿½@ï¿½ÉŒï¿½ï¿½Ü‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½È‚ï¿½ï¿½ï¿½è‚½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚È‚ï¿½ÄAï¿½È‚ï¿½Å‚ï¿½ï¿½vï¿½ï¿½ï¿½Ê‚ï¿½É‚È‚ï¿½ï¿½ÄBï¿½Å‚ï¿½ï¿½Ý‚ï¿½ÈŽRï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½É‚Í‚ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Ý‚ä‚«ï¿½I<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½c<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ÄBï¿½ï¿½ï¿½ï¿½ÈãŒ¾ï¿½ï¿½È‚ï¿½ï¿½ÅB<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½Rï¿½ï¿½ï¿½qï¿½cï¿½Aï¿½ï¿½ï¿½ÅŽRï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Ý‚ä‚«ï¿½c<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½Rï¿½ï¿½ï¿½qï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÂXï¿½ó‚©‚ï¿½ï¿½ÄBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Å‚ï¿½ï¿½Aï¿½ï¿½ï¿½Íc<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ÂXï¿½ó‚©‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Æˆêï¿½É“ï¿½ÂXï¿½sï¿½ï¿½ï¿½H<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½c<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½Ç‚ï¿½ï¿½È‚ÌH<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½c<br>
+    ï¿½Ý‚ä‚«ï¿½@ï¿½sï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½ï¿½ÂXï¿½Ésï¿½ï¿½ï¿½ñ‚¾‚ï¿½Bï¿½ï¿½ÂXï¿½È‚ï¿½Äsï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ÂXï¿½È‚ï¿½ÄAï¿½ï¿½ï¿½Ìsï¿½ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½I<br>
+    ï¿½yï¿½qï¿½@ï¿½Ý‚ä‚«ï¿½I<br>
     <br>
-    @@@™yŽq‚Í—T”ü‚ðŒ©‚Ä‚¢‚éB‚Ý‚ä‚«‚ª‚Í‚Á‚Æ‚µ‚Ä—T”ü‚ðŒ©‚éB<br>
-    @@@—T”ü‚Í‰º‚ðŒü‚¢‚Ä‰½‚àŒ¾‚í‚¸‚ÉˆÖŽq‚ÉÀ‚Á‚Ä‚¢‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½yï¿½qï¿½Í—Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½Ý‚ä‚«ï¿½ï¿½ï¿½Í‚ï¿½ï¿½Æ‚ï¿½ï¿½Ä—Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Tï¿½ï¿½ï¿½Í‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½í‚¸ï¿½ÉˆÖŽqï¿½Éï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
     <br>
-    ‚Ý‚ä‚«@(‹ƒ‚¯‚Ä‚­‚é) Ž„c‚Ç‚¤‚µ‚¿‚á‚Á‚½‚ñ‚¾‚ëBŽ„A‚¾‚ß‚¾B‚à‚¤‚¾‚ß‚¾B<br>
+    ï¿½Ý‚ä‚«ï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½) ï¿½ï¿½ï¿½cï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Bï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ß‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½B<br>
     <br>
-    @@@‚»‚¤Œ¾‚Á‚Ä‚Ý‚ä‚«‚Í•ú‘—Žº‚ðo‚Äs‚­B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ä‚«ï¿½Í•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Äsï¿½ï¿½ï¿½B<br>
     <br>
-    —R”üŽq@‚Ý‚ä‚«I<br>
+    ï¿½Rï¿½ï¿½ï¿½qï¿½@ï¿½Ý‚ä‚«ï¿½I<br>
     <br>
-    @@@—R”üŽq‚ª‚Ý‚ä‚«‚ð’Ç‚Á‚Ä•ú‘—Žº‚ðo‚Äs‚­B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Rï¿½ï¿½ï¿½qï¿½ï¿½ï¿½Ý‚ä‚«ï¿½ï¿½Ç‚ï¿½ï¿½Ä•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½Äsï¿½ï¿½ï¿½B<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
-    <font color="#000000"><br>   
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
+    <font color="#000000"><br>
  </font>
-    <P class=border1><font color="#000000" size="+1" style="font-size : 130%;"><b><a name="kadai6" id="kadai6">‰Û‘è‚U@uÎ‚¢‚É’§í‚·‚évŽg—p‚·‚éƒeƒLƒXƒguŽµ‚ÂXv</a><br>
+    <P class=border1><font color="#000000" size="+1" style="font-size : 130%;"><b><a name="kadai6" id="kadai6">ï¿½Û‘ï¿½Uï¿½@ï¿½uï¿½Î‚ï¿½ï¿½É’ï¿½ï¿½í‚·ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½ï¿½ï¿½ÂXï¿½v</a><br>
     </b></font></P>
-    <P class=border6><font color="#000000"> ¡ê–ÊÝ’è<br>
+    <P class=border6><font color="#000000"> ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
     <br>
-    ¡“oêl•¨@‚Sl<br>
-    ë‘ò”¹l(ƒnƒ„ƒg)<br>
-    ŠÝ@™yŽq<br>
-    ŽR–{‘å•ã(ƒJƒuƒŒ)<br>
-    ŠC–ì@(—Ú—ž•P)Ÿ<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@ï¿½Sï¿½l<br>
+    ï¿½ï¿½ò”¹l(ï¿½nï¿½ï¿½ï¿½g)<br>
+    ï¿½Ý@ï¿½yï¿½q<br>
+    ï¿½Rï¿½{ï¿½ï¿½ï¿½(ï¿½Jï¿½uï¿½ï¿½)<br>
+    ï¿½Cï¿½ï¿½@ï¿½ï¿½(ï¿½Ú—ï¿½ï¿½P)ï¿½ï¿½<br>
     </font></P>
-    <p class="border6" align="left"><font color="#000000">¡ƒeƒLƒXƒg<img src="daihon/img050-re.jpg" width="244" height="344" border="0" align="right"><b>—Ú—ž•P@‚³‚ A‹S‚²‚Á‚±‚ð‚Í‚¶‚ß‚Ü‚µ‚å‚¤‚©B‹S‚ÍŽ„A“¦‚°‚é‚Ì‚Íƒnƒ„ƒgA‚ ‚È‚½B<br>
-    ƒnƒ„ƒg@c<br>
-    —Ú—ž•P@“¦‚°‚È‚¢‚ÌHiƒJƒuƒŒ‚Éj•ß‚Ü‚¦‚ÄB<br>
+    <p class="border6" align="left"><font color="#000000">ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<img src="daihon/img050-re.jpg" width="244" height="344" border="0" align="right"><b>ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ß‚Ü‚ï¿½ï¿½å‚¤ï¿½ï¿½ï¿½Bï¿½Sï¿½ÍŽï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Íƒnï¿½ï¿½ï¿½gï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½c<br>
+    ï¿½Ú—ï¿½ï¿½Pï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌHï¿½iï¿½Jï¿½uï¿½ï¿½ï¿½Éjï¿½ß‚Ü‚ï¿½ï¿½ÄB<br>
     <br>
-    @@@ƒJƒuƒŒ‚ªƒnƒ„ƒg‚ð—}‚¦‚Â‚¯‚éB<br>
-    @@@ƒnƒ„ƒg‚Í•KŽ€‚Ì’ïR‚ð‚·‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Jï¿½uï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½gï¿½ï¿½}ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½nï¿½ï¿½ï¿½gï¿½Í•Kï¿½ï¿½ï¿½Ì’ï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ƒnƒ„ƒg@—Ú—ž•PB‚Ç‚¤‚µ‚Ä‚¨•P—l‚ç‚µ‚­A‚¨é‚Å‹ÊŽq—l‚Æ•é‚ç‚³‚È‚¢‚ÌB<br>
+    ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½Ú—ï¿½ï¿½Pï¿½Bï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Pï¿½lï¿½ç‚µï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Å‹ÊŽqï¿½lï¿½Æ•ï¿½ç‚³ï¿½È‚ï¿½ï¿½ÌB<br>
     </b><br>
-    ™yŽq@ƒXƒgƒbƒvB<br>
+    ï¿½yï¿½qï¿½@ï¿½Xï¿½gï¿½bï¿½vï¿½B<br>
     <br>
-    @@@Œ€‚ª’†’f‚·‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ™yŽq@”¹lB‹ÊŽq—l‚Á‚Ä‰½H<br>
-    ”¹l@(‘ä–{‚ðŽ¦‚µ‚Ä)‚±‚±‚Éc<br>
-    ™yŽq@‚æ‚­Œ©‚ëA‚»‚ê‚Íu‹ÊŽq—lv‚¶‚á‚È‚¢u‰¤Žq—lv‚¾B<br>
-    ”¹l@(‚ ‚ÁI)<br>
-    ™yŽq@‚¨é‚É‹ÊŽq—l‚È‚ñ‚Ä‚¢‚é‚í‚¯‚È‚¢‚¾‚ëB‚¨é‚Æ‚¢‚¦‚Î‰¤Žq—lBíŽ¯‚¾B<br>
-    ”¹l@‚·‚Ý‚Ü‚¹‚ñB<br>
-    ™yŽq@i‘Sˆõ‚Éj‚Ý‚ñ‚È‚¢‚¢B‚à‚µ’N‚©‚ªŠÔˆá‚¦‚½‚çƒtƒHƒ[‚·‚é‚±‚ÆBŠÏ‹q‚ªŠÔˆá‚¢‚É‹C‚ª‚Â‚©‚È‚¯‚ê‚Î‚»‚ê‚ÍŽ¸”s‚¶‚á‚È‚¢B¡‚Ì‚¤‚¿‚©‚ç–{”Ô‚ð‘z’è‚µ‚ÄƒtƒHƒ[‚Å‚«‚é‚æ‚¤‚É‚µ‚Ä‚¨‚­‚±‚ÆB‚í‚©‚Á‚½B<br>
-    ‚Ý‚ñ‚È@‚Í‚¢B<br>
-    ™yŽq@‚³‚ÁAŽŸ‚ÌƒV[ƒ“‚É‚¢‚­‚æB‚Í‚¢Aƒnƒ„ƒg‚Ì‘äŽŒ‚©‚çB<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½Bï¿½ÊŽqï¿½lï¿½ï¿½ï¿½Ä‰ï¿½ï¿½H<br>
+    ï¿½ï¿½ï¿½lï¿½@(ï¿½ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½ï¿½Éc<br>
+    ï¿½yï¿½qï¿½@ï¿½æ‚­ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Íuï¿½ÊŽqï¿½lï¿½vï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½uï¿½ï¿½ï¿½qï¿½lï¿½vï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½lï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½I)<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½É‹ÊŽqï¿½lï¿½È‚ï¿½Ä‚ï¿½ï¿½ï¿½í‚¯ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Î‰ï¿½ï¿½qï¿½lï¿½Bï¿½íŽ¯ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½iï¿½Sï¿½ï¿½ï¿½Éjï¿½Ý‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½Ôˆá‚¦ï¿½ï¿½ï¿½ï¿½tï¿½Hï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½é‚±ï¿½ÆBï¿½Ï‹qï¿½ï¿½ï¿½Ôˆá‚¢ï¿½É‹Cï¿½ï¿½ï¿½Â‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ÍŽï¿½ï¿½sï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½Ô‚ï¿½zï¿½è‚µï¿½Äƒtï¿½Hï¿½ï¿½ï¿½[ï¿½Å‚ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆBï¿½í‚©ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Ý‚ï¿½È@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Í‚ï¿½ï¿½Aï¿½nï¿½ï¿½ï¿½gï¿½Ì‘äŽŒï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    <b>ƒnƒ„ƒg@¬“‡‚¾A¬“‡‚ª‚È‚¢‚Ä‚¢‚éB‚ ‚È‚½•û‚É‚Í•·‚±‚¦‚È‚¢‚ÌA‚±‚Ìº‚ªB<br>
-    ƒJƒuƒŒ@‚Ó‚Ó‚ÓA•·‚±‚¦‚é‚æB¬“‡‚¾‚¯‚¶‚á‚Ë[B“c’†‚àŽR–{‚à‚È‚¢‚Ä‚éB<br>
+    <b>ï¿½nï¿½ï¿½ï¿½gï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½É‚Í•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌAï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Jï¿½uï¿½ï¿½ï¿½@ï¿½Ó‚Ó‚ÓAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë[ï¿½Bï¿½cï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½B<br>
     </b><br>
-    ™yŽq@”nŽ­Ii‰‰‹Z‚ªƒXƒgƒbƒv‚·‚éj”nŽ­B”nŽ­B”nŽ­B”¹lB¬“‡‚ª‹ƒ‚¢‚Ä‚é‚Á‚Ä‰½H¬’¹‚¾‚ë‚¤B<br>
-    ”¹l@I<br>
-    ™yŽq@‚±‚ñ‚ÈŠÈ’P‚ÈŠ¿ŽšAŠÔˆá‚¦‚é‚ÈB‚»‚ê‚Æ‘å•ãB<br>
-    ‘å•ã@‚Í‚¢B<br>
-    ™yŽq@‚»‚ÌŒã‚Ì“c’†‚àŽR–{‚à‹ƒ‚¢‚Ä‚é‚Á‚Ä‚Ì‚Í‰½H<br>
-    ‘å•ã@ƒtƒHƒ[‚Å‚·B<br>
-    ™yŽq@X‚Ì’†‚ÅA¬“‡‚â“c’†‚âŽR–{‚ª‹ƒ‚¢‚Ä‚¢‚é‚ñ‚¾B<br>
-    ‘å•ã@‚Í‚¢B<br>
-    ™yŽq@‚È‚é‚Ù‚Ç•sŽv‹c‚È¢ŠE‚¾B<br>
-    ‘å•ã@‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B<br>
-    ™yŽq@”nŽ­IX‚Ì’†‚Å¬“‡‚â“c’†‚âŽR–{‚ª‹ƒ‚¢‚Ä‚¢‚Ä‚Ç‚¤‚È‚éB‚»‚ê‚©‚çæ‚ðŒ¾‚Á‚Ä‚Ý‚ëB<br>
-    ‘å•ã@c‚»‚±‚Ü‚Ål‚¦‚Ä‚Ü‚¹‚ñB<br>
-    ™yŽq@‚»‚±‚Ü‚Ål‚¦‚ÄƒtƒHƒ[‚µ‚ÈB<br>
-    ‘å•ã@c<br>
-    ™yŽq@”¹lA‚¨‘O‰½”N¶‚¾B<br>
-    ”¹l@˜Z”N¶‚Å‚·B<br>
-    ™yŽq@˜Z”N¶HI˜Z”N¶‚È‚çŠ¿Žš‚­‚ç‚¢‚µ‚Á‚©‚è•×‹­‚µ‚ëB<br>
-    ”¹l@‚·‚Ý‚Ü‚¹‚ñB–lA‚¸‚Á‚ÆƒAƒƒŠƒJ‚Å¶Šˆ‚µ‚Ä‚¢‚ÄA“ú–{Œê‚ð’‚é‚Ì‚Í‘åä•v‚È‚ñ‚Å‚·‚¯‚ÇAŠ¿Žš‚Í¡•×‹­’†‚ÅB<br>
-    ™yŽq@ŽŸ‚Ì—ûK‚Ü‚Å‚ÉŠ¿Žš‚É‘S•”‚Ó‚è‚ª‚È‚Ó‚Á‚Ä‚«‚ÈB<br>
-    ”¹l@‚Í‚¢B<br>
-    ™yŽq@“ª‚ª’É‚¢B¡“ú‚Í‚±‚±‚Ü‚Å‚É‚µ‚æ‚¤B‚Ý‚ñ‚ÈA‹A‚Á‚Ä‚¢‚¢‚æB<br>
+    ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Iï¿½iï¿½ï¿½ï¿½Zï¿½ï¿½ï¿½Xï¿½gï¿½bï¿½vï¿½ï¿½ï¿½ï¿½jï¿½nï¿½ï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½Bï¿½nï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½lï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ä‰ï¿½ï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚¤ï¿½B<br>
+    ï¿½ï¿½ï¿½lï¿½@ï¿½I<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ÈŠÈ’Pï¿½ÈŠï¿½ï¿½ï¿½ï¿½Aï¿½Ôˆá‚¦ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½Æ‘ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ÌŒï¿½Ì“cï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ä‚Ì‚Í‰ï¿½ï¿½H<br>
+    ï¿½ï¿½ï¿½@ï¿½tï¿½Hï¿½ï¿½ï¿½[ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½Xï¿½Ì’ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ñ‚¾B<br>
+    ï¿½ï¿½ï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½È‚ï¿½Ù‚Ç•sï¿½vï¿½cï¿½Èï¿½ï¿½Eï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½nï¿½ï¿½ï¿½Iï¿½Xï¿½Ì’ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½Rï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ä‚Ç‚ï¿½ï¿½È‚ï¿½Bï¿½ï¿½ï¿½ê‚©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ý‚ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Ålï¿½ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Ålï¿½ï¿½ï¿½Äƒtï¿½Hï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ÈB<br>
+    ï¿½ï¿½ï¿½@ï¿½c<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½lï¿½Aï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½lï¿½@ï¿½Zï¿½Nï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½Zï¿½Nï¿½ï¿½ï¿½Hï¿½Iï¿½Zï¿½Nï¿½ï¿½ï¿½È‚çŠ¿ï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×‹ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½lï¿½@ï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½ï¿½Bï¿½lï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÆƒAï¿½ï¿½ï¿½ï¿½ï¿½Jï¿½Åï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½{ï¿½ï¿½ð’‚ï¿½Ì‚Í‘ï¿½ï¿½vï¿½È‚ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½ï¿½ï¿½Íï¿½ï¿½×‹ï¿½ï¿½ï¿½ï¿½ÅB<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½Ì—ï¿½ï¿½Kï¿½Ü‚Å‚ÉŠï¿½ï¿½ï¿½ï¿½É‘Sï¿½ï¿½ï¿½Ó‚è‚ªï¿½È‚Ó‚ï¿½ï¿½Ä‚ï¿½ï¿½ÈB<br>
+    ï¿½ï¿½ï¿½lï¿½@ï¿½Í‚ï¿½ï¿½B<br>
+    ï¿½yï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½Ü‚Å‚É‚ï¿½ï¿½æ‚¤ï¿½Bï¿½Ý‚ï¿½ÈAï¿½Aï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     </font></P>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <br>
-    <p class="border1"><a name="kadai7" id="kadai7"><font color="#000000"><font color="#000000" size="+1" style="font-size : 130%;"><b>‰Û‘è‚VuÎ‚¢‚É’§í‚·‚éE’jŽq•”ˆõ‚Ì‚½‚ß‚ÉvŽg—p‚·‚éƒeƒLƒXƒguƒAƒgƒ€v<br>
+    <p class="border1"><a name="kadai7" id="kadai7"><font color="#000000"><font color="#000000" size="+1" style="font-size : 130%;"><b>ï¿½Û‘ï¿½Vï¿½uï¿½Î‚ï¿½ï¿½É’ï¿½ï¿½í‚·ï¿½ï¿½Eï¿½jï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ß‚Évï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Aï¿½gï¿½ï¿½ï¿½v<br>
     </b></font></font></a></p>
-     <p class="border6"><font color="#000000"><font color="#000000">¡‰Û‘è<br>
-    ’†Šw¶‚Ì‰‰Œ€•”‚É‚Í’jŽq•”ˆõ‚ª­‚È‚¢‚±‚Æ‚ª‘½‚¢B‚±‚Ì‰Û‘è‚ÍA‚»‚ñ‚È’jŽq•”ˆõ‚ª‚¢‚é‰‰Œ€•”‚ª—ûK‚·‚é‚Æ‚«—˜—p‚Å‚«‚é‚à‚Ì‚Å‚ ‚éB<br>
-    ¡ê–ÊÝ’è<br>
-    ‚±‚ê‚Í‚P‚X‚U‚R”N‚Ì¶“k‰ïŽº‚Å‚Ìƒhƒ‰ƒ}‚Å‚ ‚éBç‰Ä‚Í¶“k‰ï’·BTŽi‚Í•›‰ï’·B‘åì‚Æ³‘¾˜Y‚Í–ðˆõ‚Å‚ ‚éB‚±‚Ì”N‚Ì‚PŒŽ‚P“ú‚Éu“S˜rƒAƒgƒ€v‚Ì•ú‘—‚ªŽn‚Ü‚Á‚½BTŽi‚Ì«—ˆ‚Ì–²‚ÍƒAƒgƒ€‚ðì‚é‚±‚ÆBTŽi‚ÍŽè’ËŽ¡’Ž‚ªA‚È‚ºƒAƒgƒ€‚Ì–…‚ÉƒEƒ‰ƒ“‚Æ‚¢‚¤–¼‘O‚ð‚Â‚¯‚½‚©‹^–â‚ðŽ‚ÂB<br>
+     <p class="border6"><font color="#000000"><font color="#000000">ï¿½ï¿½ï¿½Û‘ï¿½<br>
+    ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚Í’jï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‰Û‘ï¿½ÍAï¿½ï¿½ï¿½ï¿½È’jï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‰‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½pï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½Í‚Pï¿½Xï¿½Uï¿½Rï¿½Nï¿½Ìï¿½ï¿½kï¿½ïŽºï¿½Å‚Ìƒhï¿½ï¿½ï¿½}ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½Ä‚Íï¿½ï¿½kï¿½ï’·ï¿½Bï¿½Tï¿½iï¿½Í•ï¿½ï¿½ï’·ï¿½Bï¿½ï¿½ï¿½Æï¿½ï¿½ï¿½ï¿½Yï¿½Í–ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì”Nï¿½Ì‚Pï¿½ï¿½ï¿½Pï¿½ï¿½ï¿½Éuï¿½Sï¿½rï¿½Aï¿½gï¿½ï¿½ï¿½vï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½Tï¿½iï¿½Ìï¿½ï¿½ï¿½ï¿½Ì–ï¿½ï¿½ÍƒAï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½ÆBï¿½Tï¿½iï¿½ÍŽï¿½ËŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½È‚ï¿½ï¿½Aï¿½gï¿½ï¿½ï¿½Ì–ï¿½ï¿½ÉƒEï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂB<br>
     <br>
-    ¡“oêl•¨@<br>
-    ’†’Ë‘åì	@<br>
-    ’©‰iTŽi	@@<br>
-    ’†ìç‰Ä	@<br>
-    ’†’Ë²’mŽqŸ@(l”‚ª‚½‚è‚È‚¢‚Æ‚«‚Í‚±‚Ì–ð‚ðƒJƒbƒg‚·‚é)<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@<br>
+    ï¿½ï¿½ï¿½Ë‘ï¿½ï¿½	ï¿½@<br>
+    ï¿½ï¿½ï¿½iï¿½Tï¿½i	ï¿½@ï¿½@<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	ï¿½@<br>
+    ï¿½ï¿½ï¿½Ëï¿½ï¿½mï¿½qï¿½ï¿½ï¿½@(ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½Í‚ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½Jï¿½bï¿½gï¿½ï¿½ï¿½ï¿½)<br>
     </font></font></p>
-    <p class="border6" align="left"><font color="#000000"><font color="#000000">¡ƒeƒLƒXƒg<br>
-    TŽi@@ƒEƒ‰ƒ“‚©c<br>
-    ç‰Ä@@‚Ç‚¤‚µ‚½‚ÌB<br>
-    TŽi@@‰½‚ÅƒAƒgƒ€‚Ì–…‚Ì–¼‘O‚ðƒEƒ‰ƒ“‚É‚µ‚½‚Ì‚©‚È‚Á‚ÄBŠm‚©‚ÉƒEƒ‰ƒ“‚ÍƒAƒgƒ€‚È‚ñ‚¾‚¯‚Ç‚³B<br>
-    ç‰Ä@@ƒEƒ‰ƒ“‚ªƒAƒgƒ€H‰½‚»‚êH<br>
-    TŽi@@ƒAƒgƒ€‚ÍŒ´ŽqB<br>
-    ç‰Ä@@Œ´ŽqH<br>
-    TŽi@@—‰È‚Å‚â‚Á‚½‚¾‚ëB‚±‚Ì¢‚Ì’†‚É‘¶Ý‚·‚é‚à‚Ì‚Á‚ÄA‚Ç‚ñ‚Ç‚ñ¬‚³‚­‚µ‚Ä‚¢‚­‚ÆÅŒã‚ÉŒ´Žq‚É‚È‚é‚Á‚ÄB<br>
-    ç‰Ä@@‚ [A‚â‚Á‚½‚â‚Á‚½B<br>
-    TŽi@@‚»‚ÌŒ´Žq‚ð‰pŒê‚É‚·‚é‚ÆƒAƒgƒ€B<br>
-    ç‰Ä@@‚ [AŽ_‘f‚Æ‚©’Y‘f‚Æ‚©B<br>
-    TŽi@@‚»‚¤A‚»‚êB‚ÅAƒEƒ‰ƒ“‚à‚»‚ÌŒ´Žq‚Ìˆê‚Â‚È‚ñ‚¾B<br>
-    ç‰Ä@@ƒAƒgƒ€‚ªŒ´Žq‚Á‚ÄˆÓ–¡‚¾‚©‚çA–…‚Í‚»‚ÌŒ´Žq‚Ì’†‚ÌƒEƒ‰ƒ“‚É‚µ‚½‚ñ‚¶‚á‚È‚¢‚ÌB<br>
-    TŽi@@‚Å‚à‚È‚ñ‚Å‚í‚´‚í‚´ƒEƒ‰ƒ“‚©‚È‚Á‚ÄBŒ´Žq‚Á‚ÄŽ©‘RŠE‚É‚X‚Q‚à‚ ‚é‚Ì‚ÉB<br>
-    ‘åì@@—á‚¦‚ÎH<br>
-    TŽi@@‚»‚¤‚¾‚ÈA‹à‚Æ‚©‹â‚Æ‚©B<br>
-    ‘åì@@ƒAƒgƒ€‚Ì–…‚ª‹à‚¿‚á‚ñ‚©‹â‚¿‚á‚ñ‚Æ‚©‚¶‚á•Ï‚¾‚ëBƒAƒgƒ€‚Ì–…‚ªƒPƒK‚µ‚Ä“|‚ê‚Ä‚é‚Æ‚·‚é‚¾‚ëB‚»‚±‚ÉƒAƒgƒ€‚ª‹ì‚¯‚Â‚¯A–…‚ð•ø‚«‚©‚©‚¦‚Ä‹©‚ÔAu‚µ‚Á‚©‚èA‚µ‚Á‚©‚è‚·‚é‚ñ‚¾A‹à‚¿‚á‚ñvBc•Ï‚¾‚æBTŽiAŒ´Žq‚Á‚Ä‘¼‚É‚Ç‚ñ‚È‚Ì‚ª‚ ‚é‚ñ‚¾‚æB <br>
-    TŽi@@ƒJƒ‹ƒVƒEƒ€B<br>
-    ‘åì@@u‚µ‚Á‚©‚èA‚µ‚Á‚©‚è‚·‚é‚ñ‚¾AƒJƒ‹ƒVƒEƒ€‚¿‚á‚ñcvA‚±‚ê‚Ü‚½•Ï‚¾‚ËB‘¼‚É‚ÍH<br>
-    TŽi@@ƒXƒgƒƒ“ƒ`ƒEƒ€B<br>
-    ‘åì@u‚µ‚Á‚©‚èA‚µ‚Á‚©‚è‚·‚é‚ñ‚¾AƒXƒgƒƒ“ƒ`ƒEƒ€‚¿‚á‚ñcvAX‚É•ÏB’·‚·‚¬‚¾‚ËB‚à‚Á‚Æ’Z‚¢‚Ì‚È‚¢‚Ì‚©H<br>
-    TŽi@@cƒoƒŠƒEƒ€B<br>
-    ‘åì@@ƒoƒŠƒEƒ€HƒAƒgƒ€‚Ì–…‚ªƒoƒŠƒEƒ€Bu‚µ‚Á‚©‚èA‚µ‚Á‚©‚è‚·‚é‚ñ‚¾AƒoƒŠƒEƒ€‚¿‚á‚ñcv<br>
-    ²’mŽq@‚â‚¾IƒTƒ`AƒAƒgƒ€‚Ì–…‚ªƒoƒŠƒEƒ€‚¿‚á‚ñ‚¶‚á‚â‚¾I<br>
-    ç‰Ä@@ƒTƒb‚¿‚á‚ñA‚í‚©‚é‚æBƒoƒŠƒEƒ€‚¿‚á‚ñ‚Á‚ÄA‚È‚ñ‚©ˆ«–‚‚Ì–º‚Á‚ÄŠ´‚¶‚·‚é‚à‚ñB‚â‚Á‚Ï‚èƒEƒ‰ƒ“‚¾‚æBƒEƒ‰ƒ“‚ªˆê”Ô‚©‚í‚¢‚¢Š´‚¶‚ª‚·‚é‚æB<br>
-    TŽi@@‚»‚¤‚¾‚ÈB<br>
+    <p class="border6" align="left"><font color="#000000"><font color="#000000">ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½ÅƒAï¿½gï¿½ï¿½ï¿½Ì–ï¿½ï¿½Ì–ï¿½ï¿½Oï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½È‚ï¿½ï¿½ÄBï¿½mï¿½ï¿½ï¿½ÉƒEï¿½ï¿½ï¿½ï¿½ï¿½ÍƒAï¿½gï¿½ï¿½ï¿½È‚ñ‚¾‚ï¿½ï¿½Ç‚ï¿½ï¿½B<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½gï¿½ï¿½ï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Aï¿½gï¿½ï¿½ï¿½ÍŒï¿½ï¿½qï¿½B<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½ï¿½ï¿½qï¿½H<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½È‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìï¿½ï¿½Ì’ï¿½ï¿½É‘ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ÄAï¿½Ç‚ï¿½Ç‚ñ¬‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ÆÅŒï¿½ÉŒï¿½ï¿½qï¿½É‚È‚ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½ï¿½ï¿½[ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½ÌŒï¿½ï¿½qï¿½ï¿½ï¿½pï¿½ï¿½É‚ï¿½ï¿½ï¿½ÆƒAï¿½gï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½ï¿½ï¿½[ï¿½Aï¿½_ï¿½fï¿½Æ‚ï¿½ï¿½Yï¿½fï¿½Æ‚ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Bï¿½ÅAï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½qï¿½Ìˆï¿½Â‚È‚ñ‚¾B<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Aï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ÄˆÓ–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Í‚ï¿½ï¿½ÌŒï¿½ï¿½qï¿½Ì’ï¿½ï¿½ÌƒEï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ñ‚¶‚ï¿½È‚ï¿½ï¿½ÌB<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Å‚ï¿½ï¿½È‚ï¿½Å‚í‚´ï¿½í‚´ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÄBï¿½ï¿½ï¿½qï¿½ï¿½ï¿½ÄŽï¿½ï¿½Rï¿½Eï¿½É‚Xï¿½Qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÉB<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½á‚¦ï¿½ÎH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈAï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Aï¿½gï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚©‹â‚¿ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ï¿½Bï¿½Aï¿½gï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½Pï¿½Kï¿½ï¿½ï¿½Ä“|ï¿½ï¿½Ä‚ï¿½Æ‚ï¿½ï¿½é‚¾ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÉƒAï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ì‚¯ï¿½Â‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‹ï¿½ï¿½ÔAï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚·ï¿½ï¿½ñ‚¾Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Bï¿½cï¿½Ï‚ï¿½ï¿½ï¿½Bï¿½Tï¿½iï¿½Aï¿½ï¿½ï¿½qï¿½ï¿½ï¿½Ä‘ï¿½ï¿½É‚Ç‚ï¿½È‚Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B <br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Jï¿½ï¿½ï¿½Vï¿½Eï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚·ï¿½ï¿½ñ‚¾Aï¿½Jï¿½ï¿½ï¿½Vï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½vï¿½Aï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Ï‚ï¿½ï¿½ËBï¿½ï¿½ï¿½É‚ÍH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Xï¿½gï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½Eï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚·ï¿½ï¿½ñ‚¾Aï¿½Xï¿½gï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½vï¿½Aï¿½Xï¿½É•ÏBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ËBï¿½ï¿½ï¿½ï¿½ï¿½Æ’Zï¿½ï¿½ï¿½Ì‚È‚ï¿½ï¿½Ì‚ï¿½ï¿½H<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½cï¿½oï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½oï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½Hï¿½Aï¿½gï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½Bï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚·ï¿½ï¿½ñ‚¾Aï¿½oï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½v<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½â‚¾ï¿½Iï¿½Tï¿½`ï¿½Aï¿½Aï¿½gï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¶‚ï¿½â‚¾ï¿½I<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Tï¿½bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½í‚©ï¿½ï¿½ï¿½Bï¿½oï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½È‚ñ‚©ˆï¿½ï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½ÄŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½Ï‚ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÈB<br>
     </font></font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000"><font color="#000000"><br>
     </font></font>
-    <p class="border1"><font color="#000000" size="+1" style="font-size : 117%;"><font color="#000000" size="+1" style="font-size : 117%;"><b><a name="kadai8" id="kadai8">‰Û‘è‚Wu¬Šw¶‚Ì—‚ÌŽq‚ð‰‰‚¶‚éEŠ‹“¡‚ð‰‰‚¶‚évŽg—p‚·‚éƒeƒLƒXƒguƒAƒgƒ€v</a></b></font></font></p>
-    
-    <p class="border6"><font color="#000000"><font color="#000000">¡‰Û‘è<br>
-    ’†Šw¶‚ª‘ål‚ð‰‰‚¶‚é‚Æ‚«Aˆá˜aŠ´‚ð•ø‚­‚±‚Æ‚ª‘½‚¢B‚µ‚©‚µA¬Šw¶‚ð‰‰‚¶‚é‚Æ‚«‚É‚ÍŒ©Ž–‚É¬Šw¶‚É‚È‚è‚«‚Á‚Ä‚µ‚Ü‚¤‚Æ‚¢‚¤‚±‚Æ‚ª‘½‚­‚ ‚éB‚±‚ê‚ÍA‚»‚ñ‚È¬Šw¶‚ð‰‰‚¶‚é‚Æ‚«‚É–ð—§‚Â‰Û‘è‚Å‚ ‚éB‚Ü‚½‚±‚ÌƒV[ƒ“‚ÍAˆêl‚Ì­”N‚ÌŠ‹“¡‚ð•`‚¢‚½ê–Ê‚Å‚ ‚èA‚»‚ÌŠ‹“¡‚ð•\Œ»‚·‚é‚Æ‚«‚É–ð—§‚Â‰Û‘è‚Å‚ ‚éBˆê“x‚É—ûK‚·‚é‚Æ’·‚¢‚Ì‚ÅAšˆó‚ÅŽ¦‚µ‚½‘O”¼(—c‚¢­—‚ð‰‰‚¶‚é)‚ÆŒã”¼(Š‹“¡‚ð‰‰‚¶‚é)‚Æ‚É•Ê‚¯‚Ä—ûK‚·‚é‚Æ‚æ‚¢‚ÆŽv‚¤BÅI“I‚É‚Í‘O”¼‚ÆŒã”¼‚ð‡‚í‚¹‚½Œ`‚Å”­•\‚µ‚½‚¢B<br>
+    <p class="border1"><font color="#000000" size="+1" style="font-size : 117%;"><font color="#000000" size="+1" style="font-size : 117%;"><b><a name="kadai8" id="kadai8">ï¿½Û‘ï¿½Wï¿½uï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Ìï¿½ï¿½ÌŽqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½Aï¿½gï¿½ï¿½ï¿½v</a></b></font></font></p>
+
+    <p class="border6"><font color="#000000"><font color="#000000">ï¿½ï¿½ï¿½Û‘ï¿½<br>
+    ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Aï¿½ï¿½aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É‚ÍŒï¿½ï¿½ï¿½ï¿½Éï¿½ï¿½wï¿½ï¿½ï¿½É‚È‚è‚«ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½ï¿½Èï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É–ð—§‚Â‰Û‘ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ÌƒVï¿½[ï¿½ï¿½ï¿½ÍAï¿½ï¿½lï¿½Ìï¿½ï¿½Nï¿½ÌŠï¿½ï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê‚Å‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŠï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½É–ð—§‚Â‰Û‘ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½xï¿½É—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½Æ’ï¿½ï¿½ï¿½ï¿½Ì‚ÅAï¿½ï¿½ï¿½ï¿½ÅŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½(ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ÆŒã”¼(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½Æ‚É•Ê‚ï¿½ï¿½Ä—ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½Æ‚æ‚¢ï¿½ÆŽvï¿½ï¿½ï¿½Bï¿½ÅIï¿½Iï¿½É‚Í‘Oï¿½ï¿½ï¿½ÆŒã”¼ï¿½ï¿½ï¿½ï¿½ï¿½í‚¹ï¿½ï¿½ï¿½`ï¿½Å”ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡ê–ÊÝ’è<br>
-    ‚±‚ê‚Í‚P‚X‚U‚R”N‚Ì¶“k‰ïŽº‚Å‚Ìƒhƒ‰ƒ}‚Å‚ ‚éBç‰Ä‚Í¶“k‰ï’·BTŽi‚Í•›‰ï’·B‘åì‚Æ³‘¾˜Y‚Í–ðˆõ‚Å‚ ‚éB‚»‚µ‚ÄA²’mŽq‚Í‘åì‚Ì–…B‚±‚Ì”N‚Ì‚PŒŽ‚P“ú‚Éu“S˜rƒAƒgƒ€v‚Ì•ú‘—‚ªŽn‚Ü‚Á‚½BTŽi‚Ì«—ˆ‚Ì–²‚ÍƒAƒgƒ€‚ðì‚é‚±‚ÆBTŽi‚ÍŽè’ËŽ¡’Ž‚ªA‚È‚ºƒAƒgƒ€‚Ì–…‚ÉƒEƒ‰ƒ“‚Æ‚¢‚¤–¼‘O‚ð‚Â‚¯‚½‚©‹^–â‚ðŽ‚ÂBTŽi‚ÍuƒAƒgƒ€v‚Æ‚¢‚¤Œ€‚ð‘n‚Á‚Ä‚¢‚é‚ªAƒEƒ‰ƒ“‚ªL“‡‚ÌŒ´”š‚ÉŽg‚í‚ê‚½‚±‚Æ‚©‚çA‚Ç‚¤‚µ‚Ä‚àƒEƒ‰ƒ“‚ðŽ©•ª‚ª‘‚¢‚Ä‚¢‚éŒ€‚É“oê‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚È‚¢B<br>
+    ï¿½ï¿½ï¿½ï¿½ÊÝ’ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½Í‚Pï¿½Xï¿½Uï¿½Rï¿½Nï¿½Ìï¿½ï¿½kï¿½ïŽºï¿½Å‚Ìƒhï¿½ï¿½ï¿½}ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½Ä‚Íï¿½ï¿½kï¿½ï’·ï¿½Bï¿½Tï¿½iï¿½Í•ï¿½ï¿½ï’·ï¿½Bï¿½ï¿½ï¿½Æï¿½ï¿½ï¿½ï¿½Yï¿½Í–ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½mï¿½qï¿½Í‘ï¿½ï¿½Ì–ï¿½ï¿½Bï¿½ï¿½ï¿½Ì”Nï¿½Ì‚Pï¿½ï¿½ï¿½Pï¿½ï¿½ï¿½Éuï¿½Sï¿½rï¿½Aï¿½gï¿½ï¿½ï¿½vï¿½Ì•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Bï¿½Tï¿½iï¿½Ìï¿½ï¿½ï¿½ï¿½Ì–ï¿½ï¿½ÍƒAï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½ÆBï¿½Tï¿½iï¿½ÍŽï¿½ËŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½È‚ï¿½ï¿½Aï¿½gï¿½ï¿½ï¿½Ì–ï¿½ï¿½ÉƒEï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂBï¿½Tï¿½iï¿½Íuï¿½Aï¿½gï¿½ï¿½ï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é‚ªï¿½Aï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½ÉŽgï¿½ï¿½ê‚½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½éŒ€ï¿½É“oï¿½ê‚³ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½È‚ï¿½ï¿½B<br>
     <br>
-    ¡“oêl•¨@<br>
-    ’†’Ë²’mŽq<br>
-    ’†’Ë‘åì	@<br>
-    ’©‰iTŽi	@@<br>
-    ’†ìç‰Ä	@<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½ï¿½@<br>
+    ï¿½ï¿½ï¿½Ëï¿½ï¿½mï¿½q<br>
+    ï¿½ï¿½ï¿½Ë‘ï¿½ï¿½	ï¿½@<br>
+    ï¿½ï¿½ï¿½iï¿½Tï¿½i	ï¿½@ï¿½@<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½	ï¿½@<br>
     </font></font></p>
-    
-    <p class="border6" align="left"><font color="#000000"><font color="#000000">¡ƒeƒLƒXƒg<br>
-    š‘O”¼<br>
-    ²’mŽq@TŽi‚É‚¢‚¿‚á‚ñBTŽi‚É‚¢‚¿‚á‚ñ‚Ì‚¨˜b‚Å‚àAƒAƒgƒ€‚ªƒ^ƒCƒ€ƒ}ƒVƒ“‚Éæ‚é‚ñ‚Å‚µ‚åH<br>
-    TŽi@@c‚¤‚ñB<br>
-    ²’mŽq@TŽi‚É‚¢‚¿‚á‚ñ‚Ì‚¨˜b‚Å‚ÍAƒ^ƒCƒ€ƒ}ƒVƒ“‚ÉƒEƒ‰ƒ“‚¿‚á‚ñ‚àˆê‚Éæ‚¹‚Ä‚ËB<br>
-    TŽi@@(‚¦‚Ác)<br>
-    ²’mŽq@‚Ë‚ÁA‚¨Šè‚¢B<br>
-    TŽi@@ƒTƒb‚¿‚á‚ñA‚²‚ß‚ñB‰´‚Ì‘ä–{‚ÉƒEƒ‰ƒ“‚¿‚á‚ñAo‚¹‚È‚¢‚ñ‚¾B<br>
-    ²’mŽq@‚Ç‚¤‚µ‚ÄH<br>
-    TŽi@@‚Ç‚¤‚µ‚Ä‚Á‚Äc<br>
-    ²’mŽq@‚Ç‚¤‚µ‚ÄƒEƒ‰ƒ“‚¿‚á‚ñAo‚¹‚È‚¢‚ÌH<br>
-    TŽi@@L“‡‚Å‚½‚­‚³‚ñ‚Ìl‚ª”š’e‚ÅŽ€‚ñ‚¾‚ñ‚¾B<br>
-    ²’mŽq@‚»‚êAƒEƒ‰ƒ“‚¿‚á‚ñ‚ÆŠÖŒW‚ª‚ ‚é‚ÌH<br>
-    TŽi@@c<br>
-    ²’mŽq@‚Ë‚¦ATŽi‚É‚¢‚¿‚á‚ñB<br>
-    TŽi@@‚»‚Ì”š’e‚ÉŽg‚í‚ê‚½‚Ì‚ªcƒEƒ‰ƒ“‚¾‚Á‚½‚ñ‚¾B‚¾‚©‚çc<br>
-    ²’mŽq@(“{‚Á‚Ä)TŽi‚É‚¢‚¿‚á‚ñAƒEƒ‰ƒ“‚¿‚á‚ñ‚Íl‚ðŽE‚µ‚½‚è‚µ‚È‚¢‚æB<br>
-    TŽi@@ƒEƒ‰ƒ“‚¿‚á‚ñ‚ÍŽE‚³‚È‚¢‚¯‚ÇAƒEƒ‰ƒ“‚ÍŽE‚µ‚½‚ñ‚¾‚æBí‘ˆ‚Å”š’e‚ÉŽg‚í‚ê‚Ä‚½‚­‚³‚ñ‚Ìl‚ªŽ€‚ñ‚¾‚ñ‚¾B<br>
-    ²’mŽq@ƒoƒJITŽi‚É‚¢‚¿‚á‚ñ‚ÌƒoƒJI<br>
-    TŽi@@c<br>
-    ²’mŽq@ƒEƒ‰ƒ“‚¿‚á‚ñ‚ÍA”š’e‚È‚ñ‚©‚¶‚á‚È‚¢‚æBl‚ðŽE‚µ‚½‚è‚µ‚È‚¢‚æB<br>
-    ç‰Ä@@ƒTƒb‚¿‚á‚ñB<br>
-    ²’mŽq@ƒTƒ`A”š’e‚Ì‚±‚Æ‚æ‚­’m‚ç‚È‚¢‚¯‚ÇA‚à‚µAƒAƒgƒ€‚ÆƒEƒ‰ƒ“‚¿‚á‚ñ‚ªí‘ˆ‚ÌŽž¶‚Ü‚ê‚Ä‚¢‚½‚ç(‚»‚¤Œ¾‚Á‚Ä‹ƒ‚¯‚Ä‚­‚é)A<br>
-    TŽi@@c<br>
-    ²’mŽq@‚à‚µí‘ˆ‚ÌŽž‚É¶‚Ü‚ê‚Ä‚½‚çA‚½‚­‚³‚ñ‚Ìl‚ð•‚¯‚½‚æB‚Ç‚±‚©‚É”š’e‚ª—Ž‚¿‚½‚çA‚»‚±‚É•‚¯‚És‚Á‚½‚æBâ‘Î‚É•‚¯‚És‚Á‚½‚æB<br>
-    TŽi@@c<br>
-    ²’mŽq@TŽi‚É‚¢‚¿‚á‚ñBƒEƒ‰ƒ“‚¿‚á‚ñ‚Íl‚ðŽE‚µ‚½‚è‚µ‚È‚¢‚æ‚ËB‚Ë[AŽE‚µ‚½‚è‚µ‚È‚¢‚æ‚ËB<br>
-    TŽi@@ƒTƒb‚¿‚á‚ñc<br>
-    ²’mŽq@ŽE‚µ‚½‚è‚µ‚È‚¢‚Á‚ÄŒ¾‚Á‚Ä‚æB•‚¯‚És‚­‚Á‚ÄŒ¾‚Á‚Ä‚æB<br>
+
+    <p class="border6" align="left"><font color="#000000"><font color="#000000">ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
+    ï¿½ï¿½ï¿½Oï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½bï¿½Å‚ï¿½ï¿½Aï¿½Aï¿½gï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½}ï¿½Vï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½H<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½cï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½bï¿½Å‚ÍAï¿½^ï¿½Cï¿½ï¿½ï¿½}ï¿½Vï¿½ï¿½ï¿½ÉƒEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½êï¿½Éæ‚¹ï¿½Ä‚ËB<br>
+    ï¿½Tï¿½iï¿½@ï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½c)<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Ë‚ï¿½ï¿½Aï¿½ï¿½ï¿½è‚¢ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Tï¿½bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ß‚ï¿½Bï¿½ï¿½ï¿½Ì‘ï¿½{ï¿½ÉƒEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½oï¿½ï¿½ï¿½È‚ï¿½ï¿½ñ‚¾B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ÄH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Äc<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ÄƒEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½oï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Lï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìlï¿½ï¿½ï¿½ï¿½ï¿½eï¿½ÅŽï¿½ï¿½ñ‚¾‚ñ‚¾B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆŠÖŒWï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½c<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Ë‚ï¿½ï¿½Aï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½Ì”ï¿½ï¿½eï¿½ÉŽgï¿½ï¿½ê‚½ï¿½Ì‚ï¿½ï¿½cï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@(ï¿½{ï¿½ï¿½ï¿½ï¿½)ï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ílï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½È‚ï¿½ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍŽEï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÇAï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ÍŽEï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Bï¿½í‘ˆï¿½Å”ï¿½ï¿½eï¿½ÉŽgï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìlï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ñ‚¾B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½oï¿½Jï¿½Iï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìƒoï¿½Jï¿½I<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½c<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½ï¿½ï¿½eï¿½È‚ñ‚©‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½Bï¿½lï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½È‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Tï¿½bï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Tï¿½`ï¿½Aï¿½ï¿½ï¿½eï¿½Ì‚ï¿½ï¿½Æ‚æ‚­ï¿½mï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ÇAï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Aï¿½gï¿½ï¿½ï¿½ÆƒEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚ªí‘ˆï¿½ÌŽï¿½ï¿½ï¿½ï¿½Ü‚ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‹ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½)ï¿½A<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½c<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½í‘ˆï¿½ÌŽï¿½ï¿½Éï¿½ï¿½Ü‚ï¿½Ä‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìlï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ç‚ï¿½ï¿½ï¿½ï¿½É”ï¿½ï¿½eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Éï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½Î‚Éï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½c<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ílï¿½ï¿½ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½È‚ï¿½ï¿½ï¿½ËBï¿½Ë[ï¿½Aï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½È‚ï¿½ï¿½ï¿½ËB<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Tï¿½bï¿½ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½È‚ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½B<br>
     <br>
-    @@@²’mŽq‚Í‹ƒ‚­B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½mï¿½qï¿½Í‹ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    šŒã”¼<br>
+    ï¿½ï¿½ï¿½ã”¼<br>
     <br>
-    TŽi@@ç‰ÄA‰´c‚Ç‚¤‚µ‚½‚çc<br>
-    ç‰Ä@@TŽic<br>
-    ‘åì@@ƒTƒ`IƒEƒ‰ƒ“‚Ì‚±‚Æ‚Í‚ ‚«‚ç‚ß‚ëB‚³‚Á‹A‚é‚¼B<br>
-    TŽi@@‘åìc<br>
-    ‘åì@@c<br>
-    TŽi@@‚Ç‚¤‚µ‚½‚ñ‚¾‚æ‘åìA‚È‚ñ‚Åu–…‚ð‹ƒ‚©‚·‚Èv‚Á‚Ä‰´‚Ì‚±‚ÆÓ‚ß‚È‚¢‚ñ‚¾‚æB<br>
-    ‘åì@@‚Î[‚©B¡A‚¨‘O‚ðÓ‚ß‚Ä‚à‚¿‚Á‚Æ‚à–Ê”’‚­‚Ë[‚æB<br>
-    TŽi@@ç‰ÄA‰´‚Ç‚¤‚µ‚¿‚á‚Á‚½‚ñ‚¾‚ëB‘O‚Í‚±‚¤‚¶‚á‚È‚©‚Á‚½‹C‚ª‚·‚éBƒAƒgƒ€‚ð‘n‚é‚±‚Æ‚ª–²‚¾‚Á‚½ ‚ÍB‚Å‚àAL“‡‚Å‚ ‚ÌŽÊ^Œ©‚ÄA‚±‚ê‚ª‰ÈŠw‚È‚Ì‚©‚È‚Á‚ÄŽv‚Á‚½ŽžAƒAƒgƒ€‚ð‘n‚é‚±‚Æ‚ª•|‚­‚È‚Á‚¿‚á‚Á‚½‚ñ‚¾BƒAƒgƒ€‚ª¶‚Ü‚ê‚½‚çAƒAƒgƒ€‚Éˆ«‚¢S‚ªh‚Á‚ÄAŒ´”š‚Ý‚½‚¢‚Éí‘ˆ‚ÉŽg‚í‚ê‚¿‚á‚¤‚ñ‚¶‚á‚È‚¢‚©‚Á‚ÄB<br>
-    ç‰Ä@@—D‚µ‚·‚¬‚é‚ñ‚¾‚æATŽi‚ÍB—D‚µ‚¢‚©‚çAƒEƒ‰ƒ“‚¿‚á‚ñ‚ðŒ€‚Éo‚·‚±‚Æ‚ÅŒ´”š‚Ì”íŠQ‚É‚ ‚Á‚½l‚Ì‚±‚Æ‚Ü‚Ål‚¦‚¿‚á‚¤B‚¾‚©‚ç‚¢‚Â‚à‹ê‚µ‚Þ‚ñ‚¾‚æAƒAƒgƒ€‚Ý‚½‚¢‚ÉB<br>
-    TŽi@@ƒAƒgƒ€‚Ý‚½‚¢‚ÉH<br>
-    ç‰Ä@@³‚µ‚¢‚±‚Æ‚µ‚Ä‚àŒë‰ð‚³‚ê‚½‚èA’N‚©‚É—D‚µ‚­‚·‚é‚±‚Æ‚Å‘¼‚Ì’N‚©‚ð‚Â‚¯‚½‚èB‚»‚ê‚ÅA‚¢‚Á‚Â‚à‚Â‚¢‚ÄA”ß‚µ‚¢Žv‚¢‚à‚½‚­‚³‚ñ‚µ‚ÄBƒAƒgƒ€‚àTŽi‚à—D‚µ‚·‚¬‚é‚ñ‚¾‚æB<br>
-    TŽi@@c<br>
-    ç‰Ä@@‚¾‚©‚çAŽ„A<br>
-    TŽi@@c<br>
-    ç‰Ä@@‚»‚ñ‚ÈTŽi‚ÉAƒAƒgƒ€‘n‚Á‚Ä‚Ù‚µ‚¢B<br>
-    TŽi@@I<br>
-    ç‰Ä@@TŽi‚È‚ç‘n‚ê‚é‚æA‚¾‚Á‚ÄTŽiAŽµ‚ÂX“Œ’†ŠwZŽn‚Ü‚Á‚ÄˆÈ—ˆ‚ÌGË‚¶‚á‚È‚¢B<br>
-    TŽi@@Žn‚Ü‚Á‚ÄˆÈ—ˆ‚Á‚ÄA‚±‚ÌŠwZA¡”NŽn‚Ü‚Á‚½‚ñ‚¾‚¼B<br>
-    ç‰Ä@@‚Å‚à‰RŒ¾‚Á‚Ä‚È‚¢‚æB‚»‚ê‚É‚©‚Á‚±‚æ‚­‚È‚¢A‚±‚ÌŠwZŽn‚Ü‚Á‚ÄˆÈ—ˆ‚ÌGË‚Á‚ÄB<br>
-    TŽi@@c<br>
-    ç‰Ä@@TŽi‚ª‘n‚éƒAƒgƒ€‚Éˆ«‚¢S‚ªh‚é‚Í‚¸‚È‚¢‚æBí‘ˆ‚ÉŽg‚í‚ê‚é‚Í‚¸‚È‚¢‚æB<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ÄAï¿½ï¿½ï¿½cï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Tï¿½iï¿½c<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Tï¿½`ï¿½Iï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Æ‚Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½é‚¼ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½c<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½c<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½ï¿½Aï¿½È‚ï¿½Åuï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Èvï¿½ï¿½ï¿½Ä‰ï¿½ï¿½Ì‚ï¿½ï¿½ÆÓ‚ß‚È‚ï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Î[ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Oï¿½ï¿½Ó‚ß‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ê”ï¿½ï¿½ï¿½ï¿½Ë[ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ÄAï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Bï¿½Oï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Aï¿½gï¿½ï¿½ï¿½ï¿½nï¿½é‚±ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍBï¿½Å‚ï¿½ï¿½Aï¿½Lï¿½ï¿½ï¿½Å‚ï¿½ï¿½ÌŽÊ^ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ê‚ªï¿½ÈŠwï¿½È‚Ì‚ï¿½ï¿½È‚ï¿½ï¿½ÄŽvï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Aï¿½gï¿½ï¿½ï¿½ï¿½nï¿½é‚±ï¿½Æ‚ï¿½ï¿½|ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾Bï¿½Aï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ê‚½ï¿½ï¿½Aï¿½Aï¿½gï¿½ï¿½ï¿½Éˆï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½hï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½Éí‘ˆï¿½ÉŽgï¿½ï¿½ê‚¿ï¿½á‚¤ï¿½ñ‚¶‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½Aï¿½Tï¿½iï¿½ÍBï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Éoï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÅŒï¿½ï¿½ï¿½ï¿½Ì”ï¿½Qï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½Ì‚ï¿½ï¿½Æ‚Ü‚Ålï¿½ï¿½ï¿½ï¿½ï¿½á‚¤ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ç‚¢ï¿½Â‚ï¿½ï¿½ê‚µï¿½Þ‚ñ‚¾‚ï¿½Aï¿½Aï¿½gï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ÉB<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Aï¿½gï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ÉH<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½Aï¿½Nï¿½ï¿½ï¿½É—Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½é‚±ï¿½Æ‚Å‘ï¿½ï¿½Ì’Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ÅAï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ÄAï¿½ß‚ï¿½ï¿½ï¿½ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚µ‚ÄBï¿½Aï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½iï¿½ï¿½ï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½c<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½A<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½c<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½ï¿½ï¿½ï¿½ÈTï¿½iï¿½ÉAï¿½Aï¿½gï¿½ï¿½ï¿½nï¿½ï¿½ï¿½Ä‚Ù‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½I<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Tï¿½iï¿½È‚ï¿½nï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ÄTï¿½iï¿½Aï¿½ï¿½ï¿½ÂXï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Zï¿½nï¿½Ü‚ï¿½ï¿½ÄˆÈ—ï¿½ï¿½ÌGï¿½Ë‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½nï¿½Ü‚ï¿½ï¿½ÄˆÈ—ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ÌŠwï¿½Zï¿½Aï¿½ï¿½ï¿½Nï¿½nï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ñ‚¾‚ï¿½ï¿½B<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Å‚ï¿½ï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½Ä‚È‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚­ï¿½È‚ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŠwï¿½Zï¿½nï¿½Ü‚ï¿½ï¿½ÄˆÈ—ï¿½ï¿½ÌGï¿½Ë‚ï¿½ï¿½ÄB<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½c<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Tï¿½iï¿½ï¿½ï¿½nï¿½ï¿½Aï¿½gï¿½ï¿½ï¿½Éˆï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½hï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½Bï¿½í‘ˆï¿½ÉŽgï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@­‚µ‚µ‚ÄTŽi‚ª‘å‚«‚­‘§‚ð“f‚«‘‹•Ó‚É•à‚¢‚Ä‚¢‚­B<br>
-    @@@‚»‚µ‚ÄA‚µ‚Î‚ç‚­‹ó‚ð’­‚ß‚éB<br>
-    @@@‚¸‚Á‚Æ˜b‚ð•·‚¢‚Ä‚¢‚½²’mŽq‚ªTŽi‚Ì‚Æ‚±‚ë‚É—ˆ‚ÄATŽi‚Ì‘³‚ðˆø‚Á’£‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄTï¿½iï¿½ï¿½ï¿½å‚«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½ï¿½Ó‚É•ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½Î‚ç‚­ï¿½ï¿½ð’­‚ß‚ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Æ˜bï¿½ð•·‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mï¿½qï¿½ï¿½ï¿½Tï¿½iï¿½Ì‚Æ‚ï¿½ï¿½ï¿½É—ï¿½ï¿½ÄAï¿½Tï¿½iï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ²’mŽq@TŽi‚É‚¢‚¿‚á‚ñB<br>
-    ‘åì@@‚¨‚¢AƒTƒ`B<br>
-    ç‰Ä@@ƒTƒb‚¿‚á‚ñB<br>
-    ²’mŽq@‚²‚ß‚ñ‚È‚³‚¢B<br>
-    ‘åì¥ç‰Ä@I<br>
-    TŽi@@ƒTƒb‚¿‚á‚ñc<br>
-    ‘åì@@ƒTƒ`AƒEƒ‰ƒ“A‚ ‚«‚ç‚ß‚½‚Ì‚©B<br>
-    ²’mŽq@(c‚¤‚È‚¸‚­) <br>
-    ‘åì@@‚æ[‚µAƒTƒ`A‚æ‚­‚ ‚«‚ç‚ß‚½‚ÈB‚³‚Á‹A‚é‚¼B<br>
-    ²’mŽq@‚¤‚ñB<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Tï¿½`ï¿½B<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Tï¿½bï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½ï¿½ï¿½ß‚ï¿½È‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ì¥ï¿½Ä@ï¿½I<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Tï¿½bï¿½ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½Tï¿½`ï¿½Aï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½Ì‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@(ï¿½cï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½) <br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½[ï¿½ï¿½ï¿½Aï¿½Tï¿½`ï¿½Aï¿½æ‚­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ÈBï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½é‚¼ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@‘åì‚Æ²’mŽq‚ª‹A‚è‚¾‚·B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Æï¿½ï¿½mï¿½qï¿½ï¿½ï¿½Aï¿½è‚¾ï¿½ï¿½ï¿½B<br>
     <br>
-    TŽi@@‘Ò‚Ä‚æI<br>
-    ‘åì¥²’mŽq@c<br>
-    TŽi@@ƒTƒb‚¿‚á‚ñA<br>
-    ²’mŽq@c<br>
-    TŽi@@ƒEƒ‰ƒ“‚¿‚á‚ñ“oê‚·‚é‚æB<br>
-    ²’mŽq@‚¦‚ÁH<br>
-    TŽi@@‚±‚Ì‘ä–{‚ÉƒEƒ‰ƒ“‚¿‚á‚ñ“oê‚·‚é‚æB<br>
-    ²’mŽq@‚Ù‚ñ‚ÆH<br>
-    TŽi@@(‚¤‚È‚¸‚­)<br>
-    ç‰Ä@@TŽiA‘ä–{‘n‚è’¼‚·‚ÌH<br>
-    TŽi@@ƒEƒ‰ƒ“‚¿‚á‚ñ‚ª“oê‚·‚é‚Ì‚ÍA‚±‚ê‚©‚ç‘‚­‚Æ‚±‚ë‚³B<br>
-    ç‰Ä@@‚»‚ê‚Á‚ÄA<br>
-    TŽi@@ƒ‰ƒXƒgƒV[ƒ“BƒTƒb‚¿‚á‚ñ‚ÌŒ¾‚¤‚Æ‚¨‚è‚¾‚æB‚à‚µAí‘ˆ‚ÌŽžƒAƒgƒ€‚ÆƒEƒ‰ƒ“‚¿‚á‚ñ‚ª‚¢‚½‚çA‚Ql‚Æ‚àAíê‚És‚Á‚½‚æB‚»‚µ‚ÄA‚½‚­‚³‚ñ‚Ìl‚ð•‚¯‚½‚æB<br>
-    ²’mŽq@ƒEƒ‰ƒ“‚¿‚á‚ñAˆ«‚­‚È‚¢‚ÌH<br>
-    TŽi@@ˆ«‚¢‚Í‚¸‚È‚¢‚¶‚á‚È‚¢‚©B‚¾‚Á‚ÄƒEƒ‰ƒ“‚¿‚á‚ñ‚ÍƒAƒgƒ€‚Ì–…AƒAƒgƒ€‚Æ“¯‚¶S—D‚µ‚¢‰ÈŠw‚ÌŽq‚¾‚ëB<br>
-    ²’mŽq@‚¤‚ñB‚Ë‚ÁATŽi‚É‚¢‚¿‚á‚ñB‚T‚O”NŒãA–{“–‚ÉƒAƒgƒ€‚Á‚Ä¶‚Ü‚ê‚é‚ÌH<br>
-    TŽi@@(‚µ‚Î‚ç‚­l‚¦‚Ä)¶‚Ü‚ê‚é‚æB<br>
-    ç‰ÄE‘åì@@I<br>
-    TŽi@@‚¾‚Á‚Ä‰´‚ª‘n‚é‚©‚çB‰´‚ªƒAƒgƒ€A‘n‚é‚©‚çB<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Ò‚Ä‚ï¿½I<br>
+    ï¿½ï¿½ì¥ï¿½ï¿½mï¿½qï¿½@ï¿½c<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Tï¿½bï¿½ï¿½ï¿½ï¿½ï¿½A<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½c<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ê‚·ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½H<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½Ì‘ï¿½{ï¿½ÉƒEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ê‚·ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Ù‚ï¿½ÆH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@(ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½)<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½Tï¿½iï¿½Aï¿½ï¿½{ï¿½nï¿½è’¼ï¿½ï¿½ï¿½ÌH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚ª“oï¿½ê‚·ï¿½ï¿½Ì‚ÍAï¿½ï¿½ï¿½ê‚©ï¿½ç‘ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ë‚³ï¿½B<br>
+    ï¿½ï¿½Ä@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄA<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½Xï¿½gï¿½Vï¿½[ï¿½ï¿½ï¿½Bï¿½Tï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½è‚¾ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½í‘ˆï¿½ÌŽï¿½ï¿½Aï¿½gï¿½ï¿½ï¿½ÆƒEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚ª‚ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Qï¿½lï¿½Æ‚ï¿½ï¿½Aï¿½ï¿½ï¿½Ésï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìlï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ÌH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄƒEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍƒAï¿½gï¿½ï¿½ï¿½Ì–ï¿½ï¿½Aï¿½Aï¿½gï¿½ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½Sï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½ÈŠwï¿½ÌŽqï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½mï¿½qï¿½@ï¿½ï¿½ï¿½ï¿½Bï¿½Ë‚ï¿½ï¿½Aï¿½Tï¿½iï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Tï¿½Oï¿½Nï¿½ï¿½Aï¿½{ï¿½ï¿½ï¿½ÉƒAï¿½gï¿½ï¿½ï¿½ï¿½ï¿½Äï¿½ï¿½Ü‚ï¿½ï¿½ÌH<br>
+    ï¿½Tï¿½iï¿½@ï¿½@(ï¿½ï¿½ï¿½Î‚ç‚­ï¿½lï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ÄEï¿½ï¿½ï¿½@ï¿½@ï¿½I<br>
+    ï¿½Tï¿½iï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ä‰ï¿½ï¿½ï¿½ï¿½nï¿½é‚©ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½gï¿½ï¿½ï¿½Aï¿½nï¿½é‚©ï¿½ï¿½B<br>
     </font></font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000"><br>
-    </font><font color="#000000" size="+4" style="font-size : 310%;"><b><a name="indroduction" id="indroduction">‚RE•”Šˆ“®Ð‰îEV“ü¶Š©—U‚Ì‚½‚ß‚ÌŒ€‚Ã‚­‚è<br>
+    </font><font color="#000000" size="+4" style="font-size : 310%;"><b><a name="indroduction" id="indroduction">ï¿½Rï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð‰ï¿½Eï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Uï¿½Ì‚ï¿½ï¿½ß‚ÌŒï¿½ï¿½Ã‚ï¿½ï¿½ï¿½<br>
     </a></b></font><font color="#000000"><font color="#000000"><br>
     </font></font>
-    <p class="border1"><a name="daihon1" id="daihon1"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>‘ä–{‚P@Žg—p‚·‚éƒeƒLƒXƒgu‹°•|‚ÌƒoƒŒƒ“ƒ^ƒCƒ“v<br>
+    <p class="border1"><a name="daihon1" id="daihon1"><font color="#000000"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½ï¿½{ï¿½Pï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½ï¿½ï¿½|ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½v<br>
     </b></font></font></a></p>
     <p class="border6"><font color="#000000"><font color="#000000">
-    ¡‰Û‘è<br>
-    •”Šˆ“®Ð‰î‚âV“ü¶Š½Œ}ã‰‰‚ÅuÎ‚¢v‚ð‚Æ‚é‚½‚ß‚Éã‰‰‚·‚éB<br>
+    ï¿½ï¿½ï¿½Û‘ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð‰ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ã‰‰ï¿½Åuï¿½Î‚ï¿½ï¿½vï¿½ï¿½ï¿½Æ‚é‚½ï¿½ß‚Éã‰‰ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ¡“oêl•¨<br>
-    •”’·(‘¼‚Ì–ð‚ðŒ“‚Ë‚Ä‚æ‚¢A—á‚¦‚ÎƒiƒŒ[ƒVƒ‡ƒ“)<br>
-    ƒiƒŒ[ƒVƒ‡ƒ“<br>
-    ¬ŽR“c‰ÔŽq<br>
-    ‰Z¶—³–ç<br>
-    ^sŽ›–€–ë<br>
-    ‰‰Œ€•”ˆõ<br>
+    ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½Ì–ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë‚Ä‚æ‚¢ï¿½Aï¿½á‚¦ï¿½Îƒiï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½)<br>
+    ï¿½iï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Rï¿½cï¿½ÔŽq<br>
+    ï¿½Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½^ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
     </font></font></p>
     <p class="border6" align="left"><font color="#000000"><font color="#000000">
-    ¡ƒeƒLƒXƒg<br>
+    ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<br>
     <br>
-    ‰‰Œ€•”‘Sˆõ@‚±‚ñ‚É‚¿‚ÍB<br>
-    •”’·@‚±‚ê‚©‚çAŽ„‚½‚¿‰‰Œ€•”‚ªŒ€‚Ì—\•Ò‚ðÐ‰î‚µ‚Ü‚·BŒ€‚Ìƒ^ƒCƒgƒ‹‚ÍB<br>
-    ‰‰Œ€•”‘Sˆõ@w‹°•|‚ÌƒoƒŒƒ“ƒ^ƒCƒ“x<br>
-    •”’·@‚»‚ê‚Å‚ÍA‰¹ŠyƒXƒ^[ƒgB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ÍB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ê‚©ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì—\ï¿½ï¿½ï¿½Ò‚ï¿½ï¿½Ð‰î‚µï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½Ìƒ^ï¿½Cï¿½gï¿½ï¿½ï¿½ÍB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½@ï¿½wï¿½ï¿½ï¿½|ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½x<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Å‚ÍAï¿½ï¿½ï¿½yï¿½Xï¿½^ï¿½[ï¿½gï¿½B<br>
     <br>
-    @@@”ß‚µ‚°‚È‰¹Šy‚ª—¬‚ê‚éiCDƒ‰ƒWƒJƒZ‚É‚Í“d’r‚ð“ü‚ê‚Ä‚¨‚­j<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ß‚ï¿½ï¿½ï¿½ï¿½È‰ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iCDï¿½ï¿½ï¿½Wï¿½Jï¿½Zï¿½É‚Í“dï¿½rï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½j<br>
     <br>
-    ‰‰Œ€•”‘Sˆõ@w‹°•|‚ÌƒoƒŒƒ“ƒ^ƒCƒ“xB<br>
-    ƒiƒŒ[ƒVƒ‡ƒ“@‚±‚ê‚Í‘¾“Œ’†ŠwZ‚ð•‘‘ä‚É‚µ‚½Aˆ¤‚Ìƒhƒ‰ƒ}‚Å‚ ‚éB‚QŒŽ‚P‚S“ú‚ÌƒoƒŒƒ“ƒ^ƒCƒ“ƒf[‚É¬ŽR“c‰ÔŽq‚Í‘åD‚«‚È‰Z¶—³–ç‚ÉŽèì‚è‚Ìƒ`ƒ‡ƒR‚ðƒvƒŒƒ[ƒ“ƒg‚µ‚½B<br>
-    ‰ÔŽq@—³–çŒNB‚±‚êŽó‚¯Žæ‚Á‚ÄB<br>
-    —³–ç@ƒoƒŒƒ“ƒ^ƒCƒ“ƒf[‚Ìƒ`ƒ‡ƒRƒŒ[ƒg‚ð–l‚ÉB‚ ‚è‚ª‚Æ‚¤A‰ÔŽqB<br>
-    ƒiƒŒ[ƒVƒ‡ƒ“@ð–éA‰ÔŽq‚ªQ‚È‚¢‚Åì‚Á‚½ŠÃ‚¢AŠÃ‚¢ƒ`ƒ‡ƒRƒŒ[ƒgB‚»‚ÌŠÃ‚¢ƒ`ƒ‡ƒRƒŒ[ƒg‚ª—³–ç‚Ìã‚É‚Æ‚¯ž‚ñ‚Å‚¢‚Á‚½B‚»‚Ì‚Æ‚«I<br>
-    —³–ç@(™ï‚«º)<br>
-    ‰‰Œ€•”‘Sˆõ@w‹°•|‚ÌƒoƒŒƒ“ƒ^ƒCƒ“x<br>
-    ‰ÔŽq@—³–çŒNA‚Ç‚¤‚µ‚½‚ÌB<br>
-    —³–ç@‚ÍA•@ŒŒ‚ªc<br>
-    ƒiƒŒ[ƒVƒ‡ƒ“@‰ÔŽq‚ªƒ`ƒ‡ƒRƒŒ[ƒg‚ðì‚Á‚½‚Ì‚Í‚P‚R“ú‚Ì‹à—j“úB‚»‚¤‰ÔŽq‚Ìƒ`ƒ‡ƒRƒŒ[ƒg‚É‚Í—³–ç‚ðˆ¤‚·‚é‚à‚¤‚Pl‚Ì­—A^sŽ›–€–ë‚ÌŽô‚¢‚ª‚©‚¯‚ç‚ê‚Ä‚¢‚½‚Ì‚¾B<br>
-    –€–ë@(Î‚¢º)—³–çŒN‚ÍŽ„‚Ì‚à‚ÌB“n‚³‚È‚¢A‰ÔŽq‚É‚È‚ñ‚©â‘Î“n‚³‚È‚¢‚íB<br>
-    —³–ç@(™ï‚«º)‚Ç‚¤‚µ‚½‚ñ‚¾A•@ŒŒ‚ªA•@ŒŒ‚ªŽ~‚Ü‚ç‚È‚¢B<br>
-    ‰ÔŽq@—³–çŒNA‚µ‚Á‚©‚è‚µ‚Á‚©‚è‚µ‚ÄB<br>
-    ‰‰Œ€•”‘Sˆõ@w‹°•|‚ÌƒoƒŒƒ“ƒ^ƒCƒ“xB<br>
-    ƒiƒŒ[ƒVƒ‡ƒ“@–€–ë‚ÌŽô‚¢‚Í‰ð‚¯‚é‚Ì‚©A—³–ç‚Ì•@ŒŒ‚ÍŽ~‚Ü‚é‚Ì‚©B‚»‚µ‚ÄA‰ÔŽq‚Æ—³–ç‚Ìˆ¤‚Ìs•û‚ÍcB<br>
-    ‰‰Œ€•”‘Sˆõ@w‹°•|‚ÌƒoƒŒƒ“ƒ^ƒCƒ“x<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½@ï¿½wï¿½ï¿½ï¿½|ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½xï¿½B<br>
+    ï¿½iï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½Í‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Zï¿½ð•‘‘ï¿½É‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ìƒhï¿½ï¿½ï¿½}ï¿½Å‚ï¿½ï¿½ï¿½Bï¿½Qï¿½ï¿½ï¿½Pï¿½Sï¿½ï¿½ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½fï¿½[ï¿½Éï¿½ï¿½Rï¿½cï¿½ÔŽqï¿½Í‘ï¿½Dï¿½ï¿½ï¿½È‰Zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÉŽï¿½ï¿½ï¿½Ìƒ`ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½vï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ÔŽqï¿½@ï¿½ï¿½ï¿½ï¿½Nï¿½Bï¿½ï¿½ï¿½ï¿½ó‚¯Žï¿½ï¿½ï¿½ÄB<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½fï¿½[ï¿½Ìƒ`ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½[ï¿½gï¿½ï¿½lï¿½ÉBï¿½ï¿½ï¿½è‚ªï¿½Æ‚ï¿½ï¿½Aï¿½ÔŽqï¿½B<br>
+    ï¿½iï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Aï¿½ÔŽqï¿½ï¿½ï¿½Qï¿½È‚ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½ï¿½Ã‚ï¿½ï¿½Aï¿½Ã‚ï¿½ï¿½`ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½[ï¿½gï¿½Bï¿½ï¿½ï¿½ÌŠÃ‚ï¿½ï¿½`ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½[ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½É‚Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ì‚Æ‚ï¿½ï¿½I<br>
+    ï¿½ï¿½ï¿½ï¿½@(ï¿½ï‚«ï¿½ï¿½)<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½@ï¿½wï¿½ï¿½ï¿½|ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½x<br>
+    ï¿½ÔŽqï¿½@ï¿½ï¿½ï¿½ï¿½Nï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌB<br>
+    ï¿½ï¿½ï¿½ï¿½@ï¿½ÍAï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½c<br>
+    ï¿½iï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ÔŽqï¿½ï¿½ï¿½`ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½[ï¿½gï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Í‚Pï¿½Rï¿½ï¿½ï¿½Ì‹ï¿½ï¿½jï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÔŽqï¿½Ìƒ`ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½[ï¿½gï¿½É‚Í—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Pï¿½lï¿½Ìï¿½ï¿½ï¿½ï¿½Aï¿½^ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŽô‚¢‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@(ï¿½Î‚ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½Nï¿½ÍŽï¿½ï¿½Ì‚ï¿½ï¿½ÌBï¿½nï¿½ï¿½ï¿½È‚ï¿½ï¿½Aï¿½ÔŽqï¿½É‚È‚ñ‚©ï¿½Î“nï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½@(ï¿½ï‚«ï¿½ï¿½)ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾Aï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½~ï¿½Ü‚ï¿½È‚ï¿½ï¿½B<br>
+    ï¿½ÔŽqï¿½@ï¿½ï¿½ï¿½ï¿½Nï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½ÄB<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½@ï¿½wï¿½ï¿½ï¿½|ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½xï¿½B<br>
+    ï¿½iï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ÌŽô‚¢‚Í‰ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Ì•@ï¿½ï¿½ï¿½ÍŽ~ï¿½Ü‚ï¿½Ì‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ÔŽqï¿½Æ—ï¿½ï¿½ï¿½Ìˆï¿½ï¿½Ìsï¿½ï¿½ï¿½Ícï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½@ï¿½wï¿½ï¿½ï¿½|ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½x<br>
     <br>
-    •”’·@V“ü¶‚Ì‚Ý‚È‚³‚ñB‚±‚Ìw‹°•|‚ÌƒoƒŒƒ“ƒ^ƒCƒ“x‚ðˆê‚É‘n‚è‚Ü‚¹‚ñ‚©BŠˆ“®êŠ‚ÍƒI[ƒvƒ“ƒXƒy[ƒXB‚Ý‚È‚³‚ñA<br>
-    ‰‰Œ€•”‘Sˆõ@¥”ñŒ©‚É‚«‚Ä‚­‚¾‚³‚¢B<br>
-    •”’·@@’jŽq•”ˆõ‚à‘åŠ½Œ}‚Å‚·B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Ý‚È‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½Ìwï¿½ï¿½ï¿½|ï¿½Ìƒoï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½Cï¿½ï¿½ï¿½xï¿½ï¿½ï¿½êï¿½É‘nï¿½ï¿½Ü‚ï¿½ï¿½ñ‚©Bï¿½ï¿½ï¿½ï¿½ï¿½êŠï¿½ÍƒIï¿½[ï¿½vï¿½ï¿½ï¿½Xï¿½yï¿½[ï¿½Xï¿½Bï¿½Ý‚È‚ï¿½ï¿½ï¿½A<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ñŒ©‚É‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½@ï¿½jï¿½qï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½åŠ½ï¿½}ï¿½Å‚ï¿½ï¿½B<br>
     </font></font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <font color="#000000"><br>
     </font>
-    <p class="border1"><a name="daihon2" id="daihon2"><font color="#000000" size="+2" style="font-size : 150%;"><b>‘ä–{‚Q@Žg—p‚·‚éƒeƒLƒXƒgu‰ö’k‚Ì‘½‚¢—¿—“Xv</b></font></a></p>
-    <p class="border6"><font color="#000000"><b>¡‰Û‘è</b>@<br>
-    •”Šˆ“®Ð‰î‚âV“ü¶Š½Œ}ã‰‰‚ÅuÎ‚¢v‚ð‚Æ‚é‚½‚ß‚Éã‰‰‚·‚éB<br>
-    <b>¡“oêl•¨<br>
-    </b>Žx”zl<br>
-    ƒVƒFƒt<br>
-    ƒX[EƒVƒFƒt<br>
-    ƒ\ƒ€ƒŠƒG<br>
-    z–Kæ¶<br>
-    ã“cæ¶<br>
-    ŽR‰W(‚Rl)<br>
-    ’¤@<br>
+    <p class="border1"><a name="daihon2" id="daihon2"><font color="#000000" size="+2" style="font-size : 150%;"><b>ï¿½ï¿½{ï¿½Qï¿½@ï¿½gï¿½pï¿½ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½gï¿½uï¿½ï¿½ï¿½kï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½v</b></font></a></p>
+    <p class="border6"><font color="#000000"><b>ï¿½ï¿½ï¿½Û‘ï¿½</b>ï¿½@<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð‰ï¿½ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ã‰‰ï¿½Åuï¿½Î‚ï¿½ï¿½vï¿½ï¿½ï¿½Æ‚é‚½ï¿½ß‚Éã‰‰ï¿½ï¿½ï¿½ï¿½B<br>
+    <b>ï¿½ï¿½ï¿½oï¿½ï¿½lï¿½ï¿½<br>
+    </b>ï¿½xï¿½zï¿½l<br>
+    ï¿½Vï¿½Fï¿½t<br>
+    ï¿½Xï¿½[ï¿½Eï¿½Vï¿½Fï¿½t<br>
+    ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½G<br>
+    ï¿½zï¿½Kï¿½æ¶<br>
+    ï¿½ï¿½cï¿½æ¶<br>
+    ï¿½Rï¿½W(ï¿½Rï¿½l)<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½@<br>
     </font></p>
-  <p class="border6"><font color="#000000">¡ƒeƒLƒXƒg<img src="daihon/img053-kaidan.jpg" width="344" height="280" border="0" align="right"><br>
-    Žx”zl@w‰ö’k‚Ì‘½‚¢—¿—“Xx‚É‚æ‚¤‚±‚»B<br>
+  <p class="border6"><font color="#000000">ï¿½ï¿½ï¿½eï¿½Lï¿½Xï¿½g<img src="daihon/img053-kaidan.jpg" width="344" height="280" border="0" align="right"><br>
+    ï¿½xï¿½zï¿½lï¿½@ï¿½wï¿½ï¿½ï¿½kï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½xï¿½É‚æ‚¤ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@Žx”zl‚ªŽè‚ð’@‚­B<br>
-    @@@ŽOl‚Ì—¿—l‚ªŒ»‚ê‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½xï¿½zï¿½lï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Oï¿½lï¿½Ì—ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    Žx”zl@‚¨‹q—l‚É‰ö’k‚Æ—¿—‚ð‚¨Šè‚¢‚¢‚½‚µ‚Ü‚·B<br>
-    ƒVƒFƒt’B@(ˆê—ç‚ð‚·‚é) <br>
-    ƒVƒFƒt@‚»‚ê‚Å‚Í‚Ü‚¢‚è‚Ü‚µ‚å‚¤B<br>
-    ƒX[EƒVƒFƒtw‰ö’k‚Ì‘½‚¢—¿—“Xx<br>
-    ƒ\ƒ€ƒŠƒG@‘æˆê˜b<br>
-    ƒVƒFƒt’BwŽR‰W‚Ì”÷Î‚Ýx<br>
-    ƒVƒFƒt@ƒI[ƒhƒuƒ‹‚Æˆê‚É‚¨Šy‚µ‚Ý‚­‚¾‚³‚¢B<br>
+    ï¿½xï¿½zï¿½lï¿½@ï¿½ï¿½ï¿½qï¿½lï¿½É‰ï¿½ï¿½kï¿½Æ—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½Vï¿½Fï¿½tï¿½Bï¿½@(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½) <br>
+    ï¿½Vï¿½Fï¿½tï¿½@ï¿½ï¿½ï¿½ï¿½Å‚Í‚Ü‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½B<br>
+    ï¿½Xï¿½[ï¿½Eï¿½Vï¿½Fï¿½tï¿½wï¿½ï¿½ï¿½kï¿½Ì‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½x<br>
+    ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½Gï¿½@ï¿½ï¿½ï¿½b<br>
+    ï¿½Vï¿½Fï¿½tï¿½Bï¿½wï¿½Rï¿½Wï¿½Ì”ï¿½ï¿½Î‚Ýx<br>
+    ï¿½Vï¿½Fï¿½tï¿½@ï¿½Iï¿½[ï¿½hï¿½uï¿½ï¿½ï¿½Æˆêï¿½É‚ï¿½ï¿½yï¿½ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@Žx”zl‚ÆƒVƒFƒt’B‚ª‘Þê‚·‚éB<br>
-    @@@•‘‘ä‚Í”üpŽºB”üpŽº‚Ì’†‚É‚Í‚½‚­‚³‚ñ‚Ì’¤‚ªü‚ç‚ê‚Ä‚ ‚éB<br>
-    @@@‚»‚ê‚Í‰‰Œ€•”ˆõ’B‚ª’¤ì•i‚Æ‚µ‚ÄÃŽ~‚·‚é‚±‚Æ‚É‚æ‚Á‚Ä•\‚·B<br>
-    @@@’¤ì•i‚ÍˆÖŽq‚Ìã‚Éæ‚Á‚Ä‚¢‚Ä‚à¤À‚Á‚Ä‚¢‚Ä‚à‚æ‚¢B<br>
-    @@@•‘‘ä’†‰›‚É‚ÍuŽR‰W‚Ì”÷Î‚Ýv‚Æ‘è‚ª‚Â‚¯‚ç‚ê‚½‚Rl‚ÌŽR‰W‚Ì’¤‚ªü‚ç‚ê‚Ä‚¢‚é<br>
-    @@@(ŽR‰W‚ÌŠiD‚ð‚µ‚½l‚ª’¤‚Æ‚µ‚Ä—§‚Á‚Ä‚¢‚é)B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½xï¿½zï¿½lï¿½ÆƒVï¿½Fï¿½tï¿½Bï¿½ï¿½ï¿½Þê‚·ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½Í”ï¿½ï¿½pï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½pï¿½ï¿½ï¿½Ì’ï¿½ï¿½É‚Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½Í‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½Æ‚ï¿½ï¿½ÄÃŽ~ï¿½ï¿½ï¿½é‚±ï¿½Æ‚É‚ï¿½ï¿½ï¿½Ä•\ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½ÍˆÖŽqï¿½Ìï¿½Éï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ä‚à¤ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ä‚ï¿½ï¿½æ‚¢ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ä’†ï¿½ï¿½ï¿½É‚Íuï¿½Rï¿½Wï¿½Ì”ï¿½ï¿½Î‚Ývï¿½Æ‘è‚ªï¿½Â‚ï¿½ï¿½ï¿½ê‚½ï¿½Rï¿½lï¿½ÌŽRï¿½Wï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½<br>
+    ï¿½@ï¿½@ï¿½@(ï¿½Rï¿½Wï¿½ÌŠiï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ä—ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½)ï¿½B<br>
     <br>
-    z–K@ã“cæ¶B–é‚Ì”üpŽº‚Á‚Ä•s‹C–¡‚È‚Æ‚±‚ë‚Å‚·‚ËB<br>
-    ã“c@z–Kæ¶A‘åä•vBŽ„‚ª‚Â‚¢‚Ä‚¢‚Ü‚·B<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½cï¿½æ¶ï¿½Bï¿½ï¿½Ì”ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½Ä•sï¿½Cï¿½ï¿½ï¿½È‚Æ‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ËB<br>
+    ï¿½ï¿½cï¿½@ï¿½zï¿½Kï¿½æ¶ï¿½Aï¿½ï¿½ï¿½vï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     <br>
-    @@@“Ë‘R‚Ì—‹B<br>
-    @@@—‹‚É’¤‚ªÂ”’‚­‹P‚­‚Æ“¯Žž‚É“d‹C‚ªÁ‚¦‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Ë‘Rï¿½Ì—ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½É’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â”ï¿½ï¿½ï¿½ï¿½Pï¿½ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½É“dï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ã“c@’â“d‚©B<br>
-    z–K@ã“cæ¶AŽ„A‹°‚­‚Ä•à‚¯‚Ü‚¹‚ñB<br>
-    ã“c@‚³‚ ‚Ç‚¤‚¼AŽ„‚ª‚¨‚Ô‚Á‚Ä‚¢‚«‚Ü‚µ‚å‚¤B<br>
-    z–K@’p‚¸‚©‚µ‚¢‚íB<br>
-    ã“c@’N‚àŒ©‚Ä‚Ü‚¹‚ñ‚æB<br>
-    z–K@’¤‚ªŒ©‚Ä‚¢‚é‚æ‚¤‚È‹C‚ª‚µ‚Ü‚·B<br>
-    ã“c@‚»‚ñ‚È‚Î‚©‚È‚±‚Æ‚ ‚é‚í‚¯‚È‚¢‚¶‚á‚È‚¢‚Å‚·‚©B‚³‚ A‚Ç‚¤‚¼AŽ„‚Ì”w’†‚ÉB<br>
-    z–K@‚Ü‚ ’p‚¸‚©‚µ‚¢B‚Ç‚¤‚µ‚Ü‚µ‚å‚¤B<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½dï¿½ï¿½ï¿½B<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½cï¿½æ¶ï¿½Aï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä•ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½B<br>
+    ï¿½zï¿½Kï¿½@ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½cï¿½@ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½æ‚¤ï¿½È‹Cï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½È‚Î‚ï¿½ï¿½È‚ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½í‚¯ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì”wï¿½ï¿½ï¿½ÉB<br>
+    ï¿½zï¿½Kï¿½@ï¿½Ü‚ï¿½ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½Ç‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½å‚¤ï¿½B<br>
     <br>
-    @@@‚»‚¤Œ¾‚Á‚Äz–Kæ¶‚ªŒã‚ë‚ðŒü‚¢‚½uŠÔA—‹B<br>
-    @@@‚»‚Ì—‹‚É’¤‚½‚¿‚ª“®‚«o‚·B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äzï¿½Kï¿½æ¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ÔAï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Ì—ï¿½ï¿½É’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½B<br>
     <br>
-    z–K@(”ß–ÂB‚»‚Ì”ß–Â‚Í—«“I‚Å‚Í‚È‚­A–ì‘¾‚¢’j«“I‚È‚à‚Ì)<br>
+    ï¿½zï¿½Kï¿½@(ï¿½ß–ÂBï¿½ï¿½ï¿½Ì”ß–Â‚Íï¿½ï¿½ï¿½ï¿½Iï¿½Å‚Í‚È‚ï¿½ï¿½Aï¿½ì‘¾ï¿½ï¿½ï¿½jï¿½ï¿½ï¿½Iï¿½È‚ï¿½ï¿½ï¿½)<br>
     <br>
-    @@@‚»‚Ì”ß–Â‚É‚Ñ‚Á‚­‚è‚µ‚ÄAã“c‚Í“|‚ê‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½Ì”ß–Â‚É‚Ñ‚ï¿½ï¿½ï¿½ï¿½è‚µï¿½ÄAï¿½ï¿½cï¿½Í“|ï¿½ï¿½ï¿½B<br>
     <br>
-    ã“c@z–Kæ¶B‚¢‚Á‚½‚¢‚Ç‚¤‚µ‚½‚ñ‚Å‚·‚©B<br>
-    z–K@’¤‚ª“®‚«‚Ü‚µ‚½B<br>
-    ã“c@‚»‚ñ‚È‚Î‚©‚ÈBˆîÈ‚ªì‚èo‚µ‚½Œ¶‚Å‚µ‚å‚¤B<br>
-    z–K@‚Å‚àŠm‚©‚ÉBŒ©‚Ä‚­‚¾‚³‚¢A‚±‚Ì’¤¶‚«‚Ä‚¢‚é‚æ‚¤‚¶‚á‚È‚¢‚Å‚·‚©B<br>
+    ï¿½ï¿½cï¿½@ï¿½zï¿½Kï¿½æ¶ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½È‚Î‚ï¿½ï¿½ÈBï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½å‚¤ï¿½B<br>
+    ï¿½zï¿½Kï¿½@ï¿½Å‚ï¿½ï¿½mï¿½ï¿½ï¿½ÉBï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½æ‚¤ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@z–Kæ¶‚Í’†‰›‚É‚ ‚éŽR‰W‚Ì’¤‚ðG‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½zï¿½Kï¿½æ¶ï¿½Í’ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½Rï¿½Wï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½Gï¿½ï¿½B<br>
     <br>
-    ã“c@‚»‚ê‚ÍwŽR‰W‚Ì”÷Î‚Ýx‚Æ‚¢‚¤’¤‚Å‚·B<br>
-    z–K@wŽR‰W‚Ì”÷Î‚ÝxH•s‹C–¡‚È‘è‚Å‚·‚ËB<br>
-    ã“c@ìŽÒ‚Í‚Í‚¶‚ßwƒ}ƒhƒ“ƒi‚Ì”÷Î‚Ýx‚Æ‚¢‚¤ì•i‚ð‘n‚Á‚Ä‚¢‚½‚Ì‚Å‚·‚ªA‚Å‚«‚ ‚ª‚Á‚½ì•i‚Í‚Ç‚¤Œ©‚Ä‚àƒ}ƒhƒ“ƒi‚É‚ÍŒ©‚¦‚¸AŒã‚ÅŽR‰W‚Ì”÷Î‚Ý‚Æ–¼‘O‚ð•Ï‚¦‚ç‚ê‚½‚æ‚¤‚Å‚·B<br>
-    º@@¢‚Ó‚Ó‚Ó‚Ó‚Ó£<br>
-    z–K@ã“cæ¶B•Ï‚Èº‚ÅÎ‚í‚È‚¢‚Å‚­‚¾‚³‚¢B<br>
-    ã“c@Ž„‚ÍÎ‚Á‚Ä‚Ü‚¹‚ñBz–Kæ¶A‚ ‚È‚½‚±‚»Î‚¢‚Ü‚¹‚ñ‚Å‚µ‚½‚©B<br>
-    z–K@Ž„‚ªÎ‚¤‚Í‚¸‚È‚¢‚¶‚á‚È‚¢‚Å‚·‚©B<br>
-    º@@¢‚Ó‚Ó‚Ó‚Ó‚Ó£<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½Íwï¿½Rï¿½Wï¿½Ì”ï¿½ï¿½Î‚Ýxï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½zï¿½Kï¿½@ï¿½wï¿½Rï¿½Wï¿½Ì”ï¿½ï¿½Î‚Ýxï¿½Hï¿½sï¿½Cï¿½ï¿½ï¿½È‘ï¿½Å‚ï¿½ï¿½ËB<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½Ò‚Í‚Í‚ï¿½ï¿½ßwï¿½}ï¿½hï¿½ï¿½ï¿½iï¿½Ì”ï¿½ï¿½Î‚Ýxï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½ï¿½nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½ï¿½ï¿½Aï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½Í‚Ç‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½}ï¿½hï¿½ï¿½ï¿½iï¿½É‚ÍŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ÅŽRï¿½Wï¿½Ì”ï¿½ï¿½Î‚Ý‚Æ–ï¿½ï¿½Oï¿½ï¿½Ï‚ï¿½ï¿½ï¿½ê‚½ï¿½æ‚¤ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½Ó‚Ó‚Ó‚Ó‚Ó£<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½cï¿½æ¶ï¿½Bï¿½Ï‚Èï¿½ï¿½ÅÎ‚ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ÍÎ‚ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½ï¿½Bï¿½zï¿½Kï¿½æ¶ï¿½Aï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½Í‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½@ï¿½@ï¿½ï¿½Ó‚Ó‚Ó‚Ó‚Ó£<br>
     <br>
-    @@@—‹B<br>
-    @@@’¤‚ª“®‚«o‚·B<br>
-    @@@<br>
-    ã“c@‚Î‚©‚ÈB<br>
-    z–K@ã“cæ¶AŽR‰W‚ªAŽR‰W‚ªÎ‚Á‚Ä‚Ü‚·B<br>
-    ŽR‰W’B@“ê‚ª‚¢‚¢‚©‚¢A‚»‚ê‚Æ‚à‰ÖŽq‚ª‚¢‚¢‚©‚¢B<br>
-    ã“c@‰ö’k‚Å‚æ‚­‚ ‚é‚â‚Â‚¾BuÔ‚¢ƒ}ƒ“ƒg‚ª‚Ù‚µ‚¢‚©AÂ‚¢ƒ}ƒ“ƒg‚ª‚Ù‚µ‚¢‚©vBÔ‚¾‚ÆƒiƒCƒt‚ÅŽh‚³‚êŒŒ‚¾‚ç‚¯‚É‚È‚Á‚ÄŽ€‚ÊBÂ‚¾‚Æ‘Ì’†‚ÌŒŒ‚ð‹z‚¢Žæ‚ç‚ê^‚ÁÂ‚É‚È‚Á‚ÄŽ€‚ÊB<br>
-    z–K@‚Ç‚Á‚¿‚ð“š‚¦‚Ä‚àŽ€‚ñ‚Å‚µ‚Ü‚¤‚È‚ñ‚Ä¼‹\‚¾‚íB<br>
-    ŽR‰W’B@“ê‚ª‚¢‚¢‚©‚¢A‚»‚ê‚Æ‚à‰ÖŽq‚ª‚¢‚¢‚©‚¢B<br>
-    ã“c@“ê‚¾‚Æ“ê‚ÅŽñ‚ði‚ß‚ç‚ê‚éB‰ÖŽq‚¾‚Æc‚¢‚Á‚½‚¢‰½‚ð‚³‚ê‚é‚ñ‚¾A‘z‘œ‚à‚Â‚©‚È‚¢B‚¢‚Á‚½‚¢‚Ç‚Á‚¿‚ð‘I‚ñ‚¾‚ç‚¢‚¢‚ñ‚¾B<br>
-    z–K@“êI<br>
-    ã“c@z–Kæ¶B‰½‚Å“ê‚È‚ñ‚ÄŒ¾‚Á‚½‚ñ‚Å‚·B<br>
-    z–K@Ž„A‰ÖŽq‚ªŒ™‚¢‚È‚ñ‚Å‚·B<br>
-    ã“c@‚»‚¤‚¢‚¤–â‘è‚¶‚á‚È‚¢‚Å‚µ‚å‚¤B<br>
-    ŽR‰W’B@‚»‚¤‚©‚¢B“ê‚ª‚¢‚¢‚Ì‚©‚¢B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@<br>
+    ï¿½ï¿½cï¿½@ï¿½Î‚ï¿½ï¿½ÈB<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½cï¿½æ¶ï¿½Aï¿½Rï¿½Wï¿½ï¿½ï¿½Aï¿½Rï¿½Wï¿½ï¿½ï¿½Î‚ï¿½ï¿½Ä‚Ü‚ï¿½ï¿½B<br>
+    ï¿½Rï¿½Wï¿½Bï¿½@ï¿½ê‚ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÖŽqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½kï¿½Å‚æ‚­ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Bï¿½uï¿½Ô‚ï¿½ï¿½}ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ù‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Â‚ï¿½ï¿½}ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½Ù‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Bï¿½Ô‚ï¿½ï¿½Æƒiï¿½Cï¿½tï¿½ÅŽhï¿½ï¿½ï¿½êŒŒï¿½ï¿½ï¿½ç‚¯ï¿½É‚È‚ï¿½ï¿½ÄŽï¿½ï¿½ÊBï¿½Â‚ï¿½ï¿½Æ‘Ì’ï¿½ï¿½ÌŒï¿½ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½Â‚É‚È‚ï¿½ï¿½ÄŽï¿½ï¿½ÊB<br>
+    ï¿½zï¿½Kï¿½@ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ð“š‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½È‚ï¿½Äï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½Rï¿½Wï¿½Bï¿½@ï¿½ê‚ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ÖŽqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½cï¿½@ï¿½ê‚¾ï¿½Æ“ï¿½ÅŽï¿½ï¿½ï¿½iï¿½ß‚ï¿½ï¿½ï¿½Bï¿½ÖŽqï¿½ï¿½ï¿½Æcï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ñ‚¾Aï¿½zï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½È‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ñ‚¾‚ç‚¢ï¿½ï¿½ï¿½ñ‚¾B<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½I<br>
+    ï¿½ï¿½cï¿½@ï¿½zï¿½Kï¿½æ¶ï¿½Bï¿½ï¿½ï¿½Å“ï¿½È‚ï¿½ÄŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½zï¿½Kï¿½@ï¿½ï¿½ï¿½Aï¿½ÖŽqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½cï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚¶ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½å‚¤ï¿½B<br>
+    ï¿½Rï¿½Wï¿½Bï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ê‚ªï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@‚»‚¤‚¢‚Á‚Ä“ê‚ðŽæ‚èo‚·B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä“ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½B<br>
     <br>
-    ŽR‰W’B@‚Ó‚Ó‚Ó‚ÓA‚Ó‚Ó‚Ó‚ÓBŠoŒå‚Í‚¢‚¢‚©‚¢B<br>
+    ï¿½Rï¿½Wï¿½Bï¿½@ï¿½Ó‚Ó‚Ó‚ÓAï¿½Ó‚Ó‚Ó‚ÓBï¿½oï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    @@@ŽR‰W’B‚Í“Ë‘R“ê’µ‚Ñ‚ðŽn‚ß‚éB<br>
-    @@@ˆîŒõA‚»‚µ‚Ä—‹–Â‚ª‹¿‚«“n‚éB<br>
-    @@@ƒVƒFƒt’B‚ªŒ»‚ê‚éB<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Rï¿½Wï¿½Bï¿½Í“Ë‘Rï¿½ê’µï¿½Ñ‚ï¿½ï¿½nï¿½ß‚ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ä—ï¿½ï¿½Â‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½B<br>
+    ï¿½@ï¿½@ï¿½@ï¿½Vï¿½Fï¿½tï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     <br>
-    ƒ\ƒ€ƒŠƒG@”üpŽº‚ÌˆÃˆÅ‚Ì’†A<br>
-    ƒX[EƒVƒFƒt@‚¢‚Â‚Ü‚Å‚à‚¢‚Â‚Ü‚Å‚à<br>
-    ƒVƒFƒt@@“ê’µ‚Ñ‚Ì‰¹‚ª‹¿‚­‚Ì‚Å‚ ‚Á‚½B<br>
+    ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½Gï¿½@ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½ÌˆÃˆÅ‚Ì’ï¿½ï¿½A<br>
+    ï¿½Xï¿½[ï¿½Eï¿½Vï¿½Fï¿½tï¿½@ï¿½ï¿½ï¿½Â‚Ü‚Å‚ï¿½ï¿½ï¿½ï¿½Â‚Ü‚Å‚ï¿½<br>
+    ï¿½Vï¿½Fï¿½tï¿½@ï¿½@ï¿½ê’µï¿½Ñ‚Ì‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<br>
     </font></p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <br>
-<P><font color="#000000"><b><font size="+3"><a name="voice" id="voice">‚WE”­º—ûK</a><br>
+<P><font color="#000000"><b><font size="+3"><a name="voice" id="voice">ï¿½Wï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½K</a><br>
     </font></b></font></P></blockquote>
-    
-    
-    <p class="border8" align="left"><font color="#000000">³’¼‚È‚Æ‚±‚ëA”­º—ûK‚Í‚Ù‚Æ‚ñ‚Çs‚Á‚Ä‚¢‚Ü‚¹‚ñB‘¼‚ÌŠˆ“®‚Åº‚ðo‚·—ûK‚ª‚Å‚«‚é‚©‚ç‚Å‚·B<br>
-    ³’¼Ž„‚É‚Í–ˆ“ú‚Ì”­º—ûK‚Í‹ê’É‚Å‚µ‚©‚ ‚è‚Ü‚¹‚ñB”­º—ûK‚ð‚â‚Á‚½‚©‚ç‚ÆŒ¾‚Á‚ÄŒ€‚ª‚¤‚Ü‚­‚È‚é‚Æ‚Íl‚¦‚ç‚ê‚Ü‚¹‚ñBƒ}ƒ“ƒlƒŠƒYƒ€‚ÉŠ×‚è‚ª‚¿‚Å‚·B<br>
-    Ž„‚½‚¿‚ÍA“ê’µ‚Ñ‚Ì—ûK‚Ì’†‚Å‚ÌƒJƒEƒ“ƒg‚âºŠ|‚¯‚ª”­º—ûK‚Ì‘ã‚í‚è‚É‚È‚Á‚Ä‚¢‚Ü‚·B³’¼A‰‰Œ€‚É‚Í—lX‚È•\Œ»‚ª‘¶Ý‚µ‚Ü‚·B‘å‚«‚¢º‚ª•K—v‚Å‚È‚¢Œ€‚à‘¶Ý‚·‚é‚±‚Æ‚àA”­º‚ÉÁ‹É“I‚É‚È‚é——R‚Ìˆê‚Â‚Å‚·BŽ„‚½‚¿‚ÌŠˆ“®‚Ì’†S‚ÍAŒö–¯ŠÙ‚Ì‚æ‚¤‚È‹·‚¢‹óŠÔ‚Å‚Ì”­•\‚Å‚·‚Ì‚ÅA‘å‚«‚Èº‚Í•K—v‚Å‚Í‚ ‚è‚Ü‚¹‚ñB<br>
-    ‚½‚¾A‚â‚éê‡‚ÍA‚µ‚Á‚©‚è‚µ‚½”­º—ûK‚©‚çŽn‚ß‚é‚±‚Æ‚ÅAˆø‚«‚µ‚Ü‚Á‚½—ûK‚Ì‹ó‹C‚ð‘n‚èo‚·‚±‚Æ‚ª‚Å‚«‚Ü‚·B<br>
-    ‚µ‚©‚µA’P‚É‘Ä«‚Å‚¾‚ç‚¾‚ç‚Æ‚â‚é‚Ì‚È‚ç‚â‚ç‚È‚¢•û‚ª‚æ‚¢‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B</font></P>
+
+
+    <p class="border8" align="left"><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½È‚Æ‚ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Í‚Ù‚Æ‚ï¿½Çsï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ÌŠï¿½ï¿½ï¿½ï¿½Åï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½Å‚ï¿½ï¿½é‚©ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚Í–ï¿½ï¿½ï¿½ï¿½Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Í‹ï¿½É‚Å‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½ÄŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½È‚ï¿½Æ‚Ílï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½Bï¿½}ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½Yï¿½ï¿½ï¿½ÉŠ×‚è‚ªï¿½ï¿½ï¿½Å‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÍAï¿½ê’µï¿½Ñ‚Ì—ï¿½ï¿½Kï¿½Ì’ï¿½ï¿½Å‚ÌƒJï¿½Eï¿½ï¿½ï¿½gï¿½âºï¿½|ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Ì‘ï¿½ï¿½ï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½É‚Í—lï¿½Xï¿½È•\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½å‚«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½vï¿½Å‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý‚ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Éï¿½ï¿½É“Iï¿½É‚È‚é—ï¿½Rï¿½Ìˆï¿½Â‚Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÌŠï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½Sï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½Ù‚Ì‚æ‚¤ï¿½È‹ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚Å‚Ì”ï¿½ï¿½\ï¿½Å‚ï¿½ï¿½Ì‚ÅAï¿½å‚«ï¿½Èï¿½ï¿½Í•Kï¿½vï¿½Å‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ê‡ï¿½ÍAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½è‚µï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½ï¿½nï¿½ß‚é‚±ï¿½Æ‚ÅAï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Ì‹ï¿½Cï¿½ï¿½nï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½Pï¿½É‘Äï¿½ï¿½Å‚ï¿½ï¿½ç‚¾ï¿½ï¿½Æ‚ï¿½ï¿½Ì‚È‚ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚¢ï¿½ÆŽvï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B</font></P>
     <br>
-    <P class="border1"><font color="#000000"><b>”­º—ûK‚P ’·”­º</b></font></P>
-    
-    <P class=border6><font color="#000000">‘§‚ð‹z‚¢ž‚ñ‚Åu‚ [v‚Æ’·‚­A‘§‚ª‘±‚­‚Ü‚Åº‚ðo‚µ‚Ü‚·B<br>
-    –Ú•W‚Í‚R‚O•bº‚ª‘±‚­‚±‚Æ‚Å‚·B</font> </P>
-    
-    <p class="border6" align="left"><font color="#000000">•”’·‚ªu’·”­ºv‚ÆŒ¾‚¢‚Ü‚·A•”ˆõ‚ªu‚Í‚¢v‚Æ•ÔŽ–‚ð‚µA‚»‚ÌŒãu‚ [v‚Æº‚ðo‚µ‚Ä‚¢‚«‚Ü‚·B¬‚³‚Èº‚Å”­¶‚·‚ê‚Î‘§‚Í’·‚­‘±‚«‚Ü‚·‚ªA‚»‚¤‚Å‚Í‚È‚­‚ ‚­‚Ü‚Å‚à‘å‚«‚Èº‚Å”­º‚µ‚Ä‚¢‚«‚Ü‚·B‘§‚ª‘±‚©‚È‚­‚È‚Á‚½’iŠK‚ÅÀ‚Á‚Ä‚¢‚«‚Ü‚·B</font></P>
-<br>   
- <P class=border1><font color="#000000"><b>”­º—ûK‚Q@’Z”­º</b></font></P>
-    
-    <P class=border6><font color="#000000"> ‘å‚«‚Èº‚ÅAŽ•Ø‚ê‚æ‚­u‚ ‚Á‚ ‚Á‚ ‚Á‚ ‚Ácv‚Æ”­º‚µ‚Ä‚¢‚«‚Ü‚·B<br>
+    <P class="border1"><font color="#000000"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½P ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</b></font></P>
+
+    <P class=border6><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åuï¿½ï¿½ï¿½[ï¿½vï¿½Æ’ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Åï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½Ú•Wï¿½Í‚Rï¿½Oï¿½bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Å‚ï¿½ï¿½B</font> </P>
+
+    <p class="border6" align="left"><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Í‚ï¿½ï¿½vï¿½Æ•ÔŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŒï¿½uï¿½ï¿½ï¿½[ï¿½vï¿½Æï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Èï¿½ï¿½Å”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‘ï¿½ï¿½Í’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í‚È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Å‚ï¿½ï¿½å‚«ï¿½Èï¿½ï¿½Å”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½iï¿½Kï¿½Åï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</font></P>
+<br>
+ <P class=border1><font color="#000000"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Qï¿½@ï¿½Zï¿½ï¿½ï¿½ï¿½</b></font></P>
+
+    <P class=border6><font color="#000000"> ï¿½å‚«ï¿½Èï¿½ï¿½ÅAï¿½ï¿½ï¿½Ø‚ï¿½æ‚­ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½vï¿½Æ”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     </font></P>
-    
-    <p class="border6" align="left"><font color="#000000">•”’·‚ªu’·”­ºv‚ÆŒ¾‚¢‚Ü‚·A•”ˆõ‚ªu‚Í‚¢v‚Æ•ÔŽ–‚ð‚µA‚»‚ÌŒãu‚ ‚Á‚ ‚Á‚ ‚Á‚ ‚Áv‚Æ’Z‚­Ø‚Á‚Ä‚Íº‚ðo‚µ‚Ü‚·B˜A‘±‚R‚O‰ñ”­º‚µ‚½‚Æ‚±‚ë‚Å‚â‚ß‚Ü‚·B</font></P>
-    <br>   
- <P class=border1><font color="#000000"> <b>”­º—ûK‚Ru‚ ‚¢‚¤‚¦‚¨v</b></font></P>
-    
-    <P class=border6><font color="#000000">Ÿ‰¡ˆê—ñ‚ð‘¬‚­ˆê‚Âˆê‚Â‚ÌŒê‚ð‚Í‚Á‚«‚èŒ¾‚¤‚æ‚¤‚É‚µ‚Ä—ûK‚µ‚Ü‚·B</font></P>
-    
+
+    <p class="border6" align="left"><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ÆŒï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½uï¿½Í‚ï¿½ï¿½vï¿½Æ•ÔŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ÌŒï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½vï¿½Æ’Zï¿½ï¿½ï¿½Ø‚ï¿½ï¿½Ä‚Íï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Aï¿½ï¿½ï¿½Rï¿½Oï¿½ñ”­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½Å‚ï¿½ß‚Ü‚ï¿½ï¿½B</font></P>
+    <br>
+ <P class=border1><font color="#000000"> <b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Rï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½v</b></font></P>
+
+    <P class=border6><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ð‘¬‚ï¿½ï¿½ï¿½Âˆï¿½Â‚ÌŒï¿½ï¿½ï¿½Í‚ï¿½ï¿½ï¿½ï¿½èŒ¾ï¿½ï¿½ï¿½æ‚¤ï¿½É‚ï¿½ï¿½Ä—ï¿½ï¿½Kï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</font></P>
+
     <p class="border6" align="left"><font color="#000000">
-    ‚ ‚¢‚¤‚¦‚¨@‚¢‚¤‚¦‚¨‚ @‚¤‚¦‚¨‚ ‚¢@‚¦‚¨‚ ‚¢‚¤@‚¨‚ ‚¢‚¤‚¦<br>
-    ‚©‚«‚­‚¯‚±@‚«‚­‚¯‚±‚©@‚­‚¯‚±‚©‚«@‚¯‚±‚©‚«‚­@‚±‚©‚«‚­‚¯<br>
-    ‚³‚µ‚·‚¹‚»@‚µ‚·‚¹‚»‚³@‚·‚¹‚»‚³‚µ@‚¹‚»‚³‚µ‚·@‚»‚³‚µ‚·‚¹<br>
-    ‚½‚¿‚Â‚Ä‚Æ@‚¿‚Â‚Ä‚Æ‚½@‚Â‚Ä‚Æ‚½‚¿@‚Ä‚Æ‚½‚¿‚Â@‚Æ‚½‚¿‚Â‚Ä<br>
-    ‚È‚É‚Ê‚Ë‚Ì@‚É‚Ê‚Ë‚Ì‚È@‚Ê‚Ë‚Ì‚È‚É@‚Ë‚Ì‚È‚É‚Ê@‚Ì‚È‚É‚Ê‚Ë<br>
-    ‚Í‚Ð‚Ó‚Ö‚Ù@‚Ð‚Ó‚Ö‚Ù‚Í@‚Ó‚Ö‚Ù‚Í‚Ð@‚Ö‚Ù‚Í‚Ð‚Ó@‚Ù‚Í‚Ð‚Ó‚Ö<br>
-    ‚Ü‚Ý‚Þ‚ß‚à@‚Ý‚Þ‚ß‚à‚Ü@‚Þ‚ß‚à‚Ü‚Ý@‚ß‚à‚Ü‚Ý‚Þ@‚à‚Ü‚Ý‚Þ‚ß<br>
-    ‚â‚¢‚ä‚¦‚æ@‚¢‚ä‚¦‚æ‚â@‚ä‚¦‚æ‚â‚¢@‚¦‚æ‚â‚¢‚ä@‚æ‚â‚¢‚ä‚¦<br>
-    ‚ç‚è‚é‚ê‚ë@‚è‚é‚ê‚ë‚ç@‚é‚ê‚ë‚ç‚è@‚ê‚ë‚ç‚è‚é@‚ë‚ç‚è‚é‚ê<br>
-    ‚í‚¢‚¤‚¦‚ð@‚¢‚¤‚¦‚ð‚í@‚¤‚¦‚ð‚í‚¢@‚¦‚ð‚í‚¢‚¤@‚ð‚í‚¢‚¤‚¦
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Â‚Ä‚Æ@ï¿½ï¿½ï¿½Â‚Ä‚Æ‚ï¿½ï¿½@ï¿½Â‚Ä‚Æ‚ï¿½ï¿½ï¿½ï¿½@ï¿½Ä‚Æ‚ï¿½ï¿½ï¿½ï¿½Â@ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Â‚ï¿½<br>
+    ï¿½È‚É‚Ê‚Ë‚Ì@ï¿½É‚Ê‚Ë‚Ì‚È@ï¿½Ê‚Ë‚Ì‚È‚É@ï¿½Ë‚Ì‚È‚É‚Ê@ï¿½Ì‚È‚É‚Ê‚ï¿½<br>
+    ï¿½Í‚Ð‚Ó‚Ö‚Ù@ï¿½Ð‚Ó‚Ö‚Ù‚Í@ï¿½Ó‚Ö‚Ù‚Í‚Ð@ï¿½Ö‚Ù‚Í‚Ð‚Ó@ï¿½Ù‚Í‚Ð‚Ó‚ï¿½<br>
+    ï¿½Ü‚Ý‚Þ‚ß‚ï¿½ï¿½@ï¿½Ý‚Þ‚ß‚ï¿½ï¿½Ü@ï¿½Þ‚ß‚ï¿½ï¿½Ü‚Ý@ï¿½ß‚ï¿½ï¿½Ü‚Ý‚Þ@ï¿½ï¿½ï¿½Ü‚Ý‚Þ‚ï¿½<br>
+    ï¿½â‚¢ï¿½ä‚¦ï¿½ï¿½@ï¿½ï¿½ï¿½ä‚¦ï¿½ï¿½ï¿½@ï¿½ä‚¦ï¿½ï¿½â‚¢ï¿½@ï¿½ï¿½ï¿½ï¿½â‚¢ï¿½ï¿½@ï¿½ï¿½â‚¢ï¿½ä‚¦<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½í‚¢ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½í‚¢ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½
 </font></P>
-    <br>   
- <P class=border1><font color="#000000"><b>”­º—ûK‚S@u‚ ‚©‚³‚½‚Èv<br>
+    <br>
+ <P class=border1><font color="#000000"><b>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Sï¿½@ï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Èv<br>
     </b></font></P>
-    
-    <P class=border6><font color="#000000"> Ÿ‚·‚×‚Ä‚ðˆê‘§‚ÅŒ¾‚¢‚Ü‚·B<br>
-    </font></P>
-    
-    <p class="border6" align="left"><font color="#000000">‚ ‚©‚³‚½‚È@‚Í‚Ü‚â‚ç‚í@‚¢‚«‚µ‚¿‚É@‚Ð‚Ý‚¢‚è‚¢@‚¤‚­‚·‚Â‚Ê@‚Ó‚Þ‚ä‚é‚¤ <br>
-    ‚¦‚¯‚¹‚Ä‚Ë@‚Ö‚ß‚¦‚ê‚¦@‚¨‚±‚»‚Æ‚Ì@‚Ù‚à‚æ‚ë‚ð</font></P>
-    <br>   
- <P class=border1><font color="#000000"><b> ”­º—ûK‚Tu‚ ‚¦‚¢‚¤‚¦‚¨‚ ‚¨v<br>
-    </b></font></P>
-    
-    <P class=border6><font color="#000000"> Ÿ‰‰Œ€•”‚Æ‚¢‚¤‚Æ‚±‚Ì”­º‚Æ‚¢‚¤’è”Ô‚Ì”­º—ûK‚Å‚·Bˆê‚Âˆê‚Â‚ÌŒê‚ð‘å‚«‚Èº‚Å‚Í‚Á‚«‚è‚ÆŒ¾‚Á‚Ä‚¢‚«‚Ü‚·B</font></P>
-    
-    <p class="border6" align="left"><font color="#000000">
-    ‚ ‚¦‚¢‚¤‚¦‚¨‚ ‚¨<br>
-    ‚©‚¯‚«‚­‚¯‚±‚©‚±<br>
-    ‚³‚¹‚µ‚·‚¹‚»‚³‚»<br>
-    ‚½‚Ä‚¿‚Â‚Ä‚Æ‚½‚Æ<br>
-    ‚È‚Ë‚É‚Ê‚Ë‚Ì‚È‚Ì<br>
-    ‚Í‚Ö‚Ð‚Ó‚Ö‚Ù‚Í‚Ù<br>
-    ‚Ü‚ß‚Ý‚Þ‚ß‚à‚Ü‚à<br>
-    ‚â‚¦‚¢‚¤‚¦‚æ‚â‚æ<br>
-    ‚ç‚ê‚è‚é‚ê‚ë‚ç‚ë<br>
-    ‚í‚¦‚¢‚¤‚¦‚ð‚í‚ð<br>
-‚ª‚°‚¬‚®‚°‚²‚ª‚²<br>
-‚´‚º‚¶‚¸‚º‚¼‚´‚¼<br>
-‚¾‚Å‚À‚Ã‚Å‚Ç‚¾‚Ç<br>
-‚Î‚×‚Ñ‚Ô‚×‚Ú‚Î‚Ú<br>
-‚Ï‚Ø‚Ò‚Õ‚Ø‚Û‚Ï‚Û</font><br>
-    <font color="#000000">‚«‚á‚µ‚á‚¿‚á‚Ý‚á‚Ð‚á‚Ý‚á‚è‚á‚«‚á<br>
-    ‚«‚ã‚µ‚ã‚¿‚ã‚Ý‚ã‚Ð‚ã‚Ý‚ã‚è‚ã‚«‚ã<br>
-    ‚«‚å‚µ‚å‚¿‚å‚Ý‚å‚Ð‚å‚Ý‚å‚è‚å‚«‚å</font></P>
 
-    <br>   
- <P class=border1><b><font color="#000000">”­º—ûK‚U@uŒÜ\‰¹(‚ ‚ß‚ñ‚Ú)@–kŒ´”’Hv<br>
-    </font></b></P>
-    
-    <P class=border6><font color="#000000">
-    Ÿ‚±‚ê‚à‰‰Œ€•”‚Å‚Í’è”Ô‚Ì”­º—ûK‚Å‚·B‚±‚ê‚ð‚©‚È‚è‘¬‚­Œ¾‚Á‚Ä‚¢‚«‚Ü‚·BŠŠã‚ð‚æ‚­‚·‚é—ûK‚Æ‚µ‚ÄŽæ‚è“ü‚ê‚Ä‚¢‚Ü‚·B<br>
+    <P class=border6><font color="#000000"> ï¿½ï¿½ï¿½ï¿½ï¿½×‚Ä‚ï¿½ï¿½ê‘§ï¿½ÅŒï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     </font></P>
-    
+
+    <p class="border6" align="left"><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È@ï¿½Í‚Ü‚ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É@ï¿½Ð‚Ý‚ï¿½ï¿½è‚¢ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â‚Ê@ï¿½Ó‚Þ‚ï¿½é‚¤ <br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚Ë@ï¿½Ö‚ß‚ï¿½ï¿½ê‚¦ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Ì@ï¿½Ù‚ï¿½ï¿½ï¿½ï¿½ï¿½</font></P>
+    <br>
+ <P class=border1><font color="#000000"><b> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Tï¿½uï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½v<br>
+    </b></font></P>
+
+    <P class=border6><font color="#000000"> ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½Ì”ï¿½ï¿½ï¿½ï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Å‚ï¿½ï¿½Bï¿½ï¿½Âˆï¿½Â‚ÌŒï¿½ï¿½å‚«ï¿½Èï¿½ï¿½Å‚Í‚ï¿½ï¿½ï¿½ï¿½ï¿½ÆŒï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B</font></P>
+
     <p class="border6" align="left"><font color="#000000">
-    ‚ ‚ß‚ñ‚Ú‚ ‚©‚¢‚È‚ ‚¢‚¤‚¦‚¨@@ …”nÔ‚¢‚È‚ ‚¢‚¤‚¦‚¨ <br>
-    ‚¤‚«‚à‚É‚±‚¦‚Ñ‚à‚¨‚æ‚¢‚Å‚é @@•‚‘”‚É¬‰Ú‚à‰j‚¢‚Å‚é <br>
-    ‚©‚«‚Ì‚«‚­‚è‚Ì‚«‚©‚«‚­‚¯‚± @@Š`‚Ì–ØŒI‚Ì–Ø‚©‚«‚­‚¯‚± <br>
-    ‚«‚Â‚Â‚«‚±‚Â‚±‚Â‚©‚ê‚¯‚â‚« @@‘í–Ø’¹‚±‚Â‚±‚ÂŒÍ‚êŸO <br>
-    ‚³‚³‚°‚É‚·‚ð‚©‚¯‚³‚µ‚·‚¹‚» @@‘åŠp“¤‚É|‚ð‚©‚¯‚³‚µ‚·‚¹‚» <br>
-    ‚»‚Ì‚¤‚ð‚ ‚³‚¹‚Å‚³‚µ‚Ü‚µ‚½ @@‚»‚Ì‹›ó£‚ÅŽh‚µ‚Ü‚µ‚½ <br>
-    ‚½‚¿‚Ü‚µ‚å‚ç‚Á‚Ï‚Å‚½‚¿‚Â‚Ä‚Æ @—§‚¿‚Ü‚µ‚åšh™Ú‚Å‚½‚¿‚Â‚Ä‚Æ <br>
-    ‚Æ‚Ä‚Æ‚Ä‚½‚Á‚½‚Æ‚Æ‚Ñ‚½‚Á‚½ @@ƒgƒeƒgƒeƒ^ƒbƒ^‚Æ”ò‚Ñ—§‚Á‚½ <br>
-    ‚È‚ß‚­‚¶‚Ì‚ë‚Ì‚ë‚È‚É‚Ê‚Ë‚Ì @@å|åŸ‚Ì‚ë‚Ì‚ë‚È‚É‚Ê‚Ë‚Ì <br>
-    ‚È‚ñ‚Ç‚É‚Ê‚ß‚Á‚Ä‚È‚É‚Ë‚Î‚é @@”[ŒË‚É‚Ê‚ß‚Á‚Ä‚È‚É‚Ë‚Î‚é <br>
-    ‚Í‚Æ‚Û‚Á‚Û‚Ù‚ë‚Ù‚ë‚Í‚Ð‚Ó‚Ö‚Ù @”µƒ|ƒbƒ|‚Ù‚ë‚Ù‚ë‚Í‚Ð‚Ó‚Ö‚Ù <br>
-    ‚Ð‚È‚½‚Ì‚¨‚Ö‚â‚É‚á‚Ó‚¦‚ð‚Ó‚­ @“úŒü‚Ì‚¨•”‰®‚É‚á“J‚ð‚­ <br>
-    ‚Ü‚¢‚Ü‚¢‚Ë‚¶‚Ü‚«‚Ü‚Ý‚Þ‚ß‚à @@å—‹ƒlƒWŠª‚Ü‚Ý‚Þ‚ß‚à <br>
-    ‚¤‚ß‚Ì‚Ý‚¨‚¿‚Ä‚à‚Ý‚à‚µ‚Ü‚¢ @@”~‚ÌŽÀ—Ž‚¿‚Ä‚àŒ©‚à‚µ‚Ü‚¢ <br>
-    ‚â‚«‚®‚è‚ä‚Å‚®‚è‚â‚¢‚ä‚¦‚æ @@ÄŒI‚ä‚ÅŒI‚â‚¢‚ä‚¦‚æ <br>
-    ‚â‚Ü‚¾‚É‚Ð‚Ì‚Â‚­‚æ‚¢‚Ì‚¢‚¦ @@ŽR“c‚É“”‚Ì‚Â‚­‚æ‚¢‚Ì‰Æ <br>
-    ‚ç‚¢‚¿‚å‚¤‚³‚Þ‚©‚ë‚ç‚è‚é‚ê‚ë @—‹’¹‚ÍŠ¦‚©‚ë‚ç‚è‚é‚ê‚ë <br>
-    ‚ê‚ñ‚°‚ª‚³‚¢‚½‚ç‚é‚è‚Ì‚Æ‚è @@˜@‰Ô‚ªç‚¢‚½‚ç—Ú—ž‚Ì’¹ <br>
-    ‚í‚¢‚í‚¢‚í‚Á‚µ‚å‚¢‚í‚î‚¤‚ï‚ð @‚í‚¢‚í‚¢‚í‚Á‚µ‚å‚¢‚í‚î‚¤‚ï‚ð <br>
-    ‚¤‚¦‚«‚â‚¢‚Ç‚ª‚¦‚¨‚Ü‚Â‚è‚¾ @@A–Ø‰®ˆäŒËŠ·‚¦‚¨Õ‚è‚¾ <br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Â‚Ä‚Æ‚ï¿½ï¿½ï¿½<br>
+    ï¿½È‚Ë‚É‚Ê‚Ë‚Ì‚È‚ï¿½<br>
+    ï¿½Í‚Ö‚Ð‚Ó‚Ö‚Ù‚Í‚ï¿½<br>
+    ï¿½Ü‚ß‚Ý‚Þ‚ß‚ï¿½ï¿½Ü‚ï¿½<br>
+    ï¿½â‚¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+    ï¿½í‚¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br>
+ï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ã‚Å‚Ç‚ï¿½ï¿½ï¿½<br>
+ï¿½Î‚×‚Ñ‚Ô‚×‚Ú‚Î‚ï¿½<br>
+ï¿½Ï‚Ø‚Ò‚Õ‚Ø‚Û‚Ï‚ï¿½</font><br>
+    <font color="#000000">ï¿½ï¿½ï¿½á‚µï¿½á‚¿ï¿½ï¿½Ý‚ï¿½Ð‚ï¿½Ý‚ï¿½ï¿½á‚«ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½ã‚µï¿½ã‚¿ï¿½ï¿½Ý‚ï¿½Ð‚ï¿½Ý‚ï¿½ï¿½ã‚«ï¿½ï¿½<br>
+    ï¿½ï¿½ï¿½å‚µï¿½å‚¿ï¿½ï¿½Ý‚ï¿½Ð‚ï¿½Ý‚ï¿½ï¿½å‚«ï¿½ï¿½</font></P>
+
+    <br>
+ <P class=border1><b><font color="#000000">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Uï¿½@ï¿½uï¿½Ü\ï¿½ï¿½(ï¿½ï¿½ï¿½ß‚ï¿½ï¿½)ï¿½@ï¿½kï¿½ï¿½ï¿½ï¿½ï¿½Hï¿½v<br>
+    </font></b></P>
+
+    <P class=border6><font color="#000000">
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚Í’ï¿½Ô‚Ì”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Å‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚è‘¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ‚­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Kï¿½Æ‚ï¿½ï¿½ÄŽï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    </font></P>
+
+    <p class="border6" align="left"><font color="#000000">
+    ï¿½ï¿½ï¿½ß‚ï¿½Ú‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½@ ï¿½ï¿½ï¿½nï¿½Ô‚ï¿½ï¿½È‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ <br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½Ñ‚ï¿½ï¿½ï¿½ï¿½æ‚¢ï¿½Å‚ï¿½ ï¿½@ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Éï¿½ï¿½Ú‚ï¿½ï¿½jï¿½ï¿½ï¿½Å‚ï¿½ <br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½@ï¿½@ï¿½`ï¿½Ì–ØŒIï¿½Ì–Ø‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ <br>
+    ï¿½ï¿½ï¿½Â‚Â‚ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½Â‚ï¿½ï¿½ê‚¯ï¿½â‚« ï¿½@ï¿½@ï¿½ï¿½Ø’ï¿½ï¿½ï¿½ï¿½Â‚ï¿½ï¿½ÂŒÍ‚ï¿½O <br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½@ï¿½@ï¿½ï¿½pï¿½ï¿½ï¿½É|ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ <br>
+    ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ ï¿½@ï¿½@ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½ó£‚ÅŽhï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ <br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï‚Å‚ï¿½ï¿½ï¿½ï¿½Â‚Ä‚ï¿½ ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½hï¿½Ú‚Å‚ï¿½ï¿½ï¿½ï¿½Â‚Ä‚ï¿½ <br>
+    ï¿½Æ‚Ä‚Æ‚Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚Æ‚Ñ‚ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½@ï¿½@ï¿½gï¿½eï¿½gï¿½eï¿½^ï¿½bï¿½^ï¿½Æ”ï¿½Ñ—ï¿½ï¿½ï¿½ï¿½ï¿½ <br>
+    ï¿½È‚ß‚ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½Ì‚ï¿½È‚É‚Ê‚Ë‚ï¿½ ï¿½@ï¿½@ï¿½|åŸ‚Ì‚ï¿½Ì‚ï¿½È‚É‚Ê‚Ë‚ï¿½ <br>
+    ï¿½È‚ï¿½Ç‚É‚Ê‚ß‚ï¿½ï¿½Ä‚È‚É‚Ë‚Î‚ï¿½ ï¿½@ï¿½@ï¿½[ï¿½Ë‚É‚Ê‚ß‚ï¿½ï¿½Ä‚È‚É‚Ë‚Î‚ï¿½ <br>
+    ï¿½Í‚Æ‚Û‚ï¿½ï¿½Û‚Ù‚ï¿½Ù‚ï¿½Í‚Ð‚Ó‚Ö‚ï¿½ ï¿½@ï¿½ï¿½ï¿½|ï¿½bï¿½|ï¿½Ù‚ï¿½Ù‚ï¿½Í‚Ð‚Ó‚Ö‚ï¿½ <br>
+    ï¿½Ð‚È‚ï¿½ï¿½Ì‚ï¿½ï¿½Ö‚ï¿½É‚ï¿½Ó‚ï¿½ï¿½ï¿½ï¿½Ó‚ï¿½ ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ï¿½Jï¿½ð‚ï¿½ <br>
+    ï¿½Ü‚ï¿½ï¿½Ü‚ï¿½ï¿½Ë‚ï¿½ï¿½Ü‚ï¿½ï¿½Ü‚Ý‚Þ‚ß‚ï¿½ ï¿½@ï¿½@å—‹ï¿½ï¿½lï¿½Wï¿½ï¿½ï¿½Ü‚Ý‚Þ‚ß‚ï¿½ <br>
+    ï¿½ï¿½ï¿½ß‚Ì‚Ý‚ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ý‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ ï¿½@ï¿½@ï¿½~ï¿½ÌŽï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ <br>
+    ï¿½â‚«ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ï¿½ï¿½ï¿½â‚¢ï¿½ä‚¦ï¿½ï¿½ ï¿½@ï¿½@ï¿½ÄŒIï¿½ï¿½ÅŒIï¿½â‚¢ï¿½ä‚¦ï¿½ï¿½ <br>
+    ï¿½ï¿½Ü‚ï¿½ï¿½É‚Ð‚Ì‚Â‚ï¿½ï¿½æ‚¢ï¿½Ì‚ï¿½ï¿½ï¿½ ï¿½@ï¿½@ï¿½Rï¿½cï¿½É“ï¿½ï¿½Ì‚Â‚ï¿½ï¿½æ‚¢ï¿½Ì‰ï¿½ <br>
+    ï¿½ç‚¢ï¿½ï¿½ï¿½å‚¤ï¿½ï¿½ï¿½Þ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ÍŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ <br>
+    ï¿½ï¿½ñ‚°‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Æ‚ï¿½ ï¿½@ï¿½@ï¿½@ï¿½Ô‚ï¿½ï¿½ç‚¢ï¿½ï¿½ï¿½ï¿½Ú—ï¿½ï¿½Ì’ï¿½ <br>
+    ï¿½í‚¢ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å‚¢ï¿½ï¿½î‚¤ï¿½ï¿½ï¿½ ï¿½@ï¿½í‚¢ï¿½í‚¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½å‚¢ï¿½ï¿½î‚¤ï¿½ï¿½ï¿½ <br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½â‚¢ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚Â‚è‚¾ ï¿½@ï¿½@ï¿½Aï¿½Ø‰ï¿½ï¿½ï¿½ËŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ‚è‚¾ <br>
     </font></P>
     <br>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
 
-    <p><font color="#000000" size="+4" style="font-size : 310%;"><b>‚XE<a name="nature" id="nature">Ž©‘RŠÏŽ@</a>(Ž©‘RŒ€ê)</b><br>
+    <p><font color="#000000" size="+4" style="font-size : 310%;"><b>ï¿½Xï¿½E<a name="nature" id="nature">ï¿½ï¿½ï¿½Rï¿½ÏŽ@</a>(ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½ï¿½)</b><br>
     </font></p>
     <hr>
     <hr>
-    <p class="border4" align="left"><img src="diary/_MG_05371.jpg" width="314" height="209" border="0" align="right">ŠwZ‚ÌŽü‚è‚ð‘oŠá‹¾‚ðŽ‚Á‚ÄŽU•à‚µ‚Ü‚·B‰Ô‚Æ’¹‚ðŠÏŽ@‚µ‚Ü‚·BƒJƒƒZƒ~AƒLƒW‚È‚Ç‚ðŠy‚µ‚Þ‚±‚Æ‚ª‚Å‚«‚Ü‚·B<br>
+    <p class="border4" align="left"><img src="diary/_MG_05371.jpg" width="314" height="209" border="0" align="right">ï¿½wï¿½Zï¿½ÌŽï¿½ï¿½ï¿½ï¿½oï¿½á‹¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÄŽUï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ô‚Æ’ï¿½ï¿½ï¿½ï¿½ÏŽ@ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Jï¿½ï¿½ï¿½Zï¿½~ï¿½Aï¿½Lï¿½Wï¿½È‚Ç‚ï¿½ï¿½yï¿½ï¿½ï¿½Þ‚ï¿½ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
     <br>
-    •”Šˆ“®‚ð‚¨‚±‚È‚Á‚Ä‚¢‚é‚Ì‹³Žº‚àŽ©‘RŠÏŽ@‚Ìê‚Å‚·Bå‘åx‚â’±‚È‚Ç‚ª”ò‚Ñž‚ñ‚Å‚«‚Ü‚·‚µA—[—§‚ÌŒã‚Í‚Ý‚ñ‚È‚Å“ø‚ðŠy‚µ‚Ý‚Ü‚·B<br>
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½Ì‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rï¿½ÏŽ@ï¿½Ìï¿½Å‚ï¿½ï¿½Bï¿½ï¿½xï¿½â’±ï¿½È‚Ç‚ï¿½ï¿½ï¿½Ñï¿½ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½ï¿½Aï¿½[ï¿½ï¿½ï¿½ÌŒï¿½Í‚Ý‚ï¿½È‚Å“ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½Ý‚Ü‚ï¿½ï¿½B<br>
     <br>
-    –ˆ”N‚TŒŽ‚É“úŒõ‚ÉƒnƒCƒLƒ“ƒO‚Éo‚©‚¯‚Ü‚·BƒnƒCƒLƒ“ƒO‚Å‚ÍÂ‚¢’¹EƒIƒIƒ‹ƒŠ‚Æ‰©F‚¢’¹EƒLƒrƒ^ƒL‚ðŠÏŽ@‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚Ü‚½Aâ–Å‚ªŠëœœ‚³‚ê‚Ä‚¢‚é—–‚Ì‰Ô‚à”Ží—ÞŒ©‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-    “úŒõ‚Ös‚­‘O‚É‚ÍŽ–‘OŠwK‚ð—V‚Ñ‚Ì—v‘f‚ðŽæ‚è“ü‚ê‚Äs‚¢‚Ü‚·B”Ç‘ÎR’¹“–‚ÄƒNƒCƒY‚Í·‚èã‚ª‚è‚Ü‚·B‚»‚ê‚ð’Ê‚µ‚ÄA–ˆ”N’¹”ŽŽm‚ª’a¶‚µ‚Ä‚¢‚Ü‚·B<br>
-    “²‚ê‚Ì’¹‚ðŒ©‚½Žž‚É‚ÍAŽv‚í‚¸u‚©‚í‚¢‚¢v‚Æ‚©u‚«‚ê‚¢v‚Æ‚¢‚Á‚½Œ¾—t‚ª¶‚Ü‚ê‚Ü‚·B‚»‚µ‚ÄA‚»‚ê‚Í•‘‘ä‚Å‚ÌŽ©‘R‚È•\Œ»‚É‚Â‚È‚ª‚è‚Ü‚·B <br>
-    Ž©‘RŒ€ê‚Ì‹L˜^‚É‚Â‚¢‚Ä‚ÍŽŸ‚ðƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢¨<a href="diary/shizengekijo-digest.htm" target="_blank">Ž©‘RŒ€ê‚Ì‹L˜^</a><br>
+    ï¿½ï¿½ï¿½Nï¿½Tï¿½ï¿½ï¿½É“ï¿½ï¿½ï¿½ï¿½Éƒnï¿½Cï¿½Lï¿½ï¿½ï¿½Oï¿½Éoï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½nï¿½Cï¿½Lï¿½ï¿½ï¿½Oï¿½Å‚ÍÂ‚ï¿½ï¿½ï¿½ï¿½Eï¿½Iï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Æ‰ï¿½ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½Eï¿½Lï¿½rï¿½^ï¿½Lï¿½ï¿½ï¿½ÏŽ@ï¿½ï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ü‚ï¿½ï¿½Aï¿½ï¿½Å‚ï¿½ï¿½ëœœï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½é—–ï¿½Ì‰Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½ÞŒï¿½ï¿½é‚±ï¿½Æ‚ï¿½ï¿½Å‚ï¿½ï¿½Ü‚ï¿½ï¿½B
+    ï¿½ï¿½ï¿½ï¿½ï¿½Ösï¿½ï¿½ï¿½Oï¿½É‚ÍŽï¿½ï¿½Oï¿½wï¿½Kï¿½ï¿½Vï¿½Ñ‚Ì—vï¿½fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Äsï¿½ï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½Ç‘ÎRï¿½ï¿½ï¿½ï¿½ï¿½ÄƒNï¿½Cï¿½Yï¿½Íï¿½ï¿½ï¿½ã‚ªï¿½ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½Ê‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½mï¿½ï¿½ï¿½aï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½Ü‚ï¿½ï¿½B<br>
+    ï¿½ï¿½ï¿½ï¿½Ì’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‚ÍAï¿½vï¿½í‚¸ï¿½uï¿½ï¿½ï¿½í‚¢ï¿½ï¿½ï¿½vï¿½Æ‚ï¿½ï¿½uï¿½ï¿½ï¿½ê‚¢ï¿½vï¿½Æ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½Ü‚ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ÄAï¿½ï¿½ï¿½ï¿½Í•ï¿½ï¿½ï¿½Å‚ÌŽï¿½ï¿½Rï¿½È•\ï¿½ï¿½ï¿½É‚Â‚È‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B <br>
+    ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½ï¿½Ì‹Lï¿½^ï¿½É‚Â‚ï¿½ï¿½Ä‚ÍŽï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½Nï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<a href="diary/shizengekijo-digest.htm" target="_blank">ï¿½ï¿½ï¿½Rï¿½ï¿½ï¿½ï¿½Ì‹Lï¿½^</a><br>
     </p>
-    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="–ÚŽŸ‚É–ß‚é"></a><br>
+    <a href="#mokuji"><img src="button1.gif" width="120" height="30" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="ï¿½ÚŽï¿½ï¿½É–ß‚ï¿½"></a><br>
     <br>
     <div id="hpb-nav" style="text-align : center;" align="center">
       <ul>
 
-        <li id="nav-toppage"><font color="#000000"><span class="ja"><a href="index.html" target="_blank">ƒgƒbƒvƒy[ƒW<br>
-        uŽµ‚ÂX</a></span>
-        </font><li id="nav-itemlist"><font color="#000000"><span class="ja"><a href="daihon/daihon-top2.html" target="_blank">Ž©ì‹r–{</a></span>
-        </font><li id="nav-company"><font color="#000000"><span class="ja"><a href="request/request-2011.html" target="_blank">Ž©ìã‰‰Z‚Ì‹L˜^</a></span>
-        </font><li id="nav-recruit"><font color="#000000"><span class="ja"><a href="Practice.html" target="_blank">—ûK“à—e<br>
-        —ûK•û–@</a>
-        </span></font><li id="nav-access"><font color="#000000"><span class="ja"><a href="kiji/kiji.htm" target="_blank">V•·EŽGŽ‹LŽ–</a></span>
-        </font><li id="nav-concept"><font color="#000000"><span class="ja"><a href="profile/profile.html" target="_blank">ŠÇ—lƒvƒƒtƒB[ƒ‹</a></span>
+        <li id="nav-toppage"><font color="#000000"><span class="ja"><a href="index.html" target="_blank">ï¿½gï¿½bï¿½vï¿½yï¿½[ï¿½W<br>
+        ï¿½uï¿½ï¿½ï¿½ÂX</a></span>
+        </font><li id="nav-itemlist"><font color="#000000"><span class="ja"><a href="daihon/daihon-top2.html" target="_blank">ï¿½ï¿½ï¿½ï¿½rï¿½{</a></span>
+        </font><li id="nav-company"><font color="#000000"><span class="ja"><a href="request/request-2011.html" target="_blank">ï¿½ï¿½ï¿½ï¿½ã‰‰ï¿½Zï¿½Ì‹Lï¿½^</a></span>
+        </font><li id="nav-recruit"><font color="#000000"><span class="ja"><a href="Practice.html" target="_blank">ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½e<br>
+        ï¿½ï¿½ï¿½Kï¿½ï¿½ï¿½@</a>
+        </span></font><li id="nav-access"><font color="#000000"><span class="ja"><a href="kiji/kiji.htm" target="_blank">ï¿½Vï¿½ï¿½ï¿½Eï¿½Gï¿½ï¿½ï¿½Lï¿½ï¿½</a></span>
+        </font><li id="nav-concept"><font color="#000000"><span class="ja"><a href="profile/profile.html" target="_blank">ï¿½Ç—ï¿½ï¿½lï¿½vï¿½ï¿½ï¿½tï¿½Bï¿½[ï¿½ï¿½</a></span>
         </font><li id="nav-contactus"><font color="#000000"><span class="ja"><a href="link.htm" target="_blank">Link</a></span>
 
 
@@ -1824,7 +1824,7 @@ P.border1{
     <font color="#000000"><font color="#000000"><!-- navi end --><!-- footer --></font></font>
     <div id="hpb-footer">
       <div id="hpb-footerExtra1">
-        
+
       </div>
       <div id="hpb-footerMain">
         <p><font color="#000000"><font color="#000000"><font color="#000000"><font size="5"><b><a href="#top">Top</a>&nbsp; <a href="index.html" target="_blank">Home</a></b></font></font></font></font></p>

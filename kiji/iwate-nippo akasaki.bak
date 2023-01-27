@@ -5,7 +5,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=shift_jis">
+<meta http-equiv=Content-Type content="text/html; charset=utf8">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 14">
 <meta name=Originator content="Microsoft Word 14">
@@ -349,7 +349,7 @@ href="iwate-nippo%20akasaki.files/colorschememapping.xml">
 <!--
  /* Font Definitions */
  @font-face
-	{font-family:"‚l‚r –¾’©";
+	{font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-alt:"MS Mincho";
 	mso-font-charset:128;
@@ -372,21 +372,21 @@ href="iwate-nippo%20akasaki.files/colorschememapping.xml">
 	mso-font-pitch:variable;
 	mso-font-signature:0 0 0 0 0 0;}
 @font-face
-	{font-family:"‚l‚r ‚oƒSƒVƒbƒN";
+	{font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
 	panose-1:2 11 6 0 7 2 5 8 2 4;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:variable;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@‚l‚r ‚oƒSƒVƒbƒN";
+	{font-family:"\@ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
 	panose-1:2 11 6 0 7 2 5 8 2 4;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:variable;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@‚l‚r –¾’©";
+	{font-family:"\@ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
@@ -407,7 +407,7 @@ href="iwate-nippo%20akasaki.files/colorschememapping.xml">
 	font-family:"Century","serif";
 	mso-ascii-font-family:Century;
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:"‚l‚r –¾’©";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½ï¿½ï¿½ï¿½";
 	mso-fareast-theme-font:minor-fareast;
 	mso-hansi-font-family:Century;
 	mso-hansi-theme-font:minor-latin;
@@ -418,7 +418,7 @@ h2
 	{mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Œ©o‚µ 2 \(•¶š\)";
+	mso-style-link:"ï¿½ï¿½ï¿½oï¿½ï¿½ 2 \(ï¿½ï¿½ï¿½ï¿½\)";
 	mso-margin-top-alt:auto;
 	margin-right:0mm;
 	mso-margin-bottom-alt:auto;
@@ -426,8 +426,8 @@ h2
 	mso-pagination:widow-orphan;
 	mso-outline-level:2;
 	font-size:18.0pt;
-	font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-	mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
+	font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+	mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
 	font-weight:bold;}
 p
 	{mso-style-noshow:yes;
@@ -438,12 +438,12 @@ p
 	margin-left:0mm;
 	mso-pagination:widow-orphan;
 	font-size:12.0pt;
-	font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-	mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";}
+	font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+	mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";}
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-style-link:"‚«o‚µ \(•¶š\)";
+	mso-style-link:"ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ \(ï¿½ï¿½ï¿½ï¿½\)";
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -453,7 +453,7 @@ p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"‚l‚r ƒSƒVƒbƒN";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:Arial;
 	mso-hansi-theme-font:major-latin;
@@ -461,18 +461,18 @@ p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	mso-bidi-theme-font:major-bidi;
 	mso-font-kerning:1.0pt;}
 span.2
-	{mso-style-name:"Œ©o‚µ 2 \(•¶š\)";
+	{mso-style-name:"ï¿½ï¿½ï¿½oï¿½ï¿½ 2 \(ï¿½ï¿½ï¿½ï¿½\)";
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Œ©o‚µ 2";
+	mso-style-link:"ï¿½ï¿½ï¿½oï¿½ï¿½ 2";
 	mso-ansi-font-size:18.0pt;
 	mso-bidi-font-size:18.0pt;
-	font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-	mso-ascii-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-	mso-fareast-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-	mso-hansi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-	mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
+	font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+	mso-ascii-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+	mso-hansi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+	mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
 	mso-font-kerning:0pt;
 	font-weight:bold;}
 span.social
@@ -482,18 +482,18 @@ span.google
 	{mso-style-name:google;
 	mso-style-unhide:no;}
 span.a
-	{mso-style-name:"‚«o‚µ \(•¶š\)";
+	{mso-style-name:"ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½ \(ï¿½ï¿½ï¿½ï¿½\)";
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:‚«o‚µ;
+	mso-style-link:ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½ï¿½;
 	mso-ansi-font-size:9.0pt;
 	mso-bidi-font-size:9.0pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"‚l‚r ƒSƒVƒbƒN";
+	mso-fareast-font-family:"ï¿½lï¿½r ï¿½Sï¿½Vï¿½bï¿½N";
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:Arial;
 	mso-hansi-theme-font:major-latin;
@@ -524,7 +524,7 @@ div.WordSection1
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:•W€‚Ì•\;
+	{mso-style-name:ï¿½Wï¿½ï¿½ï¿½Ì•\;
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -558,14 +558,14 @@ div.WordSection1
 
 <p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
 auto;text-align:left;mso-pagination:widow-orphan;mso-outline-level:2'><b><span
-style='font-size:18.0pt;font-family:"‚l‚r ‚oƒSƒVƒbƒN";mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-color:black;background:#F3F1E9;mso-font-kerning:0pt'>y‘å‘D“nzŒÃ—¢‚Ö‚Ìv‚¢Œ€‚É‚ß@Ôè’†A•¶‰»Õ‚Å”â˜I</span></b><span
-lang=EN-US style='font-size:13.5pt;font-family:"‚l‚r ‚oƒSƒVƒbƒN";mso-bidi-font-family:
-"‚l‚r ‚oƒSƒVƒbƒN";color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+style='font-size:18.0pt;font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+color:black;background:#F3F1E9;mso-font-kerning:0pt'>ï¿½yï¿½ï¿½Dï¿½nï¿½zï¿½Ã—ï¿½ï¿½Ö‚Ìvï¿½ï¿½ï¿½ï¿½ï¿½Éï¿½ï¿½ß@ï¿½Ôè’†ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Õ‚Å”ï¿½I</span></b><span
+lang=EN-US style='font-size:13.5pt;font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-bidi-font-family:
+"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
 <div class=MsoNormal align=center style='text-align:center;mso-pagination:widow-orphan'><span
-lang=EN-US style='font-size:12.0pt;font-family:"‚l‚r ‚oƒSƒVƒbƒN";mso-bidi-font-family:
-"‚l‚r ‚oƒSƒVƒbƒN";mso-font-kerning:0pt'>
+lang=EN-US style='font-size:12.0pt;font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-bidi-font-family:
+"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-font-kerning:0pt'>
 
 <hr size=1 width="100%" noshade style='color:black' align=center>
 
@@ -592,7 +592,7 @@ auto;text-align:left;line-height:16.5pt;mso-pagination:widow-orphan'><!--[if gte
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="}_x0020_2" o:spid="_x0000_s1026" type="#_x0000_t75"
+</v:shapetype><v:shape id="ï¿½}_x0020_2" o:spid="_x0000_s1026" type="#_x0000_t75"
  alt="http://www.iwate-np.co.jp/hisaichi/y2013/m10/h1310281.jpg" style='position:absolute;
  margin-left:0;margin-top:0;width:187.5pt;height:126.75pt;z-index:251658240;
  visibility:visible;mso-wrap-style:square;mso-width-percent:0;
@@ -606,33 +606,33 @@ auto;text-align:left;line-height:16.5pt;mso-pagination:widow-orphan'><!--[if gte
  <w:wrap type="square" anchory="line"/>
 </v:shape><![endif]--><![if !vml]><img width=250 height=169
 src="iwate-nippo%20akasaki.files/image001.jpg" align=left hspace=2 vspace=2
-alt="http://www.iwate-np.co.jp/hisaichi/y2013/m10/h1310281.jpg" v:shapes="}_x0020_2"><![endif]><span
-style='font-size:13.5pt;font-family:"‚l‚r ‚oƒSƒVƒbƒN";mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-color:black;mso-font-kerning:0pt'>@‘å‘D“nsÔè’¬‚ÌÔè’†iO‰Y¹OZ’·A¶“k‚P‚R‚Rlj‚Ì‚R”N¶‚S‚Pl‚Í‚Q‚V“úA“¯Z‚Ì•¶‰»Õ‚ÅŒ€u‚Ó‚é‚³‚Æv‚ğ”â˜I‚µ‚½B‰‰Œ€w“±‚Å‘S‘“I‚ÉŠˆ–ô‚·‚éé‹ÊŒ§‚Ì’†ŠwZ‹³—@Ä“¡r—Y‚³‚ñi‚T‚Rj‚ªA”íĞ‚©‚ç—§‚¿ã‚ª‚é“¯Z‚É‹r–{‚ğ’ñ‹Ÿ‚µ‚½B¶“k‚ÍS‚Ìx‚¦‚Æ‚È‚éŒÃ—¢‚Ö‚Ìv‚¢‚ğŒ€‚É‘õ‚µAZ–¯‚ÆŠ´“®‚ğ‹¤—L‚µ‚½B<span
+alt="http://www.iwate-np.co.jp/hisaichi/y2013/m10/h1310281.jpg" v:shapes="ï¿½}_x0020_2"><![endif]><span
+style='font-size:13.5pt;font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+color:black;mso-font-kerning:0pt'>ï¿½@ï¿½ï¿½Dï¿½nï¿½sï¿½Ôè’¬ï¿½ÌÔè’†ï¿½iï¿½Oï¿½Yï¿½ï¿½ï¿½Oï¿½Zï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½kï¿½Pï¿½Rï¿½Rï¿½lï¿½jï¿½Ì‚Rï¿½Nï¿½ï¿½ï¿½Sï¿½Pï¿½lï¿½Í‚Qï¿½Vï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½Zï¿½Ì•ï¿½ï¿½ï¿½ï¿½Õ‚ÅŒï¿½ï¿½uï¿½Ó‚é‚³ï¿½Ævï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½Å‘Sï¿½ï¿½ï¿½Iï¿½ÉŠï¿½ï¿½ô‚·‚ï¿½ï¿½ÊŒï¿½ï¿½Ì’ï¿½ï¿½wï¿½Zï¿½ï¿½ï¿½@ï¿½Ä“ï¿½ï¿½rï¿½Yï¿½ï¿½ï¿½ï¿½iï¿½Tï¿½Rï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½Ğ‚ï¿½ï¿½ç—§ï¿½ï¿½ï¿½ã‚ªï¿½é“¯ï¿½Zï¿½É‹rï¿½{ï¿½ï¿½ñ‹Ÿ‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½kï¿½ÍSï¿½Ìxï¿½ï¿½ï¿½Æ‚È‚ï¿½Ã—ï¿½ï¿½Ö‚Ìvï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½Aï¿½Zï¿½ï¿½ï¿½ÆŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½ï¿½ï¿½B<span
 lang=EN-US><o:p></o:p></span></span></p>
 
 <p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
 auto;text-align:left;line-height:16.5pt;mso-pagination:widow-orphan'><span
-style='font-size:13.5pt;font-family:"‚l‚r ‚oƒSƒVƒbƒN";mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-color:black;mso-font-kerning:0pt'>@u‚Ó‚é‚³‚Æv‚Í•ÂZ‘O‚Ì¬ŠwZ‚É“]Z‚µ‚Ä‚«‚½­—‚Æ‚ÌŒğ—¬‚ğ’Ê‚¶Aq‚Ç‚à‚ç‚ªŒÃ—¢‚Ì‘åØ‚³‚É‹C•t‚­ƒXƒg[ƒŠ[B¶“k‚Íu‹ê‚µ‚¢‚â”ß‚µ‚¢w‚Ó‚é‚³‚Æx‚ğv‚¢o‚·‚ÆŒ³‹C‚É‚È‚év‚ÆA•œ‹»‚ÉŒü‚©‚¤’nŒ³‚Ö‚Ìv‚¢‚ğ‚¹‚è‚Ó‚Éd‚ËA—Í‹­‚­‰‰‚¶‚½B<span
+style='font-size:13.5pt;font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+color:black;mso-font-kerning:0pt'>ï¿½@ï¿½uï¿½Ó‚é‚³ï¿½Ævï¿½Í•ÂZï¿½Oï¿½Ìï¿½ï¿½wï¿½Zï¿½É“]ï¿½Zï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ‚ÌŒğ—¬‚ï¿½Ê‚ï¿½ï¿½Aï¿½qï¿½Ç‚ï¿½ï¿½ç‚ªï¿½Ã—ï¿½ï¿½Ì‘ï¿½Ø‚ï¿½ï¿½É‹Cï¿½tï¿½ï¿½ï¿½Xï¿½gï¿½[ï¿½ï¿½ï¿½[ï¿½Bï¿½ï¿½ï¿½kï¿½Íuï¿½ê‚µï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½Ó‚é‚³ï¿½Æxï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ÆŒï¿½ï¿½Cï¿½É‚È‚ï¿½vï¿½ÆAï¿½ï¿½ï¿½ï¿½ï¿½ÉŒï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nï¿½ï¿½ï¿½Ö‚Ìvï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó‚Édï¿½ËAï¿½Í‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B<span
 lang=EN-US><o:p></o:p></span></span></p>
 
 <p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
 auto;text-align:left;line-height:16.5pt;mso-pagination:widow-orphan'><span
-style='font-size:13.5pt;font-family:"‚l‚r ‚oƒSƒVƒbƒN";mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-color:black;mso-font-kerning:0pt'>@Œ€‚ğŒ©‚½“¯’¬‚Ì—«i‚V‚Oj‚Íu‚¸‚Á‚Æ•é‚ç‚·Ôè‚ğv‚¢—Ü‚ªo‚½BŠCŠİ‚Å‰j‚¢‚¾‹L‰¯Aƒnƒ}ƒiƒX‚Ì‰Ô‚ªç‚­•—Œi‚ğv‚¢o‚µ‚½v‚ÆŠ´“®‚µ‚Ä‚¢‚½B<span
+style='font-size:13.5pt;font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+color:black;mso-font-kerning:0pt'>ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½ï¿½iï¿½Vï¿½Oï¿½jï¿½Íuï¿½ï¿½ï¿½ï¿½ï¿½Æ•ï¿½ç‚·ï¿½Ôï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Ü‚ï¿½ï¿½oï¿½ï¿½ï¿½Bï¿½Cï¿½İ‚Å‰jï¿½ï¿½ï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½Aï¿½nï¿½}ï¿½iï¿½Xï¿½Ì‰Ô‚ï¿½ï¿½ç‚­ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½vï¿½ï¿½ï¿½oï¿½ï¿½ï¿½ï¿½ï¿½vï¿½ÆŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½B<span
 lang=EN-US><o:p></o:p></span></span></p>
 
 <p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
 auto;text-align:left;line-height:16.5pt;mso-pagination:widow-orphan'><span
-style='font-size:13.5pt;font-family:"‚l‚r ‚oƒSƒVƒbƒN";mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-color:black;mso-font-kerning:0pt'>@O‰YZ’·‚Íu‚R”N¶‚É‚Æ‚Á‚ÄA‚±‚Ì‰¼İZÉ‚Å‚ÌŠÔ‚ªŒÃ—¢‚Ìv‚¢o‚É‚È‚éBŒ€‚ğ“Á•Ê‚È‚à‚Ì‚É‚µ‚Ä‚Ù‚µ‚¢v‚ÆŠè‚Á‚½B<span
+style='font-size:13.5pt;font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+color:black;mso-font-kerning:0pt'>ï¿½@ï¿½Oï¿½Yï¿½Zï¿½ï¿½ï¿½Íuï¿½Rï¿½Nï¿½ï¿½ï¿½É‚Æ‚ï¿½ï¿½ÄAï¿½ï¿½ï¿½Ì‰ï¿½ï¿½İZï¿½É‚Å‚Ìï¿½ï¿½Ô‚ï¿½ï¿½Ã—ï¿½ï¿½Ìvï¿½ï¿½ï¿½oï¿½É‚È‚ï¿½Bï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê‚È‚ï¿½ï¿½Ì‚É‚ï¿½ï¿½Ä‚Ù‚ï¿½ï¿½ï¿½ï¿½vï¿½ÆŠï¿½ï¿½ï¿½ï¿½ï¿½B<span
 lang=EN-US><o:p></o:p></span></span></p>
 
 <p class=MsoNormal align=left style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
 auto;text-align:left;line-height:16.5pt;mso-pagination:widow-orphan'><span
-style='font-size:13.5pt;font-family:"‚l‚r ‚oƒSƒVƒbƒN";mso-bidi-font-family:"‚l‚r ‚oƒSƒVƒbƒN";
-color:black;mso-font-kerning:0pt'>yÊ^ŒÃ—¢‚Ì‘åØ‚³‚ğŒ€‚É‘õ‚µ‰‰‚¶‚éÔè’†‚Ì‚R”N¶z<span lang=EN-US><o:p></o:p></span></span></p>
+style='font-size:13.5pt;font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";mso-bidi-font-family:"ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N";
+color:black;mso-font-kerning:0pt'>ï¿½yï¿½Ê^ï¿½ï¿½ï¿½Ã—ï¿½ï¿½Ì‘ï¿½Ø‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É‘ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ôè’†ï¿½Ì‚Rï¿½Nï¿½ï¿½ï¿½z<span lang=EN-US><o:p></o:p></span></span></p>
 
 <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
 

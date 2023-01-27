@@ -1,20 +1,20 @@
-@charset "Shift_JIS";
 
-/* —v‘fƒŠƒZƒbƒg */
+
+/* ï¿½vï¿½fï¿½ï¿½ï¿½Zï¿½bï¿½g */
 
 body{
     margin: 0;
     padding: 0;
     text-align: center;
     font-size: 75%;
-    font-family: 'ƒƒCƒŠƒI' ,Meiryo, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3' , 'Hiragino Kaku Gothic Pro' , '‚l‚r ‚oƒSƒVƒbƒN' , 'Osaka' ,sans-serif;
-    color : black; /* •W€•¶šF */
+    font-family: 'ï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½I' ,Meiryo, 'ï¿½qï¿½ï¿½ï¿½Mï¿½mï¿½pï¿½S Pro W3' , 'Hiragino Kaku Gothic Pro' , 'ï¿½lï¿½r ï¿½oï¿½Sï¿½Vï¿½bï¿½N' , 'Osaka' ,sans-serif;
+    color : black; /* ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½F */
     background-color : purple;
     background-image : url(bg_2Cd.png);
     background-repeat: repeat-x;
 }
 
-/* Safari—pƒnƒbƒN •¶šƒTƒCƒY’²® */
+/* Safariï¿½pï¿½nï¿½bï¿½N ï¿½ï¿½ï¿½ï¿½ï¿½Tï¿½Cï¿½Yï¿½ï¿½ï¿½ï¿½ */
 /*\*/
 html:\66irst-child body{
     font-size: 70%;
@@ -29,7 +29,7 @@ img{
 }
 
 /*--------------------------------------------------------
-  ƒŒƒCƒAƒEƒgİ’è
+  ï¿½ï¿½ï¿½Cï¿½Aï¿½Eï¿½gï¿½İ’ï¿½
 --------------------------------------------------------*/
 
 #hpb-container{
@@ -145,7 +145,7 @@ img{
     padding: 0;
 }
 
-/* ƒoƒi[ */
+/* ï¿½oï¿½iï¿½[ */
 
 #banner{
     margin-top: -1px;
@@ -166,7 +166,7 @@ img{
     width: 231px;
 }
 
-/* ƒiƒrƒQ[ƒVƒ‡ƒ“ */
+/* ï¿½iï¿½rï¿½Qï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ */
 
 #hpb-nav{
     position: absolute;
@@ -191,10 +191,10 @@ img{
 }
 
 /*--------------------------------------------------------
-  ƒfƒUƒCƒ“İ’è
+  ï¿½fï¿½Uï¿½Cï¿½ï¿½ï¿½İ’ï¿½
 --------------------------------------------------------*/
-/* ƒRƒ“ƒeƒ“ƒc”z’u—Ìˆæ */
-/* ƒgƒbƒvƒy[ƒWƒƒCƒ“ƒCƒ[ƒW */
+/* ï¿½Rï¿½ï¿½ï¿½eï¿½ï¿½ï¿½cï¿½zï¿½uï¿½Ìˆï¿½ */
+/* ï¿½gï¿½bï¿½vï¿½yï¿½[ï¿½Wï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½[ï¿½W */
 
 .hpb-layoutset-01 #hpb-title h2{
     width: 900px;
@@ -217,14 +217,14 @@ img{
 }
 
 /*--------------------------------------------------------
-  ‹¤’Êƒp[ƒcƒfƒUƒCƒ“İ’è
+  ï¿½ï¿½ï¿½Êƒpï¿½[ï¿½cï¿½fï¿½Uï¿½Cï¿½ï¿½ï¿½İ’ï¿½
 --------------------------------------------------------*/
 
 .hpb-layoutset-01 #toppage
 {
 }
 
-/* ƒiƒrƒQ[ƒVƒ‡ƒ“ */
+/* ï¿½iï¿½rï¿½Qï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ */
 
 #hpb-nav ul{
     width: 889px;

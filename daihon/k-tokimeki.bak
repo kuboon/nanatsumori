@@ -5,7 +5,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=shift_jis">
+<meta http-equiv=Content-Type content="text/html; charset=utf8">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 12">
 <meta name=Originator content="Microsoft Word 12">
@@ -350,7 +350,7 @@ w\:* {behavior:url(#default#VML);}
 <!--
  /* Font Definitions */
  @font-face
-	{font-family:"‚l‚r –ѕ’©";
+	{font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-alt:"MS Mincho";
 	mso-font-charset:128;
@@ -358,7 +358,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-font-pitch:fixed;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"‚l‚r ѓSѓVѓbѓN";
+	{font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	panose-1:2 11 6 9 7 2 5 8 2 4;
 	mso-font-alt:"MS Gothic";
 	mso-font-charset:128;
@@ -381,28 +381,28 @@ w\:* {behavior:url(#default#VML);}
 	mso-font-pitch:variable;
 	mso-font-signature:0 0 0 0 0 0;}
 @font-face
-	{font-family:"‚l‚r ‚oѓSѓVѓbѓN";
+	{font-family:"пїЅlпїЅr пїЅoпїЅSпїЅVпїЅbпїЅN";
 	panose-1:2 11 6 0 7 2 5 8 2 4;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:variable;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@‚l‚r –ѕ’©";
+	{font-family:"\@пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@‚l‚r ѓSѓVѓbѓN";
+	{font-family:"\@пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	panose-1:2 11 6 9 7 2 5 8 2 4;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@‚l‚r ‚oѓSѓVѓbѓN";
+	{font-family:"\@пїЅlпїЅr пїЅoпїЅSпїЅVпїЅbпїЅN";
 	panose-1:2 11 6 0 7 2 5 8 2 4;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
@@ -421,15 +421,15 @@ w\:* {behavior:url(#default#VML);}
 	font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
 h1
 	{mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 1 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂ;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 1 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅ;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -439,7 +439,7 @@ h1
 	mso-outline-level:1;
 	font-size:12.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:"‚l‚r ѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	mso-font-kerning:1.0pt;
@@ -447,8 +447,8 @@ h1
 h2
 	{mso-style-noshow:yes;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 2 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂ;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 2 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅ;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -459,7 +459,7 @@ h2
 	font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:"‚l‚r ѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;
@@ -467,8 +467,8 @@ h2
 h3
 	{mso-style-noshow:yes;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 3 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂ;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 3 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅ;
 	margin-top:0mm;
 	margin-right:0mm;
 	margin-bottom:0mm;
@@ -487,7 +487,7 @@ h3
 	font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:"‚l‚r ѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	mso-font-kerning:1.0pt;
@@ -495,8 +495,8 @@ h3
 h4
 	{mso-style-noshow:yes;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 4 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂ;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 4 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅ;
 	margin-top:0mm;
 	margin-right:0mm;
 	margin-bottom:0mm;
@@ -515,14 +515,14 @@ h4
 	font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r ‚oѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅoпїЅSпїЅVпїЅbпїЅN";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
 p.MsoHeader, li.MsoHeader, div.MsoHeader
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-style-link:"ѓwѓbѓ_Ѓ[ \(•¶Ћљ\)";
+	mso-style-link:"пїЅwпїЅbпїЅ_пїЅ[ \(пїЅпїЅпїЅпїЅ\)";
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -533,14 +533,14 @@ p.MsoHeader, li.MsoHeader, div.MsoHeader
 	font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
 p.MsoFooter, li.MsoFooter, div.MsoFooter
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-style-link:"ѓtѓbѓ^Ѓ[ \(•¶Ћљ\)";
+	mso-style-link:"пїЅtпїЅbпїЅ^пїЅ[ \(пїЅпїЅпїЅпїЅ\)";
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -551,7 +551,7 @@ p.MsoFooter, li.MsoFooter, div.MsoFooter
 	font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
@@ -575,7 +575,7 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
@@ -588,55 +588,55 @@ span.MsoSubtleEmphasis
 	mso-themetint:127;
 	font-style:italic;}
 span.1
-	{mso-style-name:"Њ©Џo‚µ 1 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 1 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 1";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 1";
 	mso-ansi-font-size:12.0pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
-	mso-fareast-font-family:"‚l‚r ѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	mso-hansi-font-family:Arial;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	mso-font-kerning:1.0pt;}
 span.2
-	{mso-style-name:"Њ©Џo‚µ 2 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 2 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-noshow:yes;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 2";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 2";
 	mso-ansi-font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
-	mso-fareast-font-family:"‚l‚r ѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	mso-hansi-font-family:Arial;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
 span.3
-	{mso-style-name:"Њ©Џo‚µ 3 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 3 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-noshow:yes;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 3";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 3";
 	mso-ansi-font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
-	mso-fareast-font-family:"‚l‚r ѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	mso-hansi-font-family:Arial;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
 	mso-font-kerning:1.0pt;}
 span.4
-	{mso-style-name:"Њ©Џo‚µ 4 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 4 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-noshow:yes;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 4";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 4";
 	mso-ansi-font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Times New Roman","serif";
@@ -647,12 +647,12 @@ span.4
 	mso-font-kerning:1.0pt;
 	font-weight:bold;}
 span.a
-	{mso-style-name:"ѓwѓbѓ_Ѓ[ \(•¶Ћљ\)";
+	{mso-style-name:"пїЅwпїЅbпїЅ_пїЅ[ \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:ѓwѓbѓ_Ѓ[;
+	mso-style-link:пїЅwпїЅbпїЅ_пїЅ[;
 	mso-ansi-font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Times New Roman","serif";
@@ -662,12 +662,12 @@ span.a
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
 span.a0
-	{mso-style-name:"ѓtѓbѓ^Ѓ[ \(•¶Ћљ\)";
+	{mso-style-name:"пїЅtпїЅbпїЅ^пїЅ[ \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:ѓtѓbѓ^Ѓ[;
+	mso-style-link:пїЅtпїЅbпїЅ^пїЅ[;
 	mso-ansi-font-size:10.5pt;
 	mso-bidi-font-size:12.0pt;
 	font-family:"Times New Roman","serif";
@@ -677,7 +677,7 @@ span.a0
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
 p.a1, li.a1, div.a1
-	{mso-style-name:‰‰ЊЂ‘дЋЊ;
+	{mso-style-name:пїЅпїЅпїЅпїЅпїЅдЋЊ;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	margin-top:0mm;
@@ -694,14 +694,14 @@ p.a1, li.a1, div.a1
 	word-break:break-all;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";}
 p.a2, li.a2, div.a2
-	{mso-style-name:‰‰ЊЂѓgЏ‘‚«;
+	{mso-style-name:пїЅпїЅпїЅпїЅпїЅgпїЅпїЅпїЅпїЅ;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-next:‰‰ЊЂ‘дЋЊ;
+	mso-style-next:пїЅпїЅпїЅпїЅпїЅдЋЊ;
 	margin-top:0mm;
 	margin-right:0mm;
 	margin-bottom:0mm;
@@ -716,7 +716,7 @@ p.a2, li.a2, div.a2
 	word-break:break-all;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";}
 .MsoChpDefault
@@ -726,7 +726,7 @@ p.a2, li.a2, div.a2
 	mso-ansi-font-size:10.0pt;
 	mso-bidi-font-size:10.0pt;
 	mso-ascii-font-family:Century;
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-hansi-font-family:Century;
 	mso-font-kerning:0pt;}
  /* Page Definitions */
@@ -751,7 +751,7 @@ div.Section1
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:•WЏЂ‚М•\;
+	{mso-style-name:пїЅWпїЅпїЅпїЅМ•\;
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -782,62 +782,62 @@ div.Section1
 <div class=Section1>
 
 <p class=a1><b style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;
-mso-ansi-language:JA'>‚Ж‚«‚Я‚«‚ж‚л‚Я‚«ѓtѓHѓgѓOѓ‰ѓt<o:p></o:p></span></b></p>
+mso-ansi-language:JA'>пїЅЖ‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅЯ‚пїЅпїЅtпїЅHпїЅgпїЅOпїЅпїЅпїЅt<o:p></o:p></span></b></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
 <p class=a1 style='margin-left:19.85pt;mso-para-margin-left:1.89gd;text-indent:
-0mm'><span style='font-size:11.0pt;mso-ansi-language:JA'>“oЏкђl•Ё<o:p></o:p></span></p>
+0mm'><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅoпїЅпїЅlпїЅпїЅ<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>’Я“c‰Д”ь<o:p></o:p></span></p>
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЯ“cпїЅД”пїЅ<o:p></o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>•џ‘т‚д‚«ЉG<o:p></o:p></span></p>
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅд‚«пїЅG<o:p></o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>‹Я“ЎЃ@€¤<o:p></o:p></span></p>
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЯ“пїЅпїЅ@пїЅпїЅ<o:p></o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>‰«“c‘Џ”ь<o:p></o:p></span></p>
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅcпїЅпїЅпїЅпїЅ<o:p></o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>ђј‹Ѕдќд»<o:p></o:p></span></p>
-
-<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
-
-<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{—R”ьЋqђжђ¶<o:p></o:p></span></p>
-
-<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ь‚М•к<o:p></o:p></span></p>
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅ<o:p></o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
 style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚P<o:p></o:p></span></p>
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅRпїЅпїЅпїЅqпїЅжђ¶<o:p></o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚Q<o:p></o:p></span></p>
-
-<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚R<o:p></o:p></span></p>
-
-<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>€ЦЋq‚P<o:p></o:p></span></p>
-
-<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>€ЦЋq‚Q<o:p></o:p></span></p>
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅМ•пїЅ<o:p></o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
 style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
 <p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
-style='font-size:11.0pt;mso-ansi-language:JA'>ђ¶“k‚Ѕ‚ї<o:p></o:p></span></p>
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅP<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅQ<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅR<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЦЋqпїЅP<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЦЋqпїЅQ<o:p></o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
+
+<p class=a1 style='margin-left:61.85pt;mso-para-margin-left:4.0gd'><span
+style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅkпїЅпїЅпїЅпїЅ<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
@@ -863,1067 +863,1067 @@ style='mso-ignore:vglayout'>
 </span><![endif]><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal align=left style='text-align:left;mso-pagination:widow-orphan'><span
-style='font-size:11.0pt;font-family:"‚l‚r –ѕ’©","serif";mso-hansi-font-family:Century;
+style='font-size:11.0pt;font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";mso-hansi-font-family:Century;
 mso-bidi-font-family:"Times New Roman";mso-font-kerning:0pt;mso-ansi-language:
 JA'><o:p>&nbsp;</o:p></span></p>
 
 <br style='mso-ignore:vglayout' clear=ALL>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ЃџЋµЊЋ€к“ъ(“ъ)<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅ)<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>ЃuѓJѓVѓѓѓbЃv‚Ж‚ў‚¤ѓVѓѓѓbѓ^Ѓ[‚рђШ‚й‰№‚Ж‚Ж‚а‚ЙЃA”wЊi‚ЙѓPѓ„ѓL‚М‘е–Ш‚МЋКђ^‚Є‰f‚µЏo‚і‚к‚йЃB‘±‚ў‚ДЃAЊЂ‚Мѓ^ѓCѓgѓ‹Ѓw‚Ж‚«‚Я‚«‚ж‚л‚Я‚«ѓtѓHѓgѓOѓ‰ѓtЃx‚Ж‚ў‚¤•¶Ћљ‚Є‚»‚МЋКђ^‚ЙЏd‚И‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅuпїЅJпїЅVпїЅпїЅпїЅbпїЅvпїЅЖ‚пїЅпїЅпїЅпїЅVпїЅпїЅпїЅbпїЅ^пїЅ[пїЅпїЅШ‚й‰№пїЅЖ‚Ж‚пїЅпїЅЙЃAпїЅwпїЅiпїЅЙѓPпїЅпїЅпїЅLпїЅМ‘пїЅШ‚МЋКђ^пїЅпїЅпїЅfпїЅпїЅпїЅoпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅМѓ^пїЅCпїЅgпїЅпїЅпїЅwпїЅЖ‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅЯ‚пїЅпїЅtпїЅHпїЅgпїЅOпїЅпїЅпїЅtпїЅxпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЋКђ^пїЅЙЏdпїЅИ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>ЋКђ^‚Жѓ^ѓCѓgѓ‹‚ЄЏБ‚¦•‘‘д‚Є–ѕ‚й‚­‚И‚йЃB‚»‚±‚НЋµ‚ВђXЊц‰ЂЃB–ШЃX‚Й€Н‚Ь‚к‚Ѕ—О‚ ‚У‚к‚йЊц‰Ђ‚Е‚ ‚йЃB‚Ѕ‚ѕ‚µ•‘‘дЏг‚Й‚Н–ШЃX‚рЊ©‚й‚±‚Ж‚Н‚Е‚«‚И‚ўЃB‹qђИ’†‚Щ‚З‚ЙѓPѓ„ѓL‚М‘е–Ш‚Є—§‚Б‚Д‚ў‚й‚Ж‚ў‚¤‘z’и‚ЕЊЂ‚НђiЌs‚µ‚Д‚ў‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅКђ^пїЅЖѓ^пїЅCпїЅgпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅд‚ЄпїЅпїЅпїЅй‚­пїЅИ‚пїЅBпїЅпїЅпїЅпїЅпїЅНЋпїЅпїЅВђXпїЅпїЅпїЅпїЅпїЅBпїЅШЃXпїЅЙ€Н‚Ь‚к‚ЅпїЅО‚пїЅпїЅУ‚пїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚Н–ШЃXпїЅпїЅпїЅпїЅпїЅй‚±пїЅЖ‚Н‚Е‚пїЅпїЅИ‚пїЅпїЅBпїЅqпїЅИ’пїЅпїЅЩ‚З‚ЙѓPпїЅпїЅпїЅLпїЅМ‘пїЅШ‚пїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅzпїЅпїЅЕЊпїЅпїЅНђiпїЅsпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>•‘‘дЏг‚Й‚НЋO‚В‚Мѓxѓ“ѓ`‚Ж“с‹r‚М€ЦЋq‚Є’u‚©‚к‚Д‚ў‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅЙ‚НЋOпїЅВ‚МѓxпїЅпїЅпїЅ`пїЅЖ“пїЅrпїЅМ€ЦЋqпїЅпїЅпїЅuпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€кђl‚МЏ­Џ—‚Є‹qђИ‚ЙЊь‚Ї‚ДѓJѓЃѓ‰‚рЌ\‚¦‚Д‚ў‚йЃB‰f‚µ‚ѕ‚і‚к‚ЅѓPѓ„ѓL‚МЋКђ^‚рЋB‚Б‚Ѕ‚М‚Н‚±‚МЏ­Џ—‚Е‚ ‚йЃBЏ­Џ—‚М–ј‘O‚Н’Я“c‰Д”ьЃBЋµ‚ВђX’†ЉwЌZ‚М“с”Nђ¶‚ЕЋКђ^•”‚ЙЏЉ‘®‚µ‚Д‚ў‚йЃBЏ­Џ—‚Є‰Ѕ–‡‚©ЋКђ^‚рЋB‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅlпїЅМЏпїЅпїЅпїЅпїЅпїЅпїЅqпїЅИ‚ЙЊпїЅпїЅпїЅпїЅДѓJпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\пїЅпїЅпїЅД‚пїЅпїЅпїЅBпїЅfпїЅпїЅпїЅпїЅпїЅпїЅпїЅк‚ЅпїЅPпїЅпїЅпїЅLпїЅМЋКђ^пїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚Н‚пїЅпїЅМЏпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ–пїЅпїЅOпїЅН’Я“cпїЅД”пїЅпїЅBпїЅпїЅпїЅВђXпїЅпїЅпїЅwпїЅZпїЅМ“пїЅNпїЅпїЅпїЅЕЋКђ^пїЅпїЅпїЅЙЏпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅКђ^пїЅпїЅпїЅBпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ь‚НЃA“Л‘R‘oЉб‹ѕ‚рЋж‚иЏo‚µЃA‰Ѕ‚©‚р’­‚ЯЋn‚Я‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅНЃAпїЅЛ‘RпїЅoпїЅб‹ѕпїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅр’­‚ЯЋnпїЅЯ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‘oЉб‹ѕ‚НѓPѓ„ѓL‚М‘е–Ш‚МЏЅ‚М•ы‚рЊь‚ў‚ДЋ~‚Ь‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅoпїЅб‹ѕпїЅНѓPпїЅпїЅпїЅLпїЅМ‘пїЅШ‚МЏпїЅпїЅМ•пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЋ~пїЅЬ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>•‘‘дЊг•ы‚Мѓxѓ“ѓ`‚ЙЌ‚р‰є‚л‚µ‚Д“ЗЏ‘‚р‚µ‚Д‚ў‚йЏ­Џ—‚Є‚ў‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅМѓxпїЅпїЅпїЅ`пїЅЙЌпїЅпїЅпїЅпїЅпїЅпїЅл‚µпїЅД“ЗЏпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅйЏ­пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>Џ­Џ—‚М–ј‘O‚Н•џ‘т‚д‚«ЉGЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅМ–пїЅпїЅOпїЅН•пїЅпїЅпїЅд‚«пїЅGпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉG‚Н‰Д”ь‚ЙЉЦђS‚рЋќ‚їЃA“ЗЏ‘‚р‚в‚Я‚Д‰Д”ь‚М—lЋq‚р‚¶‚Б‚ЖЊ©‚Д‚ў‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅН‰Д”пїЅпїЅЙЉЦђSпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅЗЏпїЅпїЅпїЅпїЅпїЅЯ‚Д‰Д”пїЅпїЅМ—lпїЅqпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЊпїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉG‚Є‰Д”ь‚Й‹ЯЉс‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅпїЅпїЅД”пїЅпїЅЙ‹ЯЉпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ь‚Є‘oЉб‹ѕ‚Е‰Ѕ‚©‚рЊ©‚й‚М‚р‚в‚Я‚ДђU‚и•Ф‚йЃB‚»‚µ‚ДЃAЋ©•Є‚рЊ©‚В‚Я‚Д‚ў‚й‚д‚«ЉG‚Й‹C‚Є‚В‚­ЃBЊЛf‚ў‚рЉґ‚¶‚й‚д‚«ЉGЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅпїЅпїЅoпїЅб‹ѕпїЅЕ‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅпїЅЯ‚ДђUпїЅпїЅФ‚пїЅBпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅВ‚Я‚Д‚пїЅпїЅпїЅд‚«пїЅGпїЅЙ‹CпїЅпїЅпїЅВ‚пїЅпїЅBпїЅЛfпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅд‚«пїЅGпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@•џ‘тђж”yЃA‚Е‚·‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅyпїЅAпїЅЕ‚пїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ћ„‚М‚±‚Ж’m‚Б‚Д‚с‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅМ‚пїЅпїЅЖ’mпїЅпїЅпїЅД‚пїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚¦‚¦ЃcЃcђж”yђ¬ђС‚Є‚ў‚ў‚с‚Е—L–ј‚Е‚·‚©‚зЃB‚ё‚Б‚ЖЉw”N€к‚Ж‚©ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅcпїЅcпїЅпїЅyпїЅпїЅпїЅС‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ—LпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅЖЉwпїЅNпїЅпїЅЖ‚пїЅпїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ђж”yЃA‚±‚МЊц‰Ђ‚Е‚ў‚В‚а‰Ѕ“З‚с‚Е‚й‚с‚Е‚·‚©ЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅyпїЅAпїЅпїЅпїЅМЊпїЅпїЅпїЅпїЅЕ‚пїЅпїЅВ‚пїЅпїЅпїЅпїЅЗ‚пїЅЕ‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚ ‚Б‚ ‚кЃAЃcЃc‚ ‚к‚Ѕ‚ў‚µ‚Ѕ‚а‚М‚¶‚б‚И‚ў‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅcпїЅcпїЅпїЅпїЅк‚ЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‹і‚¦‚й‚Ж‚Ь‚ё‚ў‚а‚М‚И‚с‚Е‚·‚©ЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅЖ‚Ь‚пїЅпїЅпїЅпїЅпїЅпїЅМ‚И‚пїЅЕ‚пїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚»‚¤‚ў‚¤‚н‚Ї‚¶‚б‚И‚ў‚Ї‚ЗЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅн‚ЇпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅЗЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚ ‚И‚Ѕ‚НЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅИ‚пїЅпїЅНЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚ ‚И‚Ѕ‚Н‰ЅЊ©‚Д‚Ѕ‚МЃHЃ@’Я“c‚і‚сЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅИ‚пїЅпїЅН‰пїЅпїЅпїЅпїЅД‚пїЅпїЅМЃHпїЅ@пїЅЯ“cпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ћ„‚М‚±‚Ж’m‚Б‚Д‚й‚с‚Е‚·‚©ЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅМ‚пїЅпїЅЖ’mпїЅпїЅпїЅД‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ѓi‚¤‚И‚ё‚ў‚ДЃj“с”Nђ¶‚Е€кђl‚ѕ‚Ї‚МЋКђ^•”€хЃB‚Е‚µ‚еЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅДЃjпїЅпїЅNпїЅпїЅпїЅЕ€пїЅlпїЅпїЅпїЅпїЅпїЅМЋКђ^пїЅпїЅпїЅпїЅпїЅBпїЅЕ‚пїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Н‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅН‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚ЕЃA‰ЅЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅЕЃAпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‰ЅЊ©‚Д‚Ѕ‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃcЃc‚Ѕ‚ў‚µ‚Ѕ‚а‚М‚¶‚б‚И‚ў‚Е‚·‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅcпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅпїЅИ‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@–{“–‚Й‚Ѕ‚ў‚µ‚Ѕ‚а‚М‚¶‚б‚И‚ў‚Е‚·‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅ{пїЅпїЅпїЅЙ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅпїЅИ‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‹і‚¦‚й‚Ж‚Ь‚ё‚ў‚а‚М‚И‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅЖ‚Ь‚пїЅпїЅпїЅпїЅпїЅпїЅМ‚И‚МЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚»‚¤‚ў‚¤‚н‚Ї‚¶‚бЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅн‚ЇпїЅпїЅпїЅпїЅcпїЅc<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉG‚Є‚­‚·‚и‚ЖЏО‚¤ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЏО‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ь‚а‚В‚з‚к‚ДЏО‚ўЏo‚·ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅпїЅпїЅВ‚пїЅпїЅДЏО‚пїЅпїЅoпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃiѓPѓ„ѓL‚МЏЅ‚рЊ©‚ЅЊгЃA‚д‚«ЉG‚М•ы‚рЊь‚ў‚ДЃj’N‚Й‚аЊѕ‚ў‚Ь‚№‚с‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅiпїЅPпїЅпїЅпїЅLпїЅМЏпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅд‚«пїЅGпїЅМ•пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃjпїЅNпїЅЙ‚пїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅс‚©ЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ѓi‚¤‚И‚ё‚­Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Щ‚с‚Ж‚ЙЃA’N‚Й‚а<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЩ‚пїЅЖ‚ЙЃAпїЅNпїЅЙ‚пїЅ<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Њѕ‚н‚И‚ў‚Б‚ДЃBЃi‚±‚±‚ЕЋКђ^•”€хЋO”N‚Мђј‹Ѕдќд»‚Ж‰«“c‘Џ”ь‚Є‚±‚МЏкЏЉ‚ЙЊь‚©‚Б‚Д‚ў‚й‚М‚Й‹C‚Є‚В‚ў‚ДЃjЌЎ“ъ‚Н‚ў‚ўЃBЌЎ“x‹і‚¦‚ДЃB‚¶‚б‚ ‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅДЃBпїЅiпїЅпїЅпїЅпїЅпїЅЕЋКђ^пїЅпїЅпїЅпїЅпїЅOпїЅNпїЅМђпїЅпїЅпїЅпїЅд»‚Ж‰пїЅпїЅcпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЏкЏЉпїЅЙЊпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅМ‚Й‹CпїЅпїЅпїЅВ‚пїЅпїЅДЃjпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅxпїЅпїЅпїЅпїЅпїЅДЃBпїЅпїЅпїЅб‚ пїЅЛЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉG‚Є‹A‚Б‚Д‚ў‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅпїЅпїЅAпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉG‚Є‹A‚Б‚Ѕ‚М‚Ж‚Н”Ѕ‘О•ыЊь‚©‚зЃA‘Џ”ь‚Ждќд»‚ЄЊ»‚к‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅМ‚Ж‚Н”пїЅпїЅО•пїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅд»‚пїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚Ё‚Н‚ж‚¤ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅН‚ж‚¤пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚Ё‚Б‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚а‚µ‚©‚µ‚Д‰Д”ь‚аЊД‚О‚к‚Ѕ‚МЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‰Д”пїЅпїЅпїЅпїЅД‚О‚к‚ЅпїЅМЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Н‚ўЃA€¤ђж”y‚©‚зЋµ‚ВђXЊц‰Ђ‚ЙЏWЌ‡‚Б‚ДѓЃЃ[ѓ‹‚Є“ь‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅН‚пїЅпїЅAпїЅпїЅпїЅпїЅyпїЅпїЅпїЅзЋµпїЅВђXпїЅпїЅпїЅпїЅпїЅЙЏWпїЅпїЅпїЅпїЅпїЅДѓпїЅпїЅ[пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‰Ѕ‚ѕ‚лЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚і‚ ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅпїЅпїЅcпїЅc<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉG‚Є‹A‚Б‚Ѕ•ыЊь‚©‚з‹Я“Ў€¤‚Є‚в‚Б‚Д‚­‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЯ“пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚Ё‚Н‚ж‚¤ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅН‚ж‚¤пїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚Э‚с‚И‚Є”Ѕ‰ћ‚·‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЭ‚пїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ Ѓ[‚ ЃAЊ™‚И‚в‚В‚Й‰п‚Б‚ї‚б‚Б‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅ[пїЅпїЅпїЅAпїЅпїЅпїЅИ‚пїЅВ‚Й‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@’NЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅNпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@•џ‘т‚д‚«ЉGЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅд‚«пїЅGпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚ ‚кЃA‚»‚к‚¶‚бЌЎ‚і‚Б‚«‰Д”ь‚Є‚±‚±‚Еb‚µ‚Д‚Ѕ‚МЃA‚д‚«ЉGЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅAпїЅпїЅпїЅк‚¶пїЅбЌЎпїЅпїЅпїЅпїЅпїЅпїЅпїЅД”пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕbпїЅпїЅпїЅД‚пїЅпїЅМЃAпїЅд‚«пїЅGпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Н‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅН‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@’m‚Б‚Д‚й‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅmпїЅпїЅпїЅД‚пїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@b‚µ‚Ѕ‚МЃAЌЎ“ъ‚ЄЏ‰‚Я‚Д‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅbпїЅпїЅпїЅпїЅпїЅМЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЯ‚Д‚Е‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚д‚«ЉG‚ЖЃAb‚µ‚Ѕ‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅд‚«пїЅGпїЅЖЃAпїЅbпїЅпїЅпїЅпїЅпїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@b‚µ‚Ѕ‚Б‚Д‚ў‚Б‚Д‚аЃA‚Щ‚с‚М‚ї‚е‚Б‚Ж‚ЕЃA‚·‚®•џ‘тђж”yЌs‚Б‚ї‚б‚Б‚Ѕ‚с‚ЕЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅbпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅД‚пїЅпїЅAпїЅЩ‚пїЅМ‚пїЅпїЅпїЅпїЅпїЅЖ‚ЕЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅyпїЅsпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚д‚«ЉG‚Ж‰Ѕ‚Мb‚µ‚Ѕ‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅд‚«пїЅGпїЅЖ‰пїЅпїЅМbпїЅпїЅпїЅпїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‰Ѕ‚Мb‚Б‚ДЃcЃc•џ‘тђж”y‚Б‚Д‚ё‚Б‚Жђ¬ђС‚ЄЉw”N€к‚Е‚·‚ж‚Л‚Б‚ДЃA<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅМbпїЅпїЅпїЅДЃcпїЅcпїЅпїЅпїЅпїЅпїЅyпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅЖђпїЅпїЅС‚пїЅпїЅwпїЅNпїЅпїЅЕ‚пїЅпїЅпїЅЛ‚пїЅпїЅДЃA<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚Ж‚±‚л‚Є‚іЃB‚ ‚ў‚ВЃA‚±‚МЉФ‚М’†ЉФЋЋЊ±‚Е‚В‚ў‚ЙЉw”N€к”Ф‚МЌА‚©‚з“]—Ћ‚µ‚Ѕ‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅЖ‚пїЅпїЅл‚ЄпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅВЃAпїЅпїЅпїЅМЉФ‚М’пїЅпїЅФЋпїЅпїЅпїЅпїЅЕ‚В‚пїЅпїЅЙЉwпїЅNпїЅпїЅФ‚МЌпїЅпїЅпїЅпїЅпїЅ]пїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚»‚кЃA‚Щ‚с‚ЖЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅAпїЅЩ‚пїЅЖЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@Џ\”Ф€И“а‚Й‚а“ь‚к‚И‚©‚Б‚Ѕ‚Б‚ДЃB‚ґ‚ЬЃ[‚Э‚л‚ѕЃBЃiЏО‚¤Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅ\пїЅФ€И“пїЅпїЅЙ‚пїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃBпїЅпїЅпїЅЬЃ[пїЅЭ‚л‚ѕпїЅBпїЅiпїЅО‚пїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@€¤ђж”yЃB•џ‘тђж”y‚ЙЌ¦‚Э‚Е‚а‚ ‚й‚с‚Е‚·‚©ЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅyпїЅBпїЅпїЅпїЅпїЅпїЅyпїЅЙЌпїЅпїЅЭ‚Е‚пїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚¤‚ў‚¤‚н‚Ї‚¶‚б‚И‚ў‚с‚ѕ‚Ї‚З‚іЃB‚И‚с‚©•Ч‹­‚О‚Б‚©‚и‚µ‚Д‚йѓ„ѓc‚Б‚Д‚Ю‚©‚В‚­‚с‚ѕ‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅн‚ЇпїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕ‚пїЅпїЅЗ‚пїЅпїЅBпїЅИ‚с‚©•Ч‹пїЅпїЅО‚пїЅпїЅпїЅпїЅи‚µпїЅД‚йѓ„пїЅcпїЅпїЅпїЅД‚Ю‚пїЅпїЅВ‚пїЅпїЅс‚ѕ‚пїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚н‚©‚йЃA‚И‚с‚©Њ™‚ѕ‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅн‚©пїЅпїЅAпїЅИ‚с‚©ЊпїЅпїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚д‚«ЉG‚Б‚ДѓeѓXѓg‚Щ‚Ж‚с‚З•S“_‚¶‚б‚И‚ўЃB‘S‘R–К”’–Ў‚Є‚И‚ў‚с‚ѕ‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅд‚«пїЅGпїЅпїЅпїЅДѓeпїЅXпїЅgпїЅЩ‚Ж‚пїЅЗ•SпїЅ_пїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅSпїЅRпїЅК”пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@€кЏЏ‚Йb‚µ‚Д‚й‚Ж”nЋ­‚Й‚і‚к‚Д‚й‹C‚Є‚·‚й‚µЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅкЏЏпїЅЙbпїЅпїЅпїЅД‚пїЅЖ”nпїЅпїЅпїЅЙ‚пїЅпїЅпїЅД‚пїЅCпїЅпїЅпїЅпїЅпїЅй‚µпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ ‚к”nЋ­‚Й‚µ‚Д‚с‚ѕ‚жЃA‚Щ‚с‚Ж‚М‚Ж‚±‚лЃB‚ ‚Ѕ‚µЃA‚д‚«ЉG‚Ж“Ї‚¶ѓNѓ‰ѓX‚¶‚б‚И‚ўЃB‚а‚¤ЃA‚Щ‚с‚ЖЊ™‚Й‚И‚йЃB‚±‚И‚ў‚ѕ‚МЌ‘Њк‚МЋћЉФЃAЋЌ‚МN“З‚ѕ‚Б‚Ѕ‚с‚ѕ‚Ї‚З‚іЃBЃuЋ„‚НЉC‚рЊ©‚Ѕ‚±‚Ж‚Є‚И‚ўЃv‚Б‚ДЋЌ‚ ‚й‚¶‚б‚И‚ўЃB‚ ‚к‚р‚іЃA‚ ‚Ѕ‚µЃAЃuѓ^ѓЏѓV‚НЉC‚рЊ©‚Ѕ‚±‚Ж‚Є‚И‚ўЃv‚Б‚Д“З‚с‚¶‚б‚Б‚Ѕ‚с‚ѕ‚жЃB‚»‚µ‚Ѕ‚зЃA‚д‚«ЉGЃAѓv‚Б‚ДђЃ‚«Џo‚µ‚Д‚іЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅnпїЅпїЅпїЅЙ‚пїЅпїЅД‚с‚ѕ‚пїЅAпїЅЩ‚пїЅЖ‚М‚Ж‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅд‚«пїЅGпїЅЖ“пїЅпїЅпїЅпїЅNпїЅпїЅпїЅXпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅAпїЅЩ‚пїЅЖЊпїЅпїЅЙ‚И‚пїЅBпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅМЌпїЅпїЅпїЅМЋпїЅпїЅФЃAпїЅпїЅпїЅМNпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅпїЅЗ‚пїЅпїЅBпїЅuпїЅпїЅпїЅНЉCпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅИ‚пїЅпїЅvпїЅпїЅпїЅДЋпїЅпїЅпїЅпїЅй‚¶пїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅuпїЅ^пїЅпїЅпїЅVпїЅНЉCпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅИ‚пїЅпїЅvпїЅпїЅпїЅД“З‚с‚¶‚пїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅд‚«пїЅGпїЅAпїЅvпїЅпїЅпїЅДђпїЅпїЅпїЅпїЅoпїЅпїЅпїЅД‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚»‚и‚бЏО‚¤‚ѕ‚лЃBѓ^ѓЏѓV‚ЄЉC‚рЊ©‚й‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅпїЅпїЅО‚пїЅпїЅпїЅпїЅпїЅBпїЅ^пїЅпїЅпїЅVпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅй‚©пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ѕ‚©‚з‚іЃAдќд»‚ЄЏО‚¤‚с‚И‚з‹–‚№‚й‚с‚ѕ‚жЃB‚Е‚а‚іЃA‚д‚«ЉG‚ѕ‚Ж‹–‚№‚И‚ў‚с‚ѕ‚ж‚ЛЃBЏО‚ў‚©‚зЃu‚ ‚И‚Ѕ‚Щ‚с‚Ж‚Й”nЋ­‚ЛЃv‚Б‚Д“`‚н‚Б‚Д‚­‚й‚с‚ѕ‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅз‚іпїЅAпїЅд»‚пїЅпїЅО‚пїЅпїЅпїЅИ‚з‹–пїЅпїЅпїЅпїЅс‚ѕ‚пїЅBпїЅЕ‚пїЅпїЅпїЅпїЅAпїЅд‚«пїЅGпїЅпїЅпїЅЖ‹пїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕ‚пїЅЛЃBпїЅО‚пїЅпїЅпїЅпїЅпїЅuпїЅпїЅпїЅИ‚пїЅпїЅЩ‚пїЅЖ‚Й”nпїЅпїЅпїЅЛЃvпїЅпїЅпїЅД“`пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅс‚ѕ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@ЋАЌЫ‚»‚¤‚¶‚б‚сЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅЫ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚¤‚ѕ‚Ї‚З‚іЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚Е‚аЌЎ‰с‚М€к€К“]—Ћ‚НѓVѓ‡ѓbѓN‚ѕ‚Б‚Ѕ‚л‚¤‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЕ‚пїЅпїЅпїЅпїЅпїЅМ€пїЅК“]пїЅпїЅпїЅНѓVпїЅпїЅпїЅbпїЅNпїЅпїЅпїЅпїЅпїЅпїЅпїЅл‚¤пїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ў‚ўЊoЊ±ЃB‚ё‚Б‚Ж€к”Ф‚И‚с‚ДђlЉФ‚Ж‚µ‚Д‚Ё‚©‚µ‚ў‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅЖ€пїЅФ‚И‚пїЅДђlпїЅФ‚Ж‚пїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚н‚©‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅн‚©пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚Е‚µ‚еЃB‚Е‚µ‚еЃB‚ ‚кЃA‰Ѕ‚Е‚ ‚Ѕ‚µ‚Ѕ‚ї‚д‚«ЉG‚Мb‚µ‚Д‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅЕ‚пїЅпїЅпїЅBпїЅЕ‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅAпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅд‚«пїЅGпїЅМbпїЅпїЅпїЅД‚с‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@€¤‚ЄЋn‚Я‚Ѕ‚с‚Е‚µ‚е‚¤ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅnпїЅЯ‚пїЅпїЅпїЅЕ‚пїЅпїЅе‚¤пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚¤‚ѕ‚Б‚ЇЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚ЕЃA‰Ѕ‚ЕЏWЌ‡‚©‚Ї‚Ѕ‚М‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЕЃAпїЅпїЅпїЅЕЏWпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚¤‚»‚¤ЃA‚»‚к‚»‚кЃB‚Э‚с‚ИЃAЊ©‚Д‹Б‚Ї‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅк‚»пїЅпїЅBпїЅЭ‚пїЅИЃAпїЅпїЅпїЅД‹пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤‚ЄђV•·‚МЌLЌђ‚рЋж‚иЏo‚·ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅVпїЅпїЅпїЅМЌLпїЅпїЅпїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚¶‚бЃ[‚сЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅ[пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‰Ѕ‚»‚кЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@Њ©‚к‚О‚н‚©‚й‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅО‚н‚©пїЅпїЅпїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‘жЏ\“с‰сѓIѓNѓgѓpѓXѓtѓHѓgѓRѓ“ѓNЃ[ѓ‹ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅ\пїЅпїЅпїЅIпїЅNпїЅgпїЅpпїЅXпїЅtпїЅHпїЅgпїЅRпїЅпїЅпїЅNпїЅ[пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ѓIѓNѓgѓpѓX‚Б‚Д‚ ‚М—L–ј‚ИѓJѓЃѓ‰‚М‰пЋР‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅIпїЅNпїЅgпїЅpпїЅXпїЅпїЅпїЅД‚пїЅпїЅМ—LпїЅпїЅпїЅИѓJпїЅпїЅпїЅпїЅпїЅМ‰пїЅР‚Е‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@Ѓi‚¤‚И‚ё‚­Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚»‚к‚ЕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅЕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‰ћ•еЋ‘Љi‚Н•s–вЃBѓOѓ‰ѓ“ѓvѓЉ‚Н€к“_•S–њ‰~ЃBЌX‚Й‹аЏЬ€к“_ЊЬЏ\–њ‰~ЃB‹вЏЬ“с“_Џ\–њ‰~ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅеЋ‘пїЅiпїЅН•sпїЅпїЅBпїЅOпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅН€пїЅ_пїЅSпїЅпїЅпїЅ~пїЅBпїЅXпїЅЙ‹пїЅпїЅЬ€пїЅ_пїЅЬЏ\пїЅпїЅпїЅ~пїЅBпїЅпїЅЬ“пїЅ_пїЅ\пїЅпїЅпїЅ~пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃEдќд»ЃE‰Д”ьЃ@‚·‚ІЃ[‚ўЃBЃiЃu‚·‚І‚ў‚Е‚·‚ЛЃv‚Ж‚ў‚Б‚Ѕ‹Б‚«‚МђєЃj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅEпїЅд»ЃEпїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅ[пїЅпїЅпїЅBпїЅiпїЅuпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅЛЃvпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМђпїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ЋКђ^•”‚Е’§ђн‚µ‚Д‚Э‚ж‚¤‚жЃBЋКђ^•”‚Б‚Д‚іЃA‰^“®•”‚И‚с‚©‚Ж”д‚Ч‚й‚Ж’n–Ў‚¶‚б‚И‚ўЃB‚Н‚Б‚«‚и‚ў‚Б‚ДЉwЌZ‚Е‚а”nЋ­‚Й‚і‚к‚Д‚й‚µЃB‚±‚±‚Е‘¶ЌЭ‚р‚ПЃ[‚Б‚ЖѓAѓsЃ[ѓ‹‚µ‚ж‚¤‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅКђ^пїЅпїЅпїЅЕ’пїЅпїЅн‚µпїЅД‚Э‚ж‚¤пїЅпїЅBпїЅКђ^пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅAпїЅ^пїЅпїЅпїЅпїЅпїЅИ‚с‚©‚Ж”пїЅЧ‚пїЅЖ’nпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅН‚пїЅпїЅпїЅпїЅи‚ўпїЅпїЅпїЅДЉwпїЅZпїЅЕ‚пїЅпїЅnпїЅпїЅпїЅЙ‚пїЅпїЅпїЅД‚й‚µпїЅBпїЅпїЅпїЅпїЅпїЅЕ‘пїЅпїЅЭ‚пїЅпїЅПЃ[пїЅпїЅпїЅЖѓAпїЅsпїЅ[пїЅпїЅпїЅпїЅпїЅж‚¤пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚ў‚ў‚Е‚·‚ЛЃA‚»‚кЃBЃ¦<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅЛЃAпїЅпїЅпїЅпїЅBпїЅпїЅ<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚ў‚ў‚¶‚б‚сЃBЃ¦Ѓ@<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅ@<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ћ„‚Ѕ‚ї‚М’†‚©‚зЋуЏЬЋТ‚ЄЏo‚к‚ОђV“ь•”€х‚а“ь‚Б‚Д‚«‚Ь‚·‚©‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅМ’пїЅпїЅпїЅпїЅпїЅпїЅЬЋТ‚пїЅпїЅoпїЅпїЅОђVпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅЬ‚пїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚±‚М‚Ь‚Ь‚ѕ‚ЖЋ„‚Ѕ‚ї‚Є‘І‹Ж‚·‚к‚О—€”N‚Н‰Д”ь€кђl‚ѕ‚а‚с‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅМ‚Ь‚Ь‚пїЅпїЅЖЋпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅО—пїЅпїЅNпїЅН‰Д”пїЅпїЅпїЅlпїЅпїЅпїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ђж”yЃA‚»‚к‚Н‚«‚Б‚В‚ў‚ИЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅyпїЅAпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅВ‚пїЅпїЅИЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‰Д”ь€кђl‚Й‚И‚Б‚Д‚аЋКђ^•”‘±‚Ї‚й‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅД”пїЅпїЅпїЅlпїЅЙ‚И‚пїЅпїЅД‚пїЅпїЅКђ^пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Ь‚ ЃA‚»‚М‚В‚а‚и‚Е‚·‚Ї‚ЗЃB‚Е‚аЃA‚»‚¤‚И‚з‚И‚ў‚ж‚¤‚Й‚±‚±‚ЕѓAѓsЃ[ѓ‹‚·‚й‚М‚а‚ў‚ў‚©‚И‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЬ‚пїЅпїЅAпїЅпїЅпїЅМ‚В‚пїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅЗЃBпїЅЕ‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅИ‚пїЅИ‚пїЅпїЅж‚¤пїЅЙ‚пїЅпїЅпїЅпїЅЕѓAпїЅsпїЅ[пїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@ЋКђ^‚Б‚ДЃA‚З‚с‚ИЌм•i‚Е‚а‚ў‚ў‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅКђ^пїЅпїЅпїЅДЃAпїЅЗ‚пїЅИЌпїЅiпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ї‚б‚с‚ЖѓeЃ[ѓ}‚Є‚ ‚й‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЖѓeпїЅ[пїЅ}пїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@ѓeЃ[ѓ}‚НЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅeпїЅ[пїЅ}пїЅНЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ЃiђV•·‚рЊ©‚ДЃjѓeЃ[ѓ}‚НЃAЋ©—RЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅiпїЅVпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃjпїЅeпїЅ[пїЅ}пїЅНЃAпїЅпїЅпїЅRпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚¶‚бЃA‚И‚ў‚с‚¶‚б‚сЃBЃ@Ѓ@<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅпїЅAпїЅИ‚пїЅпїЅс‚¶‚пїЅпїЅBпїЅ@пїЅ@<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ЌЕЊг‚Ь‚Е•·‚ў‚ДЃBЃiђV•·‚рЊ©‚ДЃjЃuѓeЃ[ѓ}‚НЋ©—RЃB‚Ѕ‚ѕ‚µ‚»‚МЋКђ^‚рЋК‚µ‚ЅЋћ‚М‚ ‚И‚Ѕ‚М‚Ж‚«‚Я‚«‚ЄЉґ‚¶‚з‚к‚й‚а‚МЃB‚»‚М‚Ж‚«‚Я‚«‚ЄЋКђ^‚рЊ©‚й‘¤‚Й“`‚н‚Б‚Д‚±‚И‚ў‚а‚М‚НђRЌё‚М‘ОЏЫ‚©‚з‚Н‚ё‚µ‚Ь‚·Ѓv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅЕЊпїЅЬ‚Е•пїЅпїЅпїЅпїЅДЃBпїЅiпїЅVпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃjпїЅuпїЅeпїЅ[пїЅ}пїЅНЋпїЅпїЅRпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЋКђ^пїЅпїЅпїЅК‚пїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅИ‚пїЅпїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЃBпїЅпїЅпїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅКђ^пїЅпїЅпїЅпїЅпїЅй‘¤пїЅЙ“`пїЅпїЅпїЅпїЅД‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅМ‚НђRпїЅпїЅпїЅМ‘ОЏЫ‚пїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅЬ‚пїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚И‚с‚©“п‚µ‚ў‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅИ‚с‚©“п‚µпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚Ь‚ѕ‘±‚«‚Є‚ ‚й‚с‚ѕЃBЃiђV•·‚рЊ©‚ДЃjЃu‚Ж‚«‚Я‚«‚Ж‚ў‚Б‚Д‚ађl‚»‚к‚ј‚к‚Е‚·ЃBЋ©•Є‚И‚и‚М‚Ж‚«‚Я‚«‚рЋКђ^‚Й‚µ‚Д‚­‚ѕ‚і‚ўЃB‚ ‚И‚Ѕ‚МЃw‚Ж‚«‚Я‚«ѓtѓHѓgѓOѓ‰ѓtЃx‚р‘Т‚Б‚Д‚ў‚Ь‚·Ѓv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅЬ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅiпїЅVпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃjпїЅuпїЅЖ‚пїЅпїЅЯ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅД‚пїЅпїЅlпїЅпїЅпїЅк‚јпїЅпїЅЕ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅИ‚пїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅКђ^пїЅЙ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅИ‚пїЅпїЅМЃwпїЅЖ‚пїЅпїЅЯ‚пїЅпїЅtпїЅHпїЅgпїЅOпїЅпїЅпїЅtпїЅxпїЅпїЅТ‚пїЅпїЅД‚пїЅпїЅЬ‚пїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@Ћ©•Є‚И‚и‚М‚Ж‚«‚Я‚«ЃcЃc‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅИ‚пїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅcпїЅcпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>Ќl‚¦Ќћ‚ЮЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅlпїЅпїЅпїЅпїЅпїЅЮЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@’ч‚ЯђШ‚и‚Н‚ў‚В‚Е‚·‚©ЃHЃ@<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅЯђШ‚пїЅН‚пїЅпїЅВ‚Е‚пїЅпїЅпїЅпїЅHпїЅ@<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@”ЄЊЋЋOЏ\€к“ъЃAЏБ€у—LЊш‚ѕ‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅOпїЅ\пїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅLпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@’ч‚ЯђШ‚и‚Ь‚Е“сѓ–ЊЋ‚а‚ ‚й‚с‚Е‚·‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅЯђШ‚пїЅЬ‚Е“сѓ–ЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅЛЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ь‚ЄЋКђ^‚р€к–‡Ћж‚иЏo‚µ‚»‚к‚р’­‚Я‚Д‚ў‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅКђ^пїЅпїЅпїЅк–‡пїЅпїЅпїЅoпїЅпїЅпїЅпїЅпїЅпїЅр’­‚Я‚Д‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤‚Є‚»‚МЋКђ^‚рЊг‚л‚©‚зЊ©‚ДЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅМЋКђ^пїЅпїЅпїЅпїЅл‚©пїЅзЊ©пїЅДЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‘Џ”ьЃA’N‚»‚кЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅNпїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ь‚ЄЋКђ^‚р”w’†‚Й‚а‚Б‚Д‚ў‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅКђ^пїЅпїЅwпїЅпїЅпїЅЙ‚пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@’N‚жЃA‚»‚кЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅNпїЅпїЅAпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‰Ѕ‚Е‚а‚И‚ў‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅЕ‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚МЋКђ^‚МЋqЃA‘Џ”ь‚М‚Ж‚«‚Я‚«ЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅМЋКђ^пїЅМЋqпїЅAпїЅпїЅпїЅпїЅпїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚¤‚И‚М‚ЛЃB’NЃA’NЃA’NЃA’NЃHЃ@‚В‚«‚ ‚Б‚Д‚й‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅИ‚М‚ЛЃBпїЅNпїЅAпїЅNпїЅAпїЅNпїЅAпїЅNпїЅHпїЅ@пїЅВ‚пїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@ЃiЋс‚рђU‚Б‚ДЃj–ј‘O‚а’m‚з‚И‚ўЃB‚¤‚ї‚МЉwЌZ‚¶‚б‚И‚ў‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅUпїЅпїЅпїЅДЃjпїЅпїЅпїЅOпїЅпїЅпїЅmпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅМЉwпїЅZпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@Ѓi‘Џ”ь‚М”w’†‚МЋКђ^‚рЊ©‚ДЃj•ђ“cЏrЌЖЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅiпїЅпїЅпїЅпїЅпїЅМ”wпїЅпїЅпїЅМЋКђ^пїЅпїЅпїЅпїЅпїЅДЃjпїЅпїЅпїЅcпїЅrпїЅЖЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@’m‚Б‚Д‚й‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅmпїЅпїЅпїЅД‚пїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@—Ч‚М“с‚ВђX’†Љw‚Й’К‚Б‚Д‚йЃB–м‹…•”ЃAѓsѓbѓ`ѓѓЃ[ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅЧ‚М“пїЅВђXпїЅпїЅпїЅwпїЅЙ’К‚пїЅпїЅД‚пїЅBпїЅм‹…пїЅпїЅпїЅAпїЅsпїЅbпїЅ`пїЅпїЅпїЅ[пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‰Ѕ‚ЕЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅЕЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@Џm‚Є€кЏЏЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅmпїЅпїЅпїЅкЏЏпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@”ЮЏ—‚НЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЮЏпїЅпїЅНЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‰ґЃA‚»‚¤‚ў‚¤‚±‚Ж‚Й‹»–Ў‚И‚ў‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚Й‹пїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‘Џ”ьЃA‚З‚¤‚·‚йЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅЗ‚пїЅпїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚З‚¤‚·‚й‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@“І‚к‚ѕ‚Ї‚Е‚ў‚ў‚МЃHЃ@”ЮЋЃ‚Й‚µ‚Ѕ‚ў‚ЖЋv‚н‚И‚ў‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅк‚ѕпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅМЃHпїЅ@пїЅЮЋпїЅпїЅЙ‚пїЅпїЅпїЅпїЅпїЅпїЅЖЋvпїЅпїЅИ‚пїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚»‚к‚НЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅНЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@Ћv‚¤‚Е‚µ‚еЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅvпїЅпїЅпїЅЕ‚пїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@Ѓi‚¤‚И‚ё‚­ЃjЊ€‚Я‚ЅЃB‚Ж‚«‚Я‚«‚Н—цЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅjпїЅпїЅпїЅЯ‚пїЅпїЅBпїЅЖ‚пїЅпїЅЯ‚пїЅпїЅН—пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‰«“cђж”yЃAђж”y‚Н‚±‚МЋКђ^‚р‘—‚й‚±‚Ж‚ЕЊ€‚Ь‚и‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅcпїЅпїЅyпїЅAпїЅпїЅyпїЅН‚пїЅпїЅМЋКђ^пїЅр‘—‚й‚±пїЅЖ‚ЕЊпїЅпїЅЬ‚пїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@ЃiЋс‚рђU‚Б‚ДЃjЋ„ЃA”Ю‚МЋКђ^ЋB‚и‚Ь‚­‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅUпїЅпїЅпїЅДЃjпїЅпїЅпїЅAпїЅЮ‚МЋКђ^пїЅBпїЅпїЅЬ‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ЋКђ^ЋB‚й‚ѕ‚Ї‚¶‚б‚ѕ‚Я‚ѕ‚жЃBЌs“®‚µ‚И‚­‚Б‚ї‚бЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅКђ^пїЅBпїЅй‚ѕпїЅпїЅпїЅпїЅпїЅб‚ѕпїЅЯ‚пїЅпїЅпїЅBпїЅsпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚н‚©‚Б‚ЅЃB‚Ж‚«‚Я‚«‚Мѓ‰ѓXѓg‚Н”Ю‚Ж‚МѓcЃ[ѓVѓ‡ѓbѓg‚Й‚·‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅн‚©пїЅпїЅпїЅпїЅпїЅBпїЅЖ‚пїЅпїЅЯ‚пїЅпїЅМѓпїЅпїЅXпїЅgпїЅН”Ю‚Ж‚МѓcпїЅ[пїЅVпїЅпїЅпїЅbпїЅgпїЅЙ‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚¤‚»‚¤ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ћ©ђM‚ ‚й‚с‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅMпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@ЃiЋс‚рђU‚й‚Б‚ДЃj‚З‚¤‚µ‚Ѕ‚з‚ў‚ў‚ѕ‚лЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅUпїЅпїЅпїЅпїЅДЃjпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅз‚ўпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚в‚Б‚ПЃA‚Ь‚ё‚Н‰Ѕ‚Ж‚©‚µ‚ДѓЃѓAѓh‚р•·‚«Џo‚·‚±‚ЖЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅПЃAпїЅЬ‚пїЅпїЅН‰пїЅпїЅЖ‚пїЅпїЅпїЅпїЅДѓпїЅпїЅAпїЅhпїЅр•·‚пїЅпїЅoпїЅпїЅпїЅпїЅпїЅЖЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚З‚¤‚в‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЗ‚пїЅпїЅпїЅпїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚Ь‚ё‚Н‚«‚Б‚©‚ЇЌм‚и‚¶‚б‚И‚ўЃB‚Ь‚ѕb‚µ‚Ѕ‚±‚Ж‚а‚И‚ў‚с‚Е‚µ‚еЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅЬ‚пїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅи‚¶пїЅпїЅИ‚пїЅпїЅBпїЅЬ‚пїЅпїЅbпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅИ‚пїЅпїЅпїЅЕ‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@”Ю‚М‘O‚Еѓnѓ“ѓJѓ`‚р—Ћ‚Ж‚·‚Ж‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЮ‚М‘OпїЅЕѓnпїЅпїЅпїЅJпїЅ`пїЅр—Ћ‚Ж‚пїЅпїЅЖ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ѓnѓ“ѓJѓ`ЃHЃ@‚»‚с‚ИЋиЃAЊГ‚·‚¬‚й‚жЃBЏo‰п‚ў‚Н‹ф‘R‚ЖЋ©‘R‚і‚р‘•‚Б‚Д‰‰Џo‚µ‚И‚­‚Б‚ї‚бЃB—б‚¦‚ОЃA”Ю‚М‘O‚Е‰ц‰д‚р‚·‚й‚Ж‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅnпїЅпїЅпїЅJпїЅ`пїЅHпїЅ@пїЅпїЅпїЅпїЅИЋпїЅAпїЅГ‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅoпїЅп‚ўпїЅН‹пїЅпїЅRпїЅЖЋпїЅпїЅRпїЅпїЅпїЅр‘•‚пїЅпїЅД‰пїЅпїЅoпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅб‚¦пїЅОЃAпїЅЮ‚М‘OпїЅЕ‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚»‚М•ы‚Є‚н‚ґ‚Ж‚з‚µ‚­‚И‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅМ•пїЅпїЅпїЅпїЅн‚ґпїЅЖ‚з‚µпїЅпїЅпїЅИ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ѕ‚©‚з‚»‚к‚рЋ©‘R‚Й‚в‚й‚М‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅз‚»пїЅпїЅпїЅпїЅпїЅпїЅRпїЅЙ‚пїЅпїЅМ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚З‚¤‚в‚Б‚ДЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЗ‚пїЅпїЅпїЅпїЅпїЅДЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ЃiЏ­‚µЌl‚¦‚ДЃj‚і‚ДЃA‚±‚±‚Й‘Џ”ь‚М‚Ж‚«‚Я‚«‚М•ђ“cЊN‚Є—§‚Б‚Д‚й‚Ж‚µ‚ж‚¤ЃBЋv‚ў•‚‚©‚Ч‚ДЃBЊь‚±‚¤‚©‚з€кђl‚МЏ—‚МЋq‚Є‹м‚Ї‚Д‚­‚йЃB‚»‚к‚НЃAЋµ‚ВђX’†ЉwЌZЋO”NЃA‰«“c‘Џ”ьЃB”Ю‚р’З‚ў”І‚ў‚Ѕ‚Ж‚«‘Џ”ь‚Н“Л‘R‚В‚Ь‚ё‚ў‚Д“|‚к‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅпїЅпїЅlпїЅпїЅпїЅДЃjпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅЙ‘пїЅпїЅпїЅпїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅМ•пїЅпїЅcпїЅNпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅЖ‚пїЅпїЅж‚¤пїЅBпїЅvпїЅпїЅпїЅпїЅпїЅпїЅпїЅЧ‚ДЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅlпїЅМЏпїЅпїЅМЋqпїЅпїЅпїЅм‚ЇпїЅД‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅНЃAпїЅпїЅпїЅВђXпїЅпїЅпїЅwпїЅZпїЅOпїЅNпїЅAпїЅпїЅпїЅcпїЅпїЅпїЅпїЅпїЅBпїЅЮ‚пїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅН“Л‘RпїЅВ‚Ь‚пїЅпїЅпїЅпїЅД“|пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚ ‚БЃvЃi‚»‚¤‚ў‚Б‚Д“|‚к‚йЃB—§‚Ж‚¤‚Ж‚·‚й‘Џ”ьЃA‚µ‚©‚µ”ЮЏ—‚Н—§‚В‚±‚Ж‚Є‚Е‚«‚И‚ўЃj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅпїЅпїЅvпїЅiпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД“|пїЅпїЅпїЅBпїЅпїЅпїЅЖ‚пїЅпїЅЖ‚пїЅпїЅй‘ЏпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅЮЏпїЅпїЅН—пїЅпїЅВ‚пїЅпїЅЖ‚пїЅпїЅЕ‚пїЅпїЅИ‚пїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@•ђ“c‚Є‘Џ”ь‚Й‹Я‚Г‚­ЃA‚»‚µ‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅпїЅпїЅcпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‹Я‚Г‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚З‚¤‚µ‚Ѕ‚с‚ѕ‚ўЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‘еЏд•v‚И‚с‚Е‚а‚ ‚и‚Ь‚№‚сЃBЃi–Ъ‚р€н‚з‚µ‚ДЃj‚µ‚Я‚µ‚Я‚¤‚Ь‚­‚ў‚Б‚Ѕ‚єЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅvпїЅИ‚пїЅЕ‚пїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅпїЅBпїЅiпїЅЪ‚пїЅпїЅпїЅз‚µпїЅДЃjпїЅпїЅпїЅЯ‚пїЅпїЅЯ‚пїЅпїЅЬ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@’Й‚Э‚р‚±‚з‚¦‚Д‚Ж‚ў‚¤‚ж‚иЃA‚±‚з‚¦‚й‚У‚и‚µ‚Д—§‚їЏг‚Є‚й‘Џ”ьЃB‚»‚µ‚ДЌД‚С‘Џ”ь‚Н“|‚к‚йЃBЌЎ“x‚Н•ђ“cЊN‚М‹№‚М’†‚ЙЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅЙ‚Э‚пїЅпїЅпїЅпїЅз‚¦пїЅД‚Ж‚пїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅз‚¦пїЅпїЅУ‚и‚µпїЅД—пїЅпїЅпїЅпїЅг‚ЄпїЅй‘ЏпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅДЌД‚С‘пїЅпїЅпїЅпїЅН“|пїЅпїЅпїЅBпїЅпїЅпїЅxпїЅН•пїЅпїЅcпїЅNпїЅМ‹пїЅпїЅМ’пїЅпїЅЙЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚ ‚БЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅпїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓi“|‚к‚й‘Џ”ьЃA‘±‚ў‚Д‘Џ”ь‚рЋx‚¦‚й•ђ“c‚р‰‰‚¶‚йЃj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅiпїЅ|пїЅпїЅй‘ЏпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅД‘пїЅпїЅпїЅпїЅпїЅпїЅxпїЅпїЅпїЅй•ђпїЅcпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu–і—ќ‚µ‚ї‚б‚ѕ‚Я‚ѕЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅб‚ѕпїЅЯ‚пїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‘«‚р”PЌБ‚µ‚Д‚µ‚Ь‚Б‚Ѕ‚Э‚Ѕ‚ў‚Е‚·Ѓv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅпїЅPпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅЬ‚пїЅпїЅпїЅпїЅЭ‚пїЅпїЅпїЅпїЅЕ‚пїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚±‚к‚Н‚ў‚Ї‚И‚ўЃA‚Р‚З‚ўЊЊ‚ѕЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅИ‚пїЅпїЅAпїЅР‚З‚пїЅпїЅпїЅпїЅпїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚И‚с‚Е”PЌБ‚Е‚Р‚З‚ўЊЊ‚И‚с‚ѕЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅИ‚пїЅЕ”PпїЅпїЅпїЅЕ‚Р‚З‚пїЅпїЅпїЅпїЅИ‚с‚ѕЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚к‚НЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅНЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚»‚к‚НЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅпїЅНЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ ‚Ь‚и‚М’Й‚і‚Й‚С‚Б‚­‚и‚µ‚Д•@ЊЊ‚ЄЏo‚Ѕ‚М‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅЬ‚пїЅМ’Й‚пїЅпїЅЙ‚С‚пїЅпїЅпїЅпїЅи‚µпїЅД•@пїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅМ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚И‚й‚Щ‚З•@ЊЊ‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅИ‚пїЅЩ‚З•@пїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@•ђ“c‚НЋ©•Є‚Мѓnѓ“ѓJѓ`‚р”j‚ў‚Д”PЌБ‚МЋи“–‚р‚·‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅcпїЅНЋпїЅпїЅпїЅпїЅМѓnпїЅпїЅпїЅJпїЅ`пїЅпїЅjпїЅпїЅпїЅД”PпїЅпїЅпїЅМЋи“–пїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@•@ЊЊ‚М•ы‚Н‚ў‚ў‚МЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅ@пїЅпїЅпїЅМ•пїЅпїЅН‚пїЅпїЅпїЅпїЅМЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚к‚Н‚±‚к‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅН‚пїЅпїЅк‚©пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu’Й‚­‚ДЃA’Й‚­‚Д•@ЊЊ‚ЄЋ~‚Ь‚з‚И‚ў‚нЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅЙ‚пїЅпїЅДЃAпїЅЙ‚пїЅпїЅД•@пїЅпїЅпїЅпїЅпїЅ~пїЅЬ‚пїЅИ‚пїЅпїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚Ё‚ЁЃA‚Р‚З‚ў•@ЊЊ‚ѕЃBЃi•ђ“c‚НѓJѓoѓ“‚©‚зѓeѓBѓVѓ…ѓyЃ[ѓpЃ[‚рЋж‚иЏo‚·Ѓj–l‚МѓeѓBѓVѓ…ѓyЃ[ѓpЃ[‚рЋg‚Б‚Д‚­‚кЃBѓtѓ‰ѓ“ѓXђ»‚МѓeѓBѓVѓ…ѓyЃ[ѓpЃ[‚рЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅпїЅпїЅAпїЅР‚З‚пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅBпїЅiпїЅпїЅпїЅcпїЅНѓJпїЅoпїЅпїЅпїЅпїЅпїЅпїЅeпїЅBпїЅVпїЅпїЅпїЅyпїЅ[пїЅpпїЅ[пїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅjпїЅlпїЅМѓeпїЅBпїЅVпїЅпїЅпїЅyпїЅ[пїЅpпїЅ[пїЅпїЅпїЅgпїЅпїЅпїЅД‚пїЅпїЅпїЅBпїЅtпїЅпїЅпїЅпїЅпїЅXпїЅпїЅпїЅМѓeпїЅBпїЅVпїЅпїЅпїЅyпїЅ[пїЅpпїЅ[пїЅпїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓi‚Ж‚ў‚Б‚ДЋ©•Є‚М•@‚ЙѓeѓBѓVѓ…‚р‹l‚ЯЌћ‚ЮЃj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅiпїЅЖ‚пїЅпїЅпїЅпїЅДЋпїЅпїЅпїЅпїЅМ•@пїЅЙѓeпїЅBпїЅVпїЅпїЅпїЅпїЅпїЅlпїЅЯЌпїЅпїЅЮЃj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚ ‚и‚Є‚Ж‚¤‚±‚с‚И‚·‚Д‚«‚ИѓeѓBѓVѓ…ѓyЃ[ѓpЃ[‚рЋ„‚М‚Ѕ‚Я‚ЙЃB•K‚ёђф‚Б‚Д‚Ё•Ф‚µ‚µ‚Ь‚·Ѓv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅи‚ЄпїЅЖ‚пїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅД‚пїЅпїЅИѓeпїЅBпїЅVпїЅпїЅпїЅyпїЅ[пїЅpпїЅ[пїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЃBпїЅKпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅФ‚пїЅпїЅпїЅпїЅЬ‚пїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@ЃiЏО‚ў‚И‚Є‚зЃj‚»‚с‚И‚Мђф‚Б‚Д‚З‚¤‚·‚й‚с‚ѕ‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅiпїЅО‚пїЅпїЅИ‚пїЅпїЅпїЅjпїЅпїЅпїЅпїЅИ‚МђпїЅпїЅпїЅД‚З‚пїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚¶‚бЃA•@ЊЊ‚Н‚И‚µЃB”PЌБ‚ѕ‚Ї‚Й‚·‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅAпїЅ@пїЅпїЅпїЅН‚И‚пїЅпїЅBпїЅPпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚І‚Я‚с‚И‚і‚ўЃA‚ ‚И‚Ѕ‚М‚·‚Д‚«‚Иѓnѓ“ѓJѓ`‚р‚±‚с‚И‚Й‚µ‚Д‚µ‚Ь‚Б‚ДЃB‚ ‚И‚Ѕ‚Й‰Ѕ‚©‚Ё—з‚р‚µ‚И‚Ї‚к‚ОЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅЯ‚пїЅИ‚пїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚пїЅпїЅМ‚пїЅпїЅД‚пїЅпїЅИѓnпїЅпїЅпїЅJпїЅ`пїЅпїЅпїЅпїЅпїЅпїЅИ‚Й‚пїЅпїЅД‚пїЅпїЅЬ‚пїЅпїЅДЃBпїЅпїЅпїЅИ‚пїЅпїЅЙ‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅОЃv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚Ё—з‚И‚с‚ДЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅпїЅИ‚пїЅДЃv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚ў‚¦ЃA‚»‚к‚Е‚НЋ„‚М‹C‚ЄЌП‚Э‚Ь‚№‚сЃB‚ж‚л‚µ‚Ї‚к‚ОѓЃЃ[ѓ‹ѓAѓhѓЊѓX‚р‹і‚¦‚Д‚­‚ѕ‚і‚ўЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅЕ‚НЋпїЅпїЅМ‹CпїЅпїЅпїЅП‚Э‚Ь‚пїЅпїЅпїЅBпїЅпїЅл‚µпїЅпїЅпїЅпїЅОѓпїЅпїЅ[пїЅпїЅпїЅAпїЅhпїЅпїЅпїЅXпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓu‚н‚©‚Б‚Ѕ‚жЃv<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅuпїЅн‚©пїЅпїЅпїЅпїЅпїЅпїЅv<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@‚Ж‚ў‚¤‚н‚Ї‚ЕЃA–іЋ–ѓЃѓAѓh‚р•·‚­‚±‚Ж‚Є‚Е‚«‚йЃB‚Я‚Е‚Ѕ‚µЃA‚Я‚Е‚Ѕ‚µЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅЖ‚пїЅпїЅпїЅпїЅн‚ЇпїЅЕЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅhпїЅр•·‚пїЅпїЅпїЅпїЅЖ‚пїЅпїЅЕ‚пїЅпїЅпїЅBпїЅЯ‚Е‚пїЅпїЅпїЅпїЅAпїЅЯ‚Е‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ь‚Є”ЏЋи‚р‚·‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@€¤ЃB‰ґЃA•ђ“c‚МѓЃѓAѓh’m‚Б‚Д‚с‚ѕ‚Ї‚ЗЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅBпїЅпїЅпїЅAпїЅпїЅпїЅcпїЅМѓпїЅпїЅAпїЅhпїЅmпїЅпїЅпїЅД‚с‚ѕ‚пїЅпїЅЗЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ЃI<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅI<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚і‚Б‚«Њѕ‚Б‚Ѕ‚лЃB•ђ“c‚ЖЏm‚Є“Ї‚¶‚ѕ‚Б‚ДЃBЏm‚МA—Ќ–Ф‚МЉЦЊW‚Е‚ ‚ў‚В‚МѓЃѓAѓh’m‚Б‚Д‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅcпїЅЖЏmпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃBпїЅmпїЅМAпїЅпїЅпїЅФ‚МЉЦЊWпїЅЕ‚пїЅпїЅпїЅпїЅВ‚МѓпїЅпїЅAпїЅhпїЅmпїЅпїЅпїЅД‚с‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚с‚И‚з‚»‚¤‚Ж‘Ѓ‚­Њѕ‚Б‚Д‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅИ‚з‚»пїЅпїЅпїЅЖ‘пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@дќд»ЃA‚ ‚Ж‚Е‹і‚¦‚Д‚­‚к‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅд»ЃAпїЅпїЅпїЅЖ‚Е‹пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚ў‚ў‚Ї‚ЗЃA‰ґ‚©‚з’m‚Б‚Ѕ‚Б‚ДЊѕ‚н‚И‚ў‚Е‚­‚к‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃAпїЅпїЅпїЅпїЅпїЅпїЅmпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЊпїЅпїЅпїЅИ‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚n‚jЃB‚ Ѓ[ЃA‚И‚с‚©‚н‚­‚н‚­‚µ‚Д‚«‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅnпїЅjпїЅBпїЅпїЅпїЅ[пїЅAпїЅИ‚с‚©‚н‚­пїЅн‚­пїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚Ж‚«‚Я‚«‚©ЃA‚ ‚Ѕ‚µ‚Н‚З‚¤‚µ‚ж‚Б‚©‚ИЃ[ЃB‚±‚М‘O‚У‚з‚к‚ї‚б‚Б‚Ѕ‚О‚©‚и‚ѕ‚µЃB‚Е‚аЃA‚в‚Б‚П€¤‚ѕ‚ж‚ИЃ[ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅЖ‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅН‚З‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИЃ[пїЅBпїЅпїЅпїЅМ‘OпїЅУ‚пїЅк‚їпїЅпїЅпїЅпїЅпїЅпїЅО‚пїЅпїЅи‚ѕпїЅпїЅпїЅBпїЅЕ‚пїЅпїЅAпїЅпїЅпїЅпїЅП€пїЅпїЅпїЅпїЅпїЅИЃ[пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚ў‚ў‚Е‚·‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‰Д”ь‚а‚ў‚й‚МЃA”ЮЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅД”пїЅпїЅпїЅпїЅпїЅпїЅпїЅМЃAпїЅЮЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚В‚«‚ ‚Б‚Д‚йђl‚Н‚ў‚И‚ў‚с‚Е‚·‚Ї‚ЗЃA‹»–Ў‚Н‚ ‚и‚Ь‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅВ‚пїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅlпїЅН‚пїЅпїЅИ‚пїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅЗЃAпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅЬ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚¤‚ѕ‚ж‚ЛЃB’N‚ѕ‚Б‚Д‹»–Ў‚ ‚й‚ж‚ЛЃA€¤ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃBпїЅNпїЅпїЅпїЅпїЅпїЅД‹пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃAпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@€¤‚ЛЃA‰ґ‚НЃA€¤‚Ж‚©‚З‚¤‚а‹кЋи‚И‚с‚ѕ‚ж‚ЛЃB‚И‚с‚©‚±‚»‚О‚д‚­‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅЛЃAпїЅпїЅпїЅНЃAпїЅпїЅпїЅЖ‚пїЅпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅИ‚с‚ѕ‚пїЅЛЃBпїЅИ‚с‚©‚пїЅпїЅпїЅпїЅО‚д‚­пїЅпїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@дќд»‚М‚Ж‚«‚Я‚«‚Б‚Д‰ЅЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅд»‚М‚Ж‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅД‰пїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@ѓXѓNЃ[ѓvЃB“Бѓ_ѓl‚рЋж‚й‚±‚ЖЃB‚·‚І‚ўЋ–ЊМ‚Ж‚©‰ОЋ–‚Ж‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅXпїЅNпїЅ[пїЅvпїЅBпїЅпїЅпїЅ_пїЅlпїЅпїЅпїЅпїЅй‚±пїЅЖЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚Ж‚пїЅпїЅОЋпїЅпїЅЖ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚¶‚б‚ ‚іЃA‚»‚к‚Є‹N‚±‚й‚Ь‚Е‘Т‚Б‚Д‚й‚н‚ЇЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅб‚ пїЅпїЅпїЅAпїЅпїЅпїЅк‚ЄпїЅNпїЅпїЅпїЅпїЅЬ‚Е‘Т‚пїЅпїЅД‚пїЅн‚ЇпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‹N‚±‚з‚И‚©‚Б‚Ѕ‚з‹N‚±‚·‚Ж‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅNпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅNпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚к‚¶‚б”ЖЌЯ‚Е‚µ‚е‚¤‚ЄЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅк‚¶пїЅпїЅЖЌЯ‚Е‚пїЅпїЅе‚¤пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚»‚к‚­‚з‚ўЌl‚¦‚И‚ў‚Ж‚ЛЃBђl‚М•sЌK‚Н–§‚М–Ў‚Б‚Д‚іЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅк‚­пїЅз‚ўпїЅlпїЅпїЅпїЅИ‚пїЅпїЅЖ‚ЛЃBпїЅlпїЅМ•sпїЅKпїЅН–пїЅпїЅМ–пїЅпїЅпїЅпїЅД‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‰Д”ь‚НЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅД”пїЅпїЅНЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‰Д”ь‚НЊ€‚Ь‚Б‚Д‚с‚¶‚б‚И‚ўЃB‚Е‚µ‚еЃA<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅД”пїЅпїЅНЊпїЅпїЅЬ‚пїЅпїЅД‚с‚¶‚пїЅИ‚пїЅпїЅBпїЅЕ‚пїЅпїЅпїЅA<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Ь‚ ‚»‚с‚И‚Ж‚±‚л‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЬ‚пїЅпїЅпїЅпїЅпїЅИ‚Ж‚пїЅпїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚ ‚ ЃAЋ©‘RЊn‚Мѓ„ѓc‚ЛЃB‘O‚ЙЋКђ^ѓRѓ“ѓNЃ[ѓ‹‚Й“ьЏЬ‚µ‚Ѕ‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅRпїЅnпїЅМѓпїЅпїЅcпїЅЛЃBпїЅOпїЅЙЋКђ^пїЅRпїЅпїЅпїЅNпїЅ[пїЅпїЅпїЅЙ“пїЅпїЅЬ‚пїЅпїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ћq‚З‚аЋКђ^ѓRѓ“ѓNЃ[ѓ‹‚Е‚·‚Ї‚З‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅqпїЅЗ‚пїЅпїЅКђ^пїЅRпїЅпїЅпїЅNпїЅ[пїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅЗ‚ЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚ ‚к‰ЅЋB‚Б‚Ѕ‚с‚ѕ‚Б‚ЇЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅк‰ЅпїЅBпїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ѓNѓ‚‚М‘ѓ‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅNпїЅпїЅпїЅМ‘пїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ѓNѓ‚‚М‘ѓ‚И‚с‚Д•Ѓ’КЋB‚з‚И‚ў‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅNпїЅпїЅпїЅМ‘пїЅпїЅИ‚пїЅД•пїЅпїЅКЋBпїЅпїЅИ‚пїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚Ь‚ЅѓNѓ‚‚М‘ѓ‚Е‰ћ•е‚·‚й‚МЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЬ‚пїЅпїЅNпїЅпїЅпїЅМ‘пїЅпїЅЕ‰пїЅпїЅе‚·пїЅпїЅМЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЌЎ“x‚Н’№‚Й‚µ‚ж‚¤‚©‚И‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅxпїЅН’пїЅпїЅЙ‚пїЅпїЅж‚¤пїЅпїЅпїЅИ‚пїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@’№ЃA‰Д”ь‚М‚Ж‚«‚Я‚«‚Н’№ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅAпїЅД”пїЅпїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅН’пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Ь‚ ЃA‚»‚¤‚µ‚ж‚Б‚©‚ИЃ[‚Б‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЬ‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИЃ[пїЅпїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚И‚с‚©ѓWѓWЏL‚ў‚Ж‚«‚Я‚«‚ѕ‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅИ‚с‚©ѓWпїЅWпїЅLпїЅпїЅпїЅЖ‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ѓWѓWЏL‚ў‚Е‚·‚©ЃA‚Ь‚ў‚Б‚Ѕ‚ИЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅWпїЅWпїЅLпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅAпїЅЬ‚пїЅпїЅпїЅпїЅпїЅпїЅИЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚І‚Я‚сЃAѓoѓoЏL‚ў‚МЉФ€б‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅЯ‚пїЅAпїЅoпїЅoпїЅLпїЅпїЅпїЅМЉФ€б‚ўпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚Е‚а‚±‚с‚И‚Ж‚±‚л‚¶‚бѓXѓYѓЃ‚Ж‚©ѓJѓ‰ѓX‚µ‚©‚ў‚И‚ў‚Е‚µ‚еЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЕ‚пїЅпїЅпїЅпїЅпїЅИ‚Ж‚пїЅпїЅл‚¶пїЅпїЅXпїЅYпїЅпїЅпїЅЖ‚пїЅпїЅJпїЅпїЅпїЅXпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅЕ‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚а‚¤‚ї‚е‚Б‚Ж‚ў‚Ь‚·‚Ї‚ЗЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅЬ‚пїЅпїЅпїЅпїЅЗЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@Љm‚©‚ЙѓRѓ“ѓNЃ[ѓ‹‚¶‚бЋ©‘RЊn‚Б‚Д‚¤‚Ї‚й‚с‚ѕ‚ж‚ЛЃB‚Е‚а‚ ‚Ѕ‚µ‚Н‚Ж‚«‚Я‚©‚И‚ў‚©‚з‚ИЃ[ЃB€¤‚М‚Ж‚«‚Я‚«‚Н€¤ЃB‚в‚Б‚П‚и‚»‚к‚Б‚©‚И‚ў‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅmпїЅпїЅпїЅЙѓRпїЅпїЅпїЅNпїЅ[пїЅпїЅпїЅпїЅпїЅбЋ©пїЅRпїЅnпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅЛЃBпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅН‚Ж‚пїЅпїЅЯ‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅИЃ[пїЅBпїЅпїЅпїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅН€пїЅпїЅBпїЅпїЅпїЅпїЅП‚и‚»пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚Э‚с‚И‚М‚Ж‚«‚Я‚«‚ЄЊ©‚¦‚Д‚«‚Ѕ‚Ж‚±‚л‚ЕЃA‚ў‚ж‚ў‚жЋКђ^•”Љ€“®ЉJЋn‚Б‚ДЉґ‚¶ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЭ‚пїЅИ‚М‚Ж‚пїЅпїЅЯ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅЕЃAпїЅпїЅпїЅж‚ўпїЅпїЅКђ^пїЅпїЅпїЅпїЅпїЅпїЅпїЅJпїЅnпїЅпїЅпїЅДЉпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ж‚Б‚µ‚бЃ[ЃA‰~ђw‘g‚а‚¤ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅ[пїЅAпїЅ~пїЅwпїЅgпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤ЃA‘Џ”ьЃA‰Д”ь‚Є‰~ђw‚р‚­‚ЮЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅAпїЅД”пїЅпїЅпїЅпїЅ~пїЅwпїЅпїЅпїЅпїЅпїЅЮЃB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»‚Н‚»‚±‚Й“ь‚з‚И‚ўЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»‚Н‚пїЅпїЅпїЅпїЅЙ“пїЅпїЅпїЅИ‚пїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@дќд»ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅд»ЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@ѓLѓѓѓ‰‚¶‚б‚И‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅLпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@дќд»‚Н‚ў‚ў‚жЃBЋ„‚Ѕ‚ї‚ѕ‚Ї‚Е‚в‚л‚БЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅд»‚Н‚пїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@•S–њ‰~–ЪЋw‚µ‚Д‚Є‚с‚О‚й‚јЃ[ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅSпїЅпїЅпїЅ~пїЅЪЋwпїЅпїЅпїЅД‚пїЅпїЅпїЅО‚й‚јпїЅ[пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃE‰Д”ьЃE€¤Ѓ@ѓIЃ[ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅEпїЅД”пїЅпїЅEпїЅпїЅпїЅ@пїЅIпїЅ[пїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>Ћlђl‚Є‹A‚Б‚Д‚ў‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅlпїЅlпїЅпїЅпїЅAпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ЃћЊц‰Ђ‚Мѓxѓ“ѓ`‚Ж€ЦЋq ‚P<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅМѓxпїЅпїЅпїЅ`пїЅЖ€ЦЋq пїЅP<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>Њц‰Ђ‚Мѓxѓ“ѓ`‚Ж€ЦЋq‚Єѓxѓ“ѓ`‚Ж€ЦЋq‚Мђё‚Ж‚µ‚ДЊ»‚к‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅМѓxпїЅпїЅпїЅ`пїЅЖ€ЦЋqпїЅпїЅпїЅxпїЅпїЅпїЅ`пїЅЖ€ЦЋqпїЅМђпїЅпїЅЖ‚пїЅпїЅДЊпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚PЃ@‚ Ѓ[‚в‚Б‚ЖЃA‘›ЃX‚µ‚ўA’†‚Є‹A‚Б‚Д‚ў‚Б‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅPпїЅ@пїЅпїЅпїЅ[пїЅпїЅпїЅпїЅЖЃAпїЅпїЅпїЅXпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚QЃ@Ћ„‚НЃAЋµ‚ВђXЊц‰Ђ‚М‚±‚МђГ‚Ї‚і‚ЄЌD‚«ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅQпїЅ@пїЅпїЅпїЅНЃAпїЅпїЅпїЅВђXпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅМђГ‚пїЅпїЅпїЅпїЅпїЅпїЅDпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚RЃ@‚»‚к‚Й‚µ‚Д‚аЃAЌЕ‹Я‚МЋбЋТ‚Ѕ‚ї‚Н‚З‚¤‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅRпїЅ@пїЅпїЅпїЅпїЅЙ‚пїЅпїЅД‚пїЅпїЅAпїЅЕ‹Я‚МЋпїЅТ‚пїЅпїЅпїЅпїЅН‚З‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€ЦЋq‚PЃ@‚±‚МЊц‰Ђ‚Е€к”Ф‚¤‚й‚і‚ў‚М‚НЋбЋТ‚Ѕ‚їЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЦЋqпїЅPпїЅ@пїЅпїЅпїЅМЊпїЅпїЅпїЅпїЅЕ€пїЅФ‚пїЅпїЅй‚іпїЅпїЅпїЅМ‚НЋпїЅТ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€ЦЋq‚QЃ@‚ ‚МЋq‚з‚Н—з‹V‚Ж‚ў‚¤‚а‚М‚р’m‚з‚И‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЦЋqпїЅQпїЅ@пїЅпїЅпїЅМЋqпїЅпїЅН—пїЅVпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅmпїЅпїЅИ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚PЃ@€к”Ф‹–‚№‚И‚ў‚М‚Н‚ ‚МЋq‚з‚ЄЋ„‚МЏг‚ЙЊC‚М‚Ь‚Ь•Ѕ‹C‚Е‚М‚й‚±‚ЖЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅPпїЅ@пїЅпїЅФ‹пїЅпїЅпїЅпїЅИ‚пїЅпїЅМ‚Н‚пїЅпїЅМЋqпїЅз‚ЄпїЅпїЅпїЅМЏпїЅЙЊCпїЅМ‚Ь‚Ь•пїЅпїЅCпїЅЕ‚М‚й‚±пїЅЖЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚QЃ@•s–щ‰хЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅQпїЅ@пїЅsпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚PЃ@Ћ„‚МЏг‚©‚з€ш‚«‚ё‚иЌ~‚л‚µ‚Д‚в‚и‚Ѕ‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅPпїЅ@пїЅпїЅпїЅМЏг‚©пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ~пїЅл‚µпїЅД‚пїЅи‚ЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€ЦЋq‚Ѕ‚ї‚Єих‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЦЋqпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚PЃ@ЋбЋТЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅPпїЅ@пїЅпїЅТЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚QЃ@”nЋ­ЋТЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅQпїЅ@пїЅnпїЅпїЅпїЅТЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚RЃ@‰д‚Є•ЁЉзЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅRпїЅ@пїЅд‚ЄпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€ЦЋq‚PЃ@‰д‚ЄФЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЦЋqпїЅPпїЅ@пїЅд‚ЄпїЅФЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€ЦЋq‚QЃ@‚н‚©‚с‚И‚ў‚а‚МЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЦЋqпїЅQпїЅ@пїЅн‚©пїЅпїЅИ‚пїЅпїЅпїЅпїЅМЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓxѓ“ѓ`‚PЃ@ЋбЋТЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅxпїЅпїЅпїЅ`пїЅPпїЅ@пїЅпїЅТЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘S€хЃ@”nЋ­ЋТЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅSпїЅпїЅпїЅ@пїЅnпїЅпїЅпїЅТЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Ѓ@Ѓ@<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅ@пїЅ@<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€Г“]<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅГ“]<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>ЃџЋµЊЋЋO“ъ(‰О)Ѓ@<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅOпїЅпїЅ(пїЅпїЅ)пїЅ@<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ь‚ЄѓPѓ„ѓL‚М‘е–Ш‚М•ыЊь‚МЋКђ^‚рЋB‚Б‚Д‚ў‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅпїЅпїЅPпїЅпїЅпїЅLпїЅМ‘пїЅШ‚М•пїЅпїЅпїЅпїЅМЋКђ^пїЅпїЅпїЅBпїЅпїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Ѕ‚рЋB‚Б‚Д‚ў‚й‚М‚ѕ‚л‚¤‚©ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅД‚пїЅпїЅпїЅМ‚пїЅпїЅл‚¤пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚µ‚«‚и‚ЙѓVѓѓѓbѓ^Ѓ[‚рђШ‚Б‚Д‚ў‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅЙѓVпїЅпїЅпїЅbпїЅ^пїЅ[пїЅпїЅШ‚пїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚»‚±‚ЙЋКђ^•”‚М’‡ЉФ‚ЄЏW‚Ь‚Б‚Д‚­‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅЙЋКђ^пїЅпїЅпїЅМ’пїЅпїЅФ‚пїЅпїЅWпїЅЬ‚пїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‘Џ”ьЃA‹CЋќ‚ї‚НЊЕ‚Ь‚Б‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅCпїЅпїЅпїЅпїЅпїЅНЊЕ‚Ь‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚¤‚сЃB‚±‚кЃBЃiЊg‘С‚МѓЃЃ[ѓ‹‚ЙЏ‘‚©‚к‚Ѕ•¶‚р€¤‚ЙЊ©‚№‚йЃj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅBпїЅiпїЅgпїЅС‚МѓпїЅпїЅ[пїЅпїЅпїЅЙЏпїЅпїЅпїЅпїЅк‚ЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙЊпїЅпїЅпїЅпїЅпїЅj<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>Њg‘С‚ЙЏ‘‚©‚к‚Ѕ“а—e‚р€¤‚Є“З‚ЮЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅgпїЅС‚ЙЏпїЅпїЅпїЅпїЅк‚ЅпїЅпїЅпїЅeпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗ‚ЮЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@Ѓu‚Н‚¶‚Я‚Ь‚µ‚ДЃBЋ„ЃAЋµ‚ВђX’†ЉwЌZ‚М‰«“c‘Џ”ь‚Е‚·ЃBЋКђ^•”€х‚Е‚·ЃB–м‹…‚МЊ§‘е‰п‚Е‚ ‚И‚Ѕ‚МЋКђ^‚рЋB‚и‚Ь‚µ‚ЅЃB‚±‚МЋКђ^‚НЌЎЃAЋ„‚М‚Ж‚«‚Я‚«‚Е‚·ЃBЌЎ“xЃAЋ„‚Ж‰п‚Б‚Д‚ў‚Ѕ‚ѕ‚Ї‚Ь‚№‚с‚©ЃBЋ„‚МЋКђ^‚а‘—‚и‚Ь‚·ЃBЃv‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅuпїЅН‚пїЅпїЅЯ‚Ь‚пїЅпїЅДЃBпїЅпїЅпїЅAпїЅпїЅпїЅВђXпїЅпїЅпїЅwпїЅZпїЅМ‰пїЅпїЅcпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅBпїЅКђ^пїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅBпїЅм‹…пїЅМЊпїЅпїЅпїЅпїЅЕ‚пїЅпїЅИ‚пїЅпїЅМЋКђ^пїЅпїЅпїЅBпїЅпїЅЬ‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅМЋКђ^пїЅНЌпїЅпїЅAпїЅпїЅпїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅЕ‚пїЅпїЅBпїЅпїЅпїЅxпїЅAпїЅпїЅпїЅЖ‰пїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅс‚©ЃBпїЅпїЅпїЅМЋКђ^пїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅBпїЅvпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚ж‚µЃA‘—‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅж‚µпїЅAпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚Ь‚й‚Е‘Џ”ь‚МђS‘џ‚МЊЫ“®‚Є•·‚±‚¦‚Д‚­‚й‚ж‚¤‚ѕЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅЬ‚пїЅЕ‘пїЅпїЅпїЅпїЅМђSпїЅпїЅпїЅМЊЫ“пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅж‚¤пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ь‚Н‚Э‚с‚И‚МЊ©‚Д‚ў‚й‘O‚ЕЊg‘С‚Е‚Мѓ‰ѓuѓЊѓ^Ѓ[‚р‘—‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅН‚Э‚пїЅИ‚МЊпїЅпїЅД‚пїЅпїЅпїЅOпїЅЕЊgпїЅС‚Е‚МѓпїЅпїЅuпїЅпїЅпїЅ^пїЅ[пїЅр‘—‚пїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@ѓAЃ[ЃA‘—‚Б‚ї‚б‚Б‚Ѕ‚З‚¤‚µ‚ж‚¤ЃB‚в‚Б‚П‚и‘—‚з‚И‚©‚Б‚Ѕ‚Щ‚¤‚Є‚ж‚©‚Б‚Ѕ‚©‚ИЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅAпїЅ[пїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗ‚пїЅпїЅпїЅпїЅж‚¤пїЅBпїЅпїЅпїЅпїЅП‚и‘—пїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅЩ‚пїЅпїЅпїЅпїЅж‚©пїЅпїЅпїЅпїЅпїЅпїЅпїЅИЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚а‚¤‘—‚Б‚ї‚б‚Б‚Ѕ‚с‚ѕ‚©‚з‚ ‚Ж‚Н‚іЃAЌK‚№‚МђВ‚ў’№‚Є”т‚с‚Е‚­‚й‚±‚Ж‚р‘Т‚Б‚Д‚к‚О‚ў‚ў‚МЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅпїЅз‚ пїЅЖ‚Н‚пїЅпїЅAпїЅKпїЅпїЅпїЅМђВ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅй‚±пїЅЖ‚пїЅТ‚пїЅпїЅД‚пїЅО‚пїЅпїЅпїЅпїЅМЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@ЌK‚№‚МђВ‚ў’№‚©ЃcЃcЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅKпїЅпїЅпїЅМђВ‚пїЅпїЅпїЅпїЅпїЅпїЅcпїЅcпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ь‚Є‹у‚р’­‚Я‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅр’­‚Я‚пїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‹у‚©‚зѓJѓ‰ѓX‚М–В‚«ђє‚Є•·‚±‚¦‚Д‚­‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅу‚©‚пїЅJпїЅпїЅпїЅXпїЅМ–В‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚а‚µ‚ѕ‚Я‚ѕ‚Б‚Ѕ‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅЯ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚к‚Н‚»‚МЋћЌl‚¦‚к‚О‚ў‚ў‚¶‚б‚И‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅН‚пїЅпїЅМЋпїЅпїЅlпїЅпїЅпїЅпїЅО‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚а‚µ‰п‚Б‚Д‚­‚к‚й‚±‚Ж‚Й‚И‚Б‚Ѕ‚з‚З‚¤‚µ‚ж‚¤ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅй‚±пїЅЖ‚Й‚И‚пїЅпїЅпїЅпїЅпїЅЗ‚пїЅпїЅпїЅпїЅж‚¤пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‰f‰ж‚Е‚а—U‚Б‚Ѕ‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅfпїЅпїЅЕ‚пїЅпїЅUпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚З‚с‚ИЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅЗ‚пїЅИЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚в‚Б‚П—ц€¤‰f‰ж‚Е‚µ‚еЃB‰цЏb‰f‰ж‚Н‚в‚Я‚Ѕ•ы‚Є‚ў‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅП—пїЅпїЅпїЅпїЅfпїЅпїЅЕ‚пїЅпїЅпїЅBпїЅпїЅпїЅbпїЅfпїЅпїЅН‚пїЅЯ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‰цЏb‰f‰ж‚И‚с‚Д‚ѕ‚к‚а—U‚н‚И‚ў‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅbпїЅfпїЅпїЅИ‚пїЅД‚пїЅпїЅпїЅпїЅпїЅUпїЅпїЅИ‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ ‚Ѕ‚µЃA—U‚Б‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅUпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‰ЅЊ©‚ЙЌs‚Б‚Ѕ‚МЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЙЌsпїЅпїЅпїЅпїЅпїЅМЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚¦‚Б‚Ж‚ЛЃwѓSѓWѓ‰‘ОЃcЃcЃx‚И‚с‚ѕ‚Б‚ЇЃA‚ Ѓ[ЃAЃwѓSѓWѓ‰‘Оѓ‚ѓЌѓwѓCѓ„Ѓx<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЖ‚ЛЃwпїЅSпїЅWпїЅпїЅпїЅОЃcпїЅcпїЅxпїЅИ‚с‚ѕ‚пїЅпїЅпїЅпїЅAпїЅпїЅпїЅ[пїЅAпїЅwпїЅSпїЅWпїЅпїЅпїЅОѓпїЅпїЅпїЅпїЅwпїЅCпїЅпїЅпїЅx<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚И‚с‚ѕ‚»‚и‚бЃAѓSѓWѓ‰‚Є“¬‚¤‚М‚Н–мЌШ‚©‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅИ‚с‚ѕ‚пїЅпїЅпїЅпїЅAпїЅSпїЅWпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚Н–пїЅШ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚»‚к‚Е‚З‚¤‚И‚Б‚Ѕ‚с‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅЕ‚З‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚МЊ‹––‚рЋ„‚ЙЊѕ‚н‚№‚й‹CЃB‚Ь‚Б‚ў‚ў‚©ЃB‚З‚Б‚©Ѓ[‚сЃBЋё”sЃB‘еЋё—цЃB‚И‚с‚№‰f‰ж‚М“r’†‚ЕђQ‚ї‚б‚Б‚Ѕ‚©‚з‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅМЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙЊпїЅпїЅн‚№пїЅпїЅCпїЅBпїЅЬ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅЗ‚пїЅпїЅпїЅпїЅ[пїЅпїЅBпїЅпїЅпїЅsпїЅBпїЅеЋёпїЅпїЅпїЅBпїЅИ‚с‚№‰fпїЅпїЅМ“rпїЅпїЅпїЅЕђQпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤‚ЄЏО‚ўЃA‚»‚МЏО‚ў‚ЄЌL‚Є‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅО‚пїЅпїЅAпїЅпїЅпїЅМЏО‚пїЅпїЅпїЅпїЅLпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶‚ЄЊ»‚к‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@‚±‚с‚Й‚ї‚НЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅпїЅпїЅпїЅЙ‚пїЅпїЅНЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤ЃE‘Џ”ьЃ@ѓ}ѓbѓ`Ѓ[ЃBЃ¦<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅEпїЅпїЅпїЅпїЅпїЅ@пїЅ}пїЅbпїЅ`пїЅ[пїЅBпїЅпїЅ<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Џј–{ђжђ¶ЃBЃ¦<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅ{пїЅжђ¶пїЅBпїЅпїЅ<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@‚ё‚ў‚Ф‚сЉy‚µ‚»‚¤‚¶‚б‚И‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅФ‚пїЅyпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚ ‚Ѕ‚µ‚Ѕ‚їђВЏt‚µ‚Д‚Б‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅВЏtпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@‚Л‚БЃA•џ‘т‚і‚с‚М‚±‚Ж‰Ѕ‚©•·‚ў‚Д‚И‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅЛ‚пїЅпїЅAпїЅпїЅпїЅт‚і‚пїЅМ‚пїЅпїЅЖ‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚И‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚д‚«ЉGЃA‚З‚¤‚©‚µ‚Ѕ‚с‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅд‚«пїЅGпїЅAпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚д‚«ЉGЃAЌЎ“ъ‚НЉwЌZ‹x‚Э‚ѕ‚Б‚Ѕ‚¶‚б‚сЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅд‚«пїЅGпїЅAпїЅпїЅпїЅпїЅпїЅНЉwпїЅZпїЅxпїЅЭ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@ЋА‚НЃAЌр“ъ‚©‚з‰Ж‚Й‹A‚Б‚Д‚И‚ў‚МЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅпїЅпїЅНЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚Й‹AпїЅпїЅпїЅД‚И‚пїЅпїЅМЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚д‚«ЉG‚ЄЃHЃ¦<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅд‚«пїЅGпїЅпїЅпїЅHпїЅпїЅ<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚¦Ѓ[ЃBЃ¦<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅ[пїЅBпїЅпїЅ<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@Ћ–ЊЏЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@‚»‚к‚Н‚И‚ў‚©‚ИЃB–{ђl‚©‚з‰Ж‚ЙA—Ќ‚Н‚ ‚Б‚Ѕ‚Э‚Ѕ‚ў‚ѕ‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅпїЅпїЅпїЅН‚И‚пїЅпїЅпїЅпїЅИЃBпїЅ{пїЅlпїЅпїЅпїЅпїЅЖ‚ЙAпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅпїЅЭ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚»‚к‚Б‚Д‰ЖЏo‚µ‚Ѕ‚Б‚Д‚ў‚¤‚±‚ЖЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅД‰ЖЏoпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅЖЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@ЃcЃc‚»‚¤‚И‚М‚©‚ИЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅcпїЅcпїЅпїЅпїЅпїЅпїЅИ‚М‚пїЅпїЅИЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@ѓ}ѓbѓ`Ѓ[ЃA‚д‚«ЉGЃA‚±‚М‘O‚МЋЋЊ±‚ЕЉw”N€к€К‚р“¦‚µ‚Ѕ‚с‚Е‰ЖЏo‚µ‚Ѕ‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅ}пїЅbпїЅ`пїЅ[пїЅAпїЅд‚«пїЅGпїЅAпїЅпїЅпїЅМ‘OпїЅМЋпїЅпїЅпїЅпїЅЕЉwпїЅNпїЅпїЅК‚р“¦‚пїЅпїЅпїЅпїЅпїЅЕ‰ЖЏoпїЅпїЅпїЅпїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@Ћ„‚а‚ж‚­‚н‚©‚з‚И‚ў‚с‚ѕ‚Ї‚ЗЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅж‚­пїЅн‚©пїЅпїЅИ‚пїЅпїЅс‚ѕ‚пїЅпїЅЗЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚«‚Б‚Ж‚»‚¤‚ѕ‚ИЃB‚ ‚кЃA‚·‚І‚ўѓVѓ‡ѓbѓN‚ѕ‚Б‚Ѕ‚Н‚ё‚ѕ‚а‚сЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅИЃBпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅVпїЅпїЅпїЅbпїЅNпїЅпїЅпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@‚Л‚БЃA”ЮЏ—‚ЄЌЎ’‡—З‚­‚µ‚й‚Д‚йђl‚Б‚Д’NЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅЛ‚пїЅпїЅAпїЅЮЏпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗ‚пїЅпїЅпїЅпїЅпїЅД‚пїЅlпїЅпїЅпїЅД’NпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@’N‚а‚ў‚И‚ў‚с‚¶‚б‚И‚ўЃB‚д‚«ЉGЃA—F’B‚Ж’‡—З‚­‚·‚йѓ^ѓCѓv‚¶‚б‚И‚ў‚µЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅNпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚¶‚пїЅИ‚пїЅпїЅBпїЅд‚«пїЅGпїЅAпїЅFпїЅBпїЅЖ’пїЅпїЅЗ‚пїЅпїЅпїЅпїЅпїЅ^пїЅCпїЅvпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶Ѓ@‚»‚¤‚И‚МЃcЃc‚ ‚и‚Є‚ЖЃB‚Л‚БЃA‚а‚µ‰Ѕ‚©‚н‚©‚Б‚Ѕ‚зA—Ќ‚µ‚Д‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅИ‚МЃcпїЅcпїЅпїЅпїЅи‚ЄпїЅЖЃBпїЅЛ‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅн‚©пїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅД‚ЛЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚»‚к‚ј‚к‚Є‚н‚©‚и‚Ь‚µ‚Ѕ‚Ж‚ў‚¤”Ѕ‰ћ‚р‚·‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅк‚јпїЅк‚ЄпїЅн‚©пїЅпїЅЬ‚пїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>Џј–{ђжђ¶‚Є‚»‚МЏк‚р‹Ћ‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ{пїЅжђ¶пїЅпїЅпїЅпїЅпїЅМЏпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‰ЖЏo‚©ЃAЉw”N€к”Ф“¦‚µ‚Ѕ‚­‚з‚ў‚ЕЃB‚в‚Б‚П•Ч‹­‚Е‚«‚йѓ„ѓc‚Н‚±‚±Ѓi‹№‚р’@‚ў‚ДЃj‚ЄЋг‚ў‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅЖЏoпїЅпїЅпїЅAпїЅwпїЅNпїЅпїЅФ“пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅз‚ўпїЅЕЃBпїЅпїЅпїЅпїЅП•Ч‹пїЅпїЅЕ‚пїЅпїЅйѓ„пїЅcпїЅН‚пїЅпїЅпїЅпїЅiпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅДЃjпїЅпїЅпїЅг‚ўпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@€кЌр“ъ‰п‚Б‚Ѕ‚Ж‚«‚НЃA‰ЖЏo‚·‚й‚ж‚¤‚ИЉґ‚¶‚¶‚б‚И‚©‚Б‚Ѕ‚Е‚·‚Ї‚ЗЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅНЃAпїЅЖЏoпїЅпїЅпїЅпїЅж‚¤пїЅИЉпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅЗЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚»‚±‚ЙЊg‘С“db‚М’…ѓЃѓЌ‚Є—¬‚к‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅЙЊgпїЅС“dпїЅbпїЅМ’пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ь‚ЄЊg‘С“db‚рЋж‚иЏo‚·ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅgпїЅС“dпїЅbпїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‘Џ”ьЃA’N‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅNпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@•ђ“cЊN‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅcпїЅNпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚а‚¤•ФЋ–•Ф‚Б‚Д‚«‚Ѕ‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅФЋпїЅпїЅФ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@Њ™‚И—\Љґ‚Є‚·‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅИ—\пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‰Ѕ‚ЕЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅЕЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@‚ѕ‚Б‚Д‘Ѓ‰Я‚¬‚й‚а‚МЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅД‘пїЅпїЅЯ‚пїЅпїЅпїЅпїЅпїЅМЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‚Ж‚Й‚©‚­ЉJ‚Ї‚Д‚Э‚И‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅЖ‚Й‚пїЅпїЅпїЅпїЅJпїЅпїЅпїЅД‚Э‚И‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@•|‚ў‚ИЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅ|пїЅпїЅпїЅИЃB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚»‚¤‚ў‚ў‚И‚Є‚з—E‹C‚рЏo‚µ‚ДѓЃЃ[ѓ‹‚рЉJ‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅEпїЅCпїЅпїЅпїЅoпїЅпїЅпїЅДѓпїЅпїЅ[пїЅпїЅпїЅпїЅпїЅJпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>ѓЃЃ[ѓ‹‚р”`‚«Ќћ‚Ю‘Џ”ьЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ[пїЅпїЅпїЅпїЅ`пїЅпїЅпїЅпїЅпїЅЮ‘пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤‚Ѕ‚ї‚а€кЏЏ‚ЙЊ©‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅкЏЏпїЅЙЊпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚»‚±‚Й‚НЃu€«‚ў‚Ї‚ЗЃA”ЮЏ—‚ў‚й‚©‚зЃv‚ЖЏ‘‚ў‚Д‚ ‚Б‚ЅЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅЙ‚НЃuпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃAпїЅЮЏпїЅпїЅпїЅпїЅй‚©пїЅпїЅvпїЅЖЏпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@Ѓi‚¤‚И‚ѕ‚к‚йЃj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‰Ѕ‚±‚кЃA‚Ѕ‚Б‚Ѕ‚±‚к‚ѕ‚ЇЃBЃu€«‚ў‚Ї‚ЗЃA”ЮЏ—‚ў‚й‚©‚зЃvЃB‚а‚¤‚ї‚е‚Б‚ЖЏ‘‚«•ы‚ ‚й‚Е‚µ‚е‚¤‚ЄЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅк‚ѕпїЅпїЅпїЅBпїЅuпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃAпїЅЮЏпїЅпїЅпїЅпїЅй‚©пїЅпїЅvпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЏпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅе‚¤пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@Ѓi‹ѓ‚«Ћn‚Я‚йЃj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅпїЅпїЅnпїЅЯ‚пїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‘Џ”ьЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@Ѓi‹ѓ‚«•ы‚ЄЊѓ‚µ‚­‚И‚йЃj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@‘Џ”ьЃA‹ѓ‚©‚И‚ў‚ЕЃB‰Ѕ‚©‚ ‚Ѕ‚µ‚Ь‚Е‹ѓ‚Ї‚Д‚«‚ї‚б‚¤‚¶‚б‚И‚ўЃBЃi‚»‚¤‚ў‚ў‚И‚Є‚з€¤‚а‹ѓ‚«Џo‚·Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅЕЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚Е‹пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅб‚¤пїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅiпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅз€¤пїЅпїЅпїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@€¤ЃBЃi‚Ж‚ў‚ў‚И‚Є‚з€¤‚Й•ш‚«‚В‚­Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅBпїЅiпїЅЖ‚пїЅпїЅпїЅпїЅИ‚пїЅпїЅз€¤пїЅЙ•пїЅпїЅпїЅпїЅВ‚пїЅпїЅj<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤‚Ж‘Џ”ь‚Н“сђl‚МђўЉE‚Й“ь‚Б‚Д‹ѓ‚ў‚Д‚ў‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅЖ‘пїЅпїЅпїЅпїЅН“пїЅlпїЅМђпїЅпїЅEпїЅЙ“пїЅпїЅпїЅпїЅД‹пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ђж”yЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅyпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»‚Єђж”y“сђl‚р‹C‚Й‚·‚й‰Д”ь‚р€ш‚«—Ї‚Я‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»‚пїЅпїЅпїЅyпїЅпїЅlпїЅпїЅпїЅCпїЅЙ‚пїЅпїЅпїЅД”пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЯ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ь‚Ж€¤‚Й‚Н‹C‚Г‚©‚к‚И‚ў‚ж‚¤‚Й•ъ‚Б‚Д‚Ё‚Ї‚Ж‚ў‚¤€У–Ў‚ЕЋс‚рђU‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅЖ€пїЅпїЅЙ‚Н‹CпїЅГ‚пїЅпїЅпїЅИ‚пїЅпїЅж‚¤пїЅЙ•пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅУ–пїЅпїЅЕЋпїЅпїЅUпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@Ћ„ЃA‹A‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅAпїЅAпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@€кЏЏ‚Й‹A‚лЃB‘Џ”ьЃAЌЎ“ъ‚Н‚Ё‚І‚й‚жЃB‚±‚И‚ў‚ѕ‚М‚Ё•Ф‚µЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅкЏЏпїЅЙ‹AпїЅпїЅBпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅМ‚пїЅпїЅФ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‘Џ”ьЃ@Ѓi‚¤‚И‚ё‚­Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>€¤Ѓ@Ѓi‹ѓ‚«‚И‚Є‚зЃj‚ ‚Ѕ‚µ‚Ѕ‚їђж‹A‚й‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅ@пїЅiпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅjпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅй‚©пїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚»‚¤‚ў‚Б‚Д“сђl‚Н‹ѓ‚«‚И‚Є‚з‹A‚Б‚Д‚ў‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД“пїЅlпїЅН‹пїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅAпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚ў‚ў‚с‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚ў‚В‚а‚М‚±‚Ж‚ѕ‚©‚зЃB‚±‚М‘OЃA€¤‚ЄЋё—ц‚µ‚Ѕ‚Ж‚«‚НЌЎ‚М”Ѕ‘О‚ѕ‚Б‚Ѕ‚лЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅВ‚пїЅпїЅМ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅМ‘OпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅНЌпїЅпїЅМ”пїЅпїЅО‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@дќд»ђж”y‚Н‚±‚к‚©‚з‚З‚¤‚·‚й‚с‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅд»ђпїЅyпїЅН‚пїЅпїЅк‚©пїЅпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚Ь‚ ‚±‚±‚Й‚ў‚Д‚а‰Ѕ‚©ЋB‚к‚й‚н‚Ї‚¶‚б‚И‚ў‚µЃA‚Ф‚з‚Ф‚з•а‚ў‚Д‚Э‚й‚©‚ИЃB‰Д”ь‚НЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅЬ‚пїЅпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅн‚ЇпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅAпїЅФ‚пїЅФ‚пїЅпїЅпїЅпїЅпїЅД‚Э‚й‚©пїЅИЃBпїЅД”пїЅпїЅНЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚а‚¤Џ­‚µ‚±‚±‚ЕЋКђ^ЋB‚Б‚Д‚ў‚«‚Ь‚·ЃB‚±‚±‚Ї‚Б‚±‚¤‚ў‚ў‚Ж‚±‚л‚И‚с‚ЕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕЋКђ^пїЅBпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅЬ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅИ‚пїЅЕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»Ѓ@‚¶‚б‚ ЃA‰ґЌs‚­‚нЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»Ѓ@пїЅпїЅпїЅб‚ пїЅAпїЅпїЅпїЅsпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»‚Є‹A‚Б‚Д‚ў‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»‚пїЅпїЅAпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚і‚ж‚И‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅИ‚пїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>дќд»‚рЊ©‘—‚Б‚ЅЊгЃA‰Д”ь‚Н‚Ь‚ЅѓPѓ„ѓL‚ЙѓJѓЃѓ‰‚рЊь‚ЇЃAЋКђ^‚рЋB‚иЏo‚·ЃB‚»‚МЊгЃA‰Д”ь‚НѓIЃ[ѓvѓjѓ“ѓO‚МЋћ‚Ж“Ї‚¶‚­ЃA‘oЉб‹ѕ‚рЋж‚и‚ѕ‚µЃA‰Ѕ‚©‚р’­‚ЯЋn‚Я‚йЃB‚»‚М‰Ѕ‚©‚р’З‚Б‚Д‰єЋи‚М•ы‚Й‘oЉб‹ѕ‚рЊь‚Ї‚Ѕ‚Ж‚«ЃA‚»‚М’†‚Й‚д‚«ЉG‚МЋp‚Є“ь‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд»‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅД”пїЅпїЅН‚Ь‚пїЅпїЅPпїЅпїЅпїЅLпїЅЙѓJпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅКђ^пїЅпїЅпїЅBпїЅпїЅoпїЅпїЅпїЅBпїЅпїЅпїЅМЊпїЅAпїЅД”пїЅпїЅНѓIпїЅ[пїЅvпїЅjпїЅпїЅпїЅOпїЅМЋпїЅпїЅЖ“пїЅпїЅпїЅпїЅпїЅпїЅAпїЅoпїЅб‹ѕпїЅпїЅпїЅпїЅи‚ѕпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅр’­‚ЯЋnпїЅЯ‚пїЅBпїЅпїЅпїЅМ‰пїЅпїЅпїЅпїЅпїЅЗ‚пїЅпїЅД‰пїЅпїЅпїЅМ•пїЅпїЅЙ‘oпїЅб‹ѕпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅAпїЅпїЅпїЅМ’пїЅпїЅЙ‚д‚«пїЅGпїЅМЋpпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>•џ‘т‚д‚«ЉG‚ЄЊ»‚к‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅпїЅпїЅд‚«пїЅGпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ь‚Н‘oЉб‹ѕ‚р–Ъ‚©‚з—Ј‚·ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅН‘oпїЅб‹ѕпїЅпїЅЪ‚пїЅпїЅз—ЈпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@•џ‘тђж”yЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅyпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@€кЌр“ъ‚М‘±‚«ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅМ‘пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@€кЌр“ъ‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‰ЅЊ©‚Д‚Ѕ‚М‚©‹і‚¦‚Д‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅМ‚пїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚ Ѓ[ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅ[пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@”й–§‚Й‚·‚й‚©‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅй–§пїЅЙ‚пїЅпїЅй‚©пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ђж”yЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅyпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚И‚ЙЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅИ‚ЙЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ѓi‚ ‚БЃj‚ў‚ў‚с‚Е‚·ЃB‚И‚с‚Е‚а‚И‚ў‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅiпїЅпїЅпїЅпїЅпїЅjпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅBпїЅИ‚пїЅЕ‚пїЅпїЅИ‚пїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ѓi‘oЉб‹ѕ‚р“n‚µ‚И‚Є‚зЃj•џ‘тђж”yЃA‚±‚к‚ЕЊ©‚Д‚­‚ѕ‚і‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅiпїЅoпїЅб‹ѕпїЅпїЅnпїЅпїЅпїЅИ‚пїЅпїЅпїЅjпїЅпїЅпїЅпїЅпїЅyпїЅAпїЅпїЅпїЅпїЅЕЊпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉG‚Є‘oЉб‹ѕ‚р”`‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅпїЅпїЅoпїЅб‹ѕпїЅпїЅ`пїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚ ‚»‚±‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‰Ѕ‚±‚кЃA‚©‚н‚ў‚ўЃ[ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅн‚ўпїЅпїЅпїЅ[пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ѓIѓIѓ^ѓJ‚МЋq‚З‚а‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅIпїЅIпїЅ^пїЅJпїЅМЋqпїЅЗ‚пїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ѓIѓIѓ^ѓJ‚Б‚ДЃA‘йЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅIпїЅIпїЅ^пїЅJпїЅпїЅпїЅДЃAпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Н‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅН‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‘й‚Є‚±‚с‚И‚Ж‚±‚л‚Й‚ў‚й‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅй‚ЄпїЅпїЅпїЅпїЅИ‚Ж‚пїЅпїЅпїЅЙ‚пїЅпїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Ь‚ѕЃA’N‚а‹C‚Г‚ў‚Д‚И‚ў‚ж‚¤‚И‚с‚Е‚·‚Ї‚ЗЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЬ‚пїЅпїЅAпїЅNпїЅпїЅпїЅCпїЅГ‚пїЅпїЅД‚И‚пїЅпїЅж‚¤пїЅИ‚пїЅЕ‚пїЅпїЅпїЅпїЅЗЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚И‚с‚Е”й–§‚Й‚µ‚Д‚й‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅИ‚пїЅЕ”й–§пїЅЙ‚пїЅпїЅД‚пїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ѓIѓIѓ^ѓJ‚МЋq‚З‚а‚Б‚ДЌ‚‚­”„‚к‚й‚с‚Е‚·ЃB’m‚з‚к‚й‚Ж•Я‚з‚к‚ї‚б‚¤‚©‚а‚µ‚к‚И‚ў‚с‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅIпїЅIпїЅ^пїЅJпїЅМЋqпїЅЗ‚пїЅпїЅпїЅпїЅДЌпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅBпїЅmпїЅпїЅпїЅпїЅЖ•Я‚пїЅк‚їпїЅб‚¤пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚»‚к‚Е”й–§‚Й‚µ‚Д‚с‚ѕЃB‚»‚к‚Й‚µ‚Д‚а‚©‚н‚ў‚ў‚Л‚±‚кЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅЕ”й–§пїЅЙ‚пїЅпїЅД‚с‚ѕЃBпїЅпїЅпїЅпїЅЙ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅн‚ўпїЅпїЅпїЅЛ‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЋOYЉЫ‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅOпїЅYпїЅЫ‚Е‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@–ј‘O‚В‚Ї‚Ѕ‚с‚ѕЃBЋOYЉЫ‚Б‚Д‚±‚Ж‚Н‘ѕYЉЫ‚ЖЋџYЉЫ‚а‚ў‚й‚н‚ЇЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅOпїЅВ‚пїЅпїЅпїЅпїЅс‚ѕЃBпїЅOпїЅYпїЅЫ‚пїЅпїЅД‚пїЅпїЅЖ‚Н‘пїЅпїЅYпїЅЫ‚ЖЋпїЅпїЅYпїЅЫ‚пїЅпїЅпїЅпїЅпїЅн‚ЇпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Н‚ўЃB‘ѕYЉЫ‚ЖЋџYЉЫ‚Н–іЋ–‘ѓ—§‚Д‚Ѕ‚с‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅН‚пїЅпїЅBпїЅпїЅпїЅYпїЅЫ‚ЖЋпїЅпїЅYпїЅЫ‚Н–пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЋOYЉЫ‚НЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅOпїЅYпїЅЫ‚НЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Ь‚ѕ‘ѓ—§‚Д‚И‚ў‚с‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЬ‚пїЅпїЅпїЅпїЅпїЅпїЅД‚И‚пїЅпїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚Л‚Б—Ч‚Й‚ў‚й‚МЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅЛ‚пїЅпїЅЧ‚Й‚пїЅпїЅпїЅМЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@•ѓђe‚МѓЌѓbѓLЃ[‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅeпїЅМѓпїЅпїЅbпїЅLпїЅ[пїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ѓЌѓbѓLЃ[ЃHЃ@ЋOYЉЫ‚М•ѓђe‚НѓЌѓbѓLЃ[ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅbпїЅLпїЅ[пїЅHпїЅ@пїЅOпїЅYпїЅЫ‚М•пїЅпїЅeпїЅНѓпїЅпїЅbпїЅLпїЅ[пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@•П‚Е‚·‚©ЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅП‚Е‚пїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ѓi‚¤‚И‚ё‚ў‚ДЃj•ПЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅДЃjпїЅПЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚ЁЃ[ЃA‚а‚¤€к‰H”т‚с‚Е‚«‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅ[пїЅAпїЅпїЅпїЅпїЅпїЅпїЅHпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@•кђe‚МѓLѓѓѓTѓЉѓ“‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅeпїЅМѓLпїЅпїЅпїЅTпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ѓLѓѓѓTѓЉѓ“ЃcЃcЃi‘oЉб‹ѕ‚Е”`‚ў‚ДЃj‰Ѕ‚©•Я‚Ь‚¦‚Д‚йЃB‚ ‚кЃA”µ‚ѕЃA‚нЃ[ЃA‚ї‚¬‚Б‚Д‚йЃBЃi‘oЉб‹ѕ‚©‚з–Ъ‚р‚Н‚И‚µ‚ДЃj‚±‚к‚Б‚Д‚Ї‚Б‚±‚¤ЋcЌ“‚ѕ‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅLпїЅпїЅпїЅTпїЅпїЅпїЅпїЅпїЅcпїЅcпїЅiпїЅoпїЅб‹ѕпїЅЕ”`пїЅпїЅпїЅДЃjпїЅпїЅпїЅпїЅпїЅЯ‚Ь‚пїЅпїЅД‚пїЅBпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅAпїЅпїЅ[пїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅBпїЅiпїЅoпїЅб‹ѕпїЅпїЅпїЅпїЅЪ‚пїЅпїЅН‚И‚пїЅпїЅДЃjпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅcпїЅпїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Ь‚ ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЬ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@’Я“c‚Б‚Д‚іЃA‚Ї‚Б‚±‚¤‚ ‚к‚ѕ‚ЛЃAЊ©‚©‚Ї‚Й‚ж‚з‚ёЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅЯ“cпїЅпїЅпїЅД‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅк‚ѕпїЅЛЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚пїЅз‚ёпїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЋcЌ“‚ИЋп–Ў‚рЋќ‚Б‚Д‚йЃA‚Е‚·‚©ЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅпїЅпїЅИЋп–ЎпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅAпїЅЕ‚пїЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЃcЃcЉy‚µ‚ў‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅcпїЅcпїЅyпїЅпїЅпїЅпїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ѓi‚¤‚И‚ё‚­Ѓj‚Е‚аЃAЋ„‚М–{“–‚М‹CЋќ‚ї‚Н‚Ѕ‚Ф‚с’N‚Й‚а‚н‚©‚Б‚Д‚а‚з‚¦‚И‚ў‚ЖЋv‚ў‚Ь‚·ЃB‚»‚к‚Е‚ў‚ў‚с‚Е‚·‚Ї‚ЗЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅjпїЅЕ‚пїЅпїЅAпїЅпїЅпїЅМ–{пїЅпїЅпїЅМ‹CпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅФ‚пїЅNпїЅЙ‚пїЅпїЅн‚©пїЅпїЅпїЅД‚пїЅпїЅз‚¦пїЅИ‚пїЅпїЅЖЋvпїЅпїЅпїЅЬ‚пїЅпїЅBпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅЗЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@–{“–‚М‹CЋќ‚ї‚Б‚Д‚З‚с‚И‹CЋќ‚їЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅ{пїЅпїЅпїЅМ‹CпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚З‚пїЅИ‹CпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@•·‚ў‚Д‚­‚к‚Ь‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅЬ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ѓi‚¤‚И‚ё‚­Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ћ„ЃA‹Ћ”N‚Ь‚Е‚НЃAЏ¬’№‚Є‘еЌD‚«‚ЕЃA‘й‚Н‚З‚Б‚ї‚©‚Ж‚ў‚¤‚ЖЌD‚«‚¶‚б‚И‚©‚Б‚Ѕ‚с‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅAпїЅпїЅпїЅNпїЅЬ‚Е‚НЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅDпїЅпїЅпїЅЕЃAпїЅпїЅН‚З‚пїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅЖЌDпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚»‚¤‚И‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅИ‚с‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚±‚МЊц‰Ђ‚Е‹Ћ”N‚Н‚¶‚Я‚ДѓIѓIѓ^ѓJ‚Є‘ѓ‚рЌм‚Б‚ДЃA‹Ћ”N‚аЋO‰H‚МЋq‚З‚а‚Єђ¶‚Ь‚к‚ДЃA‚Н‚¶‚Я‚Н‘й‚МЋq‚З‚а‚Б‚Д‚©‚н‚ў‚ў‚И‚Б‚ДЋv‚Б‚Ѕ‚с‚Е‚·ЃA‚і‚Б‚«‚Мђж”y‚Э‚Ѕ‚ў‚ЙЃB‚Е‚аЃA‘й‚ЄЋ©•Є‚М‘еЌD‚«‚ИЏ¬’№‚рЏP‚Б‚Д‚й‚М‚рЊ©‚ДЃA‚·‚І‚­‘й‚ЄЊ™‚ў‚Й‚И‚Б‚ї‚б‚Б‚ДЃB‘й‚ЄЏP‚¤‚М‚рЊ©‚й“x‚ЙЃAЃu“¦‚°‚ДЃA“¦‚°‚ДЃv‚Б‚Д‹©‚с‚Е‚Ь‚µ‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅМЊпїЅпїЅпїЅпїЅЕ‹пїЅпїЅNпїЅН‚пїЅпїЅЯ‚ДѓIпїЅIпїЅ^пїЅJпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅNпїЅпїЅпїЅOпїЅHпїЅМЋqпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅДЃAпїЅН‚пїЅпїЅЯ‚Н‘пїЅМЋqпїЅЗ‚пїЅпїЅпїЅпїЅД‚пїЅпїЅн‚ўпїЅпїЅпїЅИ‚пїЅпїЅДЋvпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅМђпїЅyпїЅЭ‚пїЅпїЅпїЅпїЅЙЃBпїЅЕ‚пїЅпїЅAпїЅй‚ЄпїЅпїЅпїЅпїЅпїЅМ‘пїЅDпїЅпїЅпїЅИЏпїЅпїЅпїЅпїЅпїЅпїЅPпїЅпїЅпїЅД‚пїЅМ‚пїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅй‚ЄпїЅпїЅпїЅпїЅпїЅЙ‚И‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃBпїЅй‚ЄпїЅPпїЅпїЅпїЅМ‚пїЅпїЅпїЅпїЅпїЅxпїЅЙЃAпїЅuпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅДЃvпїЅпїЅпїЅД‹пїЅпїЅпїЅЕ‚Ь‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚ЕЃA<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅЕЃA<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЋЂ‚с‚¶‚б‚Б‚Ѕ‚с‚Е‚·ЃB‹Ћ”NЃAЋO‰H‚Ж‚аЃB‰a‚Є‚И‚­‚ДЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅс‚¶‚пїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅBпїЅпїЅпїЅNпїЅAпїЅOпїЅHпїЅЖ‚пїЅпїЅBпїЅaпїЅпїЅпїЅИ‚пїЅпїЅДЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‘ѓ‚М’†‚ЕЋЂ‚с‚Е‚йЋq‚З‚аЊ©‚Ѕ‚зЃA‚И‚с‚©‚»‚к‚а‚Ж‚Б‚Д‚аЋcЌ“‚ЕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅМ’пїЅпїЅЕЋпїЅпїЅпїЅЕ‚пїЅqпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅИ‚с‚©‚пїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅД‚пїЅпїЅcпїЅпїЅпїЅЕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚»‚¤‚ѕ‚Б‚Ѕ‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЌЕ‹Я‚НЃAЋ„ЃAЏP‚¤‘й‚а‰ћ‰‡‚µ‚Д‚й‚с‚Е‚·ЃB‚ ‚МЋOYЉЫ‚а–іЋ–‘ѓ—§‚Д‚О‚ў‚ў‚И‚Б‚ДЃBЋOYЉЫЃAЌЎ‚МЋ„‚М‚Ж‚«‚Я‚«‚И‚с‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЕ‹Я‚НЃAпїЅпїЅпїЅAпїЅPпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅЕ‚пїЅпїЅBпїЅпїЅпїЅМЋOпїЅYпїЅЫ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚О‚пїЅпїЅпїЅпїЅИ‚пїЅпїЅДЃBпїЅOпїЅYпїЅЫЃAпїЅпїЅпїЅМЋпїЅпїЅМ‚Ж‚пїЅпїЅЯ‚пїЅпїЅИ‚пїЅЕ‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚Ж‚«‚Я‚«‚ЛЃB‚И‚с‚©‚ї‚е‚Б‚Ж‚н‚©‚Б‚Ѕ‹C‚Є‚·‚йЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅЖ‚пїЅпїЅЯ‚пїЅпїЅЛЃBпїЅИ‚с‚©‚пїЅпїЅпїЅпїЅпїЅЖ‚н‚©пїЅпїЅпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ђж”yЃAЌЎ“x‚Нђж”y‚М”Ф‚Е‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅyпїЅAпїЅпїЅпїЅxпїЅНђпїЅyпїЅМ”Ф‚Е‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ћ„‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@€кЌр“ъ“З‚с‚Е‚Ѕ–{ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЗ‚пїЅЕ‚пїЅпїЅ{пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚ ‚ ЃA‚ ‚к‚ЛЃB’m‚и‚Ѕ‚ўЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅЛЃBпїЅmпїЅи‚ЅпїЅпїЅпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚З‚¤‚µ‚Д‚а‚Б‚Д‚н‚Ї‚¶‚б‚И‚ў‚Е‚·‚Ї‚ЗЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЗ‚пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅД‚н‚ЇпїЅпїЅпїЅпїЅИ‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅЗЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚Ь‚Б‚ў‚Б‚©ЃBЃi–{‚рЋж‚иЏo‚µ‚ДЃj‚Н‚ўЃB’†Њ©‚Д‚ў‚ў‚жЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅЬ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅiпїЅ{пїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅДЃjпїЅН‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅи‚ЄпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ь‚ЄѓyЃ[ѓW‚р‚Я‚­‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅпїЅпїЅyпїЅ[пїЅWпїЅпїЅпїЅЯ‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚±‚кЃAђ”Љw‚МЋQЌlЏ‘ЃcЃc‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅAпїЅпїЅпїЅwпїЅМЋQпїЅlпїЅпїЅпїЅcпїЅcпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚»‚БЃB•П‚Е‚µ‚еЃAЊц‰Ђ‚Еђ”Љw‚МЋQЌlЏ‘“З‚с‚Е‚й‚И‚с‚ДЃB‚Ь‚БЃA‚З‚¤Ћv‚н‚к‚ж‚¤‚Ж‚©‚Ь‚н‚И‚ў‚с‚ѕ‚Ї‚З‚іЃB‚Е‚а‚в‚Б‚П‰B‚µ‚ї‚б‚¤‚с‚ѕ‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅBпїЅП‚Е‚пїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅЕђпїЅпїЅwпїЅМЋQпїЅlпїЅпїЅпїЅЗ‚пїЅЕ‚пїЅИ‚пїЅДЃBпїЅЬ‚пїЅпїЅAпїЅЗ‚пїЅпїЅvпїЅпїЅпїЅж‚¤пїЅЖ‚пїЅпїЅЬ‚пїЅИ‚пїЅпїЅс‚ѕ‚пїЅпїЅЗ‚пїЅпїЅBпїЅЕ‚пїЅпїЅпїЅпїЅпїЅП‰BпїЅпїЅпїЅпїЅпїЅб‚¤пїЅс‚ѕ‚пїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@’†ЋO‚Й‚И‚й‚Ж‚±‚с‚И‚М‚в‚й‚с‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅOпїЅЙ‚И‚пїЅЖ‚пїЅпїЅпїЅИ‚М‚пїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚»‚кЃAЌ‚ЌZ‚Мђ”Љw‚И‚с‚ѕЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅAпїЅпїЅпїЅZпїЅМђпїЅпїЅwпїЅИ‚с‚ѕЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@Ћ„ЃAђ”ЋљЊ©‚Д‚й‚ЖЃA–Ъ‚Є‰с‚Б‚ї‚б‚¤ѓ^ѓCѓv‚И‚с‚Е‚·‚ж‚ЛЃBђ”Љw‹кЋи‚И‚а‚с‚ЕЃBђж”y‚НЃAЉy‚µ‚ў‚с‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅЖЃAпїЅЪ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅб‚¤пїЅ^пїЅCпїЅvпїЅИ‚пїЅЕ‚пїЅпїЅпїЅЛЃBпїЅпїЅпїЅwпїЅпїЅпїЅИ‚пїЅпїЅпїЅЕЃBпїЅпїЅyпїЅНЃAпїЅyпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ѓi‚¤‚И‚ё‚­ЃjЏH‚Й‚іЃA‚Ѕ‚­‚і‚с‚МЊН‚к—t‚Є•—‚Й•‘‚¤‚Ж‚«‚ ‚й‚¶‚б‚И‚ўЃA‚·‚Б‚І‚­ѓЌѓ}ѓ“ѓ`ѓbѓN‚ЕЃB‚ ‚с‚ИЋћ‚ЙЋ„ЃA•ы’цЋ®‚рЋv‚ў•‚‚©‚Ч‚ї‚б‚¤‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅiпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅjпїЅHпїЅЙ‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЊН‚пїЅtпїЅпїЅпїЅпїЅпїЅЙ•пїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅй‚¶пїЅпїЅИ‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ}пїЅпїЅпїЅ`пїЅbпїЅNпїЅЕЃBпїЅпїЅпїЅпїЅИЋпїЅпїЅЙЋпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅпїЅпїЅпїЅпїЅЧ‚пїЅпїЅб‚¤пїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@•ы’цЋ®ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЌЎ‚а‚іЃA‚±‚±‚Й‰f‚Б‚Д‚йЊх‚Ж‰e‚Б‚Д‚·‚Б‚І‚­•ЎЋG‚Е–К”’‚­‚Б‚ДЃAђ}Њ`‚МЏШ–ѕ–в‘иЌl‚¦‚Ѕ‚и‚µ‚ї‚б‚¤‚с‚ѕ‚ж‚ЛЃB‚Ь‚БЃA‚н‚©‚Б‚Д‚а‚з‚¤‚М‚Н–і—ќ‚ѕ‚ЖЋv‚¤‚Ї‚ЗЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅЙ‰fпїЅпїЅпїЅД‚пїЅпїЅпїЅЖ‰eпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅGпїЅЕ–К”пїЅпїЅпїЅпїЅпїЅпїЅДЃAпїЅ}пїЅ`пїЅМЏШ–пїЅпїЅпїЅпїЅlпїЅпїЅпїЅпїЅпїЅи‚µпїЅпїЅпїЅб‚¤пїЅс‚ѕ‚пїЅЛЃBпїЅЬ‚пїЅпїЅAпїЅн‚©пїЅпїЅпїЅД‚пїЅпїЅз‚¤пїЅМ‚Н–пїЅпїЅпїЅпїЅпїЅпїЅЖЋvпїЅпїЅпїЅпїЅпїЅЗЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃiЏО‚¤Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅiпїЅО‚пїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚ж‚­‚н‚©‚з‚И‚ў‚Ї‚ЗЃA‚н‚©‚Б‚Д‚а‚з‚¦‚И‚ў‚±‚Ж‚Є‚н‚©‚й‹C‚µ‚Ь‚·ЃBЋ—‚Д‚Ь‚·‚ЛЃAЋ„‚Ѕ‚їЃA•П‚И‚Ж‚±‚лЃBЃiЏО‚¤Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅж‚­пїЅн‚©пїЅпїЅИ‚пїЅпїЅпїЅпїЅЗЃAпїЅн‚©пїЅпїЅпїЅД‚пїЅпїЅз‚¦пїЅИ‚пїЅпїЅпїЅпїЅЖ‚пїЅпїЅн‚©пїЅпїЅCпїЅпїЅпїЅЬ‚пїЅпїЅBпїЅпїЅпїЅД‚Ь‚пїЅпїЅЛЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅП‚И‚Ж‚пїЅпїЅпїЅBпїЅiпїЅО‚пїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ћ—‚Д‚й‚©‚аЃBЃi‚»‚¤‚ў‚Б‚ДЏО‚¤Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅД‚й‚©пїЅпїЅпїЅBпїЅiпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЏО‚пїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚И‚©‚И‚©‚н‚©‚Б‚Д‚а‚з‚¦‚Ь‚№‚с‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅИ‚пїЅпїЅИ‚пїЅпїЅн‚©пїЅпїЅпїЅД‚пїЅпїЅз‚¦пїЅЬ‚пїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ѓu‚Э‚с‚И€б‚Б‚Д‚Э‚с‚И‚ў‚ўЃv‚Б‚ДЋЌ‚Є‹іЋє‚Й‚Н‚Б‚Д‚ ‚й‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅuпїЅЭ‚пїЅИ€пїЅпїЅпїЅД‚Э‚пїЅИ‚пїЅпїЅпїЅпїЅvпїЅпїЅпїЅДЋпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚Н‚пїЅпїЅД‚пїЅпїЅпїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚»‚к’m‚Б‚Д‚Ь‚·ЃBЌ‘Њк‚МЋћЉФ‚Й‚в‚и‚Ь‚µ‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅmпїЅпїЅпїЅД‚Ь‚пїЅпїЅBпїЅпїЅпїЅпїЅМЋпїЅпїЅФ‚Й‚пїЅпїЅЬ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@’S”C‚МЏј–{‚Є‚±‚МЋЌ‚ЄЌD‚«‚Е‚іЃB‚Е‚аЋ„‚М€б‚ў‚Н‚ж‚­‚И‚ў‚Э‚Ѕ‚ў‚И‚с‚ѕ‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅSпїЅCпїЅМЏпїЅпїЅ{пїЅпїЅпїЅпїЅпїЅМЋпїЅпїЅпїЅпїЅDпїЅпїЅпїЅЕ‚пїЅпїЅBпїЅЕ‚пїЅпїЅпїЅпїЅМ€б‚ўпїЅН‚ж‚­пїЅИ‚пїЅпїЅЭ‚пїЅпїЅпїЅпїЅИ‚с‚ѕ‚пїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ђж”y‚М€б‚ўЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅyпїЅМ€б‚ўпїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚¤‚ї‚МѓNѓ‰ѓX‚МЉw‹‰–Ъ•W‚И‚с‚ѕ‚ЖЋv‚¤ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅМѓNпїЅпїЅпїЅXпїЅМЉwпїЅпїЅпїЅЪ•WпїЅИ‚с‚ѕ‚ЖЋvпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ѓu‚Р‚Ж‚и‚Ъ‚Б‚ї‚р‚В‚­‚з‚И‚ўЃvЃB‚±‚кЃAЋ„‚Й‚Ж‚Б‚Д‚Н‚Ї‚Б‚±‚¤ђh‚­‚ДЃB‚ѕ‚Б‚ДЋ„€кђl‚Е‚ў‚й‚Ж‚«‘еЌD‚«‚ѕ‚©‚зЃBЋ„ЃA‚Р‚Ж‚и‚Ъ‚Б‚ї‚ЄЌD‚«‚И‚М‚ЙЃA‚Р‚Ж‚и‚Ъ‚Б‚ї‚ЄЌD‚«‚Ж‚ў‚¤€б‚ў‚Н‚ѕ‚Я‚И‚с‚ѕ‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅuпїЅР‚Ж‚пїЅЪ‚пїЅпїЅпїЅпїЅпїЅпїЅВ‚пїЅпїЅпїЅИ‚пїЅпїЅvпїЅBпїЅпїЅпїЅпїЅAпїЅпїЅпїЅЙ‚Ж‚пїЅпїЅД‚Н‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅhпїЅпїЅпїЅДЃBпїЅпїЅпїЅпїЅпїЅДЋпїЅпїЅпїЅlпїЅЕ‚пїЅпїЅпїЅЖ‚пїЅпїЅпїЅDпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅAпїЅР‚Ж‚пїЅЪ‚пїЅпїЅпїЅпїЅпїЅпїЅDпїЅпїЅпїЅИ‚М‚ЙЃAпїЅР‚Ж‚пїЅЪ‚пїЅпїЅпїЅпїЅпїЅпїЅDпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅб‚ўпїЅН‚пїЅпїЅЯ‚И‚с‚ѕ‚пїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@’m‚Б‚Д‚й‚МЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅmпїЅпїЅпїЅД‚пїЅМЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@’m‚Б‚Д‚й‚Б‚ДЃH<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅmпїЅпїЅпїЅД‚пїЅпїЅпїЅДЃH<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@’m‚Б‚Д‚й‚с‚Е‚µ‚еЃAЋ„‚М‚±‚ЖЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅmпїЅпїЅпїЅД‚пїЅпїЅЕ‚пїЅпїЅпїЅAпїЅпїЅпїЅМ‚пїЅпїЅЖЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‰ЖЏoЃA‚М‚±‚Ж‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЖЏoпїЅAпїЅМ‚пїЅпїЅЖ‚Е‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‰ЖЏoЃHЃ@‰ЖЏo‚Б‚Д‚ў‚¤‚М‚ї‚е‚Б‚Ж€б‚¤‚ИЃA‚З‚Б‚ї‚©‚Б‚Д‚ў‚¤‚ЖЉwЌZЏo‚ѕ‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅЖЏoпїЅHпїЅ@пїЅЖЏoпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅМ‚пїЅпїЅпїЅпїЅпїЅЖ€б‚¤пїЅИЃAпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅЖЉwпїЅZпїЅoпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚З‚¤‚µ‚ДЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЗ‚пїЅпїЅпїЅпїЅДЃcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@’S”C‚МЏј–{ЃA‚Ж‚Б‚Д‚а—D‚µ‚ў‚с‚ѕЃB”Y‚с‚Е‚ў‚Ѕ‚и‹к‚µ‚с‚Е‚ў‚й‚М‚р•ъ‚Б‚Д‚Ё‚Ї‚И‚ў‚с‚ѕ‚ж‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅSпїЅCпїЅМЏпїЅпїЅ{пїЅAпїЅЖ‚пїЅпїЅД‚пїЅпїЅDпїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅYпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅк‚µпїЅпїЅЕ‚пїЅпїЅпїЅМ‚пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕ‚пїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚ў‚ўђжђ¶‚И‚с‚Е‚·‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅжђ¶пїЅИ‚пїЅЕ‚пїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚»‚¤‚И‚с‚ѕ‚Ї‚ЗЃB‚Е‚аЃA‚»‚М—D‚µ‚і‚Є‚Ж‚Б‚Д‚ађh‚ў‚Ж‚«‚Є‚ ‚Б‚Д‚іЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅИ‚с‚ѕ‚пїЅпїЅЗЃBпїЅЕ‚пїЅпїЅAпїЅпїЅпїЅМ—DпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅД‚пїЅпїЅhпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ќр“ъ‚М’‹‹x‚Э‚Й‚ў‚В‚а’К‚и‚Й‹іЋє‚Еђ”Љw‚М–{“З‚с‚Е‚Ѕ‚с‚ѕЃA€кђl‚ЕЃB‚»‚µ‚Ѕ‚зЏј–{Ѓu”Y‚Э‚Є‚ ‚Б‚Ѕ‚з‘Љ’k‚µ‚ДЃv‚Б‚ДЃB•К‚Й‰Ѕ‚а‚И‚ў‚с‚ѕЃBђ”Љw•Ч‹­‚µ‚Д‚й‚М‚Н‚іЃA‚Э‚с‚И‚ЄЉO‚ЕѓTѓbѓJЃ[‚µ‚Д‚й‚М‚Ж“Ї‚¶‚ѕ‚ЖЋv‚¤‚с‚ѕ‚Ї‚ЗЃAЏј–{‚Й‚Н‚ў‚В‚а‚Ж€б‚¤Ћ„‚ЙЊ©‚¦‚Ѕ‚с‚ѕ‚ЖЋv‚¤ЃBЉw”N€к”Ф‚¶‚б‚И‚­‚И‚Б‚Ѕ‚©‚зЃBЋ„ЃAЊy‚ў‹CЋќ‚ї‚ЕЃu”Y‚Э‚И‚с‚Д‚ ‚и‚Ь‚№‚сЃv‚Б‚Д“љ‚¦‚Ѕ‚с‚ѕЃB‚»‚µ‚Ѕ‚зЏј–{ЃAЃuЌЎ‚Ь‚Е‚ж‚­‚Є‚с‚О‚Б‚Ѕ‚ж‚ЛЃB‚Е‚а‚»‚с‚И‚Й‚Є‚с‚О‚з‚И‚­‚Д‚а‚ў‚ў‚М‚жЃv‚И‚с‚ДЊѕ‚¤‚с‚ѕЃBЋ„‚»‚к•·‚ў‚Д‹ѓ‚«‚Ѕ‚­‚И‚Б‚ї‚б‚Б‚Д‚іЃBЋ©•Є‚М‚±‚Ж‘S‘R‚н‚©‚Б‚Д‚а‚з‚¦‚И‚ў‚±‚Ж‚ЙЃB‚»‚к‚Е‚іЃAЏј–{‚М—D‚µ‚і‚Й‘§‚Є‹к‚µ‚­‚И‚Б‚ДЃA‚»‚±‚©‚з“¦‚°Џo‚µ‚ї‚б‚Б‚Ѕ‚с‚ѕЃB‚а‚¤ЌЕ€«‚ѕ‚жЃB‚ ‚к‚Б‚Д‚Ё‚а‚ў‚Б‚«‚иЉw”NЏ‡€К‚р‹C‚Й‚µ‚Д‚й‚Б‚ДЋv‚н‚к‚й‚±‚Ж‚µ‚ї‚б‚Б‚Ѕ‚н‚Ї‚¶‚б‚И‚ўЃB‚»‚к‚р•Щ‰р‚µ‚ж‚¤‚Ж‚µ‚Д‚а‚·‚к‚О‚·‚й‚Щ‚ЗЊл‰р‚і‚к‚й‚µЃBЋ„ЃA‚И‚с‚©‰Ѕ‚а‚©‚а‚ЄЊ™‚Й‚И‚Б‚ї‚б‚Б‚ДЃB‚»‚к‚Е‰Ж‚Й‚а‹A‚з‚И‚©‚Б‚Ѕ‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅМ’пїЅпїЅxпїЅЭ‚Й‚пїЅпїЅВ‚пїЅпїЅК‚пїЅЙ‹пїЅпїЅпїЅпїЅЕђпїЅпїЅwпїЅМ–{пїЅЗ‚пїЅЕ‚пїЅпїЅс‚ѕЃAпїЅпїЅlпїЅЕЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅзЏјпїЅ{пїЅuпїЅYпїЅЭ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅз‘ЉпїЅkпїЅпїЅпїЅДЃvпїЅпїЅпїЅДЃBпїЅК‚Й‰пїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕЃBпїЅпїЅпїЅwпїЅЧ‹пїЅпїЅпїЅпїЅД‚пїЅМ‚Н‚пїЅпїЅAпїЅЭ‚пїЅИ‚пїЅпїЅOпїЅЕѓTпїЅbпїЅJпїЅ[пїЅпїЅпїЅД‚пїЅМ‚Ж“пїЅпїЅпїЅпїЅпїЅпїЅЖЋvпїЅпїЅпїЅс‚ѕ‚пїЅпїЅЗЃAпїЅпїЅпїЅ{пїЅЙ‚Н‚пїЅпїЅВ‚пїЅпїЅЖ€б‚¤пїЅпїЅпїЅЙЊпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕ‚ЖЋvпїЅпїЅпїЅBпїЅwпїЅNпїЅпїЅФ‚пїЅпїЅпїЅИ‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅAпїЅyпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅЕЃuпїЅYпїЅЭ‚И‚пїЅД‚пїЅпїЅпїЅЬ‚пїЅпїЅпїЅvпїЅпїЅпїЅД“пїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅзЏјпїЅ{пїЅAпїЅuпїЅпїЅпїЅЬ‚Е‚ж‚­пїЅпїЅпїЅпїЅО‚пїЅпїЅпїЅпїЅпїЅЛЃBпїЅЕ‚пїЅпїЅпїЅпїЅпїЅИ‚Й‚пїЅпїЅпїЅО‚пїЅИ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅvпїЅИ‚пїЅДЊпїЅпїЅпїЅпїЅс‚ѕЃBпїЅпїЅпїЅпїЅпїЅк•·пїЅпїЅпїЅД‹пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЖ‘SпїЅRпїЅн‚©пїЅпїЅпїЅД‚пїЅпїЅз‚¦пїЅИ‚пїЅпїЅпїЅпїЅЖ‚ЙЃBпїЅпїЅпїЅпїЅЕ‚пїЅпїЅAпїЅпїЅпїЅ{пїЅМ—DпїЅпїЅпїЅпїЅпїЅЙ‘пїЅпїЅпїЅпїЅк‚µпїЅпїЅпїЅИ‚пїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅз“¦пїЅпїЅпїЅoпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅпїЅпїЅпїЅпїЅЕ€пїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅwпїЅNпїЅпїЅпїЅК‚пїЅпїЅCпїЅЙ‚пїЅпїЅД‚пїЅпїЅпїЅДЋvпїЅпїЅпїЅй‚±пїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅн‚ЇпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅЩ‰пїЅпїЅпїЅпїЅж‚¤пїЅЖ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅО‚пїЅпїЅпїЅЩ‚ЗЊпїЅпїЅпїЅпїЅпїЅпїЅй‚µпїЅBпїЅпїЅпїЅAпїЅИ‚с‚©‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚И‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃBпїЅпїЅпїЅпїЅЕ‰Ж‚Й‚пїЅпїЅAпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚»‚¤‚ѕ‚Б‚Ѕ‚с‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‹у‚Й‚Н”ь‚µ‚ў—[ЏД‚Ї‚ЄЊ»‚к‚Д‚ў‚йЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅЙ‚Н”пїЅпїЅпїЅпїЅпїЅпїЅ[пїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ћ„‚іЃA€к“xЋКђ^‚Й‹»–ЎЋќ‚Б‚Ѕ‚±‚Ж‚ ‚й‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅxпїЅКђ^пїЅЙ‹пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃcЃc<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅcпїЅc<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚±‚с‚И•—‚ЙЃA—[ЏД‚Ї‚Є‚«‚к‚ў‚ЕЃA‚З‚¤‚µ‚Д‚а‚±‚М—[ЏД‚Ї‚рЋc‚µ‚Д‚Ё‚«‚Ѕ‚ў‚Б‚ДЋv‚Б‚ДЃAѓJѓЃѓ‰Ћќ‚Б‚Д‚«‚ДЋКђ^ЋB‚Б‚Ѕ‚с‚ѕЃB‰Ѕ–‡‚аЃB‚ЕЃAЊ»‘њ‚µ‚Ѕ‚зЃA‘S‘R€б‚¤‚с‚ѕ‚жЃAЋ„‚ЄЊ©‚Ѕ—[ЏД‚Ї‚ЖЃB‚±‚с‚И‚с‚¶‚б‚И‚ў‚јЃ[‚Б‚ДЃB‚»‚к€И—€‚И‚с‚©‚ЛЃB‚ ‚Ѕ‚µ‚И‚с‚Е‚±‚с‚Иb‚µ‚Д‚с‚ѕЃB‚Е‚аЃAb‚µ‚Ѕ‚з‚И‚с‚©ѓXѓbѓLѓЉ‚µ‚ЅЃBѓXѓbѓLѓЉ‚µ‚Ѕ‚зЃA‚Ё• ‚Ц‚Б‚ї‚б‚Б‚ЅЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅИ•пїЅпїЅЙЃAпїЅ[пїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅк‚ўпїЅЕЃAпїЅЗ‚пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅМ—[пїЅД‚пїЅпїЅпїЅпїЅcпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅДЃAпїЅJпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅДЋКђ^пїЅBпїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅЕЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅSпїЅRпїЅб‚¤пїЅс‚ѕ‚пїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ[пїЅД‚пїЅпїЅЖЃBпїЅпїЅпїЅпїЅИ‚с‚¶‚пїЅИ‚пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅДЃBпїЅпїЅпїЅпїЅИ—пїЅпїЅИ‚с‚©‚ЛЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅЕ‚пїЅпїЅпїЅИbпїЅпїЅпїЅД‚с‚ѕЃBпїЅЕ‚пїЅпїЅAпїЅbпїЅпїЅпїЅпїЅпїЅпїЅИ‚с‚©ѓXпїЅbпїЅLпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅXпїЅbпїЅLпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅЦ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@ЃiЏО‚¤Ѓj<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅiпїЅО‚пїЅпїЅj<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚И‚с‚©‚ў‚л‚с‚ИЋv‚ў‚Є‚Ё• ‚Й‚Ѕ‚Ь‚Б‚Д‚Ѕ‚М‚©‚ИЃBЋА‚НЃAЌр“ъ‚©‚з‰Ѕ‚ађH‚Ч‚Д‚И‚ў‚с‚ѕЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅИ‚с‚©‚пїЅпїЅпїЅпїЅИЋvпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅЬ‚пїЅпїЅД‚пїЅпїЅМ‚пїЅпїЅИЃBпїЅпїЅпїЅНЃAпїЅпїЅпїЅпїЅпїЅпїЅз‰ЅпїЅпїЅпїЅHпїЅЧ‚Д‚И‚пїЅпїЅс‚ѕЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Щ‚с‚Ж‚Е‚·‚©ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅЩ‚пїЅЖ‚Е‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@‚а‚¤‚Ё• ‚Ш‚±‚Ш‚±ЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅШ‚пїЅпїЅШ‚пїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>“сђl‚ЄЏО‚¤ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅпїЅlпїЅпїЅпїЅО‚пїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@Ћ„‹A‚йЃB‚а‚¤‚З‚¤Ћv‚н‚к‚Д‚а‚ў‚ў‚вЃBЃi‹A‚йЋx“x‚р‚·‚йЃj‚»‚к‚¶‚бЃA‚і‚ж‚¤‚И‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅпїЅпїЅAпїЅпїЅBпїЅпїЅпїЅпїЅпїЅЗ‚пїЅпїЅvпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅiпїЅAпїЅпїЅxпїЅxпїЅпїЅпїЅпїЅпїЅпїЅjпїЅпїЅпїЅк‚¶пїЅпїЅAпїЅпїЅпїЅж‚¤пїЅИ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚і‚ж‚¤‚И‚зЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅпїЅпїЅж‚¤пїЅИ‚пїЅB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉGЃ@ЃiЏ­‚µ•а‚«Ћn‚Я‚Д‚©‚з—§‚їЋ~‚Ь‚иЃA‰Д”ь‚М•ы‚рђU‚иЊь‚ў‚ДЃjЋOYЉЫЃA‘ѓ—§‚В‚Ж‚ў‚ў‚ЛЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅ@пїЅiпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅnпїЅЯ‚Д‚пїЅпїЅз—§пїЅпїЅпїЅ~пїЅЬ‚пїЅAпїЅД”пїЅпїЅМ•пїЅпїЅпїЅUпїЅпїЅпїЅпїЅпїЅпїЅДЃjпїЅOпїЅYпїЅЫЃAпїЅпїЅпїЅпїЅпїЅВ‚Ж‚пїЅпїЅпїЅпїЅЛЃB<o:p></o:p></span></p>
 
-<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>‰Д”ьЃ@‚Н‚ўЃB<o:p></o:p></span></p>
+<p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅД”пїЅпїЅ@пїЅН‚пїЅпїЅB<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>‚д‚«ЉG‚Є‹A‚Б‚Д‚ў‚­ЃB<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅд‚«пїЅGпїЅпїЅпїЅAпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB<o:p></o:p></span></p>
 
-<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>€Г“]<o:p></o:p></span></p>
+<p class=a2><span style='font-size:11.0pt;mso-ansi-language:JA'>пїЅГ“]<o:p></o:p></span></p>
 
 <p class=a1><span style='font-size:11.0pt;mso-ansi-language:JA'><o:p>&nbsp;</o:p></span></p>
 
 <p class=a1 align=center style='text-align:center'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:18.0pt;mso-bidi-font-size:11.0pt;mso-ansi-language:
-JA'>‘±‚­<o:p></o:p></span></b></p>
+JA'>пїЅпїЅпїЅпїЅ<o:p></o:p></span></b></p>
 
 </div>
 

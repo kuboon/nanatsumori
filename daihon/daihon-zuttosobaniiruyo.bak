@@ -6,7 +6,7 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
 <meta name="ProgId" content="Word.Document" />
 <meta name="Generator" content="JustSystems Homepage Builder Version 17.0.15.0 for Windows" />
 <meta name="Originator" content="Microsoft Word 14" />
@@ -355,7 +355,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-pitch:variable;
 	mso-font-signature:0 268435456 0 0 -2147483648 0;}
 @font-face
-	{font-family:"‚l‚r –ѕ’©";
+	{font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-alt:"MS Mincho";
 	mso-font-charset:128;
@@ -378,49 +378,49 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-pitch:variable;
 	mso-font-signature:0 0 0 0 0 0;}
 @font-face
-	{font-family:‚i‚r–ѕ’©;
+	{font-family:пїЅiпїЅrпїЅпїЅпїЅпїЅ;
 	panose-1:2 2 3 9 0 1 1 1 1 1;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
-	{font-family:‚i‚rѓSѓVѓbѓN;
+	{font-family:пїЅiпїЅrпїЅSпїЅVпїЅbпїЅN;
 	panose-1:2 11 6 9 0 1 1 1 1 1;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
-	{font-family:HG–ѕ’©E;
+	{font-family:HGпїЅпїЅпїЅпїЅE;
 	panose-1:2 2 9 9 0 0 0 0 0 0;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@HG–ѕ’©E";
+	{font-family:"\@HGпїЅпїЅпїЅпїЅE";
 	panose-1:2 2 9 9 0 0 0 0 0 0;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@‚l‚r –ѕ’©";
+	{font-family:"\@пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	panose-1:2 2 6 9 4 2 5 8 3 4;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
 	mso-font-pitch:fixed;
 	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
 @font-face
-	{font-family:"\@‚i‚rѓSѓVѓbѓN";
+	{font-family:"\@пїЅiпїЅrпїЅSпїЅVпїЅbпїЅN";
 	panose-1:2 11 6 9 0 1 1 1 1 1;
 	mso-font-charset:128;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
 	mso-font-signature:1 134676480 16 0 131072 0;}
 @font-face
-	{font-family:"\@‚i‚r–ѕ’©";
+	{font-family:"\@пїЅiпїЅrпїЅпїЅпїЅпїЅ";
 	panose-1:2 2 3 9 0 1 1 1 1 1;
 	mso-font-charset:128;
 	mso-generic-font-family:roman;
@@ -440,7 +440,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
@@ -448,8 +448,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 h1{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 1 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂ;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 1 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅ;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -462,7 +462,7 @@ h1{
 	font-size:12.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:‚i‚rѓSѓVѓbѓN;
+	mso-fareast-font-family:пїЅiпїЅrпїЅSпїЅVпїЅbпїЅN;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
 	mso-font-kerning:12.0pt;
@@ -471,8 +471,8 @@ h1{
 h2{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 2 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂѓCѓ“ѓfѓ“ѓg;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 2 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅпїЅCпїЅпїЅпїЅfпїЅпїЅпїЅg;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -485,7 +485,7 @@ h2{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
 	mso-bidi-font-weight:normal;
@@ -493,8 +493,8 @@ h2{
 h3{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 3 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂѓCѓ“ѓfѓ“ѓg;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 3 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅпїЅCпїЅпїЅпїЅfпїЅпїЅпїЅg;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -507,15 +507,15 @@ h3{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:‚i‚rѓSѓVѓbѓN;
+	mso-fareast-font-family:пїЅiпїЅrпїЅSпїЅVпїЅbпїЅN;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
 	font-weight:normal;
 }
 h4{
 	mso-style-unhide:no;
-	mso-style-link:"Њ©Џo‚µ 4 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂѓCѓ“ѓfѓ“ѓg;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 4 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅпїЅCпїЅпїЅпїЅfпїЅпїЅпїЅg;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -527,15 +527,15 @@ h4{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	letter-spacing:-.2pt;
 	mso-bidi-font-weight:normal;
 }
 h5{
 	mso-style-unhide:no;
-	mso-style-link:"Њ©Џo‚µ 5 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂѓCѓ“ѓfѓ“ѓg;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 5 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅпїЅCпїЅпїЅпїЅfпїЅпїЅпїЅg;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -548,15 +548,15 @@ h5{
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Arial","sans-serif";
-	mso-fareast-font-family:‚i‚rѓSѓVѓbѓN;
+	mso-fareast-font-family:пїЅiпїЅrпїЅSпїЅVпїЅbпїЅN;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
 	font-weight:normal;
 }
 h6{
 	mso-style-unhide:no;
-	mso-style-link:"Њ©Џo‚µ 6 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂѓCѓ“ѓfѓ“ѓg;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 6 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅпїЅCпїЅпїЅпїЅfпїЅпїЅпїЅg;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -568,7 +568,7 @@ h6{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	letter-spacing:-.2pt;
 	mso-bidi-font-weight:normal;
@@ -576,8 +576,8 @@ h6{
 p.MsoHeading7, li.MsoHeading7, div.MsoHeading7{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 7 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂѓCѓ“ѓfѓ“ѓg;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 7 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅпїЅCпїЅпїЅпїЅfпїЅпїЅпїЅg;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -589,7 +589,7 @@ p.MsoHeading7, li.MsoHeading7, div.MsoHeading7{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
@@ -597,8 +597,8 @@ p.MsoHeading7, li.MsoHeading7, div.MsoHeading7{
 p.MsoHeading8, li.MsoHeading8, div.MsoHeading8{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 8 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂѓCѓ“ѓfѓ“ѓg;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 8 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅпїЅCпїЅпїЅпїЅfпїЅпїЅпїЅg;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -610,7 +610,7 @@ p.MsoHeading8, li.MsoHeading8, div.MsoHeading8{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
@@ -618,8 +618,8 @@ p.MsoHeading8, li.MsoHeading8, div.MsoHeading8{
 p.MsoHeading9, li.MsoHeading9, div.MsoHeading9{
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Њ©Џo‚µ 9 \(•¶Ћљ\)";
-	mso-style-next:•WЏЂѓCѓ“ѓfѓ“ѓg;
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 9 \(пїЅпїЅпїЅпїЅ\)";
+	mso-style-next:пїЅWпїЅпїЅпїЅCпїЅпїЅпїЅfпїЅпїЅпїЅg;
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -631,7 +631,7 @@ p.MsoHeading9, li.MsoHeading9, div.MsoHeading9{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
@@ -655,14 +655,14 @@ p.MsoNormalIndent, li.MsoNormalIndent, div.MsoNormalIndent{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
 }
 p.MsoHeader, li.MsoHeader, div.MsoHeader{
 	mso-style-priority:99;
-	mso-style-link:"ѓwѓbѓ_Ѓ[ \(•¶Ћљ\)";
+	mso-style-link:"пїЅwпїЅbпїЅ_пїЅ[ \(пїЅпїЅпїЅпїЅ\)";
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -674,14 +674,14 @@ p.MsoHeader, li.MsoHeader, div.MsoHeader{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
 }
 p.MsoFooter, li.MsoFooter, div.MsoFooter{
 	mso-style-priority:99;
-	mso-style-link:"ѓtѓbѓ^Ѓ[ \(•¶Ћљ\)";
+	mso-style-link:"пїЅtпїЅbпїЅ^пїЅ[ \(пїЅпїЅпїЅпїЅ\)";
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -693,7 +693,7 @@ p.MsoFooter, li.MsoFooter, div.MsoFooter{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
@@ -701,7 +701,7 @@ p.MsoFooter, li.MsoFooter, div.MsoFooter{
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate{
 	mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-style-link:"ђЃ‚«Џo‚µ \(•¶Ћљ\)";
+	mso-style-link:"пїЅпїЅпїЅпїЅпїЅoпїЅпїЅ \(пїЅпїЅпїЅпїЅ\)";
 	margin:0mm;
 	margin-bottom:.0001pt;
 	text-align:justify;
@@ -713,7 +713,7 @@ p.MsoAcetate, li.MsoAcetate, div.MsoAcetate{
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"‚l‚r ѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:Arial;
 	mso-hansi-theme-font:major-latin;
@@ -742,114 +742,114 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph{
 	text-autospace:none;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-.2pt;
 }
 span.1
-	{mso-style-name:"Њ©Џo‚µ 1 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 1 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 1";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 1";
 	mso-ansi-font-size:12.0pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
-	mso-fareast-font-family:‚i‚rѓSѓVѓbѓN;
+	mso-fareast-font-family:пїЅiпїЅrпїЅSпїЅVпїЅbпїЅN;
 	mso-hansi-font-family:Arial;
 	letter-spacing:-.2pt;
 	mso-font-kerning:12.0pt;}
 span.2
-	{mso-style-name:"Њ©Џo‚µ 2 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 2 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 2";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 2";
 	mso-ansi-font-size:10.5pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-hansi-font-family:Arial;
 	letter-spacing:-.2pt;
 	font-weight:bold;
 	mso-bidi-font-weight:normal;}
 span.3
-	{mso-style-name:"Њ©Џo‚µ 3 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 3 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 3";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 3";
 	mso-ansi-font-size:10.5pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
-	mso-fareast-font-family:‚i‚rѓSѓVѓbѓN;
+	mso-fareast-font-family:пїЅiпїЅrпїЅSпїЅVпїЅbпїЅN;
 	mso-hansi-font-family:Arial;
 	letter-spacing:-.2pt;}
 span.4
-	{mso-style-name:"Њ©Џo‚µ 4 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 4 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 4";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 4";
 	mso-ansi-font-size:10.5pt;
-	font-family:"‚l‚r –ѕ’©","serif";
-	mso-ascii-font-family:"‚l‚r –ѕ’©";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
+	mso-ascii-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	letter-spacing:-.2pt;
 	font-weight:bold;
 	mso-bidi-font-weight:normal;}
 span.5
-	{mso-style-name:"Њ©Џo‚µ 5 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 5 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 5";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 5";
 	mso-ansi-font-size:10.5pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
-	mso-fareast-font-family:‚i‚rѓSѓVѓbѓN;
+	mso-fareast-font-family:пїЅiпїЅrпїЅSпїЅVпїЅbпїЅN;
 	mso-hansi-font-family:Arial;
 	letter-spacing:-.2pt;}
 span.6
-	{mso-style-name:"Њ©Џo‚µ 6 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 6 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 6";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 6";
 	mso-ansi-font-size:10.5pt;
-	font-family:"‚l‚r –ѕ’©","serif";
-	mso-ascii-font-family:"‚l‚r –ѕ’©";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
+	mso-ascii-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	letter-spacing:-.2pt;
 	font-weight:bold;
 	mso-bidi-font-weight:normal;}
 span.7
-	{mso-style-name:"Њ©Џo‚µ 7 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 7 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 7";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 7";
 	mso-ansi-font-size:10.5pt;
-	font-family:"‚l‚r –ѕ’©","serif";
-	mso-ascii-font-family:"‚l‚r –ѕ’©";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
+	mso-ascii-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	letter-spacing:-.2pt;}
 span.8
-	{mso-style-name:"Њ©Џo‚µ 8 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 8 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 8";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 8";
 	mso-ansi-font-size:10.5pt;
-	font-family:"‚l‚r –ѕ’©","serif";
-	mso-ascii-font-family:"‚l‚r –ѕ’©";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
+	mso-ascii-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	letter-spacing:-.2pt;}
 span.9
-	{mso-style-name:"Њ©Џo‚µ 9 \(•¶Ћљ\)";
+	{mso-style-name:"пїЅпїЅпїЅoпїЅпїЅ 9 \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Њ©Џo‚µ 9";
+	mso-style-link:"пїЅпїЅпїЅoпїЅпїЅ 9";
 	mso-ansi-font-size:10.5pt;
-	font-family:"‚l‚r –ѕ’©","serif";
-	mso-ascii-font-family:"‚l‚r –ѕ’©";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
+	mso-ascii-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	letter-spacing:-.2pt;}
 p.a, li.a, div.a{
-	mso-style-name:‰pЊк‘Оb•¶;
+	mso-style-name:пїЅpпїЅпїЅОbпїЅпїЅ;
 	mso-style-unhide:no;
 	margin-top:0mm;
 	margin-right:0mm;
@@ -866,12 +866,12 @@ p.a, li.a, div.a{
 	font-size:12.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-1.0pt;
 }
 p.a0, li.a0, div.a0{
-	mso-style-name:‰pЊк•ЅЏн•¶;
+	mso-style-name:пїЅpпїЅк•ЅпїЅн•¶;
 	mso-style-unhide:no;
 	margin:0mm;
 	margin-bottom:.0001pt;
@@ -885,15 +885,15 @@ p.a0, li.a0, div.a0{
 	font-size:12.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Century","serif";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	mso-bidi-font-family:"Times New Roman";
 	letter-spacing:-1.0pt;
 }
 p.a1, li.a1, div.a1{
-	mso-style-name:‰‰ЊЂѓgЏ‘‚«;
+	mso-style-name:пїЅпїЅпїЅпїЅпїЅgпїЅпїЅпїЅпїЅ;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-next:•WЏЂ;
+	mso-style-next:пїЅWпїЅпїЅ;
 	margin-top:0mm;
 	margin-right:0mm;
 	margin-bottom:0mm;
@@ -907,12 +907,12 @@ p.a1, li.a1, div.a1{
 	word-break:break-all;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 }
 p.a2, li.a2, div.a2{
-	mso-style-name:‰‰ЊЂ‘дЋЊ;
+	mso-style-name:пїЅпїЅпїЅпїЅпїЅдЋЊ;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	margin-top:0mm;
@@ -929,47 +929,47 @@ p.a2, li.a2, div.a2{
 	word-break:break-all;
 	font-size:10.5pt;
 	mso-bidi-font-size:10.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-hansi-font-family:Century;
 	mso-bidi-font-family:"Times New Roman";
 }
 span.a3{
-	mso-style-name:"ѓwѓbѓ_Ѓ[ \(•¶Ћљ\)";
+	mso-style-name:"пїЅwпїЅbпїЅ_пїЅ[ \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:ѓwѓbѓ_Ѓ[;
+	mso-style-link:пїЅwпїЅbпїЅ_пїЅ[;
 	mso-ansi-font-size:10.5pt;
-	font-family:"‚l‚r –ѕ’©","serif";
-	mso-ascii-font-family:"‚l‚r –ѕ’©";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
+	mso-ascii-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	letter-spacing:-.2pt;
 }
 span.a4{
-	mso-style-name:"ѓtѓbѓ^Ѓ[ \(•¶Ћљ\)";
+	mso-style-name:"пїЅtпїЅbпїЅ^пїЅ[ \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:ѓtѓbѓ^Ѓ[;
+	mso-style-link:пїЅtпїЅbпїЅ^пїЅ[;
 	mso-ansi-font-size:10.5pt;
-	font-family:"‚l‚r –ѕ’©","serif";
-	mso-ascii-font-family:"‚l‚r –ѕ’©";
-	mso-fareast-font-family:"‚l‚r –ѕ’©";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
+	mso-ascii-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ";
 	letter-spacing:-.2pt;
 }
 span.a5{
-	mso-style-name:"ђЃ‚«Џo‚µ \(•¶Ћљ\)";
+	mso-style-name:"пїЅпїЅпїЅпїЅпїЅoпїЅпїЅ \(пїЅпїЅпїЅпїЅ\)";
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:ђЃ‚«Џo‚µ;
+	mso-style-link:пїЅпїЅпїЅпїЅпїЅoпїЅпїЅ;
 	mso-ansi-font-size:9.0pt;
 	mso-bidi-font-size:9.0pt;
 	font-family:"Arial","sans-serif";
 	mso-ascii-font-family:Arial;
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:"‚l‚r ѓSѓVѓbѓN";
+	mso-fareast-font-family:"пїЅlпїЅr пїЅSпїЅVпїЅbпїЅN";
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:Arial;
 	mso-hansi-theme-font:major-latin;
@@ -985,7 +985,7 @@ span.a5{
 	mso-bidi-font-size:10.0pt;
 	font-family:"Century","serif";
 	mso-ascii-font-family:Century;
-	mso-fareast-font-family:‚i‚r–ѕ’©;
+	mso-fareast-font-family:пїЅiпїЅrпїЅпїЅпїЅпїЅ;
 	mso-hansi-font-family:Century;
 	mso-font-kerning:0pt;
 }
@@ -1084,12 +1084,12 @@ div.WordSection1{
 @list l1:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:Ѓџ;
+	mso-level-text:пїЅпїЅ;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:39.0pt;
 	text-indent:-18.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-bidi-font-family:"Times New Roman";}
 @list l1:level3
 	{mso-level-number-format:decimal-enclosed-circle;
@@ -1148,12 +1148,12 @@ div.WordSection1{
 @list l2:level2
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:Ѓџ;
+	mso-level-text:пїЅпїЅ;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:39.0pt;
 	text-indent:-18.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-bidi-font-family:"Times New Roman";}
 @list l2:level3
 	{mso-level-number-format:decimal-enclosed-circle;
@@ -1270,12 +1270,12 @@ div.WordSection1{
 @list l4:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:Ѓ¦;
+	mso-level-text:пїЅпїЅ;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:18.0pt;
 	text-indent:-18.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-bidi-font-family:"Times New Roman";}
 @list l4:level2
 	{mso-level-number-format:bullet;
@@ -1474,12 +1474,12 @@ div.WordSection1{
 @list l7:level1
 	{mso-level-start-at:0;
 	mso-level-number-format:bullet;
-	mso-level-text:Ѓ¦;
+	mso-level-text:пїЅпїЅ;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	margin-left:18.0pt;
 	text-indent:-18.0pt;
-	font-family:"‚l‚r –ѕ’©","serif";
+	font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";
 	mso-bidi-font-family:"Times New Roman";}
 @list l7:level2
 	{mso-level-number-format:bullet;
@@ -1562,7 +1562,7 @@ ul{
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:•WЏЂ‚М•\;
+	{mso-style-name:пїЅWпїЅпїЅпїЅМ•\;
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -1586,7 +1586,7 @@ ul{
    <o:r id="V:Rule2" type="connector" idref="#_x0000_s1026"/>
   </o:rules>
  </o:shapelayout></xml><![endif]-->
-<title>Ѓu‚ё‚Б‚Ж‚»‚О‚Й‚ў‚й‚жЃvЃ@ђД“ЎЏr—YЃEЌм</title>
+<title>пїЅuпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅО‚Й‚пїЅпїЅпїЅпїЅvпїЅ@пїЅД“пїЅпїЅrпїЅYпїЅEпїЅпїЅ</title>
 </head>
 <body lang="JA" style="tab-interval:42.0pt;text-justify-trim:punctuation">
 <div id="site-box">
@@ -1594,870 +1594,870 @@ ul{
 -2112">
   <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan;
 mso-layout-grid-align:auto;text-autospace:ideograph-numeric ideograph-other;
-mso-vertical-align-alt:auto"><span style='font-size:72.0pt;font-family:"HG–ѕ’©E","serif"'></span></p>
+mso-vertical-align-alt:auto"><span style='font-size:72.0pt;font-family:"HGпїЅпїЅпїЅпїЅE","serif"'></span></p>
     <p class="MsoNormal" align="center" style="text-align:center;mso-pagination:widow-orphan;
 mso-layout-grid-align:auto;text-autospace:ideograph-numeric ideograph-other;
 mso-vertical-align-alt:auto"><span style='font-size:26.0pt;mso-bidi-font-size:
-72.0pt;font-family:&quot;HG–ѕ’©E&quot;,&quot;serif&quot;'>‚ё‚Б‚Ж‚»‚О‚Й‚ў‚й‚жЃ@Ѓ@ЌмЃEђД“ЎЏr—Y<span lang="EN-US"><o:p /></o:p></span></span></p>
-  
+72.0pt;font-family:&quot;HGпїЅпїЅпїЅпїЅE&quot;,&quot;serif&quot;'>пїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅО‚Й‚пїЅпїЅпїЅпїЅ@пїЅ@пїЅпїЅEпїЅД“пїЅпїЅrпїЅY<span lang="EN-US"><o:p /></o:p></span></span></p>
+
     <p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:28.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:
 &quot;Times New Roman&quot;"></o:p></span></b></p>
-    <h2><span style='font-family:"‚l‚r –ѕ’©","serif";mso-ascii-font-family:Arial;
-mso-hansi-font-family:Arial'>“oЏкђl•Ё</span></h2>
+    <h2><span style='font-family:"пїЅlпїЅr пїЅпїЅпїЅпїЅ","serif";mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial'>пїЅoпїЅпїЅlпїЅпїЅ</span></h2>
     <p class="a2" style="margin-left:21.0pt;text-indent:-21.0pt;mso-list:l2 level1 lfo1"><![if !supportLists]></p>
-    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;‚l‚r –ѕ’©&quot;"><span style="mso-list:Ignore">Ќ‚“cђі•F[—E‹P]	’†ЉwЋO”Nђ¶Ѓ@</span></span></p>
-    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;‚l‚r –ѕ’©&quot;"><span style="mso-list:Ignore">Ќ‚“c–нђ¶		Њі‰‰ЊЂ•”ЊЪ–вЃ@</span></span></p>
-    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;‚l‚r –ѕ’©&quot;"><span style="mso-list:Ignore">Љв“c‹ћ‰Ф[ЏгЉЇ]	’†ЉwЋO”Nђ¶Ѓ@Ѓ@</span></span></p>
-    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;‚l‚r –ѕ’©&quot;"><span style="mso-list:Ignore">“VЉCЌ№ђD[ѓTѓcѓL]	’†Љw“с”Nђ¶Ѓ@Ѓ@</span></span></p>
-    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;‚l‚r –ѕ’©&quot;"><span style="mso-list:Ignore">‰“ЋRѓЊѓC[”ь“Ю]	’†Љw“с”Nђ¶Ѓ@Ѓ@</span></span></p>
-    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;‚l‚r –ѕ’©&quot;"><span style="mso-list:Ignore">Џ¬ЏкђГЌЃ[Њ’‘ѕ]	’†Љw“с”Nђ¶Ѓ@Ѓ@</span></span></p>
-    <p class="a2" style="margin-left:21.0pt;text-indent:-21.0pt;mso-list:l2 level1 lfo1"><span lang="EN-US" style="mso-bidi-font-family:&quot;‚l‚r –ѕ’©&quot;"><span style="mso-list:Ignore"></span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;пїЅlпїЅr пїЅпїЅпїЅпїЅ&quot;"><span style="mso-list:Ignore">пїЅпїЅпїЅcпїЅпїЅпїЅF[пїЅEпїЅP]	пїЅпїЅпїЅwпїЅOпїЅNпїЅпїЅпїЅ@</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;пїЅlпїЅr пїЅпїЅпїЅпїЅ&quot;"><span style="mso-list:Ignore">пїЅпїЅпїЅcпїЅнђ¶		пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЪ–пїЅ@</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;пїЅlпїЅr пїЅпїЅпїЅпїЅ&quot;"><span style="mso-list:Ignore">пїЅпїЅcпїЅпїЅпїЅпїЅ[пїЅгЉЇ]	пїЅпїЅпїЅwпїЅOпїЅNпїЅпїЅпїЅ@пїЅ@</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;пїЅlпїЅr пїЅпїЅпїЅпїЅ&quot;"><span style="mso-list:Ignore">пїЅVпїЅCпїЅпїЅпїЅD[пїЅTпїЅcпїЅL]	пїЅпїЅпїЅwпїЅпїЅNпїЅпїЅпїЅ@пїЅ@</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;пїЅlпїЅr пїЅпїЅпїЅпїЅ&quot;"><span style="mso-list:Ignore">пїЅпїЅпїЅRпїЅпїЅпїЅC[пїЅпїЅпїЅпїЅ]	пїЅпїЅпїЅwпїЅпїЅNпїЅпїЅпїЅ@пїЅ@</span></span></p>
+    <p class="a2"><span lang="EN-US" style="mso-bidi-font-family:&quot;пїЅlпїЅr пїЅпїЅпїЅпїЅ&quot;"><span style="mso-list:Ignore">пїЅпїЅпїЅпїЅГЌпїЅ[пїЅпїЅпїЅпїЅ]	пїЅпїЅпїЅwпїЅпїЅNпїЅпїЅпїЅ@пїЅ@</span></span></p>
+    <p class="a2" style="margin-left:21.0pt;text-indent:-21.0pt;mso-list:l2 level1 lfo1"><span lang="EN-US" style="mso-bidi-font-family:&quot;пїЅlпїЅr пїЅпїЅпїЅпїЅ&quot;"><span style="mso-list:Ignore"></span></span></p>
     <p class="a2">
     <img width="650" height="3" src="k-aozora.files/image001.gif" v:shapes="_x0000_s1026" /></p>
-    <p class="a2">ЃџѓvѓЌѓЌЃ[ѓO</p>
+    <p class="a2">пїЅпїЅпїЅvпїЅпїЅпїЅпїЅпїЅ[пїЅO</p>
     <br />
-    <p class="a1">ЏeђєЃA‹@Џe‘|ЋЛ‚М‰№ЃA”љЊ‚‰№‚Є‹ї‚ў‚Д‚­‚йЃB</p>
-    <p class="a1">–‹‚ЄЏг‚Є‚йЃB</p>
-    <p class="a1">‚»‚±‚Н‰‰ЊЂ•”‚М•”ЋєЃB</p>
-    <p class="a1">•Ўђ”‚МЉч‚Ж€ЦЋq‚вѓrЃ[ѓ‹” ЃA‹r—§‚И‚З‚Є—ђЋG‚Й’u‚©‚к‚Д‚ў‚йЃB</p>
-    <p class="a1">•”Ћє‚М’†‚Й‚Н‚b‚cѓvѓЊѓCѓ„Ѓ[“™‚М‰№‹ї‹@Љн‚ЄѓZѓbѓg‚і‚к‚Д‚ў‚йЃB</p>
-    <p class="a1">Ќ‚“cђі•F(’†ЉwЋO”Nђ¶)‚Є‚»‚М’†‚Й—§‚Б‚Д‚ў‚йЃB</p>
-    <p class="a1">ЏeђєЃA‹@Џe‘|ЋЛ‚М‰№ЃA”љЊ‚‰№‚Є‹ї‚«“n‚йЃB</p>
-    <p class="a1">ђі•F‚Є‚b‚cѓvѓЊѓCѓ„Ѓ[‚р‘ЂЌм‚·‚йЃB</p>
-    <p class="a1">ЏeђєЃA‹@Џe‘|ЋЛ‚М‰№ЃA”љЊ‚‰№‚ЄЏБ‚¦‚Д‚ў‚­ЃB</p>
-    <p class="a1">ђі•F‚ЄЌД‚С‚b‚cѓvѓЊѓCѓ„Ѓ[‚р‘ЂЌм‚·‚йЃB</p>
-    <p class="a1">ЃwѓgѓЌѓCѓЃѓ‰ѓCЃx(ѓVѓ…Ѓ[ѓ}ѓ“Ќм‹И)‚Є—¬‚кЋn‚Я‚йЃB</p>
-    <p class="a1">ђі•F‚ЄЉч‚ЙЊь‚©‚Б‚ДЌА‚йЃB</p>
-    <p class="a1">‚»‚МЉч‚МЏг‚ЙЏc’·‚МѓЃѓ‚’ ‚Ж‰”•M‚Є’u‚©‚к‚Д‚ў‚йЃB</p>
-    <p class="a1">ђі•F‚НѓЃѓ‚’ ‚МѓyЃ[ѓW‚М‰є”ј•Є‚Й‰”•M‚Е‰Ѕ‚©‚р•`‚«Ћn‚Я‚йЃB</p>
-    <p class="a1">–ѕ‚©‚и‚ЄЏБ‚¦‚Д‚ў‚­ЃB</p>
-    <br /><p class="a1">•‘‘д‚Є–ѕ‚й‚­‚И‚йЃB</p>
-    <p class="a1">ђі•F‚НЉч‚Й“Є‚р‚В‚Ї‚Д–°‚Б‚Д‚ў‚йЃB</p>
-    <p class="a1">ђі•F‚ЄђQ‚Д‚ў‚йЉч‚МЏг‚Й‰ЅЌы‚©‚МЏc’·‚МѓЃѓ‚’ ‚Є’u‚©‚к‚Д‚ў‚йЃB</p>
-    <p class="a1">ђі•F‚Є–Ъ‚рЉo‚Ь‚µЃA”wђL‚С‚р‚·‚йЃB</p>
-    <p class="a1">ђі•F‚ЄѓЃѓ‚’ ‚М‰є”ј•Є‚Й‰”•M‚ЕЉG‚р•`‚«Ћn‚Я‚йЃB</p>
-    <p class="a1">ђі•F‚Є‰”•M‚р’u‚­ЃB</p>
-    <p class="a1">‚»‚µ‚ДЃAѓЃѓ‚’ ‚рЋw‚Еѓpѓ‰ѓpѓ‰‚Ж‚Н‚¶‚«Ћn‚Я‚йЃB</p>
-    <p class="a1">ђі•F‚Є•`‚ў‚Д‚ў‚Ѕ‚М‚Нѓpѓ‰ѓpѓ‰–џ‰ж‚Е‚ ‚Б‚ЅЃB</p>
-    <p class="a1">ѓpѓ‰ѓpѓ‰–џ‰ж‚Й–І’†‚Й‚И‚Б‚Д‚ў‚йђі•F‚М‘O‚Й€кђl‚МЏ—ђ«‚Є—§‚ВЃB</p>
-    <p class="a1">ђі•F‚Н‚»‚МЏ—ђ«‚М‘¶ЌЭ‚Й‹C‚Є‚В‚«ЃAЉз‚рЏг‚°‚йЃB</p>
-    <p class="a1">ђі•F‚НЏ—ђ«‚МЉз‚рЊ©‚ДЃA‹Б‚ў‚Д—§‚їЏг‚Є‚йЃB</p>
-    <p class="a1">ђі•F‚Ж‚»‚МЏ—ђ«‚ЄЊ©‚В‚ЯЌ‡‚¤ЃB</p>
-    <p class="a1">Џ—ђ«‚Нђі•F‚МЋoЃEЌ‚“c–нђ¶‚Е‚ ‚йЃB</p>
-    <p class="a1">–ѕ‚©‚и‚ЄЏБ‚¦‚Д‚ў‚­ЃB</p>
+    <p class="a1">пїЅeпїЅпїЅпїЅAпїЅ@пїЅeпїЅ|пїЅЛ‚М‰пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅг‚ЄпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅН‰пїЅпїЅпїЅпїЅпїЅпїЅМ•пїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅМЉпїЅпїЅЖ€ЦЋqпїЅпїЅrпїЅ[пїЅпїЅпїЅпїЅпїЅAпїЅrпїЅпїЅпїЅИ‚З‚пїЅпїЅпїЅпїЅGпїЅЙ’uпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅМ’пїЅпїЅЙ‚Н‚bпїЅcпїЅvпїЅпїЅпїЅCпїЅпїЅпїЅ[пїЅпїЅпїЅМ‰пїЅпїЅпїЅпїЅ@пїЅн‚ЄпїЅZпїЅbпїЅgпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅcпїЅпїЅпїЅF(пїЅпїЅпїЅwпїЅOпїЅNпїЅпїЅ)пїЅпїЅпїЅпїЅпїЅМ’пїЅпїЅЙ—пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅeпїЅпїЅпїЅAпїЅ@пїЅeпїЅ|пїЅЛ‚М‰пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅnпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅbпїЅcпїЅvпїЅпїЅпїЅCпїЅпїЅпїЅ[пїЅр‘ЂЌм‚·пїЅпїЅB</p>
+    <p class="a1">пїЅeпїЅпїЅпїЅAпїЅ@пїЅeпїЅ|пїЅЛ‚М‰пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅД‚С‚bпїЅcпїЅvпїЅпїЅпїЅCпїЅпїЅпїЅ[пїЅр‘ЂЌм‚·пїЅпїЅB</p>
+    <p class="a1">пїЅwпїЅgпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅCпїЅx(пїЅVпїЅпїЅпїЅ[пїЅ}пїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅпїЅпїЅпїЅnпїЅЯ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅпїЅпїЅЙЊпїЅпїЅпїЅпїЅпїЅпїЅДЌпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅМЉпїЅпїЅМЏпїЅЙЏcпїЅпїЅпїЅМѓпїЅпїЅпїЅпїЅпїЅпїЅЖ‰пїЅпїЅMпїЅпїЅпїЅuпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅНѓпїЅпїЅпїЅпїЅпїЅпїЅМѓyпїЅ[пїЅWпїЅМ‰пїЅпїЅпїЅпїЅпїЅпїЅЙ‰пїЅпїЅMпїЅЕ‰пїЅпїЅпїЅпїЅпїЅ`пїЅпїЅпїЅnпїЅЯ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅи‚ЄпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <br /><p class="a1">пїЅпїЅпїЅд‚ЄпїЅпїЅпїЅй‚­пїЅИ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅНЉпїЅпїЅЙ“пїЅпїЅпїЅпїЅВ‚пїЅпїЅД–пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅQпїЅД‚пїЅпїЅпїЅпїЅпїЅМЏпїЅЙ‰пїЅпїЅпїЅпїЅпїЅпїЅМЏcпїЅпїЅпїЅМѓпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅuпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅЪ‚пїЅпїЅoпїЅЬ‚пїЅпїЅAпїЅwпїЅLпїЅС‚пїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‰пїЅпїЅпїЅпїЅпїЅпїЅЙ‰пїЅпїЅMпїЅЕЉGпїЅпїЅ`пїЅпїЅпїЅnпїЅЯ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅпїЅпїЅMпїЅпїЅuпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅwпїЅЕѓpпїЅпїЅпїЅpпїЅпїЅпїЅЖ‚Н‚пїЅпїЅпїЅпїЅnпїЅЯ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅ`пїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅМ‚НѓpпїЅпїЅпїЅpпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅpпїЅпїЅпїЅpпїЅпїЅпїЅпїЅпїЅпїЅЙ–пїЅпїЅпїЅпїЅЙ‚И‚пїЅпїЅД‚пїЅпїЅйђіпїЅFпїЅМ‘OпїЅЙ€пїЅlпїЅМЏпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅВЃB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅН‚пїЅпїЅМЏпїЅпїЅпїЅпїЅМ‘пїЅпїЅЭ‚Й‹CпїЅпїЅпїЅВ‚пїЅпїЅAпїЅпїЅпїЅпїЅг‚°пїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅНЏпїЅпїЅпїЅпїЅМЉпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅД—пїЅпїЅпїЅпїЅг‚ЄпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅЖ‚пїЅпїЅМЏпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅВ‚ЯЌпїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅНђпїЅпїЅFпїЅМЋoпїЅEпїЅпїЅпїЅcпїЅнђ¶пїЅЕ‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅи‚ЄпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a1">•‘‘д‚Є–ѕ‚й‚­‚И‚йЃB</p>
-    <p class="a1">‰‰ЊЂ•”‚М•”Ћє‚Е‚НЃw—E‹CЃx‚Ж‚ў‚¤ЊЂ‚М—ыЏK‚ЄЌs‚н‚к‚Д‚ў‚йЃB</p>
-    <p class="a1">ЋеђlЊц‚М—E‹P‚Нђн“¬‹@‚М“‹Џж€х‚Е‚ ‚й‚ЄЃA—E‹P–р‚Мђі•F‚Нђ§•ћЋp‚Е–р‚р‰‰‚¶‚Д‚ў‚йЃB</p>
-    <p class="a1">ѓTѓcѓL‚Н–ў—€‚©‚з—€‚ЅЏ­Џ—‚Ж‚ў‚¤ђЭ’и‚ѕ‚ЄЃAѓTѓcѓL–р‚М–нђ¶‚НЃA‚ў‚©‚Й‚а’†ЉwЌZ‹іЋt‚Ж‚ў‚¤</p>
-    <p class="a1">Ћp‚Е‚»‚к‚р‰‰‚¶‚Д‚ў‚йЃB</p>
+    <p class="a1">пїЅпїЅпїЅд‚ЄпїЅпїЅпїЅй‚­пїЅИ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅпїЅпїЅМ•пїЅпїЅпїЅпїЅЕ‚НЃwпїЅEпїЅCпїЅxпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅМ—пїЅпїЅKпїЅпїЅпїЅsпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅlпїЅпїЅпїЅМ—EпїЅPпїЅНђн“¬пїЅ@пїЅМ“пїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅй‚ЄпїЅAпїЅEпїЅPпїЅпїЅпїЅМђпїЅпїЅFпїЅНђпїЅпїЅпїЅпїЅpпїЅЕ–пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅTпїЅcпїЅLпїЅН–пїЅпїЅпїЅпїЅпїЅпїЅз—€пїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅЭ’и‚ѕпїЅпїЅпїЅAпїЅTпїЅcпїЅLпїЅпїЅпїЅМ–нђ¶пїЅНЃAпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅпїЅпїЅwпїЅZпїЅпїЅпїЅtпїЅЖ‚пїЅпїЅпїЅ</p>
+    <p class="a1">пїЅpпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚ў‚Б‚Ѕ‚ўЊN‚Н’N‚И‚с‚ѕЃB</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@Ћ„‚НѓTѓcѓLЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚ў‚вЃAЋ„‚Є’m‚и‚Ѕ‚ў‚М‚НЊN‚М–ј‘O‚¶‚б‚И‚ўЃBЊN‚Є‚З‚с‚И‘¶ЌЭ‚И‚М‚©ЃA‚»‚к‚Є’m‚и‚Ѕ‚ў‚с‚ѕЃB</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@Ћ„‚Й‚а‚ж‚­‚н‚©‚з‚И‚ў‚МЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћ©•Є‚М‚±‚Ж‚Є‚н‚©‚з‚И‚ў‚М‚©ЃH</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@‚н‚©‚з‚И‚ў‚±‚Ж‚О‚©‚иЃB‰Ѕ‚ЕЋ„‚Н‚Э‚с‚И‚М‚±‚Ж‚ЄЊ©‚¦‚й‚М‚ЙЃA‚Э‚с‚И‚НЋ„‚М‚±‚Ж‚ЄЊ©‚¦‚И‚ў‚МЃH </p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚Е‚аЃAЋ„‚Й‚НЊN‚ЄЊ©‚¦‚йЃB</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@‚»‚¤ЃA‚ ‚И‚Ѕ‚ѕ‚Ї‚ЄЋ„‚М‚±‚Ж‚рЊ©‚й‚±‚Ж‚Є‚Е‚«‚йЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@ЊN‚Н—H—м‚И‚М‚©ЃH</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@Ћ„‚Н—H—м‚И‚МЃH </p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@ЊN‚ЄЃA–ў—€‚©‚з—€‚Ѕ‚Ж‚ў‚¤‚М‚Н–{“–‚И‚М‚©ЃH</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@(‚¤‚И‚ё‚ў‚Д)Ћ„‚Н–ў—€‚©‚з—€‚Ѕ‚МЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅNпїЅН’NпїЅИ‚с‚ѕЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅпїЅпїЅНѓTпїЅcпїЅLпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅmпїЅи‚ЅпїЅпїЅпїЅМ‚НЊNпїЅМ–пїЅпїЅOпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅNпїЅпїЅпїЅЗ‚пїЅИ‘пїЅпїЅЭ‚И‚М‚пїЅпїЅAпїЅпїЅпїЅк‚ЄпїЅmпїЅи‚ЅпїЅпїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅпїЅпїЅЙ‚пїЅпїЅж‚­пїЅн‚©пїЅпїЅИ‚пїЅпїЅМЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЖ‚пїЅпїЅн‚©пїЅпїЅИ‚пїЅпїЅМ‚пїЅпїЅH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅн‚©пїЅпїЅИ‚пїЅпїЅпїЅпїЅЖ‚О‚пїЅпїЅпїЅBпїЅпїЅпїЅЕЋпїЅпїЅН‚Э‚пїЅИ‚М‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚ЙЃAпїЅЭ‚пїЅИ‚НЋпїЅпїЅМ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅМЃH </p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅЕ‚пїЅпїЅAпїЅпїЅпїЅЙ‚НЊNпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅй‚±пїЅЖ‚пїЅпїЅЕ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅNпїЅН—HпїЅпїЅИ‚М‚пїЅпїЅH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅпїЅпїЅН—HпїЅпїЅИ‚МЃH </p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅNпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅз—€пїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅМ‚Н–{пїЅпїЅпїЅИ‚М‚пїЅпїЅH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@(пїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅН–пїЅпїЅпїЅпїЅпїЅпїЅз—€пїЅпїЅпїЅМЃB</p>
     <br />
-    <p class="a1">–ѕ‚©‚и‚ЄЏБ‚¦‚Д‚ў‚­ЃB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅи‚ЄпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a1">•‘‘д‚Є–ѕ‚й‚­‚И‚йЃB</p>
-    <p class="a1">‰‰ЊЂ•”‚М•”Ћє‚ЕЃw—E‹CЃx‚Мѓ‰ѓXѓgѓVЃ[ѓ“‚Є‰‰‚¶‚з‚к‚Д‚ў‚йЃB</p>
-    <p class="a1">‘O‚МѓVЃ[ѓ“‚Ж“Ї—l‚Йђі•F‚Є—E‹P‚р‰‰‚¶ЃA–нђ¶‚ЄѓTѓcѓL‚р‰‰‚¶‚йЃB</p>
+    <p class="a1">пїЅпїЅпїЅд‚ЄпїЅпїЅпїЅй‚­пїЅИ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅпїЅпїЅМ•пїЅпїЅпїЅпїЅЕЃwпїЅEпїЅCпїЅxпїЅМѓпїЅпїЅXпїЅgпїЅVпїЅ[пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">пїЅOпїЅМѓVпїЅ[пїЅпїЅпїЅЖ“пїЅпїЅlпїЅЙђпїЅпїЅFпїЅпїЅпїЅEпїЅPпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅнђ¶пїЅпїЅпїЅTпїЅcпїЅLпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@‚Ё•К‚к‚ЛЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚Ё•К‚кЃH‚З‚¤‚µ‚Д‚ѕЃB</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@Ћ„‚Н–ў—€‚ЙЌs‚­‚МЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@ –ў—€‚ЙЌs‚­ЃH‚Е‚аЃAЊN‚МЌs‚±‚¤‚Ж‚µ‚Д‚ў‚й–ў—€‚ЕЃAЊN‚Н’·‚­‚Нђ¶‚«‚з‚к‚И‚ў‚с‚ѕ‚лЃB‚»‚с‚И–ў—€‚ЙЌs‚«‚Ѕ‚ў‚М‚©ЃH</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@‚»‚с‚И–ў—€‚Е‚аЋ„‚НЌs‚«‚Ѕ‚ўЃB‚»‚µ‚Д‚»‚±‚Еђ¶‚«‚Ѕ‚ўЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚а‚¤‰п‚¦‚И‚ў‚М‚©ЃH</p>
-    <p class="a2">ѓTѓcѓL[–нђ¶]Ѓ@‰п‚¦‚й‚нЃB–ў—€‚ЕЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@–ў—€‚ЕЃH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅпїЅпїЅК‚пїЅЛЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅК‚пїЅHпїЅЗ‚пїЅпїЅпїЅпїЅД‚пїЅпїЅB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅпїЅпїЅН–пїЅпїЅпїЅпїЅЙЌsпїЅпїЅпїЅМЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@ пїЅпїЅпїЅпїЅпїЅЙЌsпїЅпїЅпїЅHпїЅЕ‚пїЅпїЅAпїЅNпїЅМЌsпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅД‚пїЅпїЅй–ўпїЅпїЅпїЅЕЃAпїЅNпїЅН’пїЅпїЅпїЅпїЅНђпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕ‚пїЅBпїЅпїЅпїЅпїЅИ–пїЅпїЅпїЅпїЅЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅпїЅпїЅпїЅИ–пїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅНЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅЕђпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅп‚¦пїЅИ‚пїЅпїЅМ‚пїЅпїЅH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅнђ¶]пїЅ@пїЅп‚¦пїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅЕЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅЕЃH</p>
     <br />
-    <p class="a1">–ѕ‚©‚и‚ЄЏБ‚¦‚Д‚ў‚­ЃB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅи‚ЄпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2"><b>Ѓљ‘е‰пZ“ъ‘O</b></p>
+    <p class="a2"><b>пїЅпїЅпїЅпїЅпїЅZпїЅпїЅпїЅO</b></p>
     <b>
     </b><br />
-    <p class="a1">•‘‘д‚Є–ѕ‚й‚­‚И‚йЃBЃ@Ѓ@Ѓ@Ѓ@</p>
-    <p class="a1">ђі•F‚Є‰№Љy‚рЋ~‚Я‚йЃB</p>
+    <p class="a1">пїЅпїЅпїЅд‚ЄпїЅпїЅпїЅй‚­пїЅИ‚пїЅBпїЅ@пїЅ@пїЅ@пїЅ@</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅпїЅпїЅyпїЅпїЅпїЅ~пїЅЯ‚пїЅB</p>
     <br />
-    <p class="a2">–нђ¶Ѓ@ђі•FЃA‚в‚й‚ЛЃB‘дЋЊ‘S•”“ь‚Б‚Д‚й‚¶‚б‚И‚ўЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅFпїЅAпїЅпїЅпїЅЛЃBпїЅдЋЊпїЅSпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚й‚¶пїЅпїЅИ‚пїЅпїЅB</p>
     <p class="a2">
-    ђі•FЃ@–нђ¶‚М•ы‚Є‚·‚І‚ў‚жЃB–l€ИЉO‚М–р€кђl‚Е‘S•”‚в‚Б‚ї‚б‚¤‚с‚ѕ‚©‚зЃB‚»‚к‚аЃA‘д–{Њ©‚И‚ў‚ЕЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚ѕ‚Б‚Д‚±‚кЃAЋ„‚ЄЏ‘‚ў‚Ѕ‚с‚ѕ‚жЃB</p>
-    <p class="a2">ђі•FЃ@‚»‚¤‚ѕ‚Ї‚ЗЃB‘дЋЊ‘S•”Љo‚¦‚Д‚й‹r–{‰Ж‚И‚с‚Д•Ѓ’К‚ў‚И‚ў‚жЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚ЕЃA”z–р‚И‚с‚ѕ‚Ї‚ЗЃA“БЌU‚р–Ѕ‚¶‚йЏгЉЇ‚Н’N‚Й‚И‚Б‚Ѕ‚МЃB</p>
-    <p class="a2">ђі•FЃ@‹ћ‰ФЃB</p>
-    <p class="a2">–нђ¶Ѓ@‹ћ‰Ф‚і‚сЃI </p>
-    <p class="a2">ђі•FЃ@‚Э‚с‚И‚С‚Б‚­‚и‚ѕ‚жЃB‹ћ‰ФЃA‘O‰с‚МЊЂ‚Е‚ў‚¶‚Я‚Мѓ{ѓX–р‚в‚Б‚ЅЊгЃAЃu€«–р‚Н‚а‚¤“с“x‚Ж‚в‚з‚И‚ўЃv‚Б‚ДђйЊѕ‚µ‚Ѕ‚М‚ЙЃAЋ©•Є‚©‚зЏгЉЇ–р‚рЉу–]‚·‚й‚И‚с‚ДЃB</p>
-    <p class="a2">–нђ¶Ѓ@ЏгЉЇ‚Б‚Д€«–р‚М’†‚М€«–р‚ѕ‚а‚с‚ЛЃB‚Е‚аЃA‚З‚¤‚µ‚ДЃH</p>
-    <p class="a2">ђі•FЃ@‘SЌ‘‚©‚ИЃB</p>
-    <p class="a2">–нђ¶Ѓ@‘SЌ‘ЃH</p>
-    <p class="a2">ђі•FЃ@‹ћ‰ФЃA•”’·‚Й‚И‚Б‚ЅЊгЃA–Ъ•W‚р‘SЌ‘‘е‰пЏoЏк‚Й‚·‚й‚Б‚ДђйЊѕ‚µ‚Ѕ‚с‚ѕЃB</p>
-    <p class="a2">–нђ¶Ѓ@€к‹C‚Й‘SЌ‘ЃH’n‹ж‘е‰п‚і‚¦“Л”j‚µ‚Ѕ‚±‚Ж‚И‚ў‚М‚ЙЃB</p>
-    <p class="a2">ђі•FЃ@–lЃA‚¤‚ї‚Є‘SЌ‘‚ЙЌs‚Ї‚й‰В”\ђ«ЃAѓ[ѓЌ‚¶‚б‚И‚ў‚Б‚ДЋv‚Б‚Д‚йЃBЉm‚©‚ЙЃA‘O‰с‚а’n‹ж‘е‰п“Л”j‚Е‚«‚И‚©‚Б‚Ѕ‚Ї‚ЗЃA‚»‚к‚Нђ§ЊАЋћЉФѓIЃ[ѓoЃ[‚ЕЋёЉi‚Й‚И‚Б‚Ѕ‚©‚з‚ѕ‚µЃB</p>
-    <p class="a2">–нђ¶Ѓ@ђі•F‚а‘SЌ‘‘е‰пЏoЏк‚М–І‚ЙЏж‚Б‚©‚Б‚Д‚й‚с‚ѕЃB‚ё‚ў‚Ф‚с•П‚н‚Б‚Ѕ‚ЛЃAђі•F‚а‰‰ЊЂ•”‚аЃB•П‚н‚з‚И‚ў‚М‚НЋ„‚ѕ‚Ї‚©ЃB</p>
-    <p class="a2">ђі•FЃ@‚Е‚аЃA•П‚¦‚Ѕ‚М‚Н–нђ¶‚ѕ‚жЃB</p>
-    <p class="a2">–нђ¶Ѓ@Ћ„‚И‚с‚ѕЃB</p>
-    <p class="a2">ђі•FЃ@ЊЪ–в‚М€ЙЏW‰@ђжђ¶‚Й‚Н€«‚ў‚Ї‚ЗЃA€ЙЏW‰@ђжђ¶‚Є•a‹C‚Е“ь‰@‚µ‚ДЃA‚»‚М‘г‚н‚и‚Й–нђ¶‚ЄЊЪ–в‚Й‚И‚Б‚Д‰‰ЊЂ•”‚Н•П‚н‚Б‚Ѕ‚©‚з‚ЛЃBђі’јЊѕ‚¤‚ЖЃA‚Н‚¶‚Я‚НЊ™‚ѕ‚Б‚ЅЃB‚Ь‚і‚©Ћo‹M‚Є‚±‚МЉwЌZ‚Йђжђ¶‚Ж‚µ‚Д—€‚ДЃAЌX‚Й‰‰ЊЂ•”‚МЊЪ–в‚Й‚И‚й‚И‚с‚ДЋv‚н‚И‚©‚Б‚Ѕ‚©‚зЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚»‚к‚Н‚ЁЊЭ‚ў—l‚ѕ‚жЃB“­‚­‚±‚Ж‚Й‚И‚Б‚ЅЉwЌZ‚Й’н‚Мђі•F‚Є‚ў‚й‚М‚ѕ‚Б‚ДЊ™‚ѕ‚Б‚Ѕ‚М‚ЙЃA‚»‚Мђі•F‚М‚ў‚й‰‰ЊЂ•”‚МЊЪ–в‚Й‚И‚й‚И‚с‚ДЃB</p>
-    <p class="a2">ђі•FЃ@–lЃAЌЎ‚НЋo‹M‚М–нђ¶‚ЄЊЪ–в‚Й‚И‚Б‚Д‚­‚к‚Д‚ж‚©‚Б‚Ѕ‚Б‚ДЋv‚Б‚Д‚йЃBЃw‚ў‚«‚йЃx‚Б‚Д‹r–{Џ‘‚ў‚Д‚­‚к‚Ѕ‚Ё‚©‚°‚Е‘nЌмЊЂ‚ЕЏџ•‰‚·‚й‚±‚Ж‚Є‚Е‚«‚Ѕ‚µЃA’n‹ж‘е‰п“Л”j‚µ‚Ѕ‚ў‚Б‚Д–{‹C‚ЕЋv‚¦‚й‚ж‚¤‚Й‚И‚Б‚Ѕ‚µЃB–{‰№‚рЊѕ‚¤‚ЖЃA‚Э‚с‚И€ЙЏW‰@ђжђ¶‚¶‚б‚И‚­‚Д–нђ¶‚ЄЊЪ–в‚М‚Ь‚Ь‚ѕ‚Б‚Ѕ‚з‚ж‚©‚Б‚Ѕ‚Б‚ДЋv‚Б‚Д‚йЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚¤‚к‚µ‚ў‚Ї‚ЗЃAЊЪ–в‚Й•њ‹A‚µ‚Ѕ€ЙЏW‰@ђжђ¶‚Йђ\‚µ–у‚И‚ў‚жЃB‚ѕ‚©‚зЃA”й–§‚ѕ‚жЃAЋ„‚ЄЌЎ“ъ‚±‚М•”Ћє‚Й—€‚Д‚й‚±‚ЖЃB</p>
-    <p class="a2">ђі•FЃ@‚н‚©‚Б‚Д‚йЃB‚Е‚а–нђ¶ЃA’Z‚ўЉФ‚Й‚ж‚­“сЌм–Ъ‚МЊЂ‘n‚Б‚Ѕ‚ж‚ЛЃBЌЎ—ыЏK‚µ‚Д‚йЃw—E‹CЃx‚Б‚Д‹r–{“n‚і‚к‚Ѕ‚Ж‚«‚Й‚НЃA‚С‚Б‚­‚и‚р’К‚и‰z‚µ‚ДЉґ“®‚Є‚ ‚Б‚Ѕ‚а‚сЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚»‚¤Њѕ‚Б‚Д‚а‚з‚¦‚й‚ЖЉр‚µ‚ў‚Ї‚ЗЃB</p>
-    <p class="a2">ђі•FЃ@‚»‚л‚»‚л‚Э‚с‚И—€‚й‚©‚зЃA‹v‚µ‚Ф‚и‚Й—ыЏKЊ©‚ДѓAѓhѓoѓCѓX‚µ‚Д‚жЃB</p>
-    <p class="a2">–нђ¶Ѓ@Ћ„ЃA‚а‚¤ЊЪ–в‚¶‚б‚И‚ў‚Ї‚З‚ЛЃB</p>
+    пїЅпїЅпїЅFпїЅ@пїЅнђ¶пїЅМ•пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅlпїЅИЉOпїЅМ–пїЅпїЅпїЅlпїЅЕ‘SпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅб‚¤пїЅс‚ѕ‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅ{пїЅпїЅпїЅИ‚пїЅпїЅЕЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃBпїЅдЋЊпїЅSпїЅпїЅпїЅoпїЅпїЅпїЅД‚пїЅrпїЅ{пїЅЖ‚И‚пїЅД•пїЅпїЅК‚пїЅпїЅИ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅЕЃAпїЅzпїЅпїЅпїЅИ‚с‚ѕ‚пїЅпїЅЗЃAпїЅпїЅпїЅUпїЅр–Ѕ‚пїЅпїЅпїЅгЉЇпїЅН’NпїЅЙ‚И‚пїЅпїЅпїЅпїЅМЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅФЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅФ‚пїЅпїЅпїЅI </p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЭ‚пїЅИ‚С‚пїЅпїЅпїЅпїЅи‚ѕпїЅпїЅBпїЅпїЅпїЅФЃAпїЅOпїЅпїЅМЊпїЅпїЅЕ‚пїЅпїЅпїЅпїЅЯ‚Мѓ{пїЅXпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅuпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅxпїЅЖ‚пїЅпїЅИ‚пїЅпїЅvпїЅпїЅпїЅДђйЊѕпїЅпїЅпїЅпїЅпїЅМ‚ЙЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅгЉЇпїЅпїЅпїЅпїЅпїЅпїЅ]пїЅпїЅпїЅпїЅИ‚пїЅДЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅгЉЇпїЅпїЅпїЅД€пїЅпїЅпїЅпїЅМ’пїЅпїЅМ€пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃBпїЅЕ‚пїЅпїЅAпїЅЗ‚пїЅпїЅпїЅпїЅДЃH</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅSпїЅпїЅпїЅпїЅпїЅИЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅSпїЅпїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅФЃAпїЅпїЅпїЅпїЅпїЅЙ‚И‚пїЅпїЅпїЅпїЅпїЅAпїЅЪ•WпїЅпїЅSпїЅпїЅпїЅпїЅпїЅoпїЅпїЅЙ‚пїЅпїЅпїЅпїЅпїЅДђйЊѕпїЅпїЅпїЅпїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅCпїЅЙ‘SпїЅпїЅпїЅHпїЅnпїЅпїЅпїЅп‚іпїЅпїЅпїЅЛ”jпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚И‚пїЅпїЅМ‚ЙЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅlпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅSпїЅпїЅпїЅЙЌsпїЅпїЅпїЅпїЅВ”\пїЅпїЅпїЅAпїЅ[пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅД‚пїЅBпїЅmпїЅпїЅпїЅЙЃAпїЅOпїЅпїЅпїЅпїЅnпїЅпїЅпїЅпїЅЛ”jпїЅЕ‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃAпїЅпїЅпїЅпїЅНђпїЅпїЅпїЅпїЅпїЅпїЅФѓIпїЅ[пїЅoпїЅ[пїЅЕЋпїЅпїЅiпїЅЙ‚И‚пїЅпїЅпїЅпїЅпїЅпїЅз‚ѕпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅFпїЅпїЅпїЅSпїЅпїЅпїЅпїЅпїЅoпїЅпїЅМ–пїЅпїЅЙЏпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅс‚ѕЃBпїЅпїЅпїЅпїЅпїЅФ‚пїЅП‚пїЅпїЅпїЅпїЅпїЅЛЃAпїЅпїЅпїЅFпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅП‚пїЅпїЅИ‚пїЅпїЅМ‚НЋпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЕ‚пїЅпїЅAпїЅП‚пїЅпїЅпїЅпїЅМ‚Н–нђ¶пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅИ‚с‚ѕЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЪ–пїЅМ€ЙЏWпїЅ@пїЅжђ¶пїЅЙ‚Н€пїЅпїЅпїЅпїЅпїЅпїЅЗЃAпїЅЙЏWпїЅ@пїЅжђ¶пїЅпїЅпїЅaпїЅCпїЅЕ“пїЅпїЅ@пїЅпїЅпїЅДЃAпїЅпїЅпїЅМ‘пїЅпїЅпїЅЙ–нђ¶пїЅпїЅпїЅЪ–пїЅЙ‚И‚пїЅпїЅД‰пїЅпїЅпїЅпїЅпїЅпїЅН•П‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЃAпїЅН‚пїЅпїЅЯ‚НЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅЬ‚пїЅпїЅпїЅпїЅoпїЅMпїЅпїЅпїЅпїЅпїЅМЉwпїЅZпїЅЙђжђ¶пїЅЖ‚пїЅпїЅД—пїЅпїЅДЃAпїЅXпїЅЙ‰пїЅпїЅпїЅпїЅпїЅпїЅМЊЪ–пїЅЙ‚И‚пїЅИ‚пїЅДЋvпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅН‚пїЅпїЅЭ‚пїЅпїЅlпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚Й‚И‚пїЅпїЅпїЅпїЅwпїЅZпїЅЙ’пїЅМђпїЅпїЅFпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅпїЅпїЅДЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚ЙЃAпїЅпїЅпїЅМђпїЅпїЅFпїЅМ‚пїЅпїЅй‰‰пїЅпїЅпїЅпїЅпїЅМЊЪ–пїЅЙ‚И‚пїЅИ‚пїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅlпїЅAпїЅпїЅпїЅНЋoпїЅMпїЅМ–нђ¶пїЅпїЅпїЅЪ–пїЅЙ‚И‚пїЅпїЅД‚пїЅпїЅпїЅД‚ж‚©пїЅпїЅпїЅпїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅД‚пїЅBпїЅwпїЅпїЅпїЅпїЅпїЅпїЅxпїЅпїЅпїЅД‹rпїЅ{пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅк‚ЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‘nпїЅмЊЂпїЅЕЏпїЅпїЅпїЅпїЅпїЅпїЅй‚±пїЅЖ‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅAпїЅnпїЅпїЅпїЅпїЅЛ”jпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД–{пїЅCпїЅЕЋvпїЅпїЅпїЅпїЅж‚¤пїЅЙ‚И‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅ{пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЃAпїЅЭ‚пїЅИ€ЙЏWпїЅ@пїЅжђ¶пїЅпїЅпїЅпїЅИ‚пїЅпїЅД–нђ¶пїЅпїЅпїЅЪ–пїЅМ‚Ь‚Ь‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅж‚©пїЅпїЅпїЅпїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅД‚пїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅк‚µпїЅпїЅпїЅпїЅпїЅЗЃAпїЅЪ–пїЅЙ•пїЅпїЅAпїЅпїЅпїЅпїЅпїЅЙЏWпїЅ@пїЅжђ¶пїЅЙђ\пїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅAпїЅй–§пїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ•пїЅпїЅпїЅпїЅЙ—пїЅпїЅД‚й‚±пїЅЖЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅн‚©пїЅпїЅпїЅД‚пїЅBпїЅЕ‚пїЅпїЅнђ¶пїЅAпїЅZпїЅпїЅпїЅФ‚Й‚ж‚­пїЅпїЅпїЅЪ‚МЊпїЅпїЅnпїЅпїЅпїЅпїЅпїЅпїЅЛЃBпїЅпїЅпїЅпїЅпїЅKпїЅпїЅпїЅД‚пїЅwпїЅEпїЅCпїЅxпїЅпїЅпїЅД‹rпїЅ{пїЅnпїЅпїЅпїЅк‚ЅпїЅЖ‚пїЅпїЅЙ‚НЃAпїЅС‚пїЅпїЅпїЅпїЅпїЅпїЅК‚пїЅzпїЅпїЅпїЅДЉпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅз‚¦пїЅпїЅЖЉпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅл‚»пїЅпїЅЭ‚пїЅИ—пїЅпїЅй‚©пїЅпїЅAпїЅvпїЅпїЅпїЅФ‚пїЅЙ—пїЅпїЅKпїЅпїЅпїЅДѓAпїЅhпїЅoпїЅCпїЅXпїЅпїЅпїЅД‚пїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅЪ–в‚¶пїЅпїЅИ‚пїЅпїЅпїЅпїЅЗ‚ЛЃB</p>
     <br />
     <p class="a1">
-    b‚µђє‚ЄL‰є‚©‚з•·‚±‚¦‚Д‚­‚йЃB</p>
+    пїЅbпїЅпїЅпїЅпїЅпїЅпїЅпїЅLпїЅпїЅпїЅпїЅпїЅз•·пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">–нђ¶Ѓ@‚ ‚МђєЃAЌ№ђD‚і‚с‚ЖђГЌЃ‚і‚с‚ѕ‚ЛЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅМђпїЅпїЅAпїЅпїЅпїЅDпїЅпїЅпїЅпїЅЖђГЌпїЅпїЅпїЅпїЅс‚ѕ‚ЛЃB</p>
     <br />
-    <p class="a1">“VЉCЌ№ђD(“с”Nђ¶)‚ЖЏ¬ЏкђГЌЃ(“с”Nђ¶)‚Є•”Ћє‚Й“ь‚Б‚Д‚­‚йЃB</p>
+    <p class="a1">пїЅVпїЅCпїЅпїЅпїЅD(пїЅпїЅNпїЅпїЅ)пїЅЖЏпїЅпїЅпїЅГЌпїЅ(пїЅпїЅNпїЅпїЅ)пїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ“пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">Ќ№ђDЃEђГЌЃЃ@‚±‚с‚Й‚ї‚НЃB</p>
-    <p class="a2">ђі•FЃE–нђ¶Ѓ@‚±‚с‚Й‚ї‚НЃB</p>
-    <p class="a2">–нђ¶Ѓ@(ђі•F‚Й)‚±‚с‚И‘Ѓ‚­•”Ћє‚Й—€‚й‚И‚с‚ДЃA‚в‚й‹C‚ЄЉґ‚¶‚з‚к‚й‚ЛЃB</p>
-    <p class="a2">Ќ№ђDЃ@ђі•Fђж”yЃB‹ћ‰Фђж”y‚Є—€‚й‘O‚Й‘дЋЊЉm”F‚µ‚Д‚Ё‚«‚Ѕ‚ў‚с‚Е‚·‚Ї‚ЗЃB</p>
-    <p class="a2">ђі•FЃ@‹ћ‰ФЃA‘дЋЊЉФ€б‚¦‚й‚ЖђШ‚к‚ї‚б‚¤‚©‚з‚ЛЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚»‚¤‚И‚МЃH</p>
-    <p class="a2">Ќ№ђDЃ@‹ћ‰Фђж”y‚Є‚Т‚и‚Т‚и‚·‚й‚М‚а‚н‚©‚й‚с‚Е‚·‚Ї‚ЗЃB</p>
-    <p class="a2">ђГЌЃЃ@–{”Ф‚Ь‚Е‚ ‚ЖZ“ъ‚Е‚·‚©‚з‚ЛЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚ ‚ЖZ“ъ‚©ЃB</p>
-    <p class="a2">ђі•FЃ@ђГЌЃЃA‘д–{Њ©‚Д‘дЋЊЌ‡‚Б‚Д‚й‚©Љm”F‚µ‚Д‚­‚к‚йЃB</p>
-    <p class="a2">ђГЌЃЃ@‚н‚©‚и‚Ь‚µ‚ЅЃB</p>
-    <p class="a2">ђі•FЃ@Ѓi‘д–{‚рЋ¦‚µ‚ДЃj‚»‚к‚¶‚б‚±‚±‚©‚з‚в‚л‚Б‚©ЃB</p>
-    <p class="a2">Ќ№ђDЃ@‚ЁЉи‚ў‚µ‚Ь‚·ЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅEпїЅГЌпїЅпїЅ@пїЅпїЅпїЅпїЅЙ‚пїЅпїЅНЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅEпїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅЙ‚пїЅпїЅНЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@(пїЅпїЅпїЅFпїЅпїЅ)пїЅпїЅпїЅпїЅИ‘пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ—пїЅпїЅпїЅИ‚пїЅДЃAпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅпїЅпїЅFпїЅпїЅyпїЅBпїЅпїЅпїЅФђпїЅyпїЅпїЅпїЅпїЅпїЅпїЅOпїЅЙ‘дЋЊпїЅmпїЅFпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅЗЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅФЃAпїЅдЋЊпїЅФ€б‚¦пїЅпїЅЖђШ‚к‚їпїЅб‚¤пїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅИ‚МЃH</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅпїЅпїЅФђпїЅyпїЅпїЅпїЅТ‚пїЅТ‚и‚·пїЅпїЅМ‚пїЅпїЅн‚©пїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅЗЃB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅ{пїЅФ‚Ь‚Е‚пїЅпїЅЖZпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅЖZпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅГЌпїЅпїЅAпїЅпїЅ{пїЅпїЅпїЅД‘дЋЊпїЅпїЅпїЅпїЅпїЅД‚й‚©пїЅmпїЅFпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅн‚©пїЅпїЅЬ‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅiпїЅпїЅ{пїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃjпїЅпїЅпїЅк‚¶пїЅб‚±пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅпїЅпїЅи‚ўпїЅпїЅпїЅЬ‚пїЅпїЅB</p>
     <br />
-    <p class="a1">ђі•F‚ЖЌ№ђD‚Є‰‰‚¶Ћn‚Я‚йЃB</p>
-    <p class="a1">“сђl‚Нђ§•ћ‚М‚Ь‚Ь‰‰‚¶‚йЃB</p>
-    <p class="a1">–нђ¶‚Н‰‰Џo‰Ж‚Ж‚ў‚Б‚ЅЉґ‚¶‚Е•‘‘дЏг‚Й‘¶ЌЭ‚µ‚Д‚ў‚йЃB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅЖЌпїЅпїЅDпїЅпїЅпїЅпїЅпїЅпїЅпїЅnпїЅЯ‚пїЅB</p>
+    <p class="a1">пїЅпїЅlпїЅНђпїЅпїЅпїЅпїЅМ‚Ь‚Ь‰пїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅнђ¶пїЅН‰пїЅпїЅoпїЅЖ‚Ж‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ•пїЅпїЅпїЅпїЅЙ‘пїЅпїЅЭ‚пїЅпїЅД‚пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@Ћ„‚Н–ў—€‚©‚з—€‚Ѕ‚МЃBЋ„‚Н•a‰@‚Й“ь‰@‚µ‚Д‚ў‚ЅЃB‚»‚µ‚ДЃA‚Ё€гЋТ‚і‚с‚ЄЋ„‚Н’·‚­‚Нђ¶‚«‚з‚к‚И‚ў‚Б‚Дѓ}ѓ}‚Йb‚µ‚Д‚ў‚й‚М‚р•·‚ў‚ї‚б‚Б‚Ѕ‚МЃBЋ„‚НЃuђ¶‚«‚Ѕ‚ўЃIђ¶‚«‚Ѕ‚ўЃIЃv‚Б‚ДђS‚©‚зЉи‚Б‚ЅЃB‚»‚µ‚Д–Ъ‚рЉo‚Ь‚µ‚Ѕ‚зЃA‚±‚МђўЉE‚ѕ‚Б‚Ѕ‚МЃBђ_—lЃAЉФ€б‚¦‚ї‚б‚Б‚Ѕ‚М‚©‚ИЃBЋ„‚МЃuђ¶‚«‚Ѕ‚ўЃv‚ЄЃAЃu‚З‚±‚©‚ЙЌs‚«‚Ѕ‚ўЃv‚Б‚Д‚ў‚¤€У–Ў‚ѕ‚Б‚ДЃB‚Е‚а‰Ѕ‚Е‚ж‚и‚Й‚ж‚Б‚ДЏєa“сЏ\”N‚М“ъ–{(‚Й‚Щ‚с)‚И‚МЃBђн‘€‚Мђ^‚Б‘ь’†‚И‚МЃB</p>
-    <p class="a2"> —E‹P[ђі•F]Ѓ@‚ў‚Б‚Ѕ‚ўЊN‚Н’N‚И‚с‚ѕЃB</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@Ћ„‚НѓTѓcѓLЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚ў‚вЃAЋ„‚Є’m‚и‚Ѕ‚ў‚М‚НЊN‚М–ј‘O‚¶‚б‚И‚ўЃBЊN‚Є‚З‚с‚И‘¶ЌЭ‚И‚М‚©ЃA‚»‚к‚Є’m‚и‚Ѕ‚ў‚с‚ѕЃB</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@Ћ„‚Й‚а‚ж‚­‚н‚©‚з‚И‚ў‚МЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћ©•Є‚М‚±‚Ж‚Є‚н‚©‚з‚И‚ў‚М‚©ЃH</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‚н‚©‚з‚И‚ў‚±‚Ж‚О‚©‚иЃB‰Ѕ‚ЕЋ„‚Н‚Э‚с‚И‚М‚±‚Ж‚ЄЊ©‚¦‚й‚М‚ЙЃA‚Э‚с‚И‚НЋ„‚М‚±‚Ж‚ЄЊ©‚¦‚И‚ў‚МЃH </p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚Е‚аЃAЋ„‚Й‚НЊN‚ЄЊ©‚¦‚йЃB</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‚»‚¤ЃA‚ ‚И‚Ѕ‚ѕ‚Ї‚ЄЋ„‚М‚±‚Ж‚рЊ©‚й‚±‚Ж‚Є‚Е‚«‚йЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@ЊN‚Н—H—м‚И‚М‚©ЃH</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@Ћ„‚Н—H—м‚И‚МЃH </p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@ЊN‚ЄЃA–ў—€‚©‚з—€‚Ѕ‚Ж‚ў‚¤‚М‚Н–{“–‚И‚М‚©ЃH</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@(‚¤‚И‚ё‚­)Ћ„‚Н–ў—€‚©‚з—€‚Ѕ‚МЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‹і‚¦‚Д‚­‚кЃB‚±‚Мђн‘€‚Н‚ў‚ВЏI‚н‚й‚с‚ѕЃB‚ў‚В‚Й‚И‚Б‚Ѕ‚з“ъ–{(‚Й‚Б‚Ы‚с)‚НЏџ‚В‚с‚ѕЃB</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@“ъ–{(‚Й‚Щ‚с)‚Н‚±‚Мђн‘€‚Й•‰‚Ї‚й‚МЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@•‰‚Ї‚йЃH </p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‚»‚¤ЃA•‰‚Ї‚й‚МЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@•‰‚Ї‚й‚М‚©Ѓc‚»‚к‚Е‚Нђ¶‚«‚Д‚ў‚й€У–Ў‚И‚З‚И‚ў‚¶‚б‚И‚ў‚©ЃB</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@Ћ„‚НЃA‚ ‚И‚Ѕ‚ЙЋЂ‚с‚Е‚Щ‚µ‚­‚И‚ўЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‹Я‚ў‚¤‚ї‚ЙЃAЋ„’B‚Й‚а“БЌU‚МЋuЉиЏ‘‚Є”z‚з‚к‚йЃB‚Ё‚»‚з‚­Ћ„’B‚М‘а‘S€х‚Є“БЌU‚ЙЋuЉи‚·‚й‚ѕ‚л‚¤ЃBЋ„‚ѕ‚ЇЋuЉи‚µ‚И‚ў‚И‚с‚Д‚Е‚«‚й‚Н‚ё‚Є‚И‚ўЃB</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‚ ‚И‚Ѕ‚ЄЋЂ‚Л‚ОЃA‚ ‚И‚Ѕ‚М‰Ж‘°‚НЉм‚Ф‚МЃH</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc‹ѓ‚­‚ѕ‚л‚¤‚ИЃB“Б‚Й–…‚М”ь“Ю‚НЃB</p>
-    <br />
-    <p class="a1">
-    ‹№ѓ|ѓPѓbѓg‚©‚зЋКђ^‚рЏo‚µ‚ДЃB</p>
-    <br />
-    <p class="a2">—E‹P[ђі•F]Ѓ@”ь“Ю‚МЋКђ^‚ѕЃB</p>
-    <br />
-    <p class="a1">–нђ¶‚Є‚»‚к‚р”`‚­ЃB</p>
-    <br />
-    <p class="a2">–нђ¶Ѓ@ђі•FЃA‚»‚кЏCЉw—·Ќs‚ЕЋB‚Б‚Ѕ‘е•§‚МЋКђ^‚¶‚б‚И‚ўЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅН–пїЅпїЅпїЅпїЅпїЅпїЅз—€пїЅпїЅпїЅМЃBпїЅпїЅпїЅН•aпїЅ@пїЅЙ“пїЅпїЅ@пїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅТ‚пїЅпїЅс‚ЄЋпїЅпїЅН’пїЅпїЅпїЅпїЅНђпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅДѓ}пїЅ}пїЅЙbпїЅпїЅпїЅД‚пїЅпїЅпїЅМ‚р•·‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЃBпїЅпїЅпїЅНЃuпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅIпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅIпїЅvпїЅпїЅпїЅДђSпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅД–Ъ‚пїЅпїЅoпїЅЬ‚пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅМђпїЅпїЅEпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЃBпїЅ_пїЅlпїЅAпїЅФ€б‚¦пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅИЃBпїЅпїЅпїЅМЃuпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅAпїЅuпїЅЗ‚пїЅпїЅпїЅпїЅЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅУ–пїЅпїЅпїЅпїЅпїЅпїЅДЃBпїЅЕ‚пїЅпїЅпїЅпїЅЕ‚пїЅпїЅЙ‚пїЅпїЅпїЅДЏпїЅпїЅaпїЅпїЅ\пїЅNпїЅМ“пїЅпїЅ{(пїЅЙ‚Щ‚пїЅ)пїЅИ‚МЃBпїЅн‘€пїЅМђ^пїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚МЃB</p>
+    <p class="a2"> пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅNпїЅН’NпїЅИ‚с‚ѕЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅНѓTпїЅcпїЅLпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅmпїЅи‚ЅпїЅпїЅпїЅМ‚НЊNпїЅМ–пїЅпїЅOпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅNпїЅпїЅпїЅЗ‚пїЅИ‘пїЅпїЅЭ‚И‚М‚пїЅпїЅAпїЅпїЅпїЅк‚ЄпїЅmпїЅи‚ЅпїЅпїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅЙ‚пїЅпїЅж‚­пїЅн‚©пїЅпїЅИ‚пїЅпїЅМЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЖ‚пїЅпїЅн‚©пїЅпїЅИ‚пїЅпїЅМ‚пїЅпїЅH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅн‚©пїЅпїЅИ‚пїЅпїЅпїЅпїЅЖ‚О‚пїЅпїЅпїЅBпїЅпїЅпїЅЕЋпїЅпїЅН‚Э‚пїЅИ‚М‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚ЙЃAпїЅЭ‚пїЅИ‚НЋпїЅпїЅМ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅМЃH </p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅЕ‚пїЅпїЅAпїЅпїЅпїЅЙ‚НЊNпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅй‚±пїЅЖ‚пїЅпїЅЕ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅNпїЅН—HпїЅпїЅИ‚М‚пїЅпїЅH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅН—HпїЅпїЅИ‚МЃH </p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅNпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅз—€пїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅМ‚Н–{пїЅпїЅпїЅИ‚М‚пїЅпїЅH</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@(пїЅпїЅпїЅИ‚пїЅпїЅпїЅ)пїЅпїЅпїЅН–пїЅпїЅпїЅпїЅпїЅпїЅз—€пїЅпїЅпїЅМЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅBпїЅпїЅпїЅМђн‘€пїЅН‚пїЅпїЅВЏIпїЅпїЅпїЅс‚ѕЃBпїЅпїЅпїЅВ‚Й‚И‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅ{(пїЅЙ‚пїЅпїЅЫ‚пїЅ)пїЅНЏпїЅпїЅВ‚с‚ѕЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅ{(пїЅЙ‚Щ‚пїЅ)пїЅН‚пїЅпїЅМђн‘€пїЅЙ•пїЅпїЅпїЅпїЅпїЅМЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅH </p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅМЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅcпїЅпїЅпїЅпїЅЕ‚НђпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅУ–пїЅпїЅИ‚З‚И‚пїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅНЃAпїЅпїЅпїЅИ‚пїЅпїЅЙЋпїЅпїЅпїЅЕ‚Щ‚пїЅпїЅпїЅпїЅИ‚пїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅЯ‚пїЅпїЅпїЅпїЅпїЅпїЅЙЃAпїЅпїЅпїЅBпїЅЙ‚пїЅпїЅпїЅпїЅUпїЅМЋuпїЅиЏ‘пїЅпїЅпїЅzпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅз‚­пїЅпїЅпїЅBпїЅМ‘пїЅпїЅSпїЅпїЅпїЅпїЅпїЅпїЅпїЅUпїЅЙЋuпїЅи‚·пїЅй‚ѕпїЅл‚¤пїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅuпїЅи‚µпїЅИ‚пїЅпїЅИ‚пїЅД‚Е‚пїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅИ‚пїЅпїЅB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅЛ‚ОЃAпїЅпїЅпїЅИ‚пїЅпїЅМ‰Ж‘пїЅпїЅНЉпїЅФ‚МЃH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅcпїЅпїЅпїЅпїЅпїЅпїЅпїЅл‚¤пїЅИЃBпїЅпїЅпїЅЙ–пїЅпїЅМ”пїЅпїЅЮ‚НЃB</p>
     <br />
     <p class="a1">
-    —E‹P‚Н‚»‚к‚рѓTѓcѓL‚Й“n‚·ЃB</p>
+    пїЅпїЅпїЅ|пїЅPпїЅbпїЅgпїЅпїЅпїЅпїЅКђ^пїЅпїЅпїЅoпїЅпїЅпїЅДЃB</p>
     <br />
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@(‚»‚МЋКђ^‚рЊ©‚ДЃAЋv‚н‚ёЏО‚Б‚Д‚µ‚Ь‚¤)‚©‚н‚ў‚ўЃB</p>
-    <p class="a2">–нђ¶Ѓ@‘е•§‚ѕ‚Ї‚З‚ЛЃB</p>
-    <p class="a2">ѓTѓcѓLЃ@‚±‚с‚И‚©‚н‚ў‚ў–…‚р‹ѓ‚©‚№‚Д‚а‚ў‚ў‚МЃH</p>
-    <p class="a2">–нђ¶Ѓ@‘е•§‚ѕ‚Ї‚З‚ЛЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћ„‚Є“БЌU‚ЙЋuЉи‚µ‚И‚Ї‚к‚ОЋ„‚М‰Ж‘°‚НЏО‚ў‚а‚М‚Й‚И‚йЃB‚»‚к‚ж‚и‚Н‚Ь‚µ‚ѕЃB</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@(ЋКђ^‚М— ‚ЙЏ‘‚©‚к‚Д‚ў‚й–ј‘O‚рЊ©‚Д)Ќ‚“c—E‹PЃc </p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћ„‚М–ј‘O‚ѕЃB‚З‚с‚И‚Ж‚«‚Е‚а—E‹C‚рЋќ‚Б‚Д‹P‚Ї‚йђl‚Й‚И‚к‚ЖЃAЋ„‚М—јђe‚Є‚В‚Ї‚Д‚­‚к‚Ѕ–ј‘O‚ѕЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅЮ‚МЋКђ^пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">ђГЌЃЃ@(ѓTѓcѓL‚рЋwЌ·‚µ‚Д“Л‘Rђє‚рЏo‚·)‚ Ѓ[ЃB</p>
-    <p class="a2">Ќ№ђDЃE–нђ¶Ѓ@‚З‚¤‚µ‚Ѕ‚МЃH </p>
-    <p class="a2">ђГЌЃЃ@‚ Ѓ[ЃA‚Е‚а‚±‚к‚З‚¤‚Е‚а‚ў‚ў‚Б‚Д‚ў‚¦‚О‚З‚¤‚Е‚а‚ў‚ў‚с‚ѕ‚Ї‚ЗЃB</p>
-    <p class="a2">Ќ№ђDЃ@ђГЌЃЃAЊѕ‚Б‚Д‚жЃB</p>
-    <p class="a2">ђГЌЃЃ@ѓTѓcѓL‚Б‚Д—H—м‚И‚с‚ѕ‚ж‚ЛЃB</p>
-    <p class="a2">Ќ№ђDЃ@‚»‚¤‚И‚М‚©‚ИЃB</p>
-    <p class="a2">–нђ¶Ѓ@—H—м‚Э‚Ѕ‚ў‚И‘¶ЌЭ‚ѕ‚ЛЃB</p>
-    <p class="a2">ђГЌЃЃ@ђl‚М‘М‚Ж‚©ѓhѓA‚Н’К‚и”І‚Ї‚ї‚б‚¤‚с‚ѕ‚ж‚ЛЃB</p>
-    <p class="a2">Ќ№ђDЃE–нђ¶Ѓ@‚»‚¤‚ѕ‚ЛЃB</p>
-    <p class="a2">ђГЌЃЃ@‚Е‚аЃAЌЎЃAЋКђ^Ћќ‚Б‚Д‚йЃB</p>
-    <p class="a2">Ќ№ђDЃ@(Ћи‚ЙЋќ‚Б‚Д‚ў‚йЋКђ^‚рЊ©‚Д)‚ Ѓ[ЃB</p>
-    <p class="a2">–нђ¶Ѓ@Љm‚©‚Й—H—м‚НЋКђ^Ћќ‚Д‚И‚ў‚ж‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@‚Е‚а—H—м‚а‚М‚МѓeѓЊѓrѓhѓ‰ѓ}‚¶‚б‚ж‚­‚ ‚й‚±‚Ж‚ѕ‚Ї‚З‚ЛЃB</p>
-    <p class="a2">Ќ№ђDЃ@ђГЌЃЃA‚ж‚­‚»‚с‚И‚±‚Ж‹C‚Є‚В‚ў‚Ѕ‚ЛЃB</p>
-    <p class="a2">ђГЌЃЃ@ЋА‚НЋ„ЃA—H—м‚Й‹»–Ў‚Є‚ ‚й‚с‚ѕЃB</p>
-    <p class="a2">Ќ№ђDЃE–нђ¶Ѓ@‚»‚¤‚И‚МЃH</p>
-    <p class="a2">ђГЌЃЃ@Ћ„ЃA‚Ж‚«‚З‚«—м‚ЄЊ©‚¦‚й‚с‚ѕЃB‚±‚МЊЂ‚М—E‹P‚і‚с‚Э‚Ѕ‚ў‚ЙЃB</p>
-    <p class="a2">Ќ№ђDЃE–нђ¶Ѓ@‚Щ‚с‚Ж‚ЙЃH</p>
-    <p class="a2">ђі•FЃ@‚»‚к‚¶‚бЃAЌЎЃA‚±‚±‚Й‚»‚с‚И‘¶ЌЭЉґ‚¶‚И‚ўЃH</p>
+    <p class="a1">пїЅнђ¶пїЅпїЅпїЅпїЅпїЅпїЅпїЅ`пїЅпїЅпїЅB</p>
     <br />
-    <p class="a1">ђГЌЃ‚Є•”Ћє‚рЊ©‰с‚·ЃB</p>
-    <p class="a1">‚»‚µ‚Д‚»‚МЊгЃA–нђ¶‚р‚¶‚Б‚ЖЊ©‚В‚Я‚йЃB</p>
-    <p class="a1">–нђ¶‚ађГЌЃ‚р‚¶‚Б‚ЖЊ©‚В‚Я‚йЃB</p>
-    <br />
-    <p class="a2">–нђ¶Ѓ@(‚¦‚Б)‚а‚µ‚©‚µ‚ДЃA‚Щ‚с‚Ж‚ЙЃcЋ„‚М‚±‚ЖЃc</p>
-    <p class="a2">ђГЌЃЃ@Љґ‚¶‚Ь‚·ЃB</p>
-    <p class="a2">ђі•FЃE–нђ¶Ѓ@Љґ‚¶‚й‚с‚ѕЃB</p>
-    <p class="a2">ђГЌЃЃ@Ћ„‚М–Ъ‚М‘O‚Й’N‚©‚ў‚Ь‚·ЃB</p>
-    <p class="a2">ђі•FЃE–нђ¶Ѓ@–{“–‚Й’N‚©Њ©‚¦‚й‚МЃH</p>
-    <p class="a2">ђГЌЃЃ@Њ©‚¦‚Ь‚·ЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚в‚Б‚ЅЃ[ЃBЋ„‚М‚±‚ЖЊ©‚¦‚йђlЃA€кђl‘ќ‚¦‚ЅЃB</p>
-    <p class="a2">ђі•FЃ@‚Л‚БЃA‚»‚М’N‚©‚Б‚ДЃA‚З‚с‚ИЉз‚µ‚Д‚йЃH</p>
-    <p class="a2">ђГЌЃЃ@(–нђ¶‚р‚¶‚Б‚ЖЊ©‚В‚Я‚Д)‚Р‚°‚Є‚Н‚¦‚Д‚ў‚Ь‚·ЃB</p>
-    <p class="a2">ђі•FЃE–нђ¶Ѓ@‚Р‚°‚ЄЃH</p>
-    <p class="a2">ђГЌЃЃ@Њы‚НЋЁ‚Ь‚Е—ф‚Ї‚Д‚ў‚Ь‚·ЃB</p>
-    <p class="a2">–нђ¶Ѓ@Ћ„‚Н‰»‚Ї•Ё‚©ЃB</p>
-    <p class="a2">ђГЌЃЃ@‚»‚µ‚ДЃA‰Ѕ‚Е‚µ‚е‚¤ЃA‚·‚І‚­ЋЧ€«‚И‰Ѕ‚©‚рЉґ‚¶‚Ь‚·ЃB</p>
-    <p class="a2">ђі•FЃE–нђ¶Ѓ@ЋЧ€«‚ИЃc</p>
-    <p class="a2">ђГЌЃЃ@Њѕ—t‚Е‚Нђа–ѕ‚Е‚«‚И‚ў‚ж‚¤‚ИЋЧ€«‚И‰Ѕ‚©‚рЃB</p>
-    <p class="a2">Ќ№ђDЃ@ђГЌЃЃA‚а‚¤‚в‚Я‚ДЃAЋ„ЃA‚»‚¤‚ў‚¤‚М‹кЋи‚И‚с‚ѕЃB</p>
-    <p class="a2">ђГЌЃЃ@‚»‚к‚Н‚«‚Б‚ЖЋ„’B‚Й•sЌK‚р‚а‚Ѕ‚з‚·‘¶ЌЭ‚Е‚·ЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚Ё‚ў‚Ё‚ўЃB</p>
-    <p class="a2">Ќ№ђDЃ@‚в‚ѕЃA‚»‚М•sЌK‚р‚а‚Ѕ‚з‚·ЋЧ€«‚И‰Ѕ‚©‚Б‚Д‚ў‚Б‚Ѕ‚ў‚З‚±‚Й‚ў‚й‚МЃH</p>
-    <p class="a2">ђГЌЃЃ@‚Щ‚зЃA‚»‚±‚ЙЃI</p>
-    <br />
-    <p class="a1">ђГЌЃ‚Є‚»‚¤Њѕ‚Б‚ДЊг‚л‚рђU‚иЊь‚ў‚ДЋwЌ·‚·‚ЖЃAЋwЌ·‚µ‚Ѕђж‚Й‰‰ЊЂ•”•”’·‚МЉв“c‹ћ‰Ф(ЋO”Nђ¶)‚Є—§‚Б‚Д‚ў‚йЃB</p>
-    <p class="a1">
-    ‚±‚±‚Ь‚ЕЊЂ‚рЊ©‚Ѕ‚а‚М‚Н•Є‚©‚й‚ЖЋv‚¤‚ЄЃAђі•F‚МЋoЃE–нђ¶‚Н—H—м‚Е‚ ‚Б‚ЅЃB‚±‚±‚Ь‚Е‚М–нђ¶‚М‘дЋЊ‚Н‚·‚Ч‚Дђі•F‚ЙЊь‚Ї‚з‚к‚Д‚ў‚ДЃA‘ј‚М“oЏкђl•Ё‚Н–нђ¶‚Ж‚Н€кђШЉЦ‚н‚Б‚Д‚ў‚И‚ўЃB‚Ѕ‚ѕ‚µЃA‚Ь‚й‚ЕЉЦ‚н‚Б‚Д‚ў‚й‚©‚М‚ж‚¤‚Й‰‰Џo‚і‚к‚йЃB</p>
-    <br />
-    <p class="a2">‹ћ‰ФЃ@ђГЌЃЃA•sЌK‚р‚а‚Ѕ‚з‚·ЋЧ€«‚И‰Ѕ‚©‚Б‚Д‰Ѕ‚М‚±‚ЖЃH</p>
-    <p class="a2">ђГЌЃЃ@(ЌQ‚Д‚Д)‚ў‚¦ЃA‰Ѕ‚Е‚а‚ ‚и‚Ь‚№‚сЃB</p>
-    <p class="a2">‹ћ‰ФЃ@•”Љ€Ћn‚Я‚й‚жЃB</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚Н‚ўЃB</p>
-    <br />
-    <p class="a1">‰‰ЊЂ•”€х‚Є‹ћ‰Ф‚МЋь‚и‚ЙЏW‚Ь‚йЃB</p>
-    <br />
-    <p class="a2">‹ћ‰ФЃ@‚ў‚­‚јЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‰«“кЃE‘SЌ‘‘е‰пЃI</p>
-    <p class="a2">‹ћ‰ФЃ@‰ч‚µ—Ь‚НЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚а‚¤‚ў‚з‚И‚ўЃI</p>
-    <p class="a2">‹ћ‰ФЃ@Џџ‚Б‚Д‹ѓ‚±‚¤‚жЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‘SЌ‘‚ЕЃI</p>
-    <p class="a2">‹ћ‰ФЃ@‚ў‚­‚јЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‰«“кЃE‘SЌ‘‘е‰пЃI</p>
-    <p class="a2">‹ћ‰ФЃ@Ћ•‚рђH‚ў‚µ‚О‚л‚¤ЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‘SЌ‘‚М‚Ѕ‚ЯЃI</p>
-    <br />
-    <p class="a2">‹ћ‰ФЃ@‚»‚к‚¶‚бЏгЉЇ‚Є“БЌU‚МЋuЉиЏ‘‚р“n‚·ѓVЃ[ѓ“‚©‚з‚в‚й‚жЃB€Я‘•‚Й’…‘Ц‚¦‚йЋћЉФ‚а‚Б‚Ѕ‚ў‚И‚ў‚©‚з‚±‚М‚Ь‚Ь‚в‚л(‚¤)ЃB‚Э‚с‚ИЏЂ”х‚µ‚ДЃB</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚Н‚ўЃB</p>
-    <br />
-    <p class="a1">‹ћ‰Ф‚ЄЏгЉЇ–р‚Ж‚µ‚Д•‘‘д’†‰›‚Й—§‚ВЃB</p>
-    <p class="a1">
-    —E‹P–р‚Мђі•F‚ЖЊ’‘ѕ–р‚МђГЌЃ‚ЄЃA’ј—§•s“®‚МЋpђЁ‚ЕЏгЉЇ[‹ћ‰Ф]‚М‘O‚Й—§‚ВЃB</p>
-    <br />
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@“G‚Н‰«“к‚ЙЏг—¤‚µ‚ЅЃB’m‚Б‚Д‚й‚©ЃA‰«“к‚Е‚НЏ\ЋlЌО‚МЏ­”N‚ЄЋuЉи‚µ‚ДЃA‚ЁЌ‘‚рЋз‚й‚Ѕ‚Я‚Й–Ѕ‚р‚©‚Ї‚Дђн‚Б‚Д‚ў‚йЃB‚±‚к‚©‚зЋ„’B‚Н‚»‚МЊѓђн’nЃE‰«“к‚ЙЊь‚©‚¤ЃBЋ„’B‚МђнЏк‚Н‰«“к‚ѕЃB‚Ж‚±‚л‚ЕЃA‚Ё‚Ь‚¦’B‚Й‰Ж‘°‚Н‚ў‚й‚©ЃH</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Њ’‘ѕ[ђГЌЃ]Ѓ@‚Н‚ўЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‰Ж‘°‚Н‘еђШ‚©ЃH</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Њ’‘ѕ[ђГЌЃ]Ѓ@‚Н‚ўЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‚»‚с‚И‘еђШ‚И‰Ж‘°‚рЋз‚и‚Ѕ‚ў‚ЖЋv‚¤‚а‚М‚НЃA€к•а‘O‚ЙЃI</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅFпїЅAпїЅпїЅпїЅпїЅCпїЅwпїЅпїЅпїЅsпїЅЕЋBпїЅпїЅпїЅпїЅпїЅе•§пїЅМЋКђ^пїЅпїЅпїЅпїЅИ‚пїЅпїЅB</p>
     <br />
     <p class="a1">
-    Њ’‘ѕ[ђГЌЃ]‚Ж—E‹P[ђі•F]‚Є“ЇЋћ‚Й€к•а‘O‚ЙЏo‚йЃB</p>
+    пїЅEпїЅPпїЅН‚пїЅпїЅпїЅпїЅпїЅTпїЅcпїЅLпїЅЙ“nпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‚Ё‚Ь‚¦’B‚Є“G‚МђN“ь‚р–h‚°‚И‚Ї‚к‚ОЃA‘еђШ‚И‰Ж‘°‚Й”љ’e‚ЄЌ~‚и’Ќ‚®‚±‚Ж‚Й‚И‚йЃB‚»‚с‚И‚±‚Ж‚Є‹–‚№‚й‚©ЃH</p>
-    <p class="a2">—E‹P[ђі•F]ЃEЊ’‘ѕ[ђГЌЃ]Ѓ@‹–‚№‚Ь‚№‚сЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‚»‚к‚Е‚Н•·‚±‚¤ЃB‚Ё‚Ь‚¦’B‚М‘еђШ‚И‰Ж‘°‚М‚Ѕ‚Я‚И‚з–Ѕ‚і‚¦‚ађЙ‚µ‚­‚Н‚И‚ў‚ЖЋv‚¤‚а‚М‚НЃA€к•а‘O‚ЙЃI</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@(пїЅпїЅпїЅМЋКђ^пїЅпїЅпїЅпїЅпїЅДЃAпїЅvпїЅн‚ёпїЅО‚пїЅпїЅД‚пїЅпїЅЬ‚пїЅ)пїЅпїЅпїЅн‚ўпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅе•§пїЅпїЅпїЅпїЅпїЅЗ‚ЛЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅLпїЅ@пїЅпїЅпїЅпїЅИ‚пїЅпїЅн‚ўпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅе•§пїЅпїЅпїЅпїЅпїЅЗ‚ЛЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅUпїЅЙЋuпїЅи‚µпїЅИ‚пїЅпїЅпїЅОЋпїЅпїЅМ‰Ж‘пїЅпїЅНЏО‚пїЅпїЅпїЅпїЅМ‚Й‚И‚пїЅBпїЅпїЅпїЅпїЅпїЅпїЅН‚Ь‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@(пїЅКђ^пїЅМ—пїЅпїЅЙЏпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅй–јпїЅOпїЅпїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅcпїЅEпїЅPпїЅc </p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅМ–пїЅпїЅOпїЅпїЅпїЅBпїЅЗ‚пїЅИ‚Ж‚пїЅпїЅЕ‚пїЅпїЅEпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‹PпїЅпїЅпїЅпїЅlпїЅЙ‚И‚пїЅЖЃAпїЅпїЅпїЅМ—пїЅпїЅeпїЅпїЅпїЅВ‚пїЅпїЅД‚пїЅпїЅк‚ЅпїЅпїЅпїЅOпїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅГЌпїЅпїЅ@(пїЅTпїЅcпїЅLпїЅпїЅпїЅwпїЅпїЅпїЅпїЅпїЅД“Л‘RпїЅпїЅпїЅпїЅпїЅoпїЅпїЅ)пїЅпїЅпїЅ[пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅEпїЅнђ¶пїЅ@пїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅМЃH </p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅ[пїЅAпїЅЕ‚пїЅпїЅпїЅпїЅпїЅЗ‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅО‚З‚пїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅпїЅЗЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅГЌпїЅпїЅAпїЅпїЅпїЅпїЅпїЅД‚пїЅB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅTпїЅcпїЅLпїЅпїЅпїЅД—HпїЅпїЅИ‚с‚ѕ‚пїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅпїЅпїЅпїЅпїЅИ‚М‚пїЅпїЅИЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅHпїЅпїЅЭ‚пїЅпїЅпїЅпїЅИ‘пїЅпїЅЭ‚пїЅпїЅЛЃB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅlпїЅМ‘М‚Ж‚пїЅпїЅhпїЅAпїЅН’К‚и”ІпїЅпїЅпїЅпїЅпїЅб‚¤пїЅс‚ѕ‚пїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅEпїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅЕ‚пїЅпїЅAпїЅпїЅпїЅAпїЅКђ^пїЅпїЅпїЅпїЅпїЅД‚пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@(пїЅпїЅЙЋпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅКђ^пїЅпїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅ[пїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅmпїЅпїЅпїЅЙ—HпїЅпїЅНЋКђ^пїЅпїЅпїЅД‚И‚пїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЕ‚пїЅпїЅHпїЅпїЅпїЅпїЅМ‚МѓeпїЅпїЅпїЅrпїЅhпїЅпїЅпїЅ}пїЅпїЅпїЅпїЅж‚­пїЅпїЅпїЅй‚±пїЅЖ‚пїЅпїЅпїЅпїЅЗ‚ЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅГЌпїЅпїЅAпїЅж‚­пїЅпїЅпїЅпїЅИ‚пїЅпїЅЖ‹CпїЅпїЅпїЅВ‚пїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅНЋпїЅпїЅAпїЅHпїЅпїЅЙ‹пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅEпїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅИ‚МЃH</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅAпїЅЖ‚пїЅпїЅЗ‚пїЅпїЅм‚ЄпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅпїЅпїЅМЊпїЅпїЅМ—EпїЅPпїЅпїЅпїЅпїЅЭ‚пїЅпїЅпїЅпїЅЙЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅEпїЅнђ¶пїЅ@пїЅЩ‚пїЅЖ‚ЙЃH</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅк‚¶пїЅпїЅAпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅпїЅИ‘пїЅпїЅЭЉпїЅпїЅпїЅпїЅИ‚пїЅпїЅH</p>
+    <br />
+    <p class="a1">пїЅГЌпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚·ЃB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅМЊпїЅAпїЅнђ¶пїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЊпїЅпїЅВ‚Я‚пїЅB</p>
+    <p class="a1">пїЅнђ¶пїЅпїЅпїЅГЌпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЊпїЅпїЅВ‚Я‚пїЅB</p>
+    <br />
+    <p class="a2">пїЅнђ¶пїЅ@(пїЅпїЅпїЅпїЅ)пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃAпїЅЩ‚пїЅЖ‚ЙЃcпїЅпїЅпїЅМ‚пїЅпїЅЖЃc</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅEпїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅМ–Ъ‚М‘OпїЅЙ’NпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅEпїЅнђ¶пїЅ@пїЅ{пїЅпїЅпїЅЙ’NпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅ[пїЅBпїЅпїЅпїЅМ‚пїЅпїЅЖЊпїЅпїЅпїЅпїЅпїЅlпїЅAпїЅпїЅlпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЛ‚пїЅпїЅAпїЅпїЅпїЅМ’NпїЅпїЅпїЅпїЅпїЅДЃAпїЅЗ‚пїЅИЉз‚µпїЅД‚пїЅH</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@(пїЅнђ¶пїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЊпїЅпїЅВ‚Я‚пїЅ)пїЅР‚пїЅпїЅпїЅпїЅН‚пїЅпїЅД‚пїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅEпїЅнђ¶пїЅ@пїЅР‚пїЅпїЅпїЅпїЅH</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅНЋпїЅпїЅЬ‚Е—ф‚Ї‚Д‚пїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅН‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅЕ‚пїЅпїЅе‚¤пїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅЧ€пїЅпїЅИ‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅEпїЅнђ¶пїЅ@пїЅЧ€пїЅпїЅИЃc</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅtпїЅЕ‚НђпїЅпїЅпїЅпїЅЕ‚пїЅпїЅИ‚пїЅпїЅж‚¤пїЅИЋЧ€пїЅпїЅИ‰пїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅГЌпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅЯ‚ДЃAпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‹пїЅпїЅИ‚с‚ѕЃB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅЖЋпїЅпїЅBпїЅЙ•sпїЅKпїЅпїЅпїЅпїЅпїЅпїЅпїЅз‚·пїЅпїЅпїЅЭ‚Е‚пїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅв‚ѕпїЅAпїЅпїЅпїЅМ•sпїЅKпїЅпїЅпїЅпїЅпїЅпїЅпїЅз‚·пїЅЧ€пїЅпїЅИ‰пїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗ‚пїЅпїЅЙ‚пїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅЩ‚пїЅAпїЅпїЅпїЅпїЅпїЅЙЃI</p>
+    <br />
+    <p class="a1">пїЅГЌпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЊпїЅпїЅпїЅUпїЅпїЅпїЅпїЅпїЅпїЅДЋwпїЅпїЅпїЅпїЅпїЅЖЃAпїЅwпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‰пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЉпїЅcпїЅпїЅпїЅпїЅ(пїЅOпїЅNпїЅпїЅ)пїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">
+    пїЅпїЅпїЅпїЅпїЅЬ‚ЕЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚Н•пїЅпїЅпїЅпїЅпїЅЖЋvпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅFпїЅМЋoпїЅEпїЅнђ¶пїЅН—HпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅЬ‚Е‚М–нђ¶пїЅМ‘дЋЊпїЅН‚пїЅпїЅЧ‚ДђпїЅпїЅFпїЅЙЊпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅДЃAпїЅпїЅпїЅМ“oпїЅпїЅlпїЅпїЅпїЅН–нђ¶пїЅЖ‚Н€пїЅШЉЦ‚пїЅпїЅпїЅД‚пїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅЬ‚пїЅЕЉЦ‚пїЅпїЅпїЅД‚пїЅпїЅй‚©пїЅМ‚ж‚¤пїЅЙ‰пїЅпїЅoпїЅпїЅпїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅГЌпїЅпїЅAпїЅsпїЅKпїЅпїЅпїЅпїЅпїЅпїЅпїЅз‚·пїЅЧ€пїЅпїЅИ‰пїЅпїЅпїЅпїЅпїЅпїЅД‰пїЅпїЅМ‚пїЅпїЅЖЃH</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@(пїЅQпїЅД‚пїЅ)пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅnпїЅЯ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅН‚пїЅпїЅB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅФ‚МЋпїЅпїЅпїЅЙЏWпїЅЬ‚пїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅEпїЅSпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅЬ‚НЃI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅД‹пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅSпїЅпїЅпїЅЕЃI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅEпїЅSпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅHпїЅпїЅпїЅпїЅпїЅО‚л‚¤пїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅSпїЅпїЅпїЅМ‚пїЅпїЅЯЃI</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅк‚¶пїЅпїЅгЉЇпїЅпїЅпїЅпїЅпїЅUпїЅМЋuпїЅиЏ‘пїЅпїЅnпїЅпїЅпїЅVпїЅ[пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅЯ‘пїЅпїЅЙ’пїЅпїЅЦ‚пїЅпїЅйЋћпїЅФ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅз‚±пїЅМ‚Ь‚Ь‚пїЅпїЅ(пїЅпїЅ)пїЅBпїЅЭ‚пїЅИЏпїЅпїЅпїЅпїЅпїЅпїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅН‚пїЅпїЅB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅФ‚пїЅпїЅгЉЇпїЅпїЅпїЅЖ‚пїЅпїЅД•пїЅпїЅд’†пїЅпїЅпїЅЙ—пїЅпїЅВЃB</p>
+    <p class="a1">
+    пїЅEпїЅPпїЅпїЅпїЅМђпїЅпїЅFпїЅЖЊпїЅпїЅпїЅпїЅпїЅпїЅМђГЌпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅsпїЅпїЅпїЅМЋpпїЅпїЅпїЅЕЏгЉЇ[пїЅпїЅпїЅпїЅ]пїЅМ‘OпїЅЙ—пїЅпїЅВЃB</p>
+    <br />
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅGпїЅН‰пїЅпїЅпїЅЙЏг—¤пїЅпїЅпїЅпїЅпїЅBпїЅmпїЅпїЅпїЅД‚й‚©пїЅAпїЅпїЅпїЅпїЅЕ‚НЏ\пїЅlпїЅО‚МЏпїЅпїЅNпїЅпїЅпїЅuпїЅи‚µпїЅДЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅй‚ЅпїЅЯ‚Й–пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДђпїЅпїЅпїЅД‚пїЅпїЅпїЅBпїЅпїЅпїЅк‚©пїЅзЋ„пїЅBпїЅН‚пїЅпїЅМЊпїЅпїЅпїЅnпїЅEпїЅпїЅпїЅпїЅЙЊпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅBпїЅМђпїЅпїЅН‰пїЅпїЅк‚ѕпїЅBпїЅЖ‚пїЅпїЅпїЅЕЃAпїЅпїЅпїЅЬ‚пїЅпїЅBпїЅЙ‰Ж‘пїЅпїЅН‚пїЅпїЅй‚©пїЅH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅ[пїЅГЌпїЅ]пїЅ@пїЅН‚пїЅпїЅB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅЖ‘пїЅпїЅН‘пїЅШ‚пїЅпїЅH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅ[пїЅГЌпїЅ]пїЅ@пїЅН‚пїЅпїЅB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅпїЅИ‘пїЅШ‚И‰Ж‘пїЅпїЅпїЅпїЅпїЅи‚ЅпїЅпїЅпїЅЖЋvпїЅпїЅпїЅпїЅпїЅМ‚НЃAпїЅпїЅпїЅпїЅOпїЅЙЃI</p>
     <br />
     <p class="a1">
-    Њ’‘ѕ[ђГЌЃ]‚Є‚·‚®‘O‚ЙЏo‚йЃB</p>
+    пїЅпїЅпїЅпїЅ[пїЅГЌпїЅ]пїЅЖ—EпїЅP[пїЅпїЅпїЅF]пїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ€пїЅпїЅпїЅOпїЅЙЏoпїЅпїЅB</p>
     <br />
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‘O‚ЙЏo‚ї‚б‚ѕ‚ЯЃB
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅЬ‚пїЅпїЅBпїЅпїЅпїЅGпїЅМђNпїЅпїЅпїЅпїЅhпїЅпїЅпїЅИ‚пїЅпїЅпїЅОЃAпїЅпїЅШ‚И‰Ж‘пїЅпїЅЙ”пїЅпїЅeпїЅпїЅпїЅ~пїЅи’ЌпїЅпїЅпїЅпїЅпїЅЖ‚Й‚И‚пїЅBпїЅпїЅпїЅпїЅИ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅй‚©пїЅH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅEпїЅпїЅпїЅпїЅ[пїЅГЌпїЅ]пїЅ@пїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅпїЅЕ‚Н•пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅЬ‚пїЅпїЅBпїЅМ‘пїЅШ‚И‰Ж‘пїЅпїЅМ‚пїЅпїЅЯ‚И‚з–ЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅпїЅпїЅН‚И‚пїЅпїЅЖЋvпїЅпїЅпїЅпїЅпїЅМ‚НЃAпїЅпїЅпїЅпїЅOпїЅЙЃI</p>
+    <br />
+    <p class="a1">
+    пїЅпїЅпїЅпїЅ[пїЅГЌпїЅ]пїЅпїЅпїЅпїЅпїЅпїЅпїЅOпїЅЙЏoпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅOпїЅЙЏoпїЅпїЅпїЅб‚ѕпїЅЯЃB
     </p><br />
-    <p class="a1">—E‹P[ђі•F]‚Н€кЏu’x‚к‚Д‘O‚ЙЏo‚йЃB </p><br />
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‚ж‚µЃA“сђl‚Ж‚а–Ѕ‚рЋМ‚Д‚йЉoЊе‚Є‚ ‚й‚с‚ѕ‚ИЃB</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@Ћ„‚рЊ©‚ДЃAЋ„‚рђM‚¶‚ДЃBЋ„‚Н‚ ‚И‚Ѕ‚Й‚µ‚©Њ©‚¦‚И‚ўЃBЋ„‚Мђє‚Н‚ ‚И‚Ѕ‚Й‚µ‚©•·‚±‚¦‚И‚ўЃBЋ„‚Н–ў—€‚©‚з—€‚Ѕ‚МЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@(Ћ†‚рЋж‚иЏo‚µ‚Д)‚і‚ДЃA‚±‚±‚Й“БЌUЋuЉиЏ‘‚Є‚ ‚йЃB“БЌU‚Н‹­ђ§‚Е‚Н‚И‚ўЃA“БЌU‚НЋuЉи‚ѕЃBЃu”M–]ЃvЃAЃuЉу–]ЃvЃAЃuЋuЉи‚µ‚И‚ўЃv‚М‚ў‚ё‚к‚©‚ЙЉЫ‚р‚В‚Ї‚Д–ѕ“ъ‚Ь‚Е‚Й’сЏo‚·‚й‚ж‚¤‚ЙЃB–Ѕ‚рЋМ‚Д‚йЉoЊе‚Є‚ ‚й‚Ё‚Ь‚¦’B‚Є‚З‚к‚ЙЉЫ‚р‚В‚Ї‚й‚©‚Н‚н‚©‚Б‚Д‚ў‚йЃB‚»‚к‚Е‚Н•·‚±‚¤ЃA”M–]‚ЙЉЫ‚р‚В‚Ї‚й‚а‚М‚НЃA€к•а‘O‚ЙЃI</p>
+    <p class="a1">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅН€пїЅuпїЅxпїЅпїЅД‘OпїЅЙЏoпїЅпїЅB </p><br />
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅж‚µпїЅAпїЅпїЅlпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅМ‚Д‚пїЅoпїЅе‚ЄпїЅпїЅпїЅпїЅс‚ѕ‚ИЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅMпїЅпїЅпїЅДЃBпїЅпїЅпїЅН‚пїЅпїЅИ‚пїЅпїЅЙ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅМђпїЅпїЅН‚пїЅпїЅИ‚пїЅпїЅЙ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅН–пїЅпїЅпїЅпїЅпїЅпїЅз—€пїЅпїЅпїЅМЃB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@(пїЅпїЅпїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅЙ“пїЅпїЅUпїЅuпїЅиЏ‘пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅUпїЅН‹пїЅпїЅпїЅпїЅЕ‚Н‚И‚пїЅпїЅAпїЅпїЅпїЅUпїЅНЋuпїЅи‚ѕпїЅBпїЅuпїЅMпїЅ]пїЅvпїЅAпїЅuпїЅпїЅ]пїЅvпїЅAпїЅuпїЅuпїЅи‚µпїЅИ‚пїЅпїЅvпїЅМ‚пїЅпїЅпїЅпїЅк‚©пїЅЙЉЫ‚пїЅпїЅВ‚пїЅпїЅД–пїЅпїЅпїЅпїЅЬ‚Е‚Й’пїЅoпїЅпїЅпїЅпїЅж‚¤пїЅЙЃBпїЅпїЅпїЅпїЅпїЅМ‚Д‚пїЅoпїЅе‚ЄпїЅпїЅпїЅй‚ЁпїЅЬ‚пїЅпїЅBпїЅпїЅпїЅЗ‚пїЅЙЉЫ‚пїЅпїЅВ‚пїЅпїЅй‚©пїЅН‚н‚©пїЅпїЅпїЅД‚пїЅпїЅпїЅBпїЅпїЅпїЅпїЅЕ‚Н•пїЅпїЅпїЅпїЅпїЅпїЅAпїЅMпїЅ]пїЅЙЉЫ‚пїЅпїЅВ‚пїЅпїЅпїЅпїЅпїЅМ‚НЃAпїЅпїЅпїЅпїЅOпїЅЙЃI</p>
     <br />
-    <p class="a1">Њ’‘ѕ[ђГЌЃ]‚Є‚·‚®‘O‚ЙЏo‚йЃB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅ[пїЅГЌпїЅ]пїЅпїЅпїЅпїЅпїЅпїЅпїЅOпїЅЙЏoпїЅпїЅB</p>
     <p class="a1">
-    ‘O‚ЙЏo‚ж‚¤‚Ж‚·‚й—E‹P[ђі•F]‚рѓTѓcѓL[Ќ№ђD]‚Є‘еђє‚ЕЋ~‚Я‚йЃB</p>
+    пїЅOпїЅЙЏoпїЅж‚¤пїЅЖ‚пїЅпїЅпїЅEпїЅP[пїЅпїЅпїЅF]пїЅпїЅпїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅпїЅпїЅеђєпїЅЕЋ~пїЅЯ‚пїЅB</p>
     <br />
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‘O‚ЙЏo‚ї‚б‚ѕ‚ЯЃB‚ ‚ЖЏ­‚µ‚Еђн‘€‚НЏI‚н‚йЃB“ъ–{(‚Й‚Щ‚с)‚Нђн‘€‚Й•‰‚Ї‚й‚МЃB–Ѕ‚р–і‘К‚Й‚µ‚И‚ў‚ЕЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅOпїЅЙЏoпїЅпїЅпїЅб‚ѕпїЅЯЃBпїЅпїЅпїЅЖЏпїЅпїЅпїЅпїЅЕђн‘€пїЅНЏIпїЅпїЅпїЅBпїЅпїЅпїЅ{(пїЅЙ‚Щ‚пїЅ)пїЅНђн‘€пїЅЙ•пїЅпїЅпїЅпїЅпїЅМЃBпїЅпїЅпїЅр–і‘К‚Й‚пїЅпїЅИ‚пїЅпїЅЕЃB</p>
     <br />
-    <p class="a1">—E‹P[ђі•F]‚Н‘O‚ЙЏo‚И‚ўЃB</p>
+    <p class="a1">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅН‘OпїЅЙЏoпїЅИ‚пїЅпїЅB</p>
     <br />
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@Ќ‚“cЃA‚З‚¤‚µ‚ЅЃB‚З‚¤‚µ‚Д‘O‚ЙЏo‚И‚ўЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@Ќ‚“cЃA‹M—l‰Ж‘°‚рЋз‚и‚Ѕ‚ў‚Ж‚НЋv‚н‚И‚ў‚М‚©ЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћз‚и‚Ѕ‚ў‚Е‚·ЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@€к•а‘O‚ЙЃI</p>
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‘O‚ЙЏo‚ї‚б‚ѕ‚ЯЃB‚ЁЉи‚ўЃAђ¶‚«‚й‚±‚Ж‚р‘I‘р‚µ‚ДЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@€к•а‘O‚ЙЃI</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@ђ¶‚«‚Ѕ‚ў‚Е‚·ЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@Ќs‚«‚Ѕ‚ў‚М‚©ЃH</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚Н‚ўЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‚ж‚­‚јЊѕ‚Б‚Д‚­‚к‚ЅЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@ЃH</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@“БЌU‚ЙЌs‚«‚Ѕ‚ўЃB“БЌU‚р”M–]‚·‚йЃB‚»‚¤‚ў‚¤‚±‚Ж‚ѕ‚ИЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћ„‚НЃcЋ„‚НЌs‚«‚Ѕ‚­‚ ‚и‚Ь‚№‚сЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‚»‚¤‚©ЃAђ¶‚«‚Ѕ‚­‚И‚ў‚М‚©ЃB‹ѓ‚©‚№‚й‚¶‚б‚И‚ў‚©ЃBђ¶‚«‚Ѕ‚­‚И‚ўЃBђ¶‚«‚Д‚ў‚Ѕ‚­‚Н‚И‚ўЃB‚В‚Ь‚и‚ЁЌ‘‚М‚Ѕ‚Я‚ЙЋЂ‚Й‚Ѕ‚ў‚Ж‚ў‚¤‚М‚ѕ‚ИЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћ„‚НЃAђ¶‚«‚Ѕ‚ў‚М‚Е‚·ЃB‚ЁЌ‘‚М‚Ѕ‚Я‚Йђ¶‚«‚Ѕ‚ў‚М‚Е‚·ЃB</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‚ЁЌ‘‚М‚Ѕ‚Я‚ЙЌs‚«‚Ѕ‚ўЃB‚»‚к‚Е‚±‚»“ъ–{(‚Й‚Б‚Ы‚с)’jЋ™‚ѕЃB‚ж‚µЃAЌs‚©‚№‚Д‚в‚йЃB‚ЁЌ‘‚М‚Ѕ‚Я‚ЙЌs‚«‚Ѕ‚ў‚Ж‚ў‚¤‚Ё‘O‚М‚»‚М”M‚ўЋv‚ў‚р—Dђж‚µ‚ДЃA€к”Ф‚Й“БЌU‚ЙЌs‚©‚№‚Д‚в‚йЃB‚Э‚І‚Ж“GЉН‚Й‘М“–‚Ѕ‚и‚µ‚Д’ѕ‚Я‚Д‚±‚ўЃB‚ЁЌ‘‚М‚Ѕ‚Я‚ЙЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@€ИЏг‚ѕЃB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅcпїЅAпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅЗ‚пїЅпїЅпїЅпїЅД‘OпїЅЙЏoпїЅИ‚пїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅcпїЅAпїЅMпїЅlпїЅЖ‘пїЅпїЅпїЅпїЅпїЅи‚ЅпїЅпїЅпїЅЖ‚НЋvпїЅпїЅИ‚пїЅпїЅМ‚пїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅи‚ЅпїЅпїЅпїЅЕ‚пїЅпїЅB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅпїЅOпїЅЙЃI</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅOпїЅЙЏoпїЅпїЅпїЅб‚ѕпїЅЯЃBпїЅпїЅпїЅи‚ўпїЅAпїЅпїЅпїЅпїЅпїЅй‚±пїЅЖ‚пїЅIпїЅпїЅпїЅпїЅпїЅДЃB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅпїЅOпїЅЙЃI</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅsпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅН‚пїЅпїЅB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅж‚­пїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅк‚ЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅH</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅUпїЅЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅUпїЅпїЅMпїЅ]пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅИЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅНЃcпїЅпїЅпїЅНЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅМ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅй‚¶пїЅпїЅИ‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅН‚И‚пїЅпїЅBпїЅВ‚Ь‚и‚ЁпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЋпїЅпїЅЙ‚пїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅМ‚пїЅпїЅИЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅНЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚Е‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙђпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚Е‚пїЅпїЅB</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅ{(пїЅЙ‚пїЅпїЅЫ‚пїЅ)пїЅjпїЅпїЅпїЅпїЅпїЅBпїЅж‚µпїЅAпїЅsпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅOпїЅМ‚пїЅпїЅМ”MпїЅпїЅпїЅvпїЅпїЅпїЅпїЅDпїЅж‚µпїЅДЃAпїЅпїЅФ‚Й“пїЅпїЅUпїЅЙЌsпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅBпїЅЭ‚пїЅпїЅЖ“GпїЅН‚Й‘М“пїЅпїЅпїЅпїЅи‚µпїЅД’пїЅпїЅЯ‚Д‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅИЏг‚ѕпїЅB</p>
     <br />
-    <p class="a1">ЏгЉЇ[‹ћ‰Ф]‚Є‚»‚МЏк‚р‹Ћ‚йЃB</p>
-    <p class="a1">Њ’‘ѕ[ђГЌЃ]‚ЄЏгЉЇ[‹ћ‰Ф]‚Й‘±‚­ЃB</p>
-    <p class="a1">—E‹P[ђі•F]‚Єђв–]‚µ‚Д‚Р‚ґ‚Ь‚ё‚­ЃB</p>
-    <p class="a1">‚±‚М—ыЏK‚М“r’†‚ЕЊЬђl–Ъ‚М•”€хЃE‰“ЋRѓЊѓC(“с”Nђ¶)‚Є•”Ћє‚Й“ь‚Б‚Д‚­‚йЃB</p>
+    <p class="a1">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅпїЅпїЅпїЅпїЅМЏпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅ[пїЅГЌпїЅ]пїЅпїЅпїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅЙ‘пїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅпїЅпїЅпїЅ]пїЅпїЅпїЅД‚Р‚пїЅпїЅЬ‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅМ—пїЅпїЅKпїЅМ“rпїЅпїЅпїЅЕЊЬђlпїЅЪ‚М•пїЅпїЅпїЅпїЅEпїЅпїЅпїЅRпїЅпїЅпїЅC(пїЅпїЅNпїЅпїЅ)пїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ“пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‚ ‚«‚з‚Я‚ї‚б‚ѕ‚ЯЃBЋv‚ўЏo‚µ‚Д‚ ‚И‚Ѕ‚М‰Ж‘°‚рЃA‚ ‚И‚Ѕ‚Єђ¶‚«‚Д‹A‚Б‚Д‚­‚й‚±‚Ж‚рЉи‚Б‚Д‚ў‚й‰Ж‘°‚рЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅЯ‚пїЅпїЅб‚ѕпїЅЯЃBпїЅvпїЅпїЅпїЅoпїЅпїЅпїЅД‚пїЅпїЅИ‚пїЅпїЅМ‰Ж‘пїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‹AпїЅпїЅпїЅД‚пїЅпїЅй‚±пїЅЖ‚пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅЖ‘пїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@Ѓ@ѓЊѓCЃA‚±‚МЊг‚М—E‹P‚М‰с‘zѓVЃ[ѓ“‚в‚к‚йЃH</p>
-    <p class="a2">ѓЊѓCЃ@Ѓ@‚Н‚ўЃB</p>
-    <p class="a2">‹ћ‰ФЃ@Ѓ@Ќ№ђDЃA‚а‚¤€к“xЌЎ‚М‘дЋЊЊѕ‚Б‚Д‚­‚к‚йЃB</p>
-    <p class="a2">Ќ№ђDЃ@Ѓ@‚Н‚ўЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅ@пїЅпїЅпїЅCпїЅAпїЅпїЅпїЅМЊпїЅМ—EпїЅPпїЅМ‰пїЅzпїЅVпїЅ[пїЅпїЅпїЅпїЅпїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅ@пїЅН‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅ@пїЅпїЅпїЅDпїЅAпїЅпїЅпїЅпїЅпїЅпїЅxпїЅпїЅпїЅМ‘дЋЊпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅ@пїЅН‚пїЅпїЅB</p>
     <br />
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‚ ‚«‚з‚Я‚ї‚б‚ѕ‚ЯЃBЋv‚ўЏo‚µ‚Д‚ ‚И‚Ѕ‚М‰Ж‘°‚рЃA‚ ‚И‚Ѕ‚Єђ¶‚«‚Д‹A‚Б‚Д‚­‚й‚±‚Ж‚рЉи‚Б‚Д‚ў‚й‰Ж‘°‚рЃB</p>
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅЯ‚пїЅпїЅб‚ѕпїЅЯЃBпїЅvпїЅпїЅпїЅoпїЅпїЅпїЅД‚пїЅпїЅИ‚пїЅпїЅМ‰Ж‘пїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‹AпїЅпїЅпїЅД‚пїЅпїЅй‚±пїЅЖ‚пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅЖ‘пїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a1">—E‹P[ђі•F]‚Є‰Ж‘°‚М‚±‚Ж‚рЋv‚ўЏo‚·ЃB</p>
-    <p class="a1">—E‹P[ђі•F]‚М‘O‚Й”ь“Ю[ѓЊѓC]‚ЄЊ»‚к‚йЃB</p>
+    <p class="a1">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅпїЅпїЅЖ‘пїЅпїЅМ‚пїЅпїЅЖ‚пїЅпїЅvпїЅпїЅпїЅoпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅМ‘OпїЅЙ”пїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">—E‹P[ђі•F]Ѓ@”ь“ЮЃB</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@—E‹PЊZ‚ї‚б‚сЃA—V‚ЪЃB€кЏЏ‚Й—V‚ЪЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@”ь“ЮЃA‚І‚Я‚с‚ИЃBЊZ‚ї‚б‚сЌs‚©‚И‚­‚ї‚б‚ў‚Ї‚И‚ў‚с‚ѕЃB</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@Ќs‚­‚Б‚Д‚З‚±‚ЙЃH</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‰“‚ў‚Ж‚±‚лЃB</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@ђн‘€‚µ‚ЙЌs‚­‚МЃH</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚»‚¤‚ѕЃB</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@—E‹PЊZ‚ї‚б‚сЃAЋЂ‚с‚¶‚б‚ѕ‚Я‚ѕ‚жЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@—E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅЮЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅVпїЅЪЃBпїЅкЏЏпїЅЙ—VпїЅЪЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅЮЃAпїЅпїЅпїЅЯ‚пїЅИЃBпїЅZпїЅпїЅпїЅпїЅпїЅsпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅб‚ўпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@пїЅsпїЅпїЅпїЅпїЅпїЅД‚З‚пїЅпїЅЙЃH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@пїЅн‘€пїЅпїЅпїЅЙЌsпїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅс‚¶‚б‚ѕпїЅЯ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB</p>
     <br />
-    <p class="a1">Ѓ@Ѓ@ѓЊѓC‚Н‚·‚Ч‚Д‚М‘дЋЊ‚р–_“З‚Э‚ЕЊѕ‚¤ЃB</p>
+    <p class="a1">пїЅ@пїЅ@пїЅпїЅпїЅCпїЅН‚пїЅпїЅЧ‚Д‚М‘дЋЊпїЅпїЅ_пїЅЗ‚Э‚ЕЊпїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@ѓXѓgѓbѓvЃI</p>
-    <br />
-    <p class="a1">
-    ЊЂ‚ЄЋ~‚Ь‚йЃB</p>
-    <br />
-    <p class="a2">‹ћ‰ФЃ@ѓЊѓCЃA‘S‘RЉґЏо‚Є‚±‚а‚Б‚Д‚И‚ў‚¶‚б‚И‚ўЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚·‚Э‚Ь‚№‚сЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚З‚¤‚µ‚ДЃA‚н‚©‚з‚И‚ў‚©‚ИЃB‚ў‚ў‚©ЃA‚ЁЊZ‚ї‚б‚с‚ЄЋЂ‚с‚¶‚б‚¤‚с‚ѕ‚жЃA‘еЌD‚«‚И‚ЁЊZ‚ї‚б‚с‚ЄЃB</p>
-    <br />
-    <p class="a1">‹ћ‰Ф‚ЄЊ©–{‚Ж‚µ‚Д”ь“Ю‚М‘дЋЊ‚рЊѕ‚Б‚Д‚Э‚йЃB</p>
-    <br />
-    <p class="a2">”ь“Ю[‹ћ‰Ф]Ѓ@—E‹PЊZ‚ї‚б‚сЃAЋЂ‚с‚¶‚б‚ѕ‚Я‚ѕ‚жЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    <p class="a2">”ь“Ю[‹ћ‰Ф]Ѓ@—E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB</p>
-    <br />
-    <p class="a2">‹ћ‰ФЃ@‚±‚с‚И‚У‚¤‚Й‚Е‚«‚И‚ў‚©‚ИЃB</p>
-    <p class="a2">ѓЊѓCЃ@Љж’Ј‚и‚Ь‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@ЋћЉФ‚И‚ў‚©‚зђж‚Йђi‚а‚¤ЃBђі•FЃA‚і‚Б‚«‚М‘±‚«‚©‚з‚в‚Б‚ДЃB</p>
-    <br />
-    <p class="a2">—E‹P[ђі•F]Ѓ@ ”ь“ЮЃA‚ў‚ў‚©ЃBЊZ‚ї‚б‚сЃA”ь“Ю‚М‚Ѕ‚Я‚Й–Ѕ‚р“q‚Ї‚Дђн‚н‚И‚Ї‚к‚О‚И‚з‚И‚ў‚Ж‚«‚Є—€‚й‚©‚а‚µ‚к‚И‚ўЃB‚ѕ‚©‚зЃc</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@Ѓc</p>
-    <br />
-    <p class="a1">ѓЊѓC‚Н‘дЋЊ‚р–Y‚к‚Д‚µ‚Ь‚Б‚Ѕ‚ж‚¤‚Е‚ ‚йЃB</p>
-    <p class="a1">
-    ‚µ‚О‚з‚­‚МЉФ‰Ѕ‚аЊѕ‚н‚ё‚Й—§‚Б‚Д‚ў‚йЃB</p>
-    <br />
-    <p class="a2">ђі•FЃ@(‚і‚і‚в‚­‚ж‚¤‚Й) —E‹PЊZ‚ї‚б‚сЃA”ь“Ю(‚М‚Ѕ‚Я‚ЙЋЂ‚с‚¶‚б‚ѕ‚Я)</p>
-    <p class="a2">‹ћ‰ФЃ@ђі•FЃA‹і‚¦‚И‚ў‚ЕЃB–{”Ф‚Н’N‚а‹і‚¦‚з‚к‚И‚ў‚©‚зЃB</p>
-    <br />
-    <p class="a2">”ь“Ю[ѓЊѓC]—E‹PЊZ‚ї‚б‚сЃc</p>
-    <br />
-    <p class="a2">–нђ¶Ѓ@ѓЊѓC‚ї‚б‚сЃAЏЕ‚Б‚ї‚б‚ѕ‚ЯЃB—Ћ‚ї’…‚ў‚ДЃB</p>
-    <br />
-    <p class="a1">‚µ‚О‚з‚­‚МЉФ’ѕ–Щ‚Є—¬‚к‚йЃB</p>
-    <p class="a1">
-    “Л‘RЃA‹ћ‰Ф‚Є–Т—у‚Й“{‚иЏo‚·ЃB</p>
-    <br />
-    <p class="a2">‹ћ‰ФЃ@ѓЊѓCЃA‚ў‚ў‚©‚°‚с‚Й‚µ‚И‚жЃB</p>
-    <p class="a2">ѓЊѓCЃ@Ѓc</p>
-    <p class="a2">‹ћ‰ФЃ@‚Q”NA‘±‚ЕЋёЉi‚И‚с‚Д‚µ‚б‚к‚Й‚И‚с‚ЛЃ[‚с‚ѕ‚жЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚·‚Э‚Ь‚№‚сЃB</p>
-    <p class="a2">‹ћ‰ФЃ@ѓЊѓCЃA‹Ћ”N‚Ж“Ї‚¶‚±‚ЖЊJ‚и•Ф‚·‚МЃBѓ‰ѓXѓgѓVЃ[ѓ“‚Е“Єђ^‚Б”’‚Й‚И‚Б‚ДЊЂ‚ЄЋ~‚Ь‚Б‚ДЃAђ§ЊАЋћЉФѓIЃ[ѓoЃ[‚ЕЋёЉi‚Й‚И‚Б‚Ѕ‚±‚Ж–Y‚к‚Ѕ‚н‚ЇЃB</p>
-    <p class="a2">ѓЊѓCЃ@–Y‚к‚Д‚Ь‚№‚сЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‘е‰п‚Ь‚Е‚ ‚Ж‰Ѕ“ъ‚ ‚й‚©Њѕ‚Б‚Д‚І‚з‚сЃB</p>
-    <p class="a2">ѓЊѓCЃ@Z“ъ‚Е‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚»‚¤Z“ъЃB‚ ‚ЖZ“ъ‚µ‚©‚И‚ў‚с‚ѕ‚жЃB‚н‚©‚Б‚Д‚с‚МЃH</p>
-    <p class="a2">ѓЊѓCЃ@‚н‚©‚Б‚Д‚Ь‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@ѓЊѓCЃAЋ„’B‚Є–ЪЋw‚µ‚Д‚й‚М‚Н‰ЅЃH</p>
-    <p class="a2">ѓЊѓCЃ@‘SЌ‘‘е‰пЏoЏк‚Е‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚»‚¤ЃAЋ„’B‚Н‰«“к‚М‘SЌ‘‘е‰п‚р–ЪЋw‚µ‚Д‚й‚с‚ѕ‚жЃBѓЊѓC‚НЃA‰«“кЌs‚«‚Ѕ‚­‚И‚ў‚МЃH</p>
-    <p class="a2">ѓЊѓCЃ@Ќs‚«‚Ѕ‚ў‚Е‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚а‚¤€к“x‚Н‚Б‚«‚иЊѕ‚Б‚ДЃB</p>
-    <p class="a2">ѓЊѓCЃ@Ќs‚«‚Ѕ‚ў‚Е‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‘SЌ‘–ЪЋw‚µ‚Д‚йЉwЌZ‚Н‚З‚±‚а‚Э‚с‚ИЋЂ‚К‹C‚Е‚Є‚с‚О‚Б‚Д‚с‚ѕ‚жЃBѓЊѓC‚аЃA‚ ‚ЖZ“ъ“ъЃAЋЂ‚К‹C‚Е‚в‚с‚И‚жЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚Н‚ўЃB</p>
-    <p class="a2">–нђ¶Ѓ@‹ћ‰Ф‚і‚сЃA‰‰ЊЂ•”‚НЊR‘а‚¶‚б‚И‚ў‚с‚ѕ‚жЃB</p>
-    <p class="a2">‹ћ‰ФЃ@ЏI‚н‚и‚Й‚µ‚ж‚¤ЃBЏWЌ‡‚µ‚ДЃB</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚Н‚ўЃB</p>
-    <br />
-    <p class="a1">‰‰ЊЂ•”€х‚Є‹ћ‰Ф‚МЋь‚и‚ЙЏW‚Ь‚йЃB</p>
-    <br />
-    <p class="a2">‹ћ‰ФЃ@‚ў‚­‚јЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‰«“кЃE‘SЌ‘‘е‰пЃI</p>
-    <p class="a2">‹ћ‰ФЃ@‰ч‚µ—Ь‚НЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚а‚¤‚ў‚з‚И‚ўЃI</p>
-    <p class="a2">‹ћ‰ФЃ@Џџ‚Б‚Д‹ѓ‚±‚¤‚жЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‘SЌ‘‚ЕЃI</p>
-    <p class="a2">‹ћ‰ФЃ@‚ў‚­‚јЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‰«“кЃE‘SЌ‘‘е‰пЃI</p>
-    <p class="a2">‹ћ‰ФЃ@Ћ•‚рђH‚ў‚µ‚О‚л‚¤ЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‘SЌ‘‚М‚Ѕ‚ЯЃI</p>
-    <br />
-    <p class="a2">‹ћ‰ФЃ@‚±‚к‚ЕЌЎ“ъ‚М•”Љ€‚рЏI‚н‚и‚Й‚µ‚Ь‚·ЃB</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚Ё”ж‚к—l‚Е‚µ‚ЅЃB‚і‚ж‚¤‚И‚зЃB</p>
-    <br />
-    <p class="a1">‚Э‚с‚И‚Є‹A‚и‚МЋx“x‚р‚·‚йЃB</p>
-    <p class="a1">€кђl‚Ь‚Ѕ€кђlЃA•”Ћє‚рЏo‚Д‚ў‚­ЃB</p>
-    <p class="a1">
-    ЌЕЊг‚Йђі•F‚Ж–нђ¶ЃA‚»‚µ‚ДѓЊѓC‚ЄЋc‚йЃB</p>
-    <br />
-    <p class="a2">–нђ¶Ѓ@ѓЊѓC‚ї‚б‚сЃAђS”z‚ѕ‚ИЃBђі•FЃA–ѕ“ъѓЊѓC‚ї‚б‚с‚М—ыЏKЊ©‚Д‚ ‚°‚Д‚жЃBЋ„‚аЋи“`‚¤‚©‚зЃB</p>
-    <p class="a2">ђі•FЃ@(‚¤‚И‚ё‚ў‚Д)ѓЊѓCЃA–ѕ“ъ‚М•ъ‰ЫЊг‚Е‚«‚й‚ѕ‚Ї‘Ѓ‚­•”Ћє‚Й—€‚И‚жЃB</p>
-    <p class="a2">ѓЊѓCЃ@Ѓc</p>
-    <p class="a2">ђі•FЃ@€кЏЏ‚Й—ыЏK‚µ‚ж(‚¤)ЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚Н‚ўЃBђі•Fђж”yЃA‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·ЃB</p>
-    <br />
-    <p class="a1">ѓЊѓC‚Є•”Ћє‚рЏo‚Д‚ў‚­ЃB</p>
-    <p class="a1">–нђ¶‚Є‚Ѕ‚Я‘§‚р‚В‚­ЃB</p>
-    <br />
-    <p class="a2">ђі•FЃ@‚З‚¤‚µ‚Ѕ‚МЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚И‚с‚©€б‚¤‚с‚ѕ‚ж‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@€б‚¤ЃH</p>
-    <p class="a2">–нђ¶Ѓ@ђі•F’BЃAЋ„‚Є‚±‚МЊЂ‚Е“`‚¦‚Ѕ‚ўЋv‚ў‚Ж€б‚¤•ыЊь‚ЙЊь‚©‚Б‚Д‚й‹C‚Є‚·‚й‚с‚ѕЃB</p>
-    <p class="a2">ђі•FЃ@–нђ¶‚Н‚±‚МЊЂ‚Е‰Ѕ‚р“`‚¦‚ж‚¤‚Ж‚µ‚Ѕ‚МЃH</p>
-    <p class="a2">–нђ¶Ѓ@‚Ё‚¶‚ў‚ї‚б‚с‚МЉи‚ў‚©‚ИЃB</p>
-    <p class="a2">ђі•FЃ@‚Ё‚¶‚ў‚ї‚б‚с‚МЉи‚ўЃH</p>
-    <p class="a2">–нђ¶Ѓ@‚Ё‚¶‚ў‚ї‚б‚сЃAђн‘€‚МЌ ‚Мb‘S‘R‚µ‚Д‚­‚к‚И‚©‚Б‚Ѕ‚¶‚б‚И‚ўЃB</p>
-    <p class="a2">ђі•FЃ@‚»‚¤‚ѕ‚Б‚Ѕ‚ЛЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚Е‚а‚ЛЃA‚Ё‚¶‚ў‚ї‚б‚сЃAЋ„‚Є’·‚­ђ¶‚«‚з‚к‚И‚ў‚Б‚Д’m‚Б‚ЅЊгЃAђн‘€‘МЊ±‚рb‚µ‚Д‚­‚к‚Ѕ‚с‚ѕЃBђі•FЃA‚Ё‚¶‚ў‚ї‚б‚сЃAђн“¬‹@‚М“‹Џж€х‚ѕ‚Б‚Ѕ‚Б‚Д’m‚Б‚Д‚ЅЃH</p>
-    <p class="a2">ђі•FЃ@‚»‚¤‚И‚МЃH</p>
-    <p class="a2">–нђ¶Ѓ@ђн“¬‹@‚М“‹Џж€х‚ѕ‚Б‚Ѕ‚Ё‚¶‚ў‚ї‚б‚с‚Єђ¶‚«Ћc‚к‚Ѕ‚М‚НЃA“G‚Мђн“¬‹@‚рЋџЃX‚ЖЊ‚‚ї—Ћ‚Ж‚µ‚Ѕ‚©‚зЃB‚В‚Ь‚иЃA‚Ѕ‚­‚і‚с‚Мђl‚рЋE‚µ‚Ѕ‚©‚зЃB‚Ё‚¶‚ў‚ї‚б‚с‚Н‚»‚М‚±‚Ж‚р’N‚Й‚аb‚і‚И‚ў‚ЕЃA€кђl‰ч‚в‚Э‘±‚Ї‚Д‚Ѕ‚МЃB</p>
-    <p class="a2">ђі•FЃ@ђн‘€‚И‚с‚ѕ‚©‚зђl‚рЋE‚µ‚Д‚а‚µ‚©‚Ѕ‚И‚ў‚жЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚Е‚аЃA‚Ё‚¶‚ў‚ї‚б‚с‚Н‚µ‚©‚Ѕ‚И‚ў‚Б‚ДЋv‚¦‚И‚©‚Б‚ЅЃBЋ©•Є‚ЙђV‚µ‚ў‰Ж‘°‚Є‚Е‚«‚ЅЋћЃAЋv‚Б‚Ѕ‚с‚ѕ‚Б‚ДЃBЋ©•Є‚ЄЋE‚µ‚Ѕ‚М‚НЋ©•Є‚Ж“Ї‚¶ђlЉФ‚ѕ‚Б‚ЅЃBЊЊ‚М’К‚Б‚ЅђlЉФ‚ѕ‚Б‚ЅЃB‚»‚µ‚ДЋ©•Є‚Ж“Ї‚¶‰Ж‘°‚Є‚ў‚Ѕ‚Б‚ДЃB</p>
-    <p class="a2">ђі•FЃ@‚Ё‚¶‚ў‚ї‚б‚с‚Й‚Ж‚Б‚Дђн‘€‚НЏI‚н‚Б‚Д‚И‚©‚Б‚Ѕ‚с‚ѕ‚ЛЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚Ё‚¶‚ў‚ї‚б‚сЃAђн‘€‚ЄЏI‚н‚й’ј‘O‚Й“БЌU‚МЋuЉиЏ‘‚рЏ‘‚©‚і‚к‚Ѕ‚с‚ѕ‚Б‚ДЃB</p>
-    <p class="a2">ђі•FЃ@‚Ё‚¶‚ў‚ї‚б‚сЃAЋuЉи‚µ‚Ѕ‚МЃH</p>
-    <p class="a2">–нђ¶Ѓ@’‡ЉФ‚М“‹Џж€х‚Н‚Э‚с‚И“БЌU‚ЙЌs‚­‚±‚Ж‚р”M–]‚·‚й‚ЙЉЫ‚р‚В‚Ї‚ЅЃB‚ѕ‚©‚з‚Ё‚¶‚ў‚ї‚б‚с‚а‚»‚¤‚µ‚ж‚¤‚Ж‚µ‚ЅЃB‚»‚с‚ИЋћЃA‚Ё‚¶‚ў‚ї‚б‚с‚Н€кђl‚МЏ—‚МЋq‚ЙЏo‰п‚Б‚ЅЃB‚Ж‚Б‚Д‚а•sЋv‹c‚ИЏ—‚МЋq‚ЕЃA‚»‚МЋq‚Жb‚µ‚Д‚ў‚й‚¤‚ї‚ЙЃuђ¶‚«‚Ѕ‚ўЃv‚Б‚ДЋv‚Б‚Ѕ‚с‚ѕ‚Б‚ДЃB‚»‚µ‚ДЃA—E‹C‚рЏo‚µ‚ДЃuЋuЉи‚µ‚И‚ўЃv‚ЙЉЫ‚р‚В‚Ї‚Д’сЏo‚µ‚ЅЃB‚Ё‚¶‚ў‚ї‚б‚с‚М’‡ЉФ‚Н‚Э‚с‚И“БЌU‚ЕЋЂ‚с‚¶‚б‚Б‚Ѕ‚Ї‚ЗЃA‚Ё‚¶‚ў‚ї‚б‚с‚Нђ¶‚«‚Д‹A‚Б‚Д‚«‚ЅЃB‚»‚µ‚ДЃA‚Ё‚О‚ ‚ї‚б‚с‚ЖЊ‹ЌҐ‚µ‚ДЃAѓ}ѓ}‚Єђ¶‚Ь‚кЃAЋ„‚Єђ¶‚Ь‚к‚Дђі•F‚Єђ¶‚Ь‚к‚ЅЃB</p>
-    <p class="a2">ђі•FЃ@‚Ё‚¶‚ў‚ї‚б‚с‚Є‚»‚МЏ—‚МЋq‚ЙЏo‰п‚н‚И‚©‚Б‚Ѕ‚зЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚Ё‚»‚з‚­Ћ„’B‚НЌЎ‚±‚±‚Й‚ў‚И‚ўЃB</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
-    <p class="a2">–нђ¶Ѓ@‚Щ‚с‚МЏ¬‚і‚И‚±‚Ж‚Є–ў—€‚р•П‚¦‚й‚±‚Ж‚ ‚й‚ж‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
-    <p class="a2">–нђ¶Ѓ@ђн‘€‚МЊЂ‚р‘n‚Б‚Д‚»‚к‚рЏг‰‰‚·‚й‚М‚а‚Щ‚с‚МЏ¬‚і‚И‚±‚Ж‚ѕ‚ж‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@‚±‚МЊЂ‚рЏг‰‰‚·‚й‚±‚Ж‚ЕЃA‰Ѕ‚©•П‚н‚й‚М‚©‚ИЃH</p>
-    <p class="a2">–нђ¶Ѓ@•П‚н‚к‚О‚ў‚ў‚И‚Б‚ДЋv‚¤ЃB</p>
-    <p class="a2">ђі•FЃ@‚З‚с‚И‚У‚¤‚ЙЃH</p>
-    <p class="a2">–нђ¶Ѓ@ђўЉE‚©‚зђн‘€‚Є‚И‚­‚И‚йЃA‚И‚с‚Д‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@(‹Б‚ў‚Д)ђўЉE‚©‚зђн‘€‚Є‚И‚­‚И‚йЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚ ‚и“ѕ‚И‚ў‚ж‚ЛЃBђўЉE‚©‚зђн‘€‚Є‚И‚­‚И‚й‚И‚с‚ДЃB‚Е‚аЃA‚»‚к‚Є‚Ё‚¶‚ў‚ї‚б‚с‚МЉи‚ў‚ѕ‚Б‚ЅЃB‚»‚µ‚ДЃA‚»‚к‚НЋ„‚М€к”Ф‚МЉи‚ў‚Й‚И‚Б‚Ѕ‚МЃB</p>
-    <p class="a2">ђі•FЃ@ђўЉE‚©‚зђн‘€‚Є‚И‚­‚И‚й‚±‚Ж‚Є–нђ¶‚М€к”Ф‚МЉи‚ўЃc</p>
-    <p class="a2">–нђ¶Ѓ@(‚¤‚И‚ё‚­) </p>
-    <br />
-    <p class="a1">–нђ¶‚ЄЉч‚МЏг‚Й’u‚©‚к‚Д‚ў‚йѓЃѓ‚’ ‚рЋwЌ·‚·ЃB</p>
-    <br />
-    <p class="a2">–нђ¶Ѓ@‚±‚кЊ©‚№‚Д‚­‚к‚йЃB</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
-    <p class="a2">–нђ¶Ѓ@Ћ„ЃAЋ©•Є‚Е‚±‚к‚ЙђG‚к‚й‚±‚Ж‚Е‚«‚И‚ў‚©‚зЃB</p>
-    <p class="a2">ђі•FЃ@‚ў‚ў‚жЃB‚»‚к‚¶‚б–нђ¶‚МЌD‚«‚И‰№Љy‚ЙЏж‚№‚ДЃB</p>
-    <br />
-    <p class="a1">ђі•F‚ЄЃwѓgѓЌѓCѓЃѓ‰ѓCЃx‚р‚©‚Ї‚йЃB</p>
-    <p class="a1">
-    ‚»‚µ‚Д–нђ¶‚ЙѓmЃ[ѓg‚Й•`‚©‚к‚Ѕѓpѓ‰ѓpѓ‰–џ‰ж‚рЊ©‚№‚йЃB</p>
-    <br />
-    <p class="a2">–нђ¶Ѓ@‚±‚М–џ‰ж‚М‚Ё‚©‚°‚ѕ‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
-    <p class="a2">–нђ¶Ѓ@‚±‚М–џ‰ж‚ЄЊь‚±‚¤‚МђўЉE‚Ж‚±‚Б‚ї‚МђўЉE‚рЊq‚®’КH‚Й‚И‚Б‚Ѕ‚с‚ѕ‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@‚Щ‚с‚Ж‚С‚Б‚­‚и‚µ‚Ѕ‚жЃBѓpѓ‰ѓpѓ‰–џ‰ж‚Й•`‚ў‚Ѕ–нђ¶‚Є“Л‘R‚µ‚б‚Ч‚иЏo‚·‚с‚ѕ‚а‚сЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚Ь‚Ѕ‰п‚¦‚Ѕ‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@‚¤‚сЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚Ѕ‚ѕ‚ў‚ЬЃAђі•FЃB</p>
-    <p class="a2">ђі•FЃ@‚Ё‹A‚иЃA–нђ¶ЃB</p>
-    <br />
-    <p class="a1">“сђl‚ЄЊ©‚В‚ЯЌ‡‚¤’†‚Е–ѕ‚©‚и‚ЄЏБ‚¦‚Д‚ў‚­ЃB</p>
-    <br />
-    <p class="a2">Ѓљ<b>‘е‰пЊЬ“ъ‘O</b></p>
-    <br />
-    <p class="a1">•‘‘д‚Є–ѕ‚й‚­‚И‚йЃB</p>
-    <p class="a1">‰‰ЊЂ•”‚М•”Ћє‚ЕЃw—E‹CЃx‚Ж‚ў‚¤ЊЂ‚М—ыЏK‚ЄЌs‚н‚к‚Д‚ў‚йЃB</p>
-    <p class="a1">
-    —E‹P‚Ж‚»‚М–…ЃE”ь“Ю‚МѓVЃ[ѓ“‚рђі•F‚Ж–нђ¶‚Є‰‰‚¶‚Д‚ў‚йЃB</p>
-    <br />
-    <p class="a2">—E‹P[ђі•F]Ѓ@”ь“ЮЃB</p>
-    <p class="a2">”ь“Ю[–нђ¶]Ѓ@—E‹PЊZ‚ї‚б‚сЃA—V‚ЪЃB€кЏЏ‚Й—V‚ЪЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@”ь“ЮЃA‚І‚Я‚с‚ИЃBЊZ‚ї‚б‚сЌs‚©‚И‚­‚ї‚б‚ў‚Ї‚И‚ў‚с‚ѕЃB</p>
-    <p class="a2">”ь“Ю[–нђ¶]Ѓ@Ќs‚­‚Б‚Д‚З‚±‚ЙЃH</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‰“‚ў‚Ж‚±‚лЃB</p>
-    <p class="a2">”ь“Ю[–нђ¶]Ѓ@ђн‘€‚µ‚ЙЌs‚­‚МЃH</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@‚»‚¤‚ѕЃB</p>
-    <p class="a2">”ь“Ю[–нђ¶]Ѓ@—E‹PЊZ‚ї‚б‚сЃAЋЂ‚с‚¶‚б‚ѕ‚Я‚ѕ‚жЃB</p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    <p class="a2">”ь“Ю[–нђ¶]Ѓ@—E‹PЊZ‚ї‚б‚сЃBЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB</p>
-    <br />
-    <p class="a1">–ѕ‚©‚и‚ЄЏБ‚¦‚Д‚ў‚­ЃB</p>
-    <br />
-    <p class="a1">•‘‘д‚Є–ѕ‚й‚­‚И‚йЃB</p>
-    <p class="a1">ђі•F‚Є‚b‚cѓvѓЊѓCѓ„Ѓ[‚М‚Ж‚±‚л‚Ь‚Е•а‚ў‚Д‚ў‚«ЃA‰№Љy‚рЋ~‚Я‚йЃB</p>
-    <br />
-    <p class="a2">ђі•FЃ@ѓЊѓC‚Й–нђ¶‚М‰‰‹ZЊ©‚№‚Д‚ ‚°‚Ѕ‚ў‚ИЃB‚»‚¤‚·‚к‚ОѓЊѓC‚а‚З‚¤‰‰‚¶‚Ѕ‚з‚ў‚ў‚©‚н‚©‚й‚М‚ЙЃB</p>
-    <p class="a2">–нђ¶Ѓ@‚»‚к‚Н‚ў‚ў•ы–@‚¶‚б‚И‚ў‚жЃBѓЊѓC‚ї‚б‚с‚Н”Я‚µ‚Э‚рЋ©•Є‚МЉґЏо‚М€ш‚«Џo‚µ‚©‚зЋж‚иЏo‚і‚И‚ў‚ЖЃB</p>
-    <p class="a2">ђі•FЃ@ѓЊѓC‚МЉґЏо‚М€ш‚«Џo‚µ‚ЙЃA‚»‚с‚И”Я‚µ‚Э“ь‚Б‚Д‚й‚©‚ИЃB</p>
-    <br />
-    <p class="a1">ѓЊѓC‚Є•”Ћє‚Й“ь‚Б‚Д‚­‚йЃB</p>
-    <br />
-    <p class="a2">ѓЊѓCЃ@‚±‚с‚Й‚ї‚НЃB</p>
-    <p class="a2">ђі•FЃE–нђ¶Ѓ@‚±‚с‚Й‚ї‚НЃB</p>
-    <p class="a2">ђі•FЃ@ѓЊѓCЃA‰Ж‚Е—ыЏK‚µ‚Д‚«‚ЅЃH</p>
-    <p class="a2">ѓЊѓCЃ@‚Н‚ўЃB‚Е‚аЃA‚З‚¤‚в‚Б‚Ѕ‚з‚¤‚Ь‚­‰‰‚¶‚з‚к‚й‚М‚©‚ж‚­‚н‚©‚з‚И‚ў‚с‚Е‚·ЃB</p>
-    <p class="a2">ђі•FЃ@‚Ж‚Й‚©‚­‚в‚Б‚Д‚Э‚ж‚Б‚©ЃB‚»‚к‚¶‚бЃA‚Ь‚ёЃu—E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚Е¤ЋЂ‚И‚И‚ў‚Е‚ЛЃv‚М‚Ж‚±‚л‚рЃA‹CЋќ‚ї‚рЌћ‚Я‚ДЊѕ‚Б‚Д‚Э‚ж‚¤ЃB</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@(–_“З‚Э‚Е)—E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
-    <p class="a2">–нђ¶Ѓ@‚±‚М‚Ь‚Ь‚¶‚б‚Ь‚Ѕ‹ћ‰Ф‚і‚сѓLѓЊ‚ї‚б‚¤‚ЛЃB‚µ‚©‚Ѕ‚И‚ўЃB‚ў‚ў•ы–@‚¶‚б‚И‚ў‚Ї‚ЗЃAЋ„‚Є”ь“Ю‚М‘дЋЊЊѕ‚¤‚©‚зЃAђі•F‚НЋ„‚Мђ^Ћ—‚µ‚ДЊѕ‚Б‚Д‚Э‚ДЃBѓЊѓC‚ї‚б‚с‚Й‚»‚к‚рђ^Ћ—‚і‚№‚ж‚¤ЃB</p>
-    <p class="a2">ђі•FЃ@(‚¤‚И‚ё‚ў‚Д)ѓЊѓCЃA–l‚Є‚в‚Б‚Д‚Э‚й‚©‚з–l‚Мђ^Ћ—‚µ‚ДЊѕ‚Б‚Д‚Э‚ДЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚н‚©‚и‚Ь‚µ‚ЅЃB</p>
-    <p class="a2">–нђ¶Ѓ@ђі•F‚в‚й‚жЃB</p>
-    <p class="a2">ђі•FЃ@ѓЊѓC‚в‚й‚жЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚Н‚ўЃB</p>
-    <p class="a2">”ь“Ю[–нђ¶]Ѓ@ —E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB</p>
-    <p class="a2">”ь“Ю[ђі•F]Ѓ@ (–нђ¶‚рђ^Ћ—‚µ‚Д)—E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@ —E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB(Љy‚µ‚ўЉґ‚¶‚ЕЊѕ‚¤)</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅXпїЅgпїЅbпїЅvпїЅI</p>
     <br />
     <p class="a1">
-    ‚Є‚­‚Б‚ЖЊЁ‚р—Ћ‚Ж‚·ђі•F‚Ж–нђ¶ЃB</p>
+    пїЅпїЅпїЅпїЅпїЅ~пїЅЬ‚пїЅB</p>
     <br />
-    <p class="a2">–нђ¶Ѓ@ђі•FЃA‚а‚¤€к“x‚в‚Б‚Д‚Э‚ж‚¤ЃB</p>
-    <p class="a2">ђі•FЃ@ѓЊѓCЃA‚а‚¤€к“x‚в‚Б‚Д‚Э‚ж‚¤ЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚Н‚ўЃB</p>
-    <p class="a2">”ь“Ю[–нђ¶]Ѓ@ —E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB</p>
-    <p class="a2">”ь“Ю[ђі•F]Ѓ@ (–нђ¶‚рђ^Ћ—‚µ‚Д)—E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB</p>
-    <p class="a2">”ь“Ю[ѓЊѓC]Ѓ@ —E‹PЊZ‚ї‚б‚сЃAЋЂ‚И‚И‚ў‚ЕЃAЋЂ‚И‚И‚ў‚Е‚ЛЃB(Љy‚µ‚ўЉґ‚¶‚ЕЊѕ‚¤)</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅCпїЅAпїЅSпїЅRпїЅпїЅпїЅо‚ЄпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚И‚пїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅпїЅпїЅЭ‚Ь‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅЗ‚пїЅпїЅпїЅпїЅДЃAпїЅн‚©пїЅпїЅИ‚пїЅпїЅпїЅпїЅИЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅZпїЅпїЅпїЅпїЅс‚ЄЋпїЅпїЅс‚¶‚б‚¤пїЅс‚ѕ‚пїЅAпїЅпїЅDпїЅпїЅпїЅИ‚пїЅпїЅZпїЅпїЅпїЅпїЅс‚ЄЃB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅФ‚пїЅпїЅпїЅпїЅ{пїЅЖ‚пїЅпїЅД”пїЅпїЅЮ‚М‘дЋЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚Э‚пїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅс‚¶‚б‚ѕпїЅЯ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅИ‚У‚пїЅпїЅЙ‚Е‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅИЃB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅж’ЈпїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅФ‚И‚пїЅпїЅпїЅпїЅпїЅпїЅЙђiпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅFпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‘пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃB</p>
+    <br />
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@ пїЅпїЅпїЅЮЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅЮ‚М‚пїЅпїЅЯ‚Й–пїЅпїЅпїЅqпїЅпїЅпїЅДђпїЅпїЅИ‚пїЅпїЅпїЅО‚И‚пїЅИ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅй‚©пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅc</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@пїЅc</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅCпїЅН‘дЋЊпїЅпїЅYпїЅпїЅД‚пїЅпїЅЬ‚пїЅпїЅпїЅпїЅж‚¤пїЅЕ‚пїЅпїЅпїЅB</p>
+    <p class="a1">
+    пїЅпїЅпїЅО‚з‚­пїЅМЉФ‰пїЅпїЅпїЅпїЅпїЅпїЅн‚ёпїЅЙ—пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅFпїЅ@(пїЅпїЅпїЅпїЅпїЅв‚­пїЅж‚¤пїЅпїЅ) пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅ(пїЅМ‚пїЅпїЅЯ‚ЙЋпїЅпїЅс‚¶‚б‚ѕпїЅпїЅ)</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅFпїЅAпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅЕЃBпїЅ{пїЅФ‚Н’NпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅc</p>
+    <br />
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅAпїЅЕ‚пїЅпїЅпїЅпїЅб‚ѕпїЅЯЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅО‚з‚­пїЅМЉФ’пїЅпїЅЩ‚пїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a1">
+    пїЅЛ‘RпїЅAпїЅпїЅпїЅФ‚пїЅпїЅТ—пїЅЙ“{пїЅпїЅoпїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅCпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅИ‚пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅQпїЅNпїЅAпїЅпїЅпїЅЕЋпїЅпїЅiпїЅИ‚пїЅД‚пїЅпїЅпїЅпїЅЙ‚И‚пїЅЛЃ[пїЅс‚ѕ‚пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅпїЅпїЅЭ‚Ь‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅCпїЅAпїЅпїЅпїЅNпїЅЖ“пїЅпїЅпїЅпїЅпїЅпїЅЖЊJпїЅпїЅФ‚пїЅпїЅМЃBпїЅпїЅпїЅXпїЅgпїЅVпїЅ[пїЅпїЅпїЅЕ“пїЅпїЅ^пїЅпїЅпїЅпїЅпїЅЙ‚И‚пїЅпїЅДЊпїЅпїЅпїЅпїЅ~пїЅЬ‚пїЅпїЅДЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅФѓIпїЅ[пїЅoпїЅ[пїЅЕЋпїЅпїЅiпїЅЙ‚И‚пїЅпїЅпїЅпїЅпїЅпїЅЖ–YпїЅк‚ЅпїЅн‚ЇпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅYпїЅпїЅД‚Ь‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅЬ‚Е‚пїЅпїЅЖ‰пїЅпїЅпїЅпїЅпїЅпїЅй‚©пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅZпїЅпїЅпїЅЕ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅZпїЅпїЅпїЅBпїЅпїЅпїЅЖZпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕ‚пїЅBпїЅн‚©пїЅпїЅпїЅД‚пїЅМЃH</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅн‚©пїЅпїЅпїЅД‚Ь‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅCпїЅAпїЅпїЅпїЅBпїЅпїЅпїЅЪЋwпїЅпїЅпїЅД‚пїЅМ‚Н‰пїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅSпїЅпїЅпїЅпїЅпїЅoпїЅпїЅЕ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅBпїЅН‰пїЅпїЅпїЅМ‘SпїЅпїЅпїЅпїЅпїЅпїЅЪЋwпїЅпїЅпїЅД‚пїЅс‚ѕ‚пїЅBпїЅпїЅпїЅCпїЅНЃAпїЅпїЅпїЅпїЅsпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅМЃH</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅsпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅпїЅxпїЅН‚пїЅпїЅпїЅпїЅиЊѕпїЅпїЅпїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅsпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅSпїЅпїЅпїЅЪЋwпїЅпїЅпїЅД‚пїЅwпїЅZпїЅН‚З‚пїЅпїЅпїЅпїЅЭ‚пїЅИЋпїЅпїЅК‹CпїЅЕ‚пїЅпїЅпїЅО‚пїЅпїЅД‚с‚ѕ‚пїЅBпїЅпїЅпїЅCпїЅпїЅпїЅAпїЅпїЅпїЅЖZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅК‹CпїЅЕ‚пїЅпїЅИ‚пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅН‚пїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅФ‚пїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅНЊRпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕ‚пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅIпїЅпїЅпїЅЙ‚пїЅпїЅж‚¤пїЅBпїЅWпїЅпїЅпїЅпїЅпїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅН‚пїЅпїЅB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅФ‚МЋпїЅпїЅпїЅЙЏWпїЅЬ‚пїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅEпїЅSпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅЬ‚НЃI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅД‹пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅSпїЅпїЅпїЅЕЃI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅEпїЅSпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅHпїЅпїЅпїЅпїЅпїЅО‚л‚¤пїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅSпїЅпїЅпїЅМ‚пїЅпїЅЯЃI</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅЕЌпїЅпїЅпїЅпїЅМ•пїЅпїЅпїЅпїЅпїЅпїЅIпїЅпїЅпїЅЙ‚пїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅlпїЅЕ‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅж‚¤пїЅИ‚пїЅB</p>
+    <br />
+    <p class="a1">пїЅЭ‚пїЅИ‚пїЅпїЅAпїЅпїЅМЋxпїЅxпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅlпїЅЬ‚пїЅпїЅпїЅlпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅoпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a1">
+    пїЅЕЊпїЅЙђпїЅпїЅFпїЅЖ–нђ¶пїЅAпїЅпїЅпїЅпїЅпїЅДѓпїЅпїЅCпїЅпїЅпїЅcпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅAпїЅSпїЅzпїЅпїЅпїЅИЃBпїЅпїЅпїЅFпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅМ—пїЅпїЅKпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅД‚пїЅBпїЅпїЅпїЅпїЅпїЅпїЅ`пїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@(пїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅCпїЅAпїЅпїЅпїЅпїЅпїЅМ•пїЅпїЅЫЊпїЅЕ‚пїЅпїЅй‚ѕпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ—пїЅпїЅИ‚пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅкЏЏпїЅЙ—пїЅпїЅKпїЅпїЅпїЅпїЅ(пїЅпїЅ)пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅН‚пїЅпїЅBпїЅпїЅпїЅFпїЅпїЅyпїЅAпїЅпїЅпїЅи‚ЄпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅoпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅнђ¶пїЅпїЅпїЅпїЅпїЅЯ‘пїЅпїЅпїЅпїЅВ‚пїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅМЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅИ‚с‚©€б‚¤пїЅс‚ѕ‚пїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅб‚¤пїЅH</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅFпїЅBпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЊпїЅпїЅЕ“`пїЅпїЅпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅЖ€б‚¤пїЅпїЅпїЅпїЅпїЅЙЊпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅCпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅнђ¶пїЅН‚пїЅпїЅМЊпїЅпїЅЕ‰пїЅпїЅпїЅ`пїЅпїЅпїЅж‚¤пїЅЖ‚пїЅпїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЉи‚ўпїЅпїЅпїЅИЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЉи‚ўпїЅH</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅн‘€пїЅМЌпїЅпїЅМbпїЅSпїЅRпїЅпїЅпїЅД‚пїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅЕ‚пїЅпїЅЛЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅД’mпїЅпїЅпїЅпїЅпїЅпїЅAпїЅн‘€пїЅМЊпїЅпїЅпїЅbпїЅпїЅпїЅД‚пїЅпїЅк‚ЅпїЅс‚ѕЃBпїЅпїЅпїЅFпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅн“¬пїЅ@пїЅМ“пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД’mпїЅпїЅпїЅД‚пїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅИ‚МЃH</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅн“¬пїЅ@пїЅМ“пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ЄђпїЅпїЅпїЅпїЅcпїЅк‚ЅпїЅМ‚НЃAпїЅGпїЅМђн“¬пїЅ@пїЅпїЅпїЅпїЅпїЅXпїЅЖЊпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅВ‚Ь‚пїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМђlпїЅпїЅпїЅEпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅМ‚пїЅпїЅЖ‚пїЅNпїЅЙ‚пїЅпїЅbпїЅпїЅпїЅИ‚пїЅпїЅЕЃAпїЅпїЅlпїЅпїЅпїЅпїЅЭ‘пїЅпїЅпїЅпїЅД‚пїЅпїЅМЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅн‘€пїЅИ‚с‚ѕ‚пїЅпїЅпїЅlпїЅпїЅпїЅEпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅЕ‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅЙђVпїЅпїЅпїЅпїЅпїЅЖ‘пїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅAпїЅvпїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅпїЅДЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅEпїЅпїЅпїЅпїЅпїЅМ‚НЋпїЅпїЅпїЅпїЅЖ“пїЅпїЅпїЅпїЅlпїЅФ‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅМ’К‚пїЅпїЅпїЅпїЅlпїЅФ‚пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅДЋпїЅпїЅпїЅпїЅЖ“пїЅпїЅпїЅпїЅЖ‘пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ‚Ж‚пїЅпїЅДђн‘€пїЅНЏIпїЅпїЅпїЅпїЅД‚И‚пїЅпїЅпїЅпїЅпїЅпїЅс‚ѕ‚ЛЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅн‘€пїЅпїЅпїЅIпїЅпїЅй’јпїЅOпїЅЙ“пїЅпїЅUпїЅМЋuпїЅиЏ‘пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅк‚ЅпїЅс‚ѕ‚пїЅпїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅuпїЅи‚µпїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅФ‚М“пїЅпїЅпїЅпїЅпїЅН‚Э‚пїЅИ“пїЅпїЅUпїЅЙЌsпїЅпїЅпїЅпїЅпїЅЖ‚пїЅMпїЅ]пїЅпїЅпїЅпїЅЙЉЫ‚пїЅпїЅВ‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅз‚ЁпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅж‚¤пїЅЖ‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅИЋпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅН€пїЅlпїЅМЏпїЅпїЅМЋqпїЅЙЏoпїЅпїЅпїЅпїЅпїЅпїЅBпїЅЖ‚пїЅпїЅД‚пїЅпїЅsпїЅvпїЅcпїЅИЏпїЅпїЅМЋqпїЅЕЃAпїЅпїЅпїЅМЋqпїЅЖbпїЅпїЅпїЅД‚пїЅпїЅй‚¤пїЅпїЅпїЅЙЃuпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅДЋvпїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅпїЅДЃBпїЅпїЅпїЅпїЅпїЅДЃAпїЅEпїЅCпїЅпїЅпїЅoпїЅпїЅпїЅДЃuпїЅuпїЅи‚µпїЅИ‚пїЅпїЅvпїЅЙЉЫ‚пїЅпїЅВ‚пїЅпїЅД’пїЅoпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ’пїЅпїЅФ‚Н‚Э‚пїЅИ“пїЅпїЅUпїЅЕЋпїЅпїЅс‚¶‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅНђпїЅпїЅпїЅпїЅД‹AпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅО‚пїЅпїЅпїЅпїЅпїЅпїЅЖЊпїЅпїЅпїЅпїЅпїЅпїЅДЃAпїЅ}пїЅ}пїЅпїЅпїЅпїЅпїЅЬ‚пїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅЬ‚пїЅДђпїЅпїЅFпїЅпїЅпїЅпїЅпїЅЬ‚к‚ЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚Є‚пїЅпїЅМЏпїЅпїЅМЋqпїЅЙЏoпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅз‚­пїЅпїЅпїЅBпїЅНЌпїЅпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅИ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅЩ‚пїЅМЏпїЅпїЅпїЅпїЅИ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅП‚пїЅпїЅй‚±пїЅЖ‚пїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅн‘€пїЅМЊпїЅпїЅпїЅnпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅг‰‰пїЅпїЅпїЅпїЅМ‚пїЅпїЅЩ‚пїЅМЏпїЅпїЅпїЅпїЅИ‚пїЅпїЅЖ‚пїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅМЊпїЅпїЅпїЅпїЅг‰‰пїЅпїЅпїЅй‚±пїЅЖ‚ЕЃAпїЅпїЅпїЅпїЅпїЅП‚пїЅпїЅМ‚пїЅпїЅИЃH</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅП‚пїЅпїЅО‚пїЅпїЅпїЅпїЅИ‚пїЅпїЅДЋvпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЗ‚пїЅИ‚У‚пїЅпїЅЙЃH</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅEпїЅпїЅпїЅпїЅн‘€пїЅпїЅпїЅИ‚пїЅпїЅИ‚пїЅAпїЅИ‚пїЅД‚ЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@(пїЅпїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅEпїЅпїЅпїЅпїЅн‘€пїЅпїЅпїЅИ‚пїЅпїЅИ‚пїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅи“ѕпїЅИ‚пїЅпїЅпїЅЛЃBпїЅпїЅпїЅEпїЅпїЅпїЅпїЅн‘€пїЅпїЅпїЅИ‚пїЅпїЅИ‚пїЅИ‚пїЅДЃBпїЅЕ‚пїЅпїЅAпїЅпїЅпїЅк‚ЄпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЉи‚ўпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅДЃAпїЅпїЅпїЅпїЅНЋпїЅпїЅМ€пїЅФ‚МЉи‚ўпїЅЙ‚И‚пїЅпїЅпїЅпїЅМЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅEпїЅпїЅпїЅпїЅн‘€пїЅпїЅпїЅИ‚пїЅпїЅИ‚й‚±пїЅЖ‚пїЅпїЅнђ¶пїЅМ€пїЅФ‚МЉи‚ўпїЅc</p>
+    <p class="a2">пїЅнђ¶пїЅ@(пїЅпїЅпїЅИ‚пїЅпїЅпїЅ) </p>
+    <br />
+    <p class="a1">пїЅнђ¶пїЅпїЅпїЅпїЅпїЅМЏпїЅЙ’uпїЅпїЅпїЅпїЅД‚пїЅпїЅйѓЃпїЅпїЅпїЅпїЅпїЅпїЅпїЅwпїЅпїЅпїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅкЊ©пїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅЙђGпїЅпїЅй‚±пїЅЖ‚Е‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅк‚¶пїЅпїЅнђ¶пїЅМЌDпїЅпїЅпїЅИ‰пїЅпїЅyпїЅЙЏж‚№пїЅДЃB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅwпїЅgпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅCпїЅxпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a1">
+    пїЅпїЅпїЅпїЅпїЅД–нђ¶пїЅЙѓmпїЅ[пїЅgпїЅЙ•`пїЅпїЅпїЅк‚ЅпїЅpпїЅпїЅпїЅpпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅМ–пїЅпїЅпїЅМ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅМ–пїЅпїЅж‚ЄпїЅпїЅпїЅпїЅпїЅпїЅпїЅМђпїЅпїЅEпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅМђпїЅпїЅEпїЅпїЅпїЅqпїЅпїЅпїЅКHпїЅЙ‚И‚пїЅпїЅпїЅпїЅс‚ѕ‚ЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЩ‚пїЅЖ‚С‚пїЅпїЅпїЅпїЅи‚µпїЅпїЅпїЅпїЅBпїЅpпїЅпїЅпїЅpпїЅпїЅпїЅпїЅпїЅпїЅЙ•`пїЅпїЅпїЅпїЅпїЅнђ¶пїЅпїЅпїЅЛ‘RпїЅпїЅпїЅпїЅЧ‚пїЅoпїЅпїЅпїЅс‚ѕ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅЬ‚пїЅпїЅп‚¦пїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅЬЃAпїЅпїЅпїЅFпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅAпїЅпїЅAпїЅнђ¶пїЅB</p>
+    <br />
+    <p class="a1">пїЅпїЅlпїЅпїЅпїЅпїЅпїЅВ‚ЯЌпїЅпїЅпїЅпїЅпїЅпїЅЕ–пїЅпїЅпїЅпїЅи‚ЄпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅ<b>пїЅпїЅпїЅЬ“пїЅпїЅO</b></p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅд‚ЄпїЅпїЅпїЅй‚­пїЅИ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅпїЅпїЅМ•пїЅпїЅпїЅпїЅЕЃwпїЅEпїЅCпїЅxпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅМ—пїЅпїЅKпїЅпїЅпїЅsпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <p class="a1">
+    пїЅEпїЅPпїЅЖ‚пїЅпїЅМ–пїЅпїЅEпїЅпїЅпїЅЮ‚МѓVпїЅ[пїЅпїЅпїЅрђі•FпїЅЖ–нђ¶пїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅЮЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅнђ¶]пїЅ@пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅVпїЅЪЃBпїЅкЏЏпїЅЙ—VпїЅЪЃB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅЮЃAпїЅпїЅпїЅЯ‚пїЅИЃBпїЅZпїЅпїЅпїЅпїЅпїЅsпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅб‚ўпїЅпїЅпїЅИ‚пїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅнђ¶]пїЅ@пїЅsпїЅпїЅпїЅпїЅпїЅД‚З‚пїЅпїЅЙЃH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅнђ¶]пїЅ@пїЅн‘€пїЅпїЅпїЅЙЌsпїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅнђ¶]пїЅ@пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅс‚¶‚б‚ѕпїЅЯ‚пїЅпїЅпїЅB</p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅнђ¶]пїЅ@пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅи‚ЄпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅд‚ЄпїЅпїЅпїЅй‚­пїЅИ‚пїЅB</p>
+    <p class="a1">пїЅпїЅпїЅFпїЅпїЅпїЅbпїЅcпїЅvпїЅпїЅпїЅCпїЅпїЅпїЅ[пїЅМ‚Ж‚пїЅпїЅпїЅЬ‚Е•пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅAпїЅпїЅпїЅyпїЅпїЅпїЅ~пїЅЯ‚пїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅCпїЅЙ–нђ¶пїЅМ‰пїЅпїЅZпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅОѓпїЅпїЅCпїЅпїЅпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅз‚ўпїЅпїЅпїЅпїЅпїЅн‚©пїЅпїЅМ‚ЙЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅBпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅН”Я‚пїЅпїЅЭ‚пїЅпїЅпїЅпїЅпїЅпїЅМЉпїЅпїЅпїЅМ€пїЅпїЅпїЅпїЅoпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅoпїЅпїЅпїЅИ‚пїЅпїЅЖЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅCпїЅМЉпїЅпїЅпїЅМ€пїЅпїЅпїЅпїЅoпїЅпїЅпїЅЙЃAпїЅпїЅпїЅпїЅИ”Я‚пїЅпїЅЭ“пїЅпїЅпїЅпїЅД‚й‚©пїЅИЃB</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ“пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅпїЅпїЅпїЅЙ‚пїЅпїЅНЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅEпїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅЙ‚пїЅпїЅНЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅCпїЅAпїЅЖ‚Е—пїЅпїЅKпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅН‚пїЅпїЅBпїЅЕ‚пїЅпїЅAпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅз‚¤пїЅЬ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅж‚­пїЅн‚©пїЅпїЅИ‚пїЅпїЅпїЅЕ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЖ‚Й‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚Э‚пїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅк‚¶пїЅпїЅAпїЅЬ‚пїЅпїЅuпїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ¤пїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃvпїЅМ‚Ж‚пїЅпїЅпїЅпїЅпїЅAпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЯ‚ДЊпїЅпїЅпїЅпїЅД‚Э‚ж‚¤пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@(пїЅ_пїЅЗ‚Э‚пїЅ)пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅМ‚Ь‚Ь‚пїЅпїЅпїЅЬ‚пїЅпїЅпїЅпїЅФ‚пїЅпїЅпїЅLпїЅпїЅпїЅпїЅпїЅб‚¤пїЅЛЃBпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅЗЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅЮ‚М‘дЋЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅFпїЅНЋпїЅпїЅМђ^пїЅпїЅпїЅпїЅпїЅДЊпїЅпїЅпїЅпїЅД‚Э‚ДЃBпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅЙ‚пїЅпїЅпїЅпїЅ^пїЅпїЅпїЅпїЅпїЅпїЅпїЅж‚¤пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@(пїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅCпїЅAпїЅlпїЅпїЅпїЅпїЅпїЅпїЅД‚Э‚й‚©пїЅпїЅlпїЅМђ^пїЅпїЅпїЅпїЅпїЅДЊпїЅпїЅпїЅпїЅД‚Э‚ДЃB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅн‚©пїЅпїЅЬ‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅFпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅCпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅН‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅнђ¶]пїЅ@ пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅF]пїЅ@ (пїЅнђ¶пїЅпїЅ^пїЅпїЅпїЅпїЅпїЅпїЅ)пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@ пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB(пїЅyпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕЊпїЅпїЅпїЅ)</p>
     <br />
     <p class="a1">
-    ђж‚Щ‚З€ИЏг‚Й‚Є‚­‚Б‚ЖЊЁ‚р—Ћ‚Ж‚·ђі•F‚Ж–нђ¶ЃB</p>
+    пїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЊпїЅпїЅр—Ћ‚Ж‚пїЅпїЅпїЅпїЅFпїЅЖ–нђ¶пїЅB</p>
     <br />
-    <p class="a2">–нђ¶Ѓ@‚И‚с‚©Ѓu‚Ж‚Б‚Д‚аЉy‚µ‚ўЃv‚Б‚ДЉґ‚¶‚Є‚·‚йЃB</p>
-    <p class="a2">ђі•FЃ@(‚¤Ѓ[‚с)ѓЊѓCЃA‘еЌD‚«‚И‚ЁЊZ‚ї‚б‚с‚ЄЋЂ‚с‚¶‚б‚¤‚Б‚Д‚З‚с‚ИЉґ‚¶‚©‚ИЃB</p>
-    <p class="a2">ѓЊѓCЃ@Ѓc”Я‚µ‚ўЃB</p>
-    <p class="a2">ђі•FЃ@”Я‚µ‚ў‹CЋќ‚їЌм‚к‚И‚ўЃB</p>
-    <p class="a2">ѓЊѓCЃ@”Я‚µ‚ў‹CЋќ‚ї‚Е‚·‚©Ѓc</p>
-    <p class="a2">ђі•FЃ@‘еЌD‚«‚Иѓyѓbѓg‚ЄЋЂ‚с‚¶‚б‚Б‚Ѕ‚И‚с‚Д”Я‚µ‚ўЊoЊ±‚И‚ў‚МЃH</p>
-    <p class="a2">ѓЊѓCЃ@Ѓc</p>
-    <p class="a2">ђі•FЃ@‚И‚ў‚©ЃBЃc‚»‚к‚¶‚б‘еЌD‚«‚И’N‚©‚ЄЋЂ‚с‚¶‚б‚Б‚Ѕ‚И‚с‚ДЊoЊ±‚а‚И‚ў‚ж‚ЛЃB</p>
-    <p class="a2">ѓЊѓCЃ@‘еЌD‚«‚И’N‚©‚ЄЃc</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅFпїЅAпїЅпїЅпїЅпїЅпїЅпїЅxпїЅпїЅпїЅпїЅД‚Э‚ж‚¤пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅCпїЅAпїЅпїЅпїЅпїЅпїЅпїЅxпїЅпїЅпїЅпїЅД‚Э‚ж‚¤пїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅН‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅнђ¶]пїЅ@ пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅF]пїЅ@ (пїЅнђ¶пїЅпїЅ^пїЅпїЅпїЅпїЅпїЅпїЅ)пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅ[пїЅпїЅпїЅC]пїЅ@ пїЅEпїЅPпїЅZпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕЃAпїЅпїЅпїЅИ‚И‚пїЅпїЅЕ‚ЛЃB(пїЅyпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕЊпїЅпїЅпїЅ)</p>
     <br />
     <p class="a1">
-    ‚»‚±‚ЙЌ№ђD‚ЖђГЌЃ‚Є“ь‚Б‚Д‚­‚йЃB</p>
+    пїЅпїЅЩ‚З€ИЏпїЅЙ‚пїЅпїЅпїЅпїЅпїЅпїЅЖЊпїЅпїЅр—Ћ‚Ж‚пїЅпїЅпїЅпїЅFпїЅЖ–нђ¶пїЅB</p>
     <br />
-    <p class="a2">ђГЌЃЃ@ѓЊѓCЃAЏ­‚µ‚Н‚¤‚Ь‚­‚И‚Б‚ЅЃH</p>
-    <p class="a2">Ќ№ђDЃ@ЌЎ“ъ‚Н‹ћ‰Фђж”y‚Й‚ў‚ў‚Ж‚±Њ©‚№‚И‚ў‚ЖЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚¤‚сЃA‚Є‚с‚О‚йЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅИ‚с‚©ЃuпїЅЖ‚пїЅпїЅД‚пїЅпїЅyпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅДЉпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@(пїЅпїЅпїЅ[пїЅпїЅ)пїЅпїЅпїЅCпїЅAпїЅпїЅDпїЅпїЅпїЅИ‚пїЅпїЅZпїЅпїЅпїЅпїЅс‚ЄЋпїЅпїЅс‚¶‚б‚¤пїЅпїЅпїЅД‚З‚пїЅИЉпїЅпїЅпїЅпїЅпїЅпїЅИЃB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅcпїЅЯ‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЯ‚пїЅпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅЯ‚пїЅпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅc</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅDпїЅпїЅпїЅИѓyпїЅbпїЅgпїЅпїЅпїЅпїЅпїЅс‚¶‚пїЅпїЅпїЅпїЅпїЅИ‚пїЅД”Я‚пїЅпїЅпїЅпїЅoпїЅпїЅпїЅИ‚пїЅпїЅМЃH</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅИ‚пїЅпїЅпїЅпїЅBпїЅcпїЅпїЅпїЅк‚¶пїЅпїЅпїЅDпїЅпїЅпїЅИ’NпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚¶‚пїЅпїЅпїЅпїЅпїЅИ‚пїЅДЊoпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅпїЅDпїЅпїЅпїЅИ’NпїЅпїЅпїЅпїЅпїЅc</p>
     <br />
     <p class="a1">
-    ‘±‚ў‚Д‹ћ‰Ф‚Є•”Ћє‚Й“ь‚Б‚Д‚­‚йЃB</p>
+    пїЅпїЅпїЅпїЅпїЅЙЌпїЅпїЅDпїЅЖђГЌпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚±‚с‚Й‚ї‚НЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚±‚с‚Й‚ї‚НЃB•”Љ€Ћn‚Я‚й‚жЃB</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚Н‚ўЃB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅCпїЅAпїЅпїЅпїЅпїЅпїЅН‚пїЅпїЅЬ‚пїЅпїЅИ‚пїЅпїЅпїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅпїЅпїЅпїЅпїЅН‹пїЅпїЅФђпїЅyпїЅЙ‚пїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅЖЃB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅО‚пїЅB</p>
     <br />
     <p class="a1">
-    ‚Э‚с‚И‚Є‹ћ‰Ф‚МЋь‚и‚ЙЏWЌ‡‚·‚йЃB</p>
+    пїЅпїЅпїЅпїЅпїЅД‹пїЅпїЅФ‚пїЅпїЅпїЅпїЅпїЅпїЅЙ“пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@‚ў‚­‚јЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‰«“кЃE‘SЌ‘‘е‰пЃI</p>
-    <p class="a2">‹ћ‰ФЃ@‰ч‚µ—Ь‚НЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚а‚¤‚ў‚з‚И‚ўЃI</p>
-    <p class="a2">‹ћ‰ФЃ@Џџ‚Б‚Д‹ѓ‚±‚¤‚жЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‘SЌ‘‚ЕЃI</p>
-    <p class="a2">‹ћ‰ФЃ@‚ў‚­‚јЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‰«“кЃE‘SЌ‘‘е‰пЃI</p>
-    <p class="a2">‹ћ‰ФЃ@Ћ•‚рђH‚ў‚µ‚О‚л‚¤ЃI</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@‘SЌ‘‚М‚Ѕ‚ЯЃI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅЙ‚пїЅпїЅНЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅЙ‚пїЅпїЅНЃBпїЅпїЅпїЅпїЅпїЅnпїЅЯ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅН‚пїЅпїЅB</p>
     <br />
-    <p class="a2">–нђ¶Ѓ@Ћ•‚рђH‚ў‚µ‚О‚л‚¤ЃI‚ЁЌ‘‚М‚Ѕ‚ЯЃI</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
-    <p class="a2">–нђ¶Ѓ@‚И‚с‚©Ћ—‚Д‚й‚ЛЃB</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
+    <p class="a1">
+    пїЅЭ‚пїЅИ‚пїЅпїЅпїЅпїЅФ‚МЋпїЅпїЅпїЅЙЏWпїЅпїЅпїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@ѓЊѓCЃA‚ї‚е‚Б‚Ж‚ў‚ўЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚Н‚ўЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚±‚кЃA–{”Ф‚Ь‚Е‚М—ыЏKЊv‰ж‚И‚с‚ѕ‚Ї‚ЗЃA€ЙЏW‰@ђжђ¶‚Й‚ЁЉи‚ў‚µ‚ДѓRѓsЃ[‚µ‚Д‚а‚з‚Б‚ДЃB</p>
-    <p class="a2">ѓЊѓCЃ@‚н‚©‚и‚Ь‚µ‚ЅЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅEпїЅSпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅЬ‚НЃI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅД‹пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅSпїЅпїЅпїЅЕЃI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅпїЅпїЅпїЅEпїЅSпїЅпїЅпїЅпїЅпїЅI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅHпїЅпїЅпїЅпїЅпїЅО‚л‚¤пїЅI</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅSпїЅпїЅпїЅМ‚пїЅпїЅЯЃI</p>
     <br />
-    <p class="a1">ѓЊѓC‚Є“n‚і‚к‚ЅЋ†‚рЋќ‚Б‚Д•”Ћє‚рЏo‚Д‚ў‚­ЃB</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅпїЅHпїЅпїЅпїЅпїЅпїЅО‚л‚¤пїЅIпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯЃI</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅИ‚с‚©ЋпїЅпїЅД‚пїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@‚Э‚с‚И‚ї‚е‚Б‚Ж€ЦЋq‚рЋќ‚Б‚ДЏWЌ‡‚µ‚Д‚­‚к‚йЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅCпїЅAпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅН‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅAпїЅ{пїЅФ‚Ь‚Е‚М—пїЅпїЅKпїЅvпїЅпїЅИ‚с‚ѕ‚пїЅпїЅЗЃAпїЅЙЏWпїЅ@пїЅжђ¶пїЅЙ‚пїЅпїЅи‚ўпїЅпїЅпїЅДѓRпїЅsпїЅ[пїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅн‚©пїЅпїЅЬ‚пїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a1">‚Э‚с‚И‚Є€ЦЋq‚рЋќ‚Б‚Д‹ћ‰Ф‚МЋь‚и‚ЙЏWЌ‡‚µ‚ДЌА‚йЃB</p>
-    <p class="a1">‹ћ‰Ф‚Н—§‚Б‚Д‚ў‚йЃB</p>
+    <p class="a1">пїЅпїЅпїЅCпїЅпїЅпїЅnпїЅпїЅпїЅк‚ЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД•пїЅпїЅпїЅпїЅпїЅпїЅoпїЅД‚пїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@‚Э‚с‚И‚ЙЉm”F‚µ‚Ѕ‚ў‚±‚Ж‚Є‚ ‚й‚с‚ѕЃB‚Э‚с‚И–{“–‚Й‘SЌ‘‚ЙЌs‚«‚Ѕ‚ўЃH</p>
-    <p class="a2">Ќ№ђDЃEђГЌЃЃ@Ќs‚«‚Ѕ‚ў‚Е‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@ђі•F‚НЃH</p>
-    <p class="a2">ђі•FЃ@‚»‚к‚НЃAЌs‚Ї‚й‚с‚И‚зЌs‚«‚Ѕ‚ў‚Ї‚ЗЃB</p>
-    <p class="a2">‹ћ‰ФЃ@Ћ„‚Нђв‘О‚З‚с‚И‚±‚Ж‚Є‚ ‚Б‚Д‚а‘SЌ‘‚ЙЌs‚«‚Ѕ‚ўЃB‚»‚к‚¶‚б‚ •·‚­‚жЃAЋ„‚Ж“Ї‚¶‚ж‚¤‚Й‘SЌ‘‚ЙЌs‚«‚Ѕ‚ў‚Б‚ДЋv‚¤ђl‚НЃA—§‚Б‚ДЃI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅЭ‚пїЅИ‚пїЅпїЅпїЅпїЅпїЅЖ€ЦЋqпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЏWпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
     <br />
-    <p class="a1">Ќ№ђD‚ЖђГЌЃ‚Є‚·‚®—§‚ВЃB</p>
-    <p class="a1">Џ­‚µ’x‚к‚Дђі•F‚Є—§‚ВЃB</p>
+    <p class="a1">пїЅЭ‚пїЅИ‚пїЅпїЅЦЋqпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‹пїЅпїЅФ‚МЋпїЅпїЅпїЅЙЏWпїЅпїЅпїЅпїЅпїЅДЌпїЅпїЅпїЅB</p>
+    <p class="a1">пїЅпїЅпїЅФ‚Н—пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@‚ ‚и‚Є‚ЖЃB‘S€х‚ѕ‚ЛЃBЌА‚Б‚ДЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅЭ‚пїЅИ‚ЙЉmпїЅFпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅЭ‚пїЅИ–{пїЅпїЅпїЅЙ‘SпїЅпїЅпїЅЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅEпїЅГЌпїЅпїЅ@пїЅsпїЅпїЅпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅFпїЅНЃH</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅНЃAпїЅsпїЅпїЅпїЅпїЅпїЅИ‚пїЅsпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅНђпїЅО‚З‚пїЅИ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅSпїЅпїЅпїЅЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅк‚¶пїЅб‚ пїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅЖ“пїЅпїЅпїЅпїЅж‚¤пїЅЙ‘SпїЅпїЅпїЅЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅlпїЅНЃAпїЅпїЅпїЅпїЅпїЅДЃI</p>
     <br />
-    <p class="a1">ЋOђl‚Є€ЦЋq‚ЙЌА‚йЃB</p>
+    <p class="a1">пїЅпїЅпїЅDпїЅЖђГЌпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅВЃB</p>
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅxпїЅпїЅДђпїЅпїЅFпїЅпїЅпїЅпїЅпїЅВЃB</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@–{”Ф‚Ь‚Е‚ ‚ЖЊЬ“ъЃBЌЎ‚М‚Ь‚Ь‚ЕЃA’n‹ж‘е‰п“Л”j‚Е‚«‚й‚ЖЋv‚¤ЃH</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@Ѓc</p>
-    <p class="a2">‹ћ‰ФЃ@ђі’јЊѕ‚¤‚ЖЋ„‚НЊµ‚µ‚ў‚Б‚ДЋv‚¤ЃB</p>
-    <p class="a2">‰‰ЊЂ•”€хЃ@Ѓc</p>
-    <p class="a2">‹ћ‰ФЃ@‚З‚¤‚µ‚Д‚аЋv‚ўЏo‚µ‚ї‚б‚¤‚с‚ѕЃA‹Ћ”N‚М‚±‚ЖЃB</p>
-    <p class="a2">Ќ№ђDЃ@‚Ѕ‚Б‚ЅЏ\•b‚МѓIЃ[ѓoЃ[‚Е‚µ‚Ѕ‚ЛЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚»‚¤ЃA‚Ѕ‚Б‚Ѕ‚МЏ\•bЃBѓЊѓC‚Є‘дЋЊ–Y‚к‚И‚Ї‚к‚О—]—T‚Еђ§ЊАЋћЉФ“а‚ЙЏI‚н‚Б‚Д‚ЅЃB</p>
-    <p class="a2">ђГЌЃЃ@‚¤‚ї‚М‰Ж‘°Њѕ‚Б‚Д‚Ь‚µ‚ЅЃBЋёЉi‚Й‚і‚¦‚И‚з‚И‚Ї‚к‚ОЌЕ—DЏGЏЬ‚Нђв‘О‚¤‚ї‚ѕ‚Б‚Ѕ‚Б‚ДЃB</p>
-    <p class="a2">‹ћ‰ФЃ@ЋА‚НЃAЋ„‚©‚з‚Э‚с‚И‚Й’с€Д‚Є‚ ‚й‚с‚ѕЃB‚Л‚БЃA‚Э‚с‚И‚ЕѓЊѓC‚М‚±‚ЖЌl‚¦‚Д‚ ‚°‚И‚ўЃBѓЊѓCЃAЋ„‚ЙЊѕ‚Б‚Д‚«‚Ѕ‚с‚ѕЃu•‘‘д‚Й—§‚В‚М‚Є•|‚ўЃv‚Б‚ДЃB</p>
-    <p class="a2">Ќ№ђDЃ@‹Ћ”N‚М‚±‚Ж‚Є‚ ‚и‚Ь‚·‚©‚з‚ЛЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚»‚с‚ИѓЊѓC‚М‚Ѕ‚Я‚ЙЃAЌl‚¦‚ЙЌl‚¦”І‚ў‚Ѕ‚±‚Ж‚р‚±‚к‚©‚з’с€Д‚·‚й‚ЛЃBЋ„ЃAѓЊѓC‚рЊЂ‚©‚зЉO‚µ‚Д‚ ‚°‚ж‚¤‚Б‚ДЋv‚¤‚с‚ѕЃB</p>
-    <p class="a2">ђі•FЃ@”ь“Ю‚Н’N‚Є‚в‚й‚МЃH</p>
-    <p class="a2">‹ћ‰ФЃ@”ь“Ю‚МѓVЃ[ѓ“ЃA‚И‚­‚Д‚аЊЂ‚Нђ¬—§‚·‚й‚жЃB</p>
-    <p class="a2">Ќ№ђDЃ@‚»‚Б‚©ЃA‚»‚¤‚Е‚·‚жЃB‚ ‚МѓVЃ[ѓ“ѓJѓbѓg‚µ‚Д‚аbЊq‚Є‚и‚Ь‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@ЊЂ‚ЙЏo‚µ‚Д‚ ‚°‚й‚±‚Ж‚Є—D‚µ‚і‚¶‚б‚И‚ўЃBЉO‚µ‚Д‚ ‚°‚й‚±‚Ж‚Є–{“–‚М—D‚µ‚і‚ѕ‚Б‚ДЋv‚¤‚с‚ѕЃBЌ№ђDЃAђГЌЃЃA‚»‚¤Ћv‚н‚И‚ўЃH</p>
-    <p class="a2">Ќ№ђDЃEђГЌЃЃ@Ћv‚ў‚Ь‚·ЃB</p>
-    <p class="a2">‹ћ‰ФЃ@‚»‚к‚¶‚б‚ •·‚­‚с‚ѕ‚Ї‚ЗЃBѓЊѓC‚М‚Ѕ‚Я‚ЙЃAѓЊѓC‚рЊЂ‚©‚зЉO‚µ‚Д‚ ‚°‚й‚±‚Ж‚ЙЋ^ђ¬‚Мђl‚НЃA—§‚Б‚ДЃI</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅи‚ЄпїЅЖЃBпїЅSпїЅпїЅпїЅпїЅпїЅЛЃBпїЅпїЅпїЅпїЅпїЅДЃB</p>
     <br />
-    <p class="a1">Ќ№ђD‚ЖђГЌЃ‚Є‚·‚®—§‚ВЃB</p>
+    <p class="a1">пїЅOпїЅlпїЅпїЅпїЅЦЋqпїЅЙЌпїЅпїЅпїЅB</p>
     <br />
-    <p class="a2">‹ћ‰ФЃ@ђі•F‚НЃH</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
-    <p class="a2">–нђ¶Ѓ@ђі•FЃA—§‚Б‚ї‚б‚ѕ‚ЯЃB</p>
-    <p class="a2">‹ћ‰ФЃ@ѓЊѓC‚М‚Ѕ‚Я‚И‚с‚ѕ‚жЃBѓЊѓC‚Є‚Ь‚Ѕ‘дЋЊ–Y‚к‚ї‚б‚Б‚Д¤‚»‚МѓVѓ‡ѓbѓN‚ЕЉwЌZ‚р‹x‚Ю‚ж‚¤‚Й‚И‚Б‚Д‚а‚ў‚ў‚МЃH</p>
-    <p class="a2">ђі•FЃ@Ѓc</p>
-    <p class="a2">‹ћ‰ФЃ@ђі•FЃAЋ„‚М’с€Д‚Й”Ѕ‘О‚И‚с‚ѕЃB‚»‚к‚И‚зЋ„ЃA•”’·Ќ~‚и‚йЃBђі•F‚ЄЋ„‚М‘г‚н‚и‚Й•”’·‚в‚Б‚Д•”‚р‚Ь‚Ж‚Я‚ДЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅ{пїЅФ‚Ь‚Е‚пїЅпїЅЖЊЬ“пїЅпїЅBпїЅпїЅпїЅМ‚Ь‚Ь‚ЕЃAпїЅnпїЅпїЅпїЅпїЅЛ”jпїЅЕ‚пїЅпїЅпїЅЖЋvпїЅпїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЋпїЅпїЅНЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅЗ‚пїЅпїЅпїЅпїЅД‚пїЅпїЅvпїЅпїЅпїЅoпїЅпїЅпїЅпїЅпїЅб‚¤пїЅс‚ѕЃAпїЅпїЅпїЅNпїЅМ‚пїЅпїЅЖЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\пїЅbпїЅМѓIпїЅ[пїЅoпїЅ[пїЅЕ‚пїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅМЏ\пїЅbпїЅBпїЅпїЅпїЅCпїЅпїЅпїЅдЋЊпїЅYпїЅпїЅИ‚пїЅпїЅпїЅО—]пїЅTпїЅЕђпїЅпїЅпїЅпїЅпїЅпїЅФ“пїЅпїЅЙЏIпїЅпїЅпїЅпїЅД‚пїЅпїЅB</p>
+    <p class="a2">пїЅГЌпїЅпїЅ@пїЅпїЅпїЅпїЅпїЅМ‰Ж‘пїЅпїЅпїЅпїЅпїЅпїЅД‚Ь‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅiпїЅЙ‚пїЅпїЅпїЅпїЅИ‚пїЅИ‚пїЅпїЅпїЅОЌЕ—DпїЅGпїЅЬ‚НђпїЅО‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅНЃAпїЅпїЅпїЅпїЅпїЅпїЅЭ‚пїЅИ‚Й’пїЅД‚пїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅЛ‚пїЅпїЅAпїЅЭ‚пїЅИ‚ЕѓпїЅпїЅCпїЅМ‚пїЅпїЅЖЌlпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅпїЅпїЅCпїЅAпїЅпїЅпїЅЙЊпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅс‚ѕЃuпїЅпїЅпїЅпїЅЙ—пїЅпїЅВ‚М‚пїЅпїЅ|пїЅпїЅпїЅvпїЅпїЅпїЅДЃB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅпїЅпїЅNпїЅМ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅЬ‚пїЅпїЅпїЅпїЅпїЅЛЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅпїЅИѓпїЅпїЅCпїЅМ‚пїЅпїЅЯ‚ЙЃAпїЅlпїЅпїЅпїЅЙЌlпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅк‚©пїЅпїЅпїЅД‚пїЅпїЅпїЅЛЃBпїЅпїЅпїЅAпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅOпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅж‚¤пїЅпїЅпїЅДЋvпїЅпїЅпїЅс‚ѕЃB</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅЮ‚Н’NпїЅпїЅпїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅЮ‚МѓVпїЅ[пїЅпїЅпїЅAпїЅИ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅНђпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅAпїЅпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅBпїЅпїЅпїЅМѓVпїЅ[пїЅпїЅпїЅJпїЅbпїЅgпїЅпїЅпїЅД‚пїЅпїЅbпїЅqпїЅпїЅпїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅЙЏoпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅй‚±пїЅЖ‚пїЅпїЅDпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅBпїЅOпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅй‚±пїЅЖ‚пїЅпїЅ{пїЅпїЅпїЅМ—DпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅс‚ѕЃBпїЅпїЅпїЅDпїЅAпїЅГЌпїЅпїЅAпїЅпїЅпїЅпїЅпїЅvпїЅпїЅИ‚пїЅпїЅH</p>
+    <p class="a2">пїЅпїЅпїЅDпїЅEпїЅГЌпїЅпїЅ@пїЅvпїЅпїЅпїЅЬ‚пїЅпїЅB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅк‚¶пїЅб‚ пїЅпїЅпїЅпїЅпїЅс‚ѕ‚пїЅпїЅЗЃBпїЅпїЅпїЅCпїЅМ‚пїЅпїЅЯ‚ЙЃAпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅOпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅй‚±пїЅЖ‚ЙЋ^пїЅпїЅпїЅМђlпїЅНЃAпїЅпїЅпїЅпїЅпїЅДЃI</p>
+    <br />
+    <p class="a1">пїЅпїЅпїЅDпїЅЖђГЌпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅВЃB</p>
+    <br />
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅFпїЅНЃH</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅFпїЅAпїЅпїЅпїЅпїЅпїЅпїЅпїЅб‚ѕпїЅЯЃB</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅCпїЅМ‚пїЅпїЅЯ‚И‚с‚ѕ‚пїЅBпїЅпїЅпїЅCпїЅпїЅпїЅЬ‚пїЅпїЅдЋЊпїЅYпїЅк‚їпїЅпїЅпїЅпїЅД¤пїЅпїЅпїЅМѓVпїЅпїЅпїЅbпїЅNпїЅЕЉwпїЅZпїЅпїЅпїЅxпїЅЮ‚ж‚¤пїЅЙ‚И‚пїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅМЃH</p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅc</p>
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅFпїЅAпїЅпїЅпїЅМ’пїЅД‚Й”пїЅпїЅО‚И‚с‚ѕЃBпїЅпїЅпїЅпїЅИ‚зЋ„пїЅAпїЅпїЅпїЅпїЅпїЅ~пїЅпїЅпїЅBпїЅпїЅпїЅFпїЅпїЅпїЅпїЅпїЅМ‘пїЅпїЅпїЅЙ•пїЅпїЅпїЅпїЅпїЅпїЅпїЅД•пїЅпїЅпїЅпїЅЬ‚Ж‚Я‚ДЃB</p>
 <br />
     <p class="a1">
-    ђі•F‚Є‚д‚Б‚­‚и—§‚ВЃB</p><br />
-    <p class="a2">–нђ¶Ѓ@ђі•FЃc</p>
-    
-    <p class="a2">‹ћ‰ФЃ@‚ж‚©‚Б‚ЅЃA‘S€хЋ^ђ¬‚ѕ‚ЛЃBѓЊѓC‚Є–Я‚Б‚Д‚«‚Ѕ‚з‚±‚М‚±‚ЖЋ„‚©‚з“`‚¦‚й‚©‚зЃB‚»‚к‚¶‚б—ыЏKЋn‚Я‚ж‚¤ЃBЌр“ъ‚в‚Б‚Ѕ‚Ж‚±‚л‚МЌЕЊг‚М‚Ж‚±‚лЃB(‘д–{‚рђі•F‚ЙЊ©‚№‚Д)‚±‚±ЃA—E‹P‚ЄЃuЋ„‚НЃAђ¶‚«‚Ѕ‚ў‚М‚Е‚·Ѓv‚Б‚ДЊѕ‚¤‚Ж‚±‚л‚©‚з‚в‚л‚¤ЃB‚Э‚с‚ИЏЂ”х‚µ‚ДЃB</p>
-    
-    <p class="a2">‰‰ЊЂ•”€хЃ@‚Н‚ўЃB</p>
-    
-    
-    <p class="a1">‹ћ‰Ф‚ЄѓXѓ^Ѓ[ѓg‚МЌ‡ђ}‚Ж‚µ‚ДЋи‚р’@‚­ЃB</p>
-    
-    
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћ„‚НЃAђ¶‚«‚Ѕ‚ў‚М‚Е‚·ЃB‚ЁЌ‘‚М‚Ѕ‚Я‚Йђ¶‚«‚Ѕ‚ў‚М‚Е‚·ЃB</p>
-    
-    
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@‚ЁЌ‘‚М‚Ѕ‚Я‚ЙЌs‚«‚Ѕ‚ўЃB‚»‚к‚Е‚±‚»“ъ–{(‚Й‚Б‚Ы‚с)’jЋ™‚ѕЃB‚ж‚µЃAЌs‚©‚№‚Д‚в‚йЃB‚ЁЌ‘‚М‚Ѕ‚Я‚ЙЌs‚«‚Ѕ‚ў‚Ж‚ў‚¤‚Ё‘O‚М‚»‚М”M‚ўЋv‚ў‚р—Dђж‚µ‚ДЃA€к”Ф‚Й“БЌU‚ЙЌs‚©‚№‚Д‚в‚йЃB‚Э‚І‚Ж“GЉН‚Й‘М“–‚Ѕ‚и‚µ‚Д’ѕ‚Я‚Д‚±‚ўЃB‚ЁЌ‘‚М‚Ѕ‚Я‚ЙЃB</p>
-    
-    
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    
-    
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@€ИЏг‚ѕЃB</p>
-    
+    пїЅпїЅпїЅFпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅи—§пїЅВЃB</p><br />
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅFпїЅc</p>
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅж‚©пїЅпїЅпїЅпїЅпїЅAпїЅSпїЅпїЅпїЅ^пїЅпїЅпїЅпїЅпїЅЛЃBпїЅпїЅпїЅCпїЅпїЅпїЅЯ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅз‚±пїЅМ‚пїЅпїЅЖЋпїЅпїЅпїЅпїЅпїЅ`пїЅпїЅпїЅй‚©пїЅпїЅBпїЅпїЅпїЅк‚¶пїЅпїЅпїЅпїЅKпїЅnпїЅЯ‚ж‚¤пїЅBпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅМЌЕЊпїЅМ‚Ж‚пїЅпїЅпїЅB(пїЅпїЅ{пїЅрђі•FпїЅЙЊпїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅпїЅпїЅAпїЅEпїЅPпїЅпїЅпїЅuпїЅпїЅпїЅНЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚Е‚пїЅпїЅvпїЅпїЅпїЅДЊпїЅпїЅпїЅпїЅЖ‚пїЅпїЅл‚©пїЅпїЅпїЅл‚¤пїЅBпїЅЭ‚пїЅИЏпїЅпїЅпїЅпїЅпїЅпїЅДЃB</p>
+
+    <p class="a2">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ@пїЅН‚пїЅпїЅB</p>
+
+
+    <p class="a1">пїЅпїЅпїЅФ‚пїЅпїЅXпїЅ^пїЅ[пїЅgпїЅМЌпїЅпїЅ}пїЅЖ‚пїЅпїЅДЋпїЅпїЅ@пїЅпїЅпїЅB</p>
+
+
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅНЃAпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚Е‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙђпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚Е‚пїЅпїЅB</p>
+
+
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅЕ‚пїЅпїЅпїЅпїЅпїЅпїЅ{(пїЅЙ‚пїЅпїЅЫ‚пїЅ)пїЅjпїЅпїЅпїЅпїЅпїЅBпїЅж‚µпїЅAпїЅsпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЌsпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖ‚пїЅпїЅпїЅпїЅпїЅпїЅOпїЅМ‚пїЅпїЅМ”MпїЅпїЅпїЅvпїЅпїЅпїЅпїЅDпїЅж‚µпїЅДЃAпїЅпїЅФ‚Й“пїЅпїЅUпїЅЙЌsпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅBпїЅЭ‚пїЅпїЅЖ“GпїЅН‚Й‘М“пїЅпїЅпїЅпїЅи‚µпїЅД’пїЅпїЅЯ‚Д‚пїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЃB</p>
+
+
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+
+
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅИЏг‚ѕпїЅB</p>
+
     <br />
-    
-    <p class="a1">ЏгЉЇ[‹ћ‰Ф]‚Є‚»‚МЏк‚р‹Ћ‚йЃB</p>
-    
-    
-    <p class="a1">Њ’‘ѕ[ђГЌЃ]‚ЄЏгЉЇ[‹ћ‰Ф]‚Й‘±‚­ЃB</p>
-    
-    
-    <p class="a1">—E‹P[ђі•F]‚Єђв–]‚µ‚Д‚Р‚ґ‚Ь‚ё‚­ЃB</p>
-    
+
+    <p class="a1">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅпїЅпїЅпїЅпїЅМЏпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+
+
+    <p class="a1">пїЅпїЅпїЅпїЅ[пїЅГЌпїЅ]пїЅпїЅпїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅЙ‘пїЅпїЅпїЅпїЅB</p>
+
+
+    <p class="a1">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅпїЅпїЅпїЅ]пїЅпїЅпїЅД‚Р‚пїЅпїЅЬ‚пїЅпїЅпїЅпїЅB</p>
+
     <br />
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@‚ ‚«‚з‚Я‚ї‚б‚ѕ‚ЯЃBЋv‚ўЏo‚µ‚Д‚ ‚И‚Ѕ‚М‰Ж‘°‚рЃA‚ ‚И‚Ѕ‚Єђ¶‚«‚Д‹A‚Б‚Д‚­‚й‚±‚Ж‚рЉи‚Б‚Д‚ў‚й‰Ж‘°‚рЃB</p>
-    
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅпїЅпїЅпїЅЯ‚пїЅпїЅб‚ѕпїЅЯЃBпїЅvпїЅпїЅпїЅoпїЅпїЅпїЅД‚пїЅпїЅИ‚пїЅпїЅМ‰Ж‘пїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‹AпїЅпїЅпїЅД‚пїЅпїЅй‚±пїЅЖ‚пїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅЖ‘пїЅпїЅпїЅпїЅB</p>
+
     <br />
-    
-    <p class="a2">‹ћ‰ФЃ@(‹іЋє‚М‹ч‚©‚з)‚і‚Б‚«Њ€‚Я‚Ѕ‚Ж‚Ё‚иЃA‚±‚МЊг‚МѓЊѓC‚М“oЏкѓVЃ[ѓ“‚НѓJѓbѓgЃBђі•F‚Н‰Ж‘°‚рЋv‚ўЏo‚·‰‰‹Z‚р‚·‚йЃB‚»‚к‚Еb‚М’Тел‚НЌ‡‚¤‚ж‚ЛЃB‚»‚к‚¶‚бЃAЋџ‚МѓVЃ[ѓ“ЃAѓTѓcѓL‚М‘дЋЊ‚©‚зЃB</p>
-    
+
+    <p class="a2">пїЅпїЅпїЅФЃ@(пїЅпїЅпїЅпїЅпїЅМ‹пїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЯ‚пїЅпїЅЖ‚пїЅпїЅпїЅAпїЅпїЅпїЅМЊпїЅМѓпїЅпїЅCпїЅМ“oпїЅпїЅVпїЅ[пїЅпїЅпїЅНѓJпїЅbпїЅgпїЅBпїЅпїЅпїЅFпїЅН‰Ж‘пїЅпїЅпїЅпїЅvпїЅпїЅпїЅoпїЅпїЅпїЅпїЅпїЅZпїЅпїЅпїЅпїЅпїЅпїЅBпїЅпїЅпїЅпїЅЕbпїЅМ’пїЅпїЅпїЅНЌпїЅпїЅпїЅпїЅпїЅЛЃBпїЅпїЅпїЅк‚¶пїЅпїЅAпїЅпїЅпїЅМѓVпїЅ[пїЅпїЅпїЅAпїЅTпїЅcпїЅLпїЅМ‘дЋЊпїЅпїЅпїЅпїЅB</p>
+
     <br />
-    
-    <p class="a1">‹ћ‰Ф‚Єb‚µ‚Д‚ў‚йЉФ‚ЙЃA–нђ¶‚Нђі•F‚М—Ч‚Й•а‚ў‚Д‚ў‚­ЃB</p>
-    
+
+    <p class="a1">пїЅпїЅпїЅФ‚пїЅпїЅbпїЅпїЅпїЅД‚пїЅпїЅпїЅФ‚ЙЃAпїЅнђ¶пїЅНђпїЅпїЅFпїЅМ—Ч‚Й•пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅB</p>
+
     <br />
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@—E‹P‚і‚сЃAЏгЉЇ‚рЊД‚с‚ЕЃB</p>
-    
-    
-    <p class="a2">–нђ¶Ѓ@Ѓ@(ђі•F‚МЋЁЊі‚Е)ђі•FЃA‹ћ‰Ф‚і‚с‚рЊД‚с‚ЕЃB</p>
-    
-    
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@—E‹P‚і‚сЃAЏгЉЇ‚р‚±‚±‚ЙЊД‚Ф‚МЃB</p>
-    
-    
-    <p class="a2">–нђ¶Ѓ@Ѓ@ђі•FЃA‹ћ‰Ф‚і‚с‚р‚±‚±‚ЙЊД‚Ф‚МЃB</p>
-    
-    
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@—E‹P‚і‚сЃA‚ ‚И‚Ѕ‚Нђ¶‚«‚И‚­‚ї‚б‚ў‚Ї‚И‚ўђl‚И‚МЃB‚а‚¤€к“xЏгЉЇ‚Жb‚р‚µ‚ДЃB</p>
-    
-    
-    <p class="a2">–нђ¶Ѓ@Ѓ@ѓЊѓC‚ї‚б‚с‚М‚Ѕ‚Я‚ЙЃA‚а‚¤€к“x‹ћ‰Ф‚і‚с‚Жb‚р‚µ‚ДЃB</p>
-    
-    
-    <p class="a2">—E‹P[ђі•F]Ѓ@(™п‚­‚ж‚¤‚Й)‚а‚¤€к“xЃA‚а‚¤€к“xb‚р‚і‚№‚Д‚­‚ѕ‚і‚ўЃI</p>
-    
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅEпїЅPпїЅпїЅпїЅпїЅAпїЅгЉЇпїЅпїЅпїЅД‚пїЅЕЃB</p>
+
+
+    <p class="a2">пїЅнђ¶пїЅ@пїЅ@(пїЅпїЅпїЅFпїЅМЋпїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅFпїЅAпїЅпїЅпїЅФ‚пїЅпїЅпїЅпїЅпїЅД‚пїЅЕЃB</p>
+
+
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅEпїЅPпїЅпїЅпїЅпїЅAпїЅгЉЇпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙЊД‚Ф‚МЃB</p>
+
+
+    <p class="a2">пїЅнђ¶пїЅ@пїЅ@пїЅпїЅпїЅFпїЅAпїЅпїЅпїЅФ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙЊД‚Ф‚МЃB</p>
+
+
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅEпїЅPпїЅпїЅпїЅпїЅAпїЅпїЅпїЅИ‚пїЅпїЅНђпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅб‚ўпїЅпїЅпїЅИ‚пїЅпїЅlпїЅИ‚МЃBпїЅпїЅпїЅпїЅпїЅпїЅxпїЅгЉЇпїЅЖbпїЅпїЅпїЅпїЅпїЅДЃB</p>
+
+
+    <p class="a2">пїЅнђ¶пїЅ@пїЅ@пїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯ‚ЙЃAпїЅпїЅпїЅпїЅпїЅпїЅxпїЅпїЅпїЅФ‚пїЅпїЅпїЅЖbпїЅпїЅпїЅпїЅпїЅДЃB</p>
+
+
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@(пїЅп‚­пїЅж‚¤пїЅпїЅ)пїЅпїЅпїЅпїЅпїЅпїЅxпїЅAпїЅпїЅпїЅпїЅпїЅпїЅxпїЅbпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅI</p>
+
     <br />
-    
-    <p class="a1">ЏгЉЇ[‹ћ‰Ф]‚Є“oЏк‚·‚йЃB</p>
-    
+
+    <p class="a1">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅпїЅпїЅoпїЅк‚·пїЅпїЅB</p>
+
     <br />
-    
-    <p class="a2">ЏгЉЇ[‹ћ‰Ф]Ѓ@Ќ‚“cЃA‚З‚¤‚µ‚ЅЃB</p>
-    
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@ЋuЉи‚µ‚Ь‚№‚с‚Б‚ДЊѕ‚Б‚ДЃB</p>
-    
-    
-    <p class="a2">–нђ¶Ѓ@Ѓ@ѓЊѓC‚ї‚б‚с‚рЉO‚µ‚ї‚б‚ѕ‚Я‚ѕ‚Б‚ДЊѕ‚Б‚ДЃBЃ@</p>
-    
-    
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@ЋuЉи‚·‚й‚±‚Ж‚Є—E‹CЃH“БЌU‚ЕЋЂ‚К‚±‚Ж‚Є—E‹CЃHђ¶‚«‚й‚Ѕ‚Я‚ЙЋuЉи‚µ‚И‚ў‚±‚Ж‚Н‰°•aЋТ‚М‚·‚й‚±‚Ж‚¶‚б‚И‚ўЃBЋuЉи‚µ‚И‚ў‚±‚Ж‚Н—E‹C‚И‚МЃB</p>
-    
-    
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ѓc</p>
-    
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]ЃE–нђ¶Ѓ@(“ЇЋћ‚Й)—E‹C‚рЏo‚µ‚ДЃI </p>
-    <p class="a2">—E‹P[ђі•F]Ѓ@Ћ„‚НЃc</p>
-    
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]Ѓ@ЋЂ‚К‚Ѕ‚Я‚¶‚б‚И‚­ЃAђ¶‚«‚й‚Ѕ‚Я‚ЙЃI</p>
-    
-    
-    <p class="a2">–нђ¶Ѓ@ѓЊѓC‚ї‚б‚с‚Є•‘‘д‚ЕЃAђ¶‚«‚й‚Ѕ‚Я‚ЙЃI</p>
-    
-    
-    <p class="a2">ѓTѓcѓL[Ќ№ђD]ЃE–нђ¶Ѓ@(“ЇЋћ‚Й)—E‹C‚рЏo‚µ‚ДЃI</p>
-    
+
+    <p class="a2">пїЅгЉЇ[пїЅпїЅпїЅпїЅ]пїЅ@пїЅпїЅпїЅcпїЅAпїЅЗ‚пїЅпїЅпїЅпїЅпїЅпїЅB</p>
+
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅuпїЅи‚µпїЅЬ‚пїЅпїЅпїЅпїЅпїЅДЊпїЅпїЅпїЅпїЅДЃB</p>
+
+
+    <p class="a2">пїЅнђ¶пїЅ@пїЅ@пїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅOпїЅпїЅпїЅпїЅпїЅб‚ѕпїЅЯ‚пїЅпїЅпїЅпїЅДЊпїЅпїЅпїЅпїЅДЃBпїЅ@</p>
+
+
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅuпїЅи‚·пїЅй‚±пїЅЖ‚пїЅпїЅEпїЅCпїЅHпїЅпїЅпїЅUпїЅЕЋпїЅпїЅК‚пїЅпїЅЖ‚пїЅпїЅEпїЅCпїЅHпїЅпїЅпїЅпїЅпїЅй‚ЅпїЅЯ‚ЙЋuпїЅи‚µпїЅИ‚пїЅпїЅпїЅпїЅЖ‚Н‰пїЅпїЅaпїЅТ‚М‚пїЅпїЅй‚±пїЅЖ‚пїЅпїЅпїЅИ‚пїЅпїЅBпїЅuпїЅи‚µпїЅИ‚пїЅпїЅпїЅпїЅЖ‚Н—EпїЅCпїЅИ‚МЃB</p>
+
+
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅc</p>
+
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅEпїЅнђ¶пїЅ@(пїЅпїЅпїЅпїЅпїЅпїЅ)пїЅEпїЅCпїЅпїЅпїЅoпїЅпїЅпїЅДЃI </p>
+    <p class="a2">пїЅEпїЅP[пїЅпїЅпїЅF]пїЅ@пїЅпїЅпїЅНЃc</p>
+
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅ@пїЅпїЅпїЅК‚пїЅпїЅЯ‚пїЅпїЅпїЅИ‚пїЅпїЅAпїЅпїЅпїЅпїЅпїЅй‚ЅпїЅЯ‚ЙЃI</p>
+
+
+    <p class="a2">пїЅнђ¶пїЅ@пїЅпїЅпїЅCпїЅпїЅпїЅпїЅс‚Є•пїЅпїЅпїЅЕЃAпїЅпїЅпїЅпїЅпїЅй‚ЅпїЅЯ‚ЙЃI</p>
+
+
+    <p class="a2">пїЅTпїЅcпїЅL[пїЅпїЅпїЅD]пїЅEпїЅнђ¶пїЅ@(пїЅпїЅпїЅпїЅпїЅпїЅ)пїЅEпїЅCпїЅпїЅпїЅoпїЅпїЅпїЅДЃI</p>
+
     <br />
-    
-    <p class="a2">ђі•FЃ@(€У‚рЊ€‚µ‚ДЃA‘е‚«‚­‘§‚р‹z‚ўЌћ‚с‚Е)‹ћ‰ФЃAѓЊѓC‚рЉO‚µ‚ї‚б‚ѕ‚Я‚ѕ‚жЃB</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@Ѓc‰Ѕ‚»‚кЃH</p>
-    
-    
-    <p class="a2">ђі•FЃ@—E‹CЃc‚©‚ИЃB</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@—E‹CЃH</p>
-    
-    
-    <p class="a2">ђі•FЃ@ѓЊѓC‚рЉO‚µ‚ї‚б‚ѕ‚Я‚ѕЃI</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@ЉO‚·‚с‚¶‚б‚И‚­‚ДЉO‚µ‚Д‚ ‚°‚й‚МЃBѓЊѓC‚М‚Ѕ‚Я‚ЙЃB</p>
-    
-    
-    <p class="a2">ђі•FЃ@‚»‚к‚¶‚б“БЌU‚Ж“Ї‚¶‚ѕ‚жЃB</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@“БЌU‚Ж“Ї‚¶ЃH </p>
-    <p class="a2">ђі•FЃ@“БЌU‚ЙЌs‚­‚М‚Н‰Ж‘°‚М‚Ѕ‚ЯЃHЃ@€б‚¤‚жЃB‚ЁЌ‘‚М‚Ѕ‚ЯЃAђн‘€‚ЕЏџ‚В‚Ѕ‚ЯЃBѓЊѓC‚рЉO‚·‚М‚НЃAѓЊѓC‚М‚Ѕ‚ЯЃHЃ@€б‚¤‚жЃB‘SЌ‘‚М‚Ѕ‚ЯЃA‘е‰п‚ЕЏџ‚В‚Ѕ‚ЯЃB</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@ѓЊѓC‚М‚Ѕ‚Я‚ѕ‚жЃB</p>
-    
-    
-    <p class="a2">ђі•FЃ@‚»‚к‚¶‚б•·‚­‚жЃAЃuѓЊѓC‚М‚Ѕ‚Я‚ЙЃAѓЊѓC‚рЊЂ‚©‚зЉO‚µ‚Ѕ‚ў‚ЖЋv‚¤‚а‚МЃA€к•а‘O‚ЙЃIЃv</p>
-    
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@(пїЅУ‚пїЅпїЅпїЅпїЅпїЅпїЅДЃAпїЅе‚«пїЅпїЅпїЅпїЅпїЅпїЅпїЅzпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)пїЅпїЅпїЅФЃAпїЅпїЅпїЅCпїЅпїЅпїЅOпїЅпїЅпїЅпїЅпїЅб‚ѕпїЅЯ‚пїЅпїЅпїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅcпїЅпїЅпїЅпїЅпїЅпїЅH</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅEпїЅCпїЅcпїЅпїЅпїЅИЃB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅEпїЅCпїЅH</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅCпїЅпїЅпїЅOпїЅпїЅпїЅпїЅпїЅб‚ѕпїЅЯ‚пїЅпїЅI</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅOпїЅпїЅпїЅс‚¶‚пїЅИ‚пїЅпїЅДЉOпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅМЃBпїЅпїЅпїЅCпїЅМ‚пїЅпїЅЯ‚ЙЃB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅк‚¶пїЅпїЅпїЅпїЅUпїЅЖ“пїЅпїЅпїЅпїЅпїЅпїЅпїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅUпїЅЖ“пїЅпїЅпїЅпїЅH </p>
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅUпїЅЙЌsпїЅпїЅпїЅМ‚Н‰Ж‘пїЅпїЅМ‚пїЅпїЅЯЃHпїЅ@пїЅб‚¤пїЅпїЅBпїЅпїЅпїЅпїЅпїЅМ‚пїЅпїЅЯЃAпїЅн‘€пїЅЕЏпїЅпїЅВ‚пїЅпїЅЯЃBпїЅпїЅпїЅCпїЅпїЅпїЅOпїЅпїЅпїЅМ‚НЃAпїЅпїЅпїЅCпїЅМ‚пїЅпїЅЯЃHпїЅ@пїЅб‚¤пїЅпїЅBпїЅSпїЅпїЅпїЅМ‚пїЅпїЅЯЃAпїЅпїЅпїЅЕЏпїЅпїЅВ‚пїЅпїЅЯЃB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅCпїЅМ‚пїЅпїЅЯ‚пїЅпїЅпїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅк‚¶пїЅб•·пїЅпїЅпїЅпїЅAпїЅuпїЅпїЅпїЅCпїЅМ‚пїЅпїЅЯ‚ЙЃAпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅOпїЅпїЅпїЅпїЅпїЅпїЅпїЅЖЋvпїЅпїЅпїЅпїЅпїЅМЃAпїЅпїЅпїЅпїЅOпїЅЙЃIпїЅv</p>
+
     <br />
-    
-    <p class="a1">’N‚а‘O‚ЙЏo‚И‚ўЃB</p>
-    
-    
-    <p class="a1">Џ­‚µ‚µ‚Д‹ћ‰Ф‚Є€к•а‘O‚ЙЏo‚Дђі•F‚М‚±‚Ж‚рЊ©‚В‚Я‚йЃB</p>
-    
+
+    <p class="a1">пїЅNпїЅпїЅпїЅOпїЅЙЏoпїЅИ‚пїЅпїЅB</p>
+
+
+    <p class="a1">пїЅпїЅпїЅпїЅпїЅпїЅпїЅД‹пїЅпїЅФ‚пїЅпїЅпїЅпїЅпїЅOпїЅЙЏoпїЅДђпїЅпїЅFпїЅМ‚пїЅпїЅЖ‚пїЅпїЅпїЅпїЅВ‚Я‚пїЅB</p>
+
     <br />
-    
-    <p class="a2">ђі•FЃ@Ќ№ђD‚НЃHЃ@ђГЌЃ‚НЃH</p>
-    
-    
-    <p class="a2">Ќ№ђDЃEђГЌЃЃ@Ѓc</p>
-    
-    
-    <p class="a2">ђі•FЃ@Ѓu€к•а‘O‚ЙЃIЃv</p>
-    
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅDпїЅНЃHпїЅ@пїЅГЌпїЅпїЅНЃH</p>
+
+
+    <p class="a2">пїЅпїЅпїЅDпїЅEпїЅГЌпїЅпїЅ@пїЅc</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅuпїЅпїЅпїЅпїЅOпїЅЙЃIпїЅv</p>
+
     <br />
-    
-    <p class="a1">“сђl‚Н‘O‚ЙЏo‚И‚ўЃB</p>
-    
+
+    <p class="a1">пїЅпїЅlпїЅН‘OпїЅЙЏoпїЅИ‚пїЅпїЅB</p>
+
     <br />
-    
-    <p class="a2">ђі•FЃ@‹ћ‰ФЃA‘SЌ‘‚ЙЌs‚Ї‚И‚­‚Д‚а‚ў‚ў‚¶‚б‚И‚ў‚©ЃB</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@‘SЌ‘‚¶‚б‚И‚­‚ї‚б‚ѕ‚Я‚И‚с‚ѕ‚жЃB</p>
-    
-    
-    <p class="a2">ђі•FЃ@‚З‚¤‚µ‚Д‚»‚с‚И‚Й‘SЌ‘‚Й‚±‚ѕ‚н‚й‚с‚ѕЃH</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@Ѓc‘SЌ‘‚рѓvѓЊѓ[ѓ“ѓg‚µ‚Ѕ‚ў‚с‚ѕЃB–нђ¶ђжђ¶‚ЙЃB</p>
-    
-    
-    <p class="a2">ђі•FЃE–нђ¶Ѓ@Ѓ@ЃI</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@Ћ„’B‚М‚Ѕ‚Я‚Й‚±‚МЊЂ‚рЏ‘‚ў‚Д‚­‚к‚ЅЃA‘еЌD‚«‚И–нђ¶ђжђ¶‚ЙЃA‘SЌ‘‚рѓvѓЊѓ[ѓ“ѓg‚µ‚Ѕ‚ў‚с‚ѕЃB</p>
-    
-    
-    <p class="a2">ђі•FЃ@‚»‚Б‚©Ѓc</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@Ѓc</p>
-    
-    
-    <p class="a2">ђі•FЃ@‚Е‚а–нђ¶ЃAЉм‚Ф‚©‚ИЃA‚»‚МѓvѓЊѓ[ѓ“ѓgЃB</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@Ѓc</p>
-    
-    
-    <p class="a2">ђі•FЃ@ѓЊѓC‚рЉO‚µ‚ДЌs‚Ї‚Ѕ‘SЌ‘ЃB</p>
-    
-    
-    <p class="a2">‹ћ‰ФЃ@Ѓc</p>
-    
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅФЃAпїЅSпїЅпїЅпїЅЙЌsпїЅпїЅпїЅИ‚пїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅSпїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅб‚ѕпїЅЯ‚И‚с‚ѕ‚пїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЗ‚пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅИ‚Й‘SпїЅпїЅпїЅЙ‚пїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃH</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅcпїЅSпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅ[пїЅпїЅпїЅgпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃBпїЅнђ¶пїЅжђ¶пїЅЙЃB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅEпїЅнђ¶пїЅ@пїЅ@пїЅI</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅпїЅпїЅBпїЅМ‚пїЅпїЅЯ‚Й‚пїЅпїЅМЊпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅД‚пїЅпїЅк‚ЅпїЅAпїЅпїЅDпїЅпїЅпїЅИ–нђ¶пїЅжђ¶пїЅЙЃAпїЅSпїЅпїЅпїЅпїЅпїЅvпїЅпїЅпїЅ[пїЅпїЅпїЅgпїЅпїЅпїЅпїЅпїЅпїЅпїЅс‚ѕЃB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅпїЅc</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅc</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅЕ‚пїЅпїЅнђ¶пїЅAпїЅпїЅФ‚пїЅпїЅИЃAпїЅпїЅпїЅМѓvпїЅпїЅпїЅ[пїЅпїЅпїЅgпїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅc</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅCпїЅпїЅпїЅOпїЅпїЅпїЅДЌsпїЅпїЅпїЅпїЅпїЅSпїЅпїЅпїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅФЃ@пїЅc</p>
+
     <br />
-    
-    <p class="a1">‚»‚МЋћЃAѓЊѓC‚Є•”Ћє‚Й”т‚СЌћ‚с‚Е‚­‚йЃB</p>
-    
-    
-    <p class="a1">ѓЊѓC‚Н‘–‚Б‚Д‚«‚Ѕ‚ж‚¤‚ѕЃBѓЊѓC‚М‘§‚ЄЌr‚ўЃB</p>
-    
+
+    <p class="a1">пїЅпїЅпїЅМЋпїЅпїЅAпїЅпїЅпїЅCпїЅпїЅпїЅпїЅпїЅпїЅпїЅЙ”пїЅСЌпїЅпїЅпїЅЕ‚пїЅпїЅпїЅB</p>
+
+
+    <p class="a1">пїЅпїЅпїЅCпїЅН‘пїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅж‚¤пїЅпїЅпїЅBпїЅпїЅпїЅCпїЅМ‘пїЅпїЅпїЅпїЅrпїЅпїЅпїЅB</p>
+
     <br />
-    
-    <p class="a2">ђі•FЃ@ѓЊѓCЃB</p>
-    
-    
-    <p class="a2">ѓЊѓCЃ@ђі•Fђж”yЃBЋ„ЃA”nЋ­‚ѕ‚©‚з‚і‚Б‚«‚НЋv‚ўЏo‚№‚И‚©‚Б‚Ѕ‚Ї‚ЗЃAђE€хЋє‚Е€ЙЏW‰@ђжђ¶‚МЉч‚рЊ©‚ДЋv‚ўЏo‚µ‚Ь‚µ‚ЅЃB€ЙЏW‰@ђжђ¶‚Є‚ў‚И‚ўЉФЃA‚ ‚МђИ‚ЙЌА‚Б‚Д‚ў‚ЅЋ„‚М‘еЌD‚«‚ИђlЃB‚Е‚аЃcЌЎ‚Н‚а‚¤‚ў‚И‚ўђlЃB‘еЌD‚«‚ѕ‚Б‚Ѕ‚М‚ЙЃAЌЎ‚Е‚аЌD‚«‚И‚М‚ЙЃAЋЂ‚с‚¶‚б‚Б‚ЅђlЃB</p>
-    
-    
-    <p class="a2">ђі•FЃ@‚»‚к‚Б‚ДЃc</p>
-    
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅCпїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅCпїЅ@пїЅпїЅпїЅFпїЅпїЅyпїЅBпїЅпїЅпїЅAпїЅnпїЅпїЅпїЅпїЅпїЅпїЅпїЅз‚іпїЅпїЅпїЅпїЅпїЅНЋvпїЅпїЅпїЅoпїЅпїЅпїЅИ‚пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅЗЃAпїЅEпїЅпїЅпїЅпїЅпїЅЕ€ЙЏWпїЅ@пїЅжђ¶пїЅМЉпїЅпїЅпїЅпїЅпїЅпїЅДЋvпїЅпїЅпїЅoпїЅпїЅпїЅЬ‚пїЅпїЅпїЅпїЅBпїЅЙЏWпїЅ@пїЅжђ¶пїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅФЃAпїЅпїЅпїЅМђИ‚ЙЌпїЅпїЅпїЅпїЅД‚пїЅпїЅпїЅпїЅпїЅпїЅМ‘пїЅDпїЅпїЅпїЅИђlпїЅBпїЅЕ‚пїЅпїЅcпїЅпїЅпїЅН‚пїЅпїЅпїЅпїЅпїЅпїЅИ‚пїЅпїЅlпїЅBпїЅпїЅDпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅМ‚ЙЃAпїЅпїЅпїЅЕ‚пїЅпїЅDпїЅпїЅпїЅИ‚М‚ЙЃAпїЅпїЅпїЅс‚¶‚пїЅпїЅпїЅпїЅпїЅlпїЅB</p>
+
+
+    <p class="a2">пїЅпїЅпїЅFпїЅ@пїЅпїЅпїЅпїЅпїЅпїЅДЃc</p>
+
     <br />
-    
-     
-    
-    <p class="a2">Ѓ@Ѓ@Ѓ@Ѓ@Ѓ@‘±‚­</p>
-    
+
+
+
+    <p class="a2">пїЅ@пїЅ@пїЅ@пїЅ@пїЅ@пїЅпїЅпїЅпїЅ</p>
+
   </div>
 </div>
 </body>
