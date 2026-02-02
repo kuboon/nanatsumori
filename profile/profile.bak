@@ -132,9 +132,7 @@ div .j{
             <li><B>青空</B>　　　 ２００７年子どもが上演する劇　脚本募集　<font color="#ff0000">入選</font>
 
             <li><b>ずっとそばにいるよ</b>　２０１６関東中学校演劇コンクール　<font color="#ff0000">創作脚本賞</font>
-            <li><B>アトム</B>　　　 ２０１４関東中学校演劇コンクール　<font color="#ff0000">創作脚本賞</font>
-
-            <li><B>ふるさと</B>　　　 ２０１２関東中学校演劇コンクール　<font color="#ff0000">創作脚本賞</font>
+            <li><B>アトム</B>　　　 ２０１４関東中学校演劇コンクール　<font color="#ff0000">創作脚本賞</font> s<li><B>ふるさと</B>　　　 ２０１２関東中学校演劇コンクール　<font color="#ff0000">創作脚本賞</font>
 
             <li><B>化鳥伝説</B>　　１９９６年子どもが上演する劇　脚本募集 <font color="#ff0000">入選</font>
 
@@ -307,12 +305,12 @@ div .j{
     <!-- navi end --><!-- aside -->
     <div id="hpb-aside">
       <div id="banner" style="text-align : center;" align="center">
-        <p class="border1" style="text-align : center;" align="center"><b>最新作 「カラーズ」</b> <img src="「カラーズ」フライヤー・市民芸術祭_ページ_1.jpg" width="190" border="0"></p>
- <p class="border1" style="text-align : center;" align="center"><b>久喜市立中央図書館上演 <br>
+        <p class="border1" align="center" style="text-align : center;margin-bottom : 0px;border-left-width : 10pt;border-right-width : 10pt;border-color : blue;"><b>最新作 「カラーズ」</b> <img src="「カラーズ」フライヤー・市民芸術祭_ページ_1.jpg" width="190" border="0"></p>
+        <p class="border1" align="center" style="text-align : center;margin-bottom : 0px;border-left-width : 10pt;border-right-width : 10pt;border-color : blue;"><b>久喜市立中央図書館上演 <br>
         「ラビリンス」</b> <img src="｢ラビリンス｣フライヤー完成版.jpg" width="190" border="0"></p>
- <p class="border1" style="text-align : center;" align="center"><b>ブックハウスカフェ上演 「カンパネラ」</b> <img src="カンパネラflyer_2025_fix.jpg" width="190" border="0"></p>
- <p class="border1" style="text-align : center;" align="center"><b>サイトウトシオ作品集 「バタフライ」</b> <img src="image8.jpg" width="190" border="0"></p>
- <p class="border1" style="text-align : center;" align="center"><b>斉藤俊雄作品集 「夏休み」</b> <img src="natsu1.jpg" width="190" height="270" border="0"></p>
+        <p class="border1" style="text-align : center;" align="center"><b style="border-top-color : yellow;">ブックハウスカフェ上演 「カンパネラ」</b> <img src="カンパネラflyer_2025_fix.jpg" width="190" border="0" style="border-color : blue;"></p>
+        <p class="border1" align="center" style="text-align : center;border-color : aqua;"><b>サイトウトシオ作品集 「バタフライ」</b> <img src="image8.jpg" width="190" border="0"></p>
+        <p class="border1" style="text-align : center;" align="center"><b>斉藤俊雄作品集 「夏休み」</b> <img src="natsu1.jpg" width="190" height="270" border="0"></p>
         <p class="border4" style="text-align : center;" align="center"><b>斉藤俊雄作品集２「七つ森」</b><br>
         <img src="nanatsumori.jpg" width="195" height="277" border="0"></p>
 <p class="border1" style="text-align : center;" align="center"><b>斉藤俊雄作品集３「ふるさと」</b><br>
