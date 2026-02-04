@@ -101,7 +101,7 @@
     background-color: #ffffff;
 }
 
-#hpb-footerExtra1:after{
+#hpb-footerExtra1::after{
     content: ".";
     clear: both;
     height: 0;
@@ -464,7 +464,7 @@ hr{
     padding-bottom: 3px;
     padding-left: 2px;
     text-align: left;
-    color: #5EAF10;
+    color : blue;
     font-size: 1.17em;
 }
 
@@ -654,7 +654,7 @@ input.s{
     height: 20px;
 }
 
-#hpb-main dl:after{
+#hpb-main dl::after{
     content: ".";
     clear: both;
     height: 0;
@@ -754,7 +754,7 @@ input.s{
     margin: 0;
 }
 
-#hpb-wrapper #toppage-item .itemlist:after{
+#hpb-wrapper #toppage-item .itemlist::after{
 	content: ".";
 	clear: both;
 	height: 2px;
@@ -897,7 +897,7 @@ input.s{
     margin-left: auto;
 }
 
-#item .itemlist:after{
+#item .itemlist::after{
     content: ".";
     clear: both;
     height: 0;
