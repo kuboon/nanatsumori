@@ -1,0 +1,450 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="description" content="「七つ森」は中学生が演じたときにもっとも輝くことができる劇創りを扱った中学校演劇のサイトです。中学生のための脚本を紹介しています。ビブリオドラマ(本のあるところで上演される、本に関するドラマ)や絵本ドラマリーディングの取り組み。またそれらを統合したビブリオ劇場の実践についてのサイトでもあります">
+<meta name="keywords" 中学生,中学校,演劇,脚本,台本,サイトウトシオ,斉藤俊雄,ビブリオドラマ,絵本ドラマリーディング,ビブリオ劇場,演劇部,文化祭"=" contens=">
+<meta name=" GENERATOR">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.5.0 for Windows">
+<title>中学生とつくる演劇　七つ森</title>
+<link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="container_2Ca_2c_top1.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="main_2Ca_2c1.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="user.css" type="text/css" id="hpbuser">
+
+<STYLE type="text/css">
+<!--
+.border1{
+	border-style:solid; border-color : green; background-color:white;
+   border-width:10pt 12pt 10pt 12pt; padding:0pt 0pt 0pt 0pt;
+}
+.border2{
+	border-style:solid; border-color:green; background-color:white;
+   border-width:10pt 12pt 10pt 12pt; padding:0pt 0pt 0pt 0pt;
+}
+.border2{
+	border-style:solid; border-color:greenyellow; background-color:#f0fff0;
+   border-width:8pt 4pt 2pt 16pt; padding:0pt 0pt 0pt 10pt;margin:1% 5% 0% 5%;
+}
+.border3{
+	border-style:solid; border-color:blue; background-color:white;
+   border-width:10pt 12pt 10pt 12pt; padding:0pt 0pt 0pt 0pt;
+}
+.border4{
+	border-style:solid; border-color:orange; background-color:white;
+   border-width:10pt 12pt 10pt 12pt; padding:0pt 0pt 0pt 0pt;
+}
+.border5{
+	border-style:solid; border-color:richblue; background-color:#f0fff0;
+   border-width:8pt 4pt 2pt 16pt; padding:0pt 0pt 0pt 10pt;margin:1% 5% 0% 5%;
+}
+.pt{
+	font:''; border-style:none; background-color:white; line-height:18pt;
+}
+.pl{
+	font:''; border-style:none; background-color:white; line-height:15pt;
+margin:1% 5% 0% 5%;
+}
+
+
+ .border6{
+	border-style:solid; border-color:darkcyan; background-color:white;
+   border-width:2pt 2pt 2pt 2pt; margin:1% 5% 0% 5%;
+}
+div{
+	color:#000;
+}
+div{
+	font-family:arial,sans-serif;
+}
+div{
+	line-height:120%;
+}
+.g{
+	margin:1em 0;
+}
+td{
+	color:#000;
+}
+td{
+	font-family:arial,sans-serif;
+}
+.j{
+	width:34em;
+}
+div .j{
+	line-height:120%;
+}
+
+.border21{
+	border-style:inset; border-color:green; background-color:lightgreen;
+   border-width:8pt 4pt 2pt 16pt; padding:0pt 0pt 0pt 10pt;margin:1% 5% 0% 5%;
+}
+.border22{
+	border-style:inset; border-color:greenyellow; background-color:#f0fff0;
+   border-width:8pt 4pt 2pt 16pt; padding:0pt 0pt 0pt 10pt;margin:1% 5% 0% 5%;
+}
+.border23{
+	border-style:inset; border-color:blue; background-color:#f0fff0;
+   border-width:8pt 4pt 2pt 16pt; padding:0pt 0pt 0pt 10pt;margin:1% 5% 0% 5%;
+}
+.border24{
+	border-style:inset; border-color:goldenrod; background-color:#f0fff0;
+   border-width:8pt 4pt 2pt 16pt; padding:0pt 0pt 0pt 10pt;margin:1% 5% 0% 5%;
+}
+.border25{
+	border-style:inset; border-color:richblue; background-color:#f0fff0;
+   border-width:8pt 4pt 2pt 16pt; padding:0pt 0pt 0pt 10pt;margin:1% 5% 0% 5%;
+}
+.pt{
+	font:''; border-style:none; background-color:white; line-height:18pt;
+}
+.pl{
+	font:''; border-style:none; background-color:white; line-height:15pt;
+margin:1% 5% 0% 5%;
+}
+
+
+ .border6{
+	border-style:solid; border-color:darkcyan; background-color:white;
+   border-width:2pt 2pt 2pt 2pt; margin:1% 5% 0% 5%;
+}
+div{
+	color:#000;
+}
+div{
+	font-family:arial,sans-serif;
+}
+div{
+	line-height:120%;
+}
+.g{
+	margin:1em 0;
+}
+td{
+	color:#000;
+}
+td{
+	font-family:arial,sans-serif;
+}
+.j{
+	width:34em;
+}
+div .j{
+	line-height:120%;
+}
+-->
+</STYLE>
+</head>
+<body id="hpb-template-02-03a-01" class="hpb-layoutset-01">
+<div id="hpb-skip">本文へスキップ</div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header" style="text-align : right;" align="right">
+    <div id="hpb-headerLogo" style="text-align : right;" align="right"><img src="logo114.gif" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;
+	width : 346px;
+	height : 51px;
+" alt="中学生と ともに創る演劇"> </div>
+    <div id="hpb-headerExtra1" style="text-align : right;" align="right">
+      <!--タグはここから-->
+      <table border="0" cellspacing="0" cellpadding="0"><tr>
+          <td style="text-align : right;
+	width : 409px;
+" align="right" height="27"><b><span style="color : #ff0000;
+	font-size : 150%;
+">2026.2.9New</span></b></td>
+        </tr></table>
+      <!--ここまで-->
+    </div>
+    <img src="logo111.gif" width="154" height="54" border="0" style="border-top-width : 0px;border-left-width :
+0px;border-right-width : 0px;border-bottom-width : 0px;" alt="七つ森">
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title" class="hpb-top-image">
+        <h2>七つ森は、中学生が演じたときにもっとも輝くことができる「中学生とともに創る演劇」のサイトです。</h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <!-- toppage -->
+        <div id="toppage">
+          <img src="logo11.gif" width="524" height="43" border="0" style="border-top-width : 0px;border-left-width :
+ 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="中学生が演じることで　輝く劇を求めて">
+          <div class="pt" style="text-align : left;" align="left"><span style="font-size:10.0pt">★<b><font color="#ff0000">「中学生とともに創る演劇　七つ森」</font></b></span><span style="font-size:10.0pt;
+	color : #000000;
+"><b>は</b></span><span style="font-size:10.0pt"><b>中学生が演じることで輝ける劇(<font color="#ff0000">中学生が演じるからこそ笑え、中学生が演じるからこそ感動がある劇</font>)の舞台となる場所(サイト)です。<br>
+          管理人のサイトウトシオ(斉藤俊雄)が中学生と取り組んでいる劇とその脚本、上演記録等を紹介しています。<br>
+          また、中学生が学校を飛び出して、地域、社会戸繋がるため取り組みを始めた(その取り組みを全国に広めるために、逆説的に関東・全国大会の舞台から離れる選択をして取り組を始めた)</b></span><span style="font-size:10.0pt;
+	color : #ff0000;
+"><b>ビブリオドラマ</b></span><span style="font-size:10.0pt"><b>(本があるところで演じられる、本に関するドラマ)、</b></span><span style="font-size:10.0pt;
+	color : #ff0000;
+"><b>絵本ドラマリーディング</b></span><span style="font-size:10.0pt"><b>、その２つの取り組みを統合した</b></span><span style="font-size:10.0pt;
+	color : #ff0000;
+"><b>ビブリオ劇場</b></span><span style="font-size:10.0pt"><b>や</b></span><span style="font-size:10.0pt;
+	color : #0000ff;
+"><b>SHO-GEKI</b></span><span style="font-size:10.0pt"><b>(</b></span><span style="font-size:10.0pt;
+	color : #009999;
+"><b>小劇</b></span><span style="font-size:10.0pt"><b>=小さな劇が集まり、</b></span><span style="font-size:10.0pt;
+	color : #009999;
+"><b>Show劇</b></span><span style="font-size:10.0pt"><b>=ダンス、合唱などのパフォーミングアーツが入り、</b></span><span style="font-size:10.0pt;
+	color : #009999;
+"><b>笑劇</b></span><span style="font-size:10.0pt"><b>=コントのような笑いがあり、</b></span><span style="font-size:10.0pt;
+	color : #009999;
+"><b>衝撃</b></span><span style="font-size:10.0pt"><b>=観る側、上演する側になんらかの衝撃がある 劇)についても紹介しています。 <br>
+          大切にしている言葉は<span style="color : #000000;">「</span><span style="color : #ff0000;">競争より共創</span><span style="color : #000000;">」、「</span><span style="color : #ff0000;">Battle より Shuttle</span><span style="color : #000000;">」</span>です。<br>
+            </b></span>
+            <div id="toppage-item" style="text-align : left;" align="left">
+              <h3 style="text-align : left;"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt"><span class="en"><span style="font-size:10.0pt"><span class="en" style="color : #000000;">FUTURE </span><span class="en">　</span></span></span><span class="en" style="color : #000000;">今後の上演日程(久喜市立太東中学校ゲキ部)<br>
+              </span></span></b></span></h3>
+              <ul>
+                <li><span style="font-size:10.0pt"><b>２０２６年８月１８日(火)　『カラーズ』　作・サイトウトシオ<br>
+                久喜市立中央図書館の休館日に図書館全体を舞台に上演　プロマジシャン・ザッキーさんとのコラボ<br>
+                ※詳細はこれから </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２６年７月３１日(金)　『カラーズ』　作・サイトウトシオ　<br>
+                日本の絵本の聖地・ブックハウスカフェで上演　プロマジシャン・ザッキーさんとコラボ<br>
+                時間　１回目13:00　２回目15:00 ※詳細はこれから　★申し込みが必要です </b></span>
+                <li><span style="font-size:10.0pt"><b><span style="color : #000000;">２０２６年７月２６日(日)　久喜市立太東中学校ゲキ部自主公演<br>
+                場所　栗橋文化会館イリス　　　※詳細はこれから </span></b></span>
+                <li><span style="font-size:10.0pt"><b><span style="color : #000000;">２０２６年７月２５日(土)　太東中学校ゲキ部主催埼玉県演劇交流会<br style="clear : none;">
+                場所　栗橋文化会館イリス　　　※詳細はこれから </span></b></span>
+                <li><span style="font-size:10.0pt"><b><span style="color : #000000;">２０２６年４月１２日(土)　ビブリオ劇場「絵本ドラマリーディングvol.2」<br>
+                久喜市立中央図書館視聴覚室</span>　　※詳細はこれから </b></span>
+                <li><span style="font-size:10.0pt"><b><span style="color : #000000;">２０２６年３月１４日(土)　ビブリオ劇場『アトム』　作・サイトウトシオ　)<br style="clear : none;">
+                まちライブラリー@みんなのふくろう食堂(池袋)での上演　</span><br>
+                太東中ゲキ部の上演は14:00～<br>
+                開場　12:30 　太東中学校発表の前に絵本の読み聞かせとバイオリンの演奏が13:00～あります。<br>
+                申し込みが必要です※　詳細はこれから </b></span>
+              </UL>
+              <h3 style="text-align : left;"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt;
+	color : #000000;
+"><span class="en"><span style="font-size:10.0pt;"><span class="en">hiSTORY 　　過去の上演記録</span></span>(久喜市立太東中学校ゲキ部)<br>
+              </span></span>　</b></span></h3>
+              <ul>
+                <li><span style="font-size:10.0pt"><b>２０２６日１月１８日(日)　『カラーズ』　作・サイトウトシオ<br>
+                市民芸術祭での上演　場所　久喜総合文化会館小ホール　プロマジシャン・ザッキーさんとのコラボ </b></span>
+                <li><span style="font-size:10.0pt"><b><span style="color : #000000;">２０２５年１２月９日(日)　『演劇的読み聞かせvol.1』演出・サイトウトシオ　<br style="clear : none;">
+                久喜市立中央図書館昇格室で演劇的な絵本の読み聞かせを行う　 →「ビブリオ劇場」に発展 </span></b></span>
+                <li><span style="font-size:10.0pt"><b>２０２５年１１月１日(土)　『カラーズ』　作・サイトウトシオ　<br>
+                オレンジコンサートでの上演　場所　久喜中央コミュニティセンタ　プロマジシャン・ザッキーさんとのコラボ </b></span>
+                <li><span style="font-size:10.0pt"><b><span style="color : #000000;">２０２５年８月１９日(火)　『ラビリンス』　作・サイトウトシオ<br>
+                久喜市立太東中学校ゲキ部＆ミュージック・クラウンみまさん＆プロマジシャンizumaさん　コラボ上演<br style="clear : none;">
+                久喜市立中央図書館の休館日に図書館を貸し切っての上演　卒業生も参加　★読売新聞で紹介される </span></b></span>
+                <li><span style="font-size:10.0pt"><b><span style="color : #000000;">２０２５年８月７日(火)　『カンパネラ』　作・サイトウトシオ　<br>
+                久喜市立太東中学校ゲキ部 ＆プロピアニスト光木彩乃さん<br style="clear : none;">
+                ブックハウスカフェ(日本の絵本の聖地)での上演　</span>　卒業生も参加する </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２５年７月２６日(土)　『ラビリンス』　＆ミニ・ボードビルショー<br>
+                久喜市立太東中学校ゲキ部＆<span style="color : #000000;">＆ミュージック・クラウンみまさん＆プロマジシャンizumaさん　コラボ上演</span><br>
+                場所　栗橋文化会館イリス　卒業生も劇に参加 </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２５年７月２５日(金)　『ゲキを止めるな！影と光編』　作・サイトウトシオ<br>
+                久喜市立太東中学校ゲキ部主催　埼玉県演劇交流会　場所　栗橋文化会館イリス </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２５年３月２９日(土)　ビブリオドラマ『ゲキを止めるな』　作・サイトウトシオ<br>
+                まちライブラリー@みんなのふくろう食堂(池袋)での上演　卒業生が劇に参加する </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２５年３月２３日(日)　ビブリオドラマ『Book Birds　本を届ける鳥たち』作・サイトウトシオ<br>
+                Book ＆　Cafe 里葉(大塚)　での上演　卒業生が劇に参加する　　 </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２５年１月２５日(土)　『カンパネラ』　『ビブリオドラマBook Birds 本を届ける鳥たち」　作・サイトウトシオ<br>
+                太東中学校ゲキ部自主公演　ゲキ部＆プロのピアノデュオ光木彩乃さん・光木崇人さんとのコラボ<br>
+                卒業生が劇に参加する　　場所　栗橋文化会館イリス </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２５年１月１９日(日)　ビブリオドラマ『ゲキを止めるな』　作・サイトウトシオ　市民芸術祭<br>
+                ★はじめて卒業生が劇に参加する
+                </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２４年１２月２６日　ビブリオドラマ『Book Birds 本を届ける鳥たち』　作・サイトウトシオ<br>
+                埼玉県大会　※最後の埼玉県大会となる　この後大会は演劇交流会に移行 </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２４年１１月２日(土)　『カンパネラ』　作・サイトウトシオ<br>
+                太東中学校ゲキ部自主公演　ゲキ部＆プロのピアノデュオ光木彩乃さん・光木崇人さんとのコラボ<br>
+                オレンジコンサート </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２４年７月７日(土)　『ビブリオドラマ２０２４』　作・サイトウトシオ<br>
+                まちライブラリー@アトリア参宮橋で上演　★この日、ビブリオドラマが学校を飛び出し本のある場所で上演 </b></span>
+                <li><span style="font-size:10.0pt"><b>２０２３年１２月９日(土)　『セブン』　沖縄全国大会での上演<br>
+                ★太東中学校ゲキ部はこの上演を最後に大会という枠の外側での活動(中心はビブリオドラマ)を始めました<br>
+                </b></span>
+              </UL>
+              <h3 style="text-align : left;"><span style="font-size:10.0pt"><b>　<span style="color : #000000;">サイトウトシオ DRAMA SELECTION「バタフライ」十代に贈るドラマ</span>　　<br>
+              </b></span></h3>
+              <p class="pt" style="color : #000000;"><span style="font-size:10.0pt"><b><img src="butterfly.jpg" border="0" align="right" style="border-color : blue;
+	width : 210px;
+	height : 299px;
+"><span style="color : #0000ff;">なつの思い出</span>　……太平洋戦争が終わって４年後の１９４９年(昭和２４年)のドラマです。　最新中学校創作脚本集２０１８収録作品　神奈川全国大会参加作品<br>
+              <span style="color : #0000ff;">イマジン</span>……アメリカ同時多発テロ事件が起きた２００１年のドラマです。　中学校創作脚本集２０１９収録作品　　富山全国大会参加作品<br>
+              <span style="color : #0000ff;">セブン</span>　……ボブ・ディランがノーベル文学賞を受賞した２０１６年のドラマです。中学校創作脚本集２０２４収録予定作品　沖縄全国大会参加作品<br>
+              <span style="color : #0000ff;">応援歌</span>　……新型コロナウィルス感染拡大阻止のため全国の学校が休校となった２０２０年のドラマです。中学校創作脚本集２０２１収録作品　　岩手全国大会参加作品<br>
+              <span style="color : #0000ff;">ゲキを止めるな！</span>……コロナウィルス感染拡大阻止のために緊急事態宣言が複数回出された２０２１年のドラマです。中学校創作脚本集２０２０収録作品　　福岡全国大会参加作品<br>
+              <span style="color : #0000ff;">バタフライ</span>　　……ロシアがウクライナに侵攻した、２０２２年とその前後のドラマです。　中学校創作脚本集２０２３収録作品<br>
+              <span style="color : #0000ff;">SHO-GEKI作品集</span>　……小劇＆Show劇＆笑劇＆衝撃の短い作品集です　中学校創作脚本集２０２２収録作品</b></span></p>
+              <h3 style="text-align : left;"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt;
+	color : #000000;
+">　ふるさと シリーズ・七つ森の子どもたち」斉藤俊雄作品集３</span><span style="font-size:10.0pt">　</span></b></span></h3>
+              <p class="pt"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt"><img src="image2.jpg" border="0" align="right" style="width : 219px;height : 312px;"> 下の題名をクリックすると、「斉藤俊雄作品集３　ふるさと」収録作品のあらすじと脚本を途中まで読むことができます。<br>
+              　「<a href="daihon/daihon-top2.html#furusato" target="_blank">ふるさと</a>」<br>
+              　「<a href="daihon/daihon-top2.html#atom" target="_blank">アトム</a>」<br>
+              　「<a href="daihon/daihon-top2.html#Happy Birthday">Happy Birthday</a>」<br>
+              　「<a href="daihon/daihon-top2.html#akatoao" target="_blank">赤と青のレクイエム</a>」<br>
+              　「<a href="daihon/daihon-top2.html#natsuyasumi70">夏休み</a>」戦後七十年改訂バージョン【戦争三部作】<br>
+              　「<a href="daihon/daihon-top2.html#watashinoaozora" target="_blank">私の青空</a>」「青空」戦後七十年バージョン【戦争三部作】<br>
+              　「<a href="daihon/daihon-top2.html#zutto" target="_blank">ずっとそばにいるよ</a>」【戦争三部作】<br>
+              <br>
+              ◆後書き　<a href="daihon/open - atogaki-frusato.pdf" target="_blank">「ふるさと」の後書きという名の劇</a><br>
+              ◆「演劇と教育」２０１６年１０月号<br>
+              　<a href="kiji/furusato shohyo.pdf" target="_blank">本 新刊-旧刊　　斉藤俊雄作品集３「ふるさと」 書評</a><br>
+              </span>★ 「演劇と教育」２０１６年１１月号　<br>
+              　<a href="kiji/furusato to tomoni aruku.pdf" target="_blank">実践記録　「ふるさと」とともに歩く　斉藤俊雄</a><br>
+              </b></span></p>
+              <h3 style="text-align : left;"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt;
+	color : #000000;
+"><span class="en" style="color : #000000;"><span style="font-size:10.0pt">七つ森〜シリーズ・七つ森の子どもたち〜斉藤俊雄作品集２ </span><span style="font-size:10.0pt;
+	color : #000000;
+"><span class="en" style="color : #000000;">　</span></span><span style="color : #000000;"><br>
+              </span></span></span><img src="daihon/nanatsumori.jpg" border="0" align="right" style="width : 220px;height : 314px;"></b></span></h3>
+              <p class="pt"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt">下の題名をクリックすると、「斉藤俊雄作品集２　七つ森」収録作品のあらすじと脚本を途中まで読むことができます。<br>
+              <br>
+              　『<a href="daihon/daihon-top2.html#kecho" target="_blank">七つ森</a>』<br>
+              　『<a href="daihon/daihon-top2.html#tomo" target="_blank">とも</a>』<br>
+              　『<a href="daihon/daihon-top2.html#zaneri" target="_blank">ザネリ</a>』<br>
+              　『<a href="daihon/daihon-top2.html#kaidan" target="_blank">怪談の多い料理店</a>』<br>
+              　『<a href="daihon/daihon-top2.html#majutsu" target="_blank">魔術</a>』<br>
+              　『<a href="daihon/daihon-top2.html#mori" target="_blank">森の交響曲(シンフォニー)</a>』<br>
+              <br>
+              <font color="#000000">「斉藤俊雄作品集２七つ森」後書き 　<a href="daihon/open - atogaki-nanatsumori.pdf" target="_blank">「七つ森　いきものがたり」</a>　<br>
+              </font></span><br>
+              </b></span></p>
+              <h3 style="text-align : left;"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt;
+	color : #000000;
+"><span class="en" style="color : #000000;"><span style="font-size:10.0pt">夏休み〜シリーズ・七つ森の子どもたち〜斉藤俊雄作品集 </span><span style="font-size:10.0pt;
+	color : #000000;
+"><span class="en" style="color : #000000;">　</span></span><span style="color : #000000;"><br>
+              </span></span></span></b></span></h3>
+              <p class="pt"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt"><img src="natsu1.jpg" border="2" align="right" hspace="12" style="margin-left : 3px;margin-right : 3px;
+	width : 217px;
+	height : 304px;
+">２０１６年１０月、重版となりました。<br>
+              下の題名をクリックすると、「斉藤俊雄作品集　夏休み」収録作品のあらすじと脚本を途中まで読むことができます。<br>
+              <font color="#000000">「<a href="daihon/daihon-top2.html#natsuyasumi" target="_blank">夏休み</a>」　 <br>
+              「<a href="daihon/daihon-top2.html#aozora" target="_blank">青空</a>」<br>
+              「<a href="daihon/daihon-top2.html#nattchan" target="_blank">なっちゃんの夏</a>」<br>
+              「<a href="daihon/daihon-top2.html#tokimeki" target="_blank">ときめきよろめきフォトグラフ</a>」<br>
+              「<a href="daihon/daihon-top2.html#hoshizora" target="_blank">降るような星空</a>」<br>
+              「<a href="daihon/daihon-top2.html#haru">春一番</a>」<br>
+              後書き　　<a href="daihon/open - atogake-natsuyasumi.pdf">春一番が吹いた日に〜後書きのためのインタビュー〜</a>　 </font>この作品集がどのような思いから作られたのか、架空のインタビュー形式で紹介します。</span></b></span></p>
+            </div>
+            <div id="toppage-news" style="text-align : left;" align="left">
+              <div id="toppage-item" style="text-align : left;" align="left">
+                <h3><span style="font-size:10.0pt"><b><span style="font-size:10.0pt"><span class="en">NEWS 架空脚本講座</span></span>「子どものための脚本の書き方」</b></span></h3>
+                <ul>
+                  <li>
+                  <p class="pt"><span style="font-size:10.0pt"><b><span style="font-size:10.0pt"><font color="#ff0000"><font size="+1">架空脚本講座<br>
+                  「子どものための脚本の書き方〜七つ森の子どもたちを通して〜」<br>
+                  </font></font>　　◆2012年演劇と教育10月号(晩成書房)に掲載されました。読みたい方は次をクリック→<a href="2012kyakuhon no tsukurikata.pdf" target="_blank"><font size="+1">●</font></a><br>
+                  ■プロローグ<img src="engeki to kyoiku 2012-10.jpg" border="0" align="right" hspace="0" style="width : 320px;height : 320px;">■はじめに演劇部員ありき<br>
+                  ■涙<br>
+                  ■保護者ありき<br>
+                  ■中学校の教師が書く脚本<br>
+                  ■はじめにイメージありき<br>
+                  ■登場人物決定と登場人物表<br>
+                  ■アイディアノートと資料集め<br>
+                  ■プロットとトンネル<br>
+                  ■４色ボールペン<br>
+                  ■声に出す<br>
+                  ■第１稿の配布<br>
+                  ■第２稿から最終稿へ<br>
+                  ■行き詰まったら<br>
+                  ■エピローグ</span></b></span></p>
+                
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="pt" style="text-align : left;" align="left">
+            <div style="text-align : left;" align="left"></div>
+          </div>
+        </div></div>
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav" >
+      <ul>
+        <li id="nav-toppage"><span class="ja"><a href="index.html" target="_blank">トップページ<br>
+        「七つ森」</a></span>
+        <li id="nav-itemlist"><a href="daihon/daihon-top2.html" target="_blank"><span class="ja">自作脚本<br></span></a>
+        <li id="nav-company"><a href="request/request-2011.html" target="_blank"><span class="ja">自作上演校の記録<br>
+       </span></a>
+        <li id="nav-contactus"><a href="daihon/daihon-bibliodrama1.html"><span class="ja">ビブリオ劇場<br>
+        ビブリオドラマ</span></a> <li id="nav-contactus"><a ><span class="ja">SHO-GEKI<br>
+        ショウゲキ</span></a>
+<li id="nav-concept"><a href="profile/profile.html" target="_blank"><span class="ja">管理人プロフィール</span></a>
+<li id="nav-contactus"><span class="ja"><a href="link.htm">LINK</a><br>
+        </span></ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <div id="banner" style="text-align : center;" align="center">
+        <p class="border21"><b><a href="daihon/daihon-top2.html" target="_blank"><img src="logo8.gif" width="98" height="37" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="自作脚本"></a><font color="#000000"><br>
+        中学生のために書かれた、<br>
+        サイトウトシオ(斉藤俊雄)脚本を紹介しています</font></b></p><br>
+        <p class="border21"><a href="request/request-2011.html" target="_blank"><img src="logo9.gif" width="161" height="37" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="自作上演の記録"></a>
+ <b>サイトウトシオ(斉藤俊雄)脚本を上演した(今後上演する)学校・団体、全国・関東で上演された脚本等を紹介しています</b> </p>
+        <br>
+<p class="border21"><b><a href="daihon/daihon-top2.html" target="_blank"><img src="logo6.gif" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;
+	width : 114px;
+	height : 28px;
+" alt="ビブリオ劇場"></a><font color="#000000"><br>
+        <img src="logo7.gif" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;
+	width : 130px;
+	height : 28px;
+" alt="ビブリオドラマ"><br>
+        <img src="logo81.gif" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;
+	width : 164px;
+	height : 22px;
+" alt="絵本ドラマリーディング">「本のあるところで上演される、本に関する劇」の取り組みと</font></b><b><font color="#000000">演劇的な絵本の読み語り」の取り組みを紹介します</font></b></p>
+        <br>
+     <p class="border21"><b><font color="#000000"><img src="logo91.gif" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;
+	width : 152px;
+	height : 35px;
+" alt="SHO-GEKI"><br>
+        ショウゲキという小劇・笑劇・Show劇・衝撃=短い劇の集まりで、笑いがあって、歌やダンスのショー形式で、衝撃がある劇の取り組みを紹介します</font></b><b><font color="#000000"><br>
+        </font></b></p>
+        <br>
+        <p class="border23"><a href="diary/shizengekijo-digest.htm" target="_blank"><img src="logo13.gif" width="149" height="25" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="自然劇場の記録"></a><br>
+        <b>子どもたちの感性を豊かにし、感動する心を育むために演劇部員とともに取り組んでいる自然観察会(名付けて「自然劇場」)の記録です。</b> </p>
+        <br>
+  <p class="border1" align="center" style="text-align : center;margin-bottom : 0px;border-left-width : 10pt;border-right-width : 10pt;border-color : blue;">ビブリオドラマ<b>最新作 「カラーズ」</b><br> <img src="colors.jpg" width="190" border="0"></p><br>
+        <p class="border1" align="center" style="text-align : center;margin-bottom : 0px;border-left-width : 10pt;border-right-width : 10pt;border-color : blue;"><b>久喜市立中央図書館上演 <br>
+        ビブリオドラマ「ラビリンス」</b> <img src="labyrinthlibrary.jpg" width="190" border="0"></p><br>
+ <p class="border1" style="text-align : center;" align="center"><b style="border-top-color : yellow;"> ビブリオドラマ「ラビリンス」</b> <br>
+        <img src="labyrinth1.jpg" width="190" border="0" style="border-color : blue;"></p>
+
+        <p class="border1" style="text-align : center;" align="center"><b style="border-top-color : yellow;">ブックハウスカフェ上演 <br>
+        ビブリオドラマ「カンパネラ」</b> <img src="kanpanera1.jpg" width="190" border="0" style="border-color : blue;"></p>
+        <p class="border1" align="center" style="text-align : center;border-color : aqua;"><b>サイトウトシオ作品集 「バタフライ」</b> <img src="butterfly.jpg" width="190" border="0" style="border-color : blue;"><br>
+        </p>
+        <p class="border3" style="text-align : center;" align="center"><b>久喜中学校演劇部「ふるさと」DVD</b><br>
+        <img src="DVD-4s.jpg" width="196" height="270" border="0"><br>
+        ジャパンライム社</p>
+<p class="border3" style="text-align : center;" align="center"><b>斉藤俊雄作品集３「ふるさと」</b><br>
+        <img src="furusato.jpg" width="194" height="276" border="0">        </p>
+  <p class="border3" style="text-align : center;" align="center"><b>斉藤俊雄・脚本づくりDVD<br>
+        「私の脚本の創り方教えます」</b><br>
+        <img src="DVD-3s.jpg" width="196" height="275" border="0"><br>
+        ジャパンライム社</p>
+        <p class="border3" style="text-align : center;" align="center"><b>斉藤俊雄・演劇指導DVD<br>
+        「感情に台詞を乗せる！即興を活かした演劇指導術」</b><br>
+        <img src="DVD-1.jpg" width="200" height="282" border="0">
+        ジャパンライム社</p>
+    <p class="border4" style="text-align : center;" align="center"><b>斉藤俊雄作品集２「七つ森」</b>
+        <img src="nanatsumori.jpg" width="195" height="277" border="0"></p>
+<p class="border1" style="text-align : center;" align="center"><b>斉藤俊雄作品集 「夏休み」</b> <img src="natsu1.jpg" width="190" height="270" border="0"></p>
+        
+
+      
+</div>
+    </div>
+    <div id="hpb-footer"><a href="#top"><img src="returnTop_2Ca.png" width="130" height="16" border="0"></a>S<br>
+    <br>
+    許可なく、本文、写真を転載しないでください </div>
+    <!-- footer end --><!-- container end --></div>
+</div>
+</body>
+</html>
