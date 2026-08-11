@@ -97,17 +97,13 @@
 
 <style>
 /* サイトウトシオ紹介：ほんもののけキャラクター */
-#profile-intro{
-  max-width:1400px;
-}
 #profile-intro .profile-honmononoke{
   align-items:center;
-  grid-template-columns:minmax(560px,1.15fr) minmax(0,.85fr);
 }
 #profile-intro .profile-honmononoke > img{
-  width:100%;
+  width:min(420px,42%);
   height:auto;
-  max-height:820px;
+  max-height:520px;
   object-fit:contain;
   object-position:center;
   border-radius:0;
@@ -117,12 +113,9 @@
 #profile-intro .profile-honmononoke > div{
   flex:1;
 }
-@media(max-width:900px){
-  #profile-intro .profile-honmononoke{
-    grid-template-columns:1fr;
-  }
+@media(max-width:760px){
   #profile-intro .profile-honmononoke > img{
-    width:min(520px,92%);
+    width:min(330px,88%);
     margin:0 auto 22px;
   }
 }
