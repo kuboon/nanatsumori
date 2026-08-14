@@ -328,7 +328,7 @@ body > p img {
   letter-spacing: -0.01em;
   white-space: nowrap;
 }
-/* 画面が狭い場合は、大切な左右の記録を上下に並べる */
+/* タブレット・スマートフォンでも大切な左右の記録を2列で表示する */
 @media(max-width: 900px) {
   body {
     font-size: 17px !important;
@@ -338,15 +338,21 @@ body > p img {
     width: calc(100% - 16px) !important;
   }
   #hpb-inner {
-    padding-right: 16px !important;
-    padding-left: 16px !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
   }
-  #hpb-wrapper,
-  #hpb-aside {
-    width: 100% !important;
+  #hpb-wrapper {
+    width: 62% !important;
     max-width: none !important;
-    padding-right: 0;
-    float: none !important;
+    padding-right: 10px;
+    float: left !important;
+  }
+  #hpb-aside {
+    width: 38% !important;
+    max-width: none !important;
+    margin-top: 0;
+    padding-left: 8px;
+    float: right !important;
   }
   .record-hero {
     min-height: 0;
@@ -369,9 +375,6 @@ body > p img {
   .record-nav ul {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  #hpb-aside {
-    margin-top: 36px;
-  }
   #hpb-aside b {
     white-space: normal;
   }
@@ -391,7 +394,55 @@ body > p img {
   #hpb-aside b,
   #hpb-aside a,
   #hpb-aside td {
-    font-size: 16px !important;
+    font-size: clamp(13px, 1.9vw, 16px) !important;
+  }
+}
+@media(max-width: 600px) {
+  #hpb-inner {
+    padding-right: 6px !important;
+    padding-left: 6px !important;
+  }
+  #hpb-wrapper {
+    width: 58% !important;
+    padding-right: 6px;
+  }
+  #hpb-aside {
+    width: 42% !important;
+    padding-left: 5px;
+  }
+  #hpb-wrapper,
+  #hpb-wrapper p,
+  #hpb-wrapper li,
+  #hpb-wrapper span,
+  #hpb-wrapper font,
+  #hpb-wrapper b,
+  #hpb-wrapper a,
+  #hpb-wrapper td {
+    font-size: 13px !important;
+    line-height: 1.6 !important;
+  }
+  #hpb-aside,
+  #hpb-aside p,
+  #hpb-aside li,
+  #hpb-aside span,
+  #hpb-aside font,
+  #hpb-aside b,
+  #hpb-aside a,
+  #hpb-aside td,
+  #hpb-aside div {
+    font-size: 12px !important;
+    line-height: 1.55 !important;
+  }
+  #hpb-wrapper ol,
+  #hpb-wrapper ul {
+    padding-left: 1.35em;
+  }
+  #hpb-wrapper li {
+    margin-bottom: 0.45em;
+  }
+  .border6 {
+    padding: 7px 5px !important;
+    border-width: 3px 4px !important;
   }
 }
 </style>
