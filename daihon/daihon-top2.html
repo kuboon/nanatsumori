@@ -615,6 +615,57 @@ body,
   background: #658a78;
   border-radius: 999px;
 }
+.site-page-nav {
+  box-sizing: border-box;
+  width: 900px;
+  max-width: 96%;
+  margin: -16px auto 30px;
+  padding: 8px 10px;
+  background: #eef4e5;
+  border: 1px solid #cfddbc;
+  border-radius: 12px;
+}
+.site-page-nav ul {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  gap: 7px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.site-page-nav li {
+  min-height: 48px;
+  flex: 1 1 120px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.site-page-nav a {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 10px;
+  color: #244b2d !important;
+  font-size: 14px !important;
+  font-weight: 700;
+  line-height: 1.35;
+  text-align: center;
+  text-decoration: none;
+  background: #fff;
+  border: 1px solid #c8d5b8;
+  border-radius: 8px;
+}
+.site-page-nav a:hover,
+.site-page-nav a:focus {
+  color: #fff !important;
+  background: #3f6d46;
+}
 .performance-request-box {
   box-sizing: border-box;
   width: 900px;
@@ -709,6 +760,17 @@ body,
   .script-page-title::after {
     margin-left: auto;
     margin-right: auto;
+  }
+  .site-page-nav {
+    margin: -10px auto 24px;
+    padding: 7px;
+  }
+  .site-page-nav li {
+    flex-basis: calc(50% - 7px);
+  }
+  .site-page-nav a {
+    padding: 8px 6px;
+    font-size: 13px !important;
   }
   .performance-request-box {
     padding: 0 18px 22px;
@@ -823,6 +885,17 @@ body,
 <h1 class="script-page-title">サイトウトシオ（斉藤俊雄）<br/>中学校演劇脚本集</h1>
 </div>
 </header>
+<nav class="site-page-nav" aria-label="メインナビゲーション">
+<ul>
+<li><a href="../index.html">トップページ<br/>「七つ森」</a></li>
+<li><a href="daihon-top2.html">自作脚本</a></li>
+<li><a href="../request/request-2011.html">自作上演校の記録</a></li>
+<li><a href="daihon-bibliodrama1.html">ビブリオ劇場<br/>ビブリオドラマ</a></li>
+<li><a href="daihon-shogeki.html">SHO-GEKI<br/>ショウゲキ</a></li>
+<li><a href="../profile/profile.html">管理人プロフィール</a></li>
+<li><a href="../link.htm">Link</a></li>
+</ul>
+</nav>
 <!-- header -->
 <div id="hpb-header">
 <div id="hpb-headerMain"> <div id="hpb-headerMain"><font color="#000000"><img alt="サイトウトシオ(斉藤俊雄)中学校演劇脚本集" border="0" src="logo13.gif" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;
