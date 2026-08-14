@@ -339,12 +339,490 @@ div .j{
 @media (max-width: 700px) {
   .book-collection-title { font-size: 18px; }
 }
+
+/* 2026-08-14: 作品イラストを大きく見せる2列レイアウト */
+.script-card-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
+.script-card-image {
+  height: 320px;
+}
+@media screen and (max-width: 700px) {
+  .script-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .script-card-image {
+    height: 230px;
+  }
+}
+@media screen and (max-width: 520px) {
+  .script-card-grid {
+    grid-template-columns: 1fr;
+  }
+  .script-card-image {
+    height: auto;
+    aspect-ratio: 4 / 3;
+  }
+  .script-card-title {
+    font-size: 15px;
+  }
+}
+
+/* 2026-08-14: 各脚本紹介のイラストを元画像の縦横比で表示 */
+.border34 img[align="right"],
+.border36 img[align="right"],
+.border38 img[align="right"] {
+  width: 42% !important;
+  max-width: 340px;
+  height: auto !important;
+  margin: 0 0 16px 24px !important;
+  object-fit: contain;
+}
+.border34::after,
+.border36::after,
+.border38::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 560px) {
+  .border34 img[align="right"],
+  .border36 img[align="right"],
+  .border38 img[align="right"] {
+    float: none;
+    display: block;
+    width: 100% !important;
+    max-width: none;
+    margin: 0 auto 16px !important;
+  }
+}
+
+/* 2026-08-14: ページ全体の文字サイズと行間を読みやすく調整 */
+body,
+#hpb-container {
+  font-size: 18px;
+  line-height: 1.8;
+}
+#hpb-container p,
+#hpb-container td,
+#hpb-container li,
+#hpb-container font,
+#hpb-container span {
+  font-size: 18px !important;
+  line-height: 1.8 !important;
+}
+.book-collection-title,
+.book-collection-info h3 {
+  font-size: 22px !important;
+  line-height: 1.55 !important;
+}
+.book-illustration-note {
+  font-size: 17px !important;
+}
+.script-card-title {
+  font-size: 18px !important;
+  line-height: 1.5 !important;
+}
+@media screen and (max-width: 560px) {
+  body,
+  #hpb-container,
+  #hpb-container p,
+  #hpb-container td,
+  #hpb-container li,
+  #hpb-container font,
+  #hpb-container span {
+    font-size: 17px !important;
+  }
+  .book-collection-title,
+  .book-collection-info h3 {
+    font-size: 20px !important;
+  }
+  .script-card-title {
+    font-size: 17px !important;
+  }
+}
+
+/* 2026-08-14: 各脚本紹介を独立したボックスに統一 */
+.work-detail-card {
+  clear: both;
+  margin: 42px 0;
+  padding: 0 26px 26px;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid #d8d2c7;
+  border-radius: 16px;
+  box-shadow: 0 5px 18px rgba(0, 0, 0, .09);
+}
+.work-detail-card > p,
+.work-detail-card > blockquote {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.work-detail-card > .border31,
+.work-detail-card > .border32,
+.work-detail-card > .border37 {
+  margin: 0 -26px 20px !important;
+  padding: 16px 26px !important;
+  border: 0 !important;
+  border-bottom: 1px solid #d8d2c7 !important;
+  border-radius: 0 !important;
+  color: #1f2d28;
+  font-weight: bold;
+  box-shadow: none !important;
+}
+.work-detail-card > .border32 {
+  background: #eaf4ec !important;
+}
+.work-detail-card > .border37 {
+  background: #fff2dc !important;
+}
+.work-detail-card > .border31 {
+  background: #eaf2fb !important;
+}
+.work-detail-card > .border34,
+.work-detail-card > .border36,
+.work-detail-card > .border38 {
+  margin-top: 0 !important;
+  margin-bottom: 16px !important;
+  padding: 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+}
+.script-read-area {
+  clear: both;
+  margin: 24px 0 0 !important;
+  padding: 18px !important;
+  text-align: center !important;
+  background: #f5f7f6 !important;
+  border: 1px solid #d9dfdc !important;
+  border-radius: 10px !important;
+}
+.script-read-area a[href$=".pdf"] {
+  display: inline-block;
+  margin: 10px 6px 0;
+  padding: 11px 24px;
+  color: #fff !important;
+  font-weight: bold;
+  line-height: 1.4 !important;
+  text-decoration: none;
+  background: #356b59;
+  border-radius: 999px;
+  box-shadow: 0 3px 8px rgba(28, 70, 56, .2);
+}
+.script-read-area a[href$=".pdf"]:hover,
+.script-read-area a[href$=".pdf"]:focus {
+  background: #244f41;
+  text-decoration: underline;
+}
+@media screen and (max-width: 560px) {
+  .work-detail-card {
+    margin: 30px 0;
+    padding: 0 18px 20px;
+    border-radius: 12px;
+  }
+  .work-detail-card > .border31,
+  .work-detail-card > .border32,
+  .work-detail-card > .border37 {
+    margin: 0 -18px 18px !important;
+    padding: 14px 18px !important;
+  }
+  .script-read-area {
+    padding: 15px !important;
+  }
+  .script-read-area a[href$=".pdf"] {
+    display: block;
+    margin: 10px 0 0;
+    padding: 12px 16px;
+  }
+}
+
+/* 2026-08-14: ページ上部のタイトルと上演願いを再構成 */
+.legacy-top-slogan,
+#hpb-header,
+.legacy-request-box,
+.legacy-request-box + b {
+  display: none !important;
+}
+.script-page-hero {
+  box-sizing: border-box;
+  width: 900px;
+  max-width: 96%;
+  margin: 26px auto 34px;
+  padding: 34px 38px;
+  display: grid;
+  grid-template-columns: 370px minmax(0, 1fr);
+  gap: 34px;
+  align-items: center;
+  background: linear-gradient(135deg, #edf5ef 0%, #fffaf0 55%, #edf3fa 100%);
+  border: 1px solid #d7ded8;
+  border-radius: 18px;
+  box-shadow: 0 7px 22px rgba(44, 61, 53, .11);
+}
+.script-page-visual {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  align-items: center;
+}
+.script-page-visual img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center;
+  background: #fff;
+  border: 5px solid #fff;
+  border-radius: 9px;
+  box-shadow: 0 8px 20px rgba(31, 49, 41, .22);
+}
+.script-page-visual img:nth-child(1) {
+  transform: none;
+}
+.script-page-visual img:nth-child(2) {
+  transform: none;
+}
+.script-page-visual img:nth-child(3) {
+  transform: none;
+}
+.script-page-heading {
+  text-align: left;
+}
+.script-page-kicker {
+  margin: 0 0 13px !important;
+  color: #567065;
+  font-size: 17px !important;
+  font-weight: bold;
+  letter-spacing: .12em;
+}
+.script-page-title {
+  margin: 0;
+  color: #233a32;
+  font-family: "Yu Mincho", "Hiragino Mincho ProN", serif;
+  font-size: 36px;
+  line-height: 1.45;
+  letter-spacing: .035em;
+  text-shadow: 0 1px 0 #fff;
+}
+.script-page-title::after {
+  content: "";
+  display: block;
+  width: 86px;
+  height: 3px;
+  margin: 22px 0 0;
+  background: #658a78;
+  border-radius: 999px;
+}
+.performance-request-box {
+  box-sizing: border-box;
+  width: 900px;
+  max-width: 96%;
+  margin: 0 auto 42px;
+  padding: 0 30px 30px;
+  text-align: left;
+  background: #fff;
+  border: 1px solid #cfd9d4;
+  border-radius: 16px;
+  box-shadow: 0 5px 18px rgba(0, 0, 0, .08);
+}
+.performance-request-box h2 {
+  margin: 0 -30px 22px;
+  padding: 17px 30px;
+  color: #fff;
+  font-size: 24px;
+  line-height: 1.5;
+  background: #356b59;
+  border-radius: 15px 15px 0 0;
+}
+.performance-request-intro {
+  margin: 0 0 14px;
+  font-weight: bold;
+}
+.performance-request-list {
+  margin: 0 0 24px;
+  padding-left: 1.8em;
+}
+.performance-request-list li {
+  margin: 0 0 7px;
+  padding-left: .25em;
+}
+.performance-request-contact {
+  margin: 22px 0 !important;
+  padding: 18px !important;
+  text-align: center;
+  background: #f2f7f4;
+  border-radius: 10px;
+}
+.performance-request-contact a {
+  display: inline-block;
+  margin: 8px 0 0;
+  padding: 11px 24px;
+  color: #fff !important;
+  font-weight: bold;
+  text-decoration: none;
+  background: #356b59;
+  border-radius: 999px;
+}
+.performance-request-note {
+  margin: 12px 0 0;
+  color: #38443f;
+}
+@media screen and (max-width: 560px) {
+  .script-page-hero {
+    margin: 16px auto 26px;
+    padding: 22px 16px 28px;
+    display: block;
+    border-radius: 13px;
+  }
+  .script-page-visual {
+    width: 100%;
+    max-width: 100%;
+    gap: 7px;
+    margin: 0 auto 22px;
+  }
+  .script-page-visual img {
+    width: 100%;
+    height: auto;
+    border-width: 4px;
+  }
+  .script-page-visual img:nth-child(1) {
+    transform: none;
+  }
+  .script-page-visual img:nth-child(2) {
+    transform: none;
+  }
+  .script-page-visual img:nth-child(3) {
+    transform: none;
+  }
+  .script-page-heading {
+    text-align: center;
+  }
+  .script-page-kicker {
+    font-size: 15px !important;
+    letter-spacing: .07em;
+  }
+  .script-page-title {
+    font-size: 27px;
+  }
+  .script-page-title::after {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .performance-request-box {
+    padding: 0 18px 22px;
+    border-radius: 12px;
+  }
+  .performance-request-box h2 {
+    margin: 0 -18px 18px;
+    padding: 14px 18px;
+    font-size: 21px;
+    border-radius: 11px 11px 0 0;
+  }
+  .performance-request-contact a {
+    display: block;
+    padding: 12px 14px;
+  }
+}
+
+/* 「バタフライ」収録作品：あらすじ追加前の紹介ボックス */
+.butterfly-detail-group {
+  width: 100%;
+  margin: 52px 0 20px;
+  text-align: left;
+}
+.butterfly-detail-heading {
+  margin: 0 0 22px;
+  padding: 20px 24px;
+  color: #fff;
+  font-size: 26px;
+  line-height: 1.5;
+  text-align: center;
+  background: linear-gradient(135deg, #346a82, #4f7d74);
+  border-radius: 14px;
+  box-shadow: 0 5px 14px rgba(36, 75, 84, .18);
+}
+.butterfly-work-detail {
+  padding: 0 26px 26px;
+}
+.butterfly-work-title {
+  margin: 0 -26px 22px;
+  padding: 16px 26px;
+  color: #173849;
+  font-size: 23px;
+  line-height: 1.5;
+  background: #e7f2f5;
+  border-bottom: 1px solid #cbdcdf;
+}
+.butterfly-work-layout {
+  display: grid;
+  grid-template-columns: minmax(260px, 42%) minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+}
+.butterfly-work-layout img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 9px;
+  box-shadow: 0 4px 13px rgba(0, 0, 0, .13);
+}
+.butterfly-synopsis-placeholder {
+  min-height: 180px;
+  padding: 22px;
+  color: #53605b;
+  background: #f7f8f7;
+  border: 1px dashed #bfcac5;
+  border-radius: 10px;
+}
+.butterfly-synopsis-placeholder strong {
+  display: block;
+  margin-bottom: 8px;
+  color: #2d493f;
+}
+@media screen and (max-width: 700px) {
+  .butterfly-work-layout {
+    grid-template-columns: 1fr;
+  }
+  .butterfly-work-layout img {
+    max-width: 520px;
+    margin: 0 auto;
+  }
+  .butterfly-synopsis-placeholder {
+    min-height: 0;
+  }
+}
+@media screen and (max-width: 560px) {
+  .butterfly-detail-heading {
+    padding: 16px 14px;
+    font-size: 22px;
+  }
+  .butterfly-work-detail {
+    padding: 0 18px 20px;
+  }
+  .butterfly-work-title {
+    margin: 0 -18px 18px;
+    padding: 14px 18px;
+    font-size: 20px;
+  }
+}
 </style></head>
 <body class="hpb-layoutset-02" id="hpb-template-02-03a-01">
-<p align="center" style="text-align : center;"><font color="#000000"><a id="top" name="top"><img alt="中学生が演じることで　輝く劇を求めて" border="0" height="43" src="logo2.gif" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" width="524"/></a></font></p>
+<p align="center" class="legacy-top-slogan" style="text-align : center;"><font color="#000000"><a id="top" name="top"><img alt="中学生が演じることで　輝く劇を求めて" border="0" height="43" src="logo2.gif" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" width="524"/></a></font></p>
 <div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
 <!-- container -->
 <div id="hpb-container">
+<header class="script-page-hero">
+<div class="script-page-visual" aria-label="代表作品のイラスト">
+<img alt="『夏休み』のイラスト" src="img041.jpg"/>
+<img alt="『バタフライ』のイラスト" src="butterfly-illust.jpg"/>
+</div>
+<div class="script-page-heading">
+<p class="script-page-kicker">中学生が演じることで　輝く劇を求めて</p>
+<h1 class="script-page-title">サイトウトシオ（斉藤俊雄）<br/>中学校演劇脚本集</h1>
+</div>
+</header>
 <!-- header -->
 <div id="hpb-header">
 <div id="hpb-headerMain"> <div id="hpb-headerMain"><font color="#000000"><img alt="サイトウトシオ(斉藤俊雄)中学校演劇脚本集" border="0" src="logo13.gif" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;
@@ -384,7 +862,7 @@ div .j{
 </div>
 <!-- header end --><!-- inner -->
 <div align="center" id="hpb-inner" style="text-align : center;">
-<p class="border21"><b><span style="font-size : 150%;">◆上演願いについて<br/>
+<p class="border21 legacy-request-box"><b><span style="font-size : 150%;">◆上演願いについて<br/>
 </span></b><span style="font-size : 120%;"><span style="font-size : 80%;
 	color : #0000ff;
 "><font color="#000000">①上演脚本題名 　②</font></span></span><span style="font-size : 120%;"><span style="font-size : 80%;
@@ -406,6 +884,24 @@ div .j{
 	color : #0000ff;
 ">　 <br/>
 </span></span></b> <!-- wrapper -->
+<section class="performance-request-box" aria-labelledby="performance-request-title">
+<h2 id="performance-request-title">上演願いについて</h2>
+<p class="performance-request-intro">上演を希望される場合は、次の内容をメールでお知らせください。</p>
+<ol class="performance-request-list">
+<li>上演する脚本の題名</li>
+<li>上演団体名</li>
+<li>責任者の氏名・立場（演劇部顧問、学級担任、生徒、保護者、劇団関係者など）</li>
+<li>上演目的・形態（大会、演劇部校内発表、文化祭の学校劇・学年劇・学級劇など）</li>
+<li>上演日・開演時刻</li>
+<li>会場名</li>
+<li>脚色・潤色などの有無、入場料の有無（入場料がある場合は金額）</li>
+</ol>
+<p class="performance-request-contact"><b>サイトウトシオ連絡先</b><br/><a href="mailto:oo-ruri@nifty.com">oo-ruri@nifty.com</a></p>
+<p>内容を確認後、上演許可をメールでお送りします。大会の規約などで署名・捺印が必要な場合は、返信用封筒を同封して上演申請書と上演許可書をお送りください。</p>
+<p>中学生が教育目的で上演する場合、著作権使用料は免除されます。中学生以外でも、無料公演については脚本使用料をいただいておりません。</p>
+<p class="performance-request-note">※題名やラストを別のドラマに変えるような大幅な改変を除き、脚色・潤色や制限時間に合わせたカットは許可しています。</p>
+<p class="performance-request-note">※上演映像は肖像権などの理由から公開していません。久喜市立久喜中学校演劇部による<a href="http://www.japanlaim.co.jp/fs/jplm/gr1088/gd3957" target="_blank">「ふるさと」</a>は、株式会社ジャパンライム社のDVDでご覧いただけます。</p>
+</section>
 <div id="hpb-wrapper" style="text-align : center;">
       　　 　 　
       <div align="left" id="toppage-item" style="text-align : left;">
@@ -821,6 +1317,44 @@ div .j{
 <p align="center" class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0mm; BORDER-TOP: medium none; PADDING-LEFT: 0mm; background : url(none) 0% 0% / auto auto repeat scroll padding-box border-box white; PADDING-BOTTOM: 0mm; BORDER-LEFT: medium none; LINE-HEIGHT: 18pt; PADDING-TOP: 0mm; BORDER-BOTTOM: medium none; TEXT-ALIGN: center; mso-border-alt: solid blue 1.0pt; mso-padding-alt: 5.0pt 30.0pt 5.0pt 30.0pt"><font color="#000000"><b>脚本「春一番」を途中まで読んでみたい方は次をクリック　<a href="16 haruichiban -half.pdf" target="_blank">「春一番」</a></b></font></p>
 </blockquote>
 </p></div>
+<div class="butterfly-detail-group">
+<h2 class="butterfly-detail-heading">脚本集『バタフライ』収録作品</h2>
+
+<section class="work-detail-card butterfly-work-detail" id="natsu-no-omoide">
+<h3 class="butterfly-work-title">なつの思い出</h3>
+<div class="butterfly-work-layout"><img alt="『なつの思い出』のイラスト" src="natsu-no-omoide.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+</section>
+
+<section class="work-detail-card butterfly-work-detail" id="imagine">
+<h3 class="butterfly-work-title">イマジン</h3>
+<div class="butterfly-work-layout"><img alt="『イマジン』のイラスト" src="imagine.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+</section>
+
+<section class="work-detail-card butterfly-work-detail" id="seven">
+<h3 class="butterfly-work-title">セブン</h3>
+<div class="butterfly-work-layout"><img alt="『セブン』のイラスト" src="seven.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+</section>
+
+<section class="work-detail-card butterfly-work-detail" id="ouenka">
+<h3 class="butterfly-work-title">応援歌</h3>
+<div class="butterfly-work-layout"><img alt="『応援歌』のイラスト" src="ouenka.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+</section>
+
+<section class="work-detail-card butterfly-work-detail" id="geki-stop">
+<h3 class="butterfly-work-title">ゲキを止めるな！</h3>
+<div class="butterfly-work-layout"><img alt="『ゲキを止めるな！』のイラスト" src="geki-wo-tomeruna.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+</section>
+
+<section class="work-detail-card butterfly-work-detail" id="butterfly">
+<h3 class="butterfly-work-title">バタフライ</h3>
+<div class="butterfly-work-layout"><img alt="『バタフライ』のイラスト" src="butterfly-illust.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+</section>
+
+<section class="work-detail-card butterfly-work-detail" id="sho-geki">
+<h3 class="butterfly-work-title">SHO-GEKI作品集</h3>
+<div class="butterfly-work-layout"><img alt="『SHO-GEKI作品集』のイラスト" src="sho-geki.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+</section>
+</div>
 <!-- main end -->
 <hr/>
 <a href="#hpb-container">このページの先頭へ</a> <!-- concept end --><!-- main end -->
@@ -835,5 +1369,38 @@ div .j{
 <div id="hpb-footerExtra1"></div>
 <div id="hpb-footerMain"></div>
 </div>
-<!-- footer end --><!-- container end --></body>
+<!-- footer end --><!-- container end -->
+<script>
+(function () {
+  var headingSelector = 'p.border31, p.border32, p.border37';
+  var headings = Array.prototype.slice.call(document.querySelectorAll(headingSelector));
+
+  headings.forEach(function (heading) {
+    if (heading.closest('.work-detail-card')) return;
+
+    var parent = heading.parentNode;
+    var card = document.createElement('section');
+    card.className = 'work-detail-card';
+    card.setAttribute('aria-label', heading.textContent.replace(/\s+/g, ' ').trim());
+    parent.insertBefore(card, heading);
+
+    var node = heading;
+    while (node) {
+      var next = node.nextSibling;
+      if (node !== heading && node.nodeType === 1) {
+        if (node.matches(headingSelector) || node.id === 'hpb-footer' || node.tagName === 'HR') break;
+        if (node.querySelector && node.querySelector('a[href="#hpb-container"]')) break;
+      }
+      card.appendChild(node);
+      node = next;
+    }
+
+    Array.prototype.slice.call(card.querySelectorAll('a[href$=".pdf"]')).forEach(function (link) {
+      var area = link.closest('blockquote') || link.closest('p');
+      if (area) area.classList.add('script-read-area');
+    });
+  });
+}());
+</script>
+</body>
 </html>
