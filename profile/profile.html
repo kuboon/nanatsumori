@@ -76,20 +76,343 @@ div .j{
 }
 -->
 </STYLE>
+<style type="text/css">
+/* プロフィールページの文字と本文幅を読みやすく調整 */
+html {
+  font-size: 100%;
+}
+body {
+  font-size: 18px !important;
+  line-height: 1.8;
+}
+#hpb-container,
+#hpb-header {
+  width: min(1000px, 100%);
+}
+#hpb-container {
+  background: #fff;
+}
+#hpb-header {
+  box-sizing: border-box;
+  height: auto !important;
+  margin: 0;
+  padding: 22px 24px 0 !important;
+  overflow: visible !important;
+  background: none !important;
+}
+.profile-hero {
+  min-height: 245px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  padding: 30px 42px;
+  text-align: left;
+  color: #17391f;
+  background: linear-gradient(135deg, #f7f1df 0%, #eef6df 58%, #dcecc7 100%);
+  border: 1px solid #cadab7;
+  border-radius: 20px;
+  box-shadow: 0 10px 28px rgba(48, 77, 38, 0.14);
+}
+.profile-hero-copy {
+  flex: 1 1 auto;
+}
+.profile-hero-kicker {
+  margin: 0 0 8px;
+  color: #6b7d43;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+.profile-hero h1 {
+  margin: 0 0 12px;
+  color: #183e27;
+  font-family: "Yu Mincho", "Hiragino Mincho ProN", serif;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.3;
+}
+.profile-hero-lead {
+  margin: 0;
+  color: #405541;
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+.profile-hero-character {
+  flex: 0 0 225px;
+  width: 225px;
+  max-height: 215px;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 10px rgba(45, 65, 35, 0.18));
+}
+#hpb-inner {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 78px 30px 40px !important;
+}
+#hpb-title {
+  display: none !important;
+}
+#hpb-nav {
+  box-sizing: border-box !important;
+  top: 12px !important;
+  left: 30px !important;
+  width: calc(100% - 60px) !important;
+  height: auto !important;
+  min-height: 64px;
+  padding: 8px 10px !important;
+  overflow: visible !important;
+  background: #eef4e5 !important;
+  border: 1px solid #cfddbc;
+  border-radius: 12px;
+}
+#hpb-nav ul {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  flex-wrap: wrap;
+  align-items: stretch;
+  gap: 7px;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: visible !important;
+  list-style: none !important;
+}
+#hpb-nav ul li {
+  box-sizing: border-box !important;
+  width: auto !important;
+  height: auto !important;
+  min-height: 48px;
+  flex: 1 1 120px;
+  float: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: visible !important;
+  background: none !important;
+  list-style: none !important;
+}
+#hpb-nav ul li a {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 48px;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 10px !important;
+  color: #244b2d !important;
+  font-size: 14px !important;
+  font-weight: 700;
+  line-height: 1.35 !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  text-decoration: none;
+  white-space: normal !important;
+  overflow: visible !important;
+  background: #fff !important;
+  border: 1px solid #c8d5b8;
+  border-radius: 8px;
+}
+#hpb-nav ul li a:hover,
+#hpb-nav ul li a:focus {
+  color: #fff !important;
+  background: #3f6d46 !important;
+}
+#hpb-wrapper {
+  width: 100% !important;
+  float: none;
+}
+#hpb-main,
+#toppage,
+#toppage-item {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+#hpb-main p,
+#hpb-main li,
+#hpb-main td,
+#hpb-main div,
+#hpb-main span,
+#hpb-main a {
+  line-height: 1.8;
+}
+#hpb-main h3,
+#hpb-wrapper #toppage-item h3,
+#hpb-wrapper #toppage-news h3 {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  height: auto !important;
+  min-height: 58px;
+  display: block !important;
+  font-size: 1.35rem !important;
+  line-height: 1.5 !important;
+  white-space: normal !important;
+  overflow: visible !important;
+  text-indent: 0 !important;
+}
+#hpb-main ul {
+  padding-left: 1.6em;
+}
+#hpb-main li {
+  margin-bottom: 0.65em;
+}
+.pt {
+  box-sizing: border-box;
+  margin: 0 0 28px;
+  padding: 28px 32px;
+  background: #fffdf7;
+  border: 1px solid #d9dfca;
+  border-radius: 16px;
+  box-shadow: 0 7px 20px rgba(49, 70, 42, 0.08);
+}
+.profile-card-title {
+  margin: 0 0 18px;
+  padding: 0 0 12px;
+  color: #245331;
+  font-size: 1.45rem;
+  line-height: 1.4;
+  border-bottom: 3px solid #a6c477;
+}
+#hpb-main h3 {
+  box-sizing: border-box;
+  margin: 30px 0 0 !important;
+  padding: 17px 24px !important;
+  color: #fff !important;
+  background: linear-gradient(135deg, #315f3b, #4f7941) !important;
+  border: 0 !important;
+  border-radius: 15px 15px 0 0 !important;
+  height: auto !important;
+  min-height: 58px;
+  overflow: visible !important;
+  white-space: normal !important;
+}
+#hpb-main h3 *,
+#hpb-main h3 span,
+#hpb-main h3 b,
+#hpb-main h3 font,
+#hpb-main h3 a {
+  height: auto !important;
+  display: inline !important;
+  overflow: visible !important;
+  color: #fff !important;
+  line-height: 1.5 !important;
+  white-space: normal !important;
+}
+#hpb-main h3 + ul {
+  box-sizing: border-box;
+  margin: 0 0 28px !important;
+  padding: 24px 30px 24px 52px !important;
+  background: #fff;
+  border: 1px solid #d9dfca;
+  border-top: 0;
+  border-radius: 0 0 15px 15px;
+  box-shadow: 0 7px 20px rgba(49, 70, 42, 0.08);
+}
+.script-guide-card {
+  box-sizing: border-box;
+  margin: 30px 0;
+  padding: 28px 32px;
+  text-align: center;
+  background: linear-gradient(135deg, #f7f1df, #edf5df);
+  border: 1px solid #cddbb9;
+  border-radius: 17px;
+  box-shadow: 0 8px 22px rgba(49, 70, 42, 0.1);
+}
+.script-guide-card h3 {
+  margin: 0 0 12px !important;
+  padding: 0 !important;
+  color: #244f30 !important;
+  background: none !important;
+  border-radius: 0 !important;
+}
+.script-guide-card p {
+  margin: 0 0 18px;
+}
+.script-guide-button {
+  display: inline-block;
+  padding: 13px 28px;
+  color: #fff !important;
+  font-weight: 700;
+  text-decoration: none;
+  background: #356843;
+  border-radius: 999px;
+  box-shadow: 0 5px 12px rgba(34, 76, 43, 0.18);
+}
+.script-guide-button:hover,
+.script-guide-button:focus {
+  background: #254f32;
+}
+.profile-script-detail-hidden {
+  display: none !important;
+}
+#hpb-aside {
+  display: none !important;
+}
+.pt,
+.pl {
+  line-height: 1.8 !important;
+}
+@media (max-width: 760px) {
+  body {
+    font-size: 17px !important;
+  }
+  #hpb-container,
+  #hpb-header,
+  #hpb-nav {
+    width: 100% !important;
+  }
+  #hpb-header {
+    padding: 12px 12px 0 !important;
+  }
+  .profile-hero {
+    min-height: 0;
+    padding: 24px 22px;
+    gap: 12px;
+  }
+  .profile-hero-character {
+    flex-basis: 110px;
+    width: 110px;
+    max-height: 145px;
+  }
+  .profile-hero-lead {
+    font-size: 1rem;
+  }
+  #hpb-inner {
+    padding-top: 260px !important;
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+  #hpb-nav {
+    left: 16px !important;
+    width: calc(100% - 32px) !important;
+  }
+  #hpb-nav ul li {
+    flex-basis: calc(50% - 7px);
+  }
+  #hpb-nav ul li a {
+    font-size: 13px !important;
+  }
+  #hpb-main img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+</style>
 </head>
 <body id="hpb-template-02-03a-01" class="hpb-layoutset-01">
 <div id="hpb-skip"></div>
 <!-- container -->
 <div id="hpb-container">
   <!-- header -->
-  <div id="hpb-header" style="text-align : right;" align="right">
-<div id="hpb-headerLogo" style="text-align : right;" align="right">
-<img src="logo12.gif" width="421" height="56" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="管理人プロフィール">
-</div>
-
-    <br>
-    <img src="logo11.gif" width="463" height="38" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" alt="中学生が演じることで　輝く劇を求めて">
-<br>
+  <div id="hpb-header">
+    <div class="profile-hero">
+      <div class="profile-hero-copy">
+        <p class="profile-hero-kicker">PROFILE</p>
+        <h1>サイトウトシオ<br>（斉藤俊雄）プロフィール</h1>
+        <p class="profile-hero-lead">中学生とともに、演じる人が輝く脚本と舞台を創り続ける<br>ドラマクリエイター・劇作家</p>
+      </div>
+      <img class="profile-hero-character" src="../honmononoke-character.png" alt="鉛筆とアイデアメモを持つ「ほんもののけ」">
+    </div>
   </div>
   <!-- header end --><!-- inner -->
   <div id="hpb-inner">
@@ -103,7 +426,7 @@ div .j{
       <div id="hpb-main">
         <!-- toppage -->
 <div id="toppage">
-<div class="pt" style="text-align : left;" align="left"><b><span style="font-size : 120%;">管理人・サイトウトシオ(斉藤俊雄)紹介<br>
+<div class="pt" style="text-align : left;" align="left"><h2 class="profile-card-title">サイトウトシオについて</h2><b><span style="font-size : 120%;">管理人・サイトウトシオ(斉藤俊雄)紹介<br>
           </span></b><span style="font-size : 120%;">ドラマクリエイター　劇作家　久喜市部活動指導員(演劇)</span><br>
           <span style="font-size : 120%;">中学校・高校での自作上演は千回以上</span><br>
           <span style="font-size : 120%;">晩成書房戯曲賞・特賞「降るような星空」</span><br>
@@ -224,18 +547,6 @@ div .j{
             
             
             <li><b>彩の国青少年グローリー賞受賞(久喜市立太東中学校演劇部</b>)
-            <h3><span class="en"><span class="en">演劇部関係・ジャズダンスコンテスト</span></span></h3>
-            <ul>
-              <li>第３回さいたま芸術文化祭ジャズダンスコンテスト部門  「<b>ラグ・タイム・ダンス」<font color="#ff0000">埼玉県知事賞</font></b>　(蓮田市立黒浜中学校)
-            
-              
-              <li>第４回さいたま芸術文化祭ジャズダンスコンテスト部門 「<b>サンダーストーム</b>」 <font color="#ff0000"><b>埼玉県教育長賞</b></font>　(久喜市立太東中学校)
-            
-              
-              <li>第２回さいたま芸術文化祭ジャズダンスコンテスト部門 「<b>ザ・カムイ</b>」　<b><font color="#ff0000">北川辺教育長賞</font></b>(蓮田市立黒浜中学校)
-          
-            
-            </ul>
             <h3>　　脚本・シナリオの受賞歴(最終選考に残ったものも含めて)</h3>
             <ul>
               <li><B>夏休み</B>　　<font color="#ff0000"><b>第16回創作テレビ脚本公募</b>(NHK後援)佳作一席(第２位)</font> (応募数682篇)　　　「夏休み」選考までの過程を見るには　<a href="senkou-natsuyasumi.htm" target="_blank"><B>ここをクリック</B></a>(「シナリオ・マガジン　ドラマ1991年11月号」掲載)
@@ -281,8 +592,12 @@ div .j{
           
             
             </ul>
-            <h3><span class="en"><span class="ja">自作脚本集</span></span></h3>
-            <ul>
+            <div class="script-guide-card">
+              <h3>サイトウトシオの脚本</h3>
+              <p>『夏休み』『七つ森』『ふるさと』『バタフライ』の4冊の脚本集と、その収録作品を脚本コーナーで紹介しています。</p>
+              <a class="script-guide-button" href="../daihon/daihon-top2.html">脚本集・収録作品を見る →</a>
+            </div>
+            <ul class="profile-script-detail-hidden">
   <li><b><font size="+1">サイトウトシオDrama Selection「<a href="../daihon/daihon-top2.html">バタフライ</a>」　</font></b>　<br>
               　「なつの思い出」 　<br>
               　「イマジン」 <br>
@@ -336,8 +651,7 @@ div .j{
               <li><b>Live 中学校演劇シリーズ 舞台「ふるさと」<br>
               　　　　　　　　　　(作・斉藤俊雄　上演・久喜中学校演劇部)</b>　ジャパンライム社から2012年10月18日に発売<br>
             </ul>
-            <h3><span class="en"><span class="ja">演劇脚本集収録</span></span><span class="ja">脚本集・雑誌</span></h3>
-            <ul>
+            <ul class="profile-script-detail-hidden">
               <li>演劇と教育No.447　(晩成書房・1993.7) <font color="#ff0000">「降るような星空」</font>子どもが上演する劇　脚本募集・
 <font color="#ff0000">晩成書房戯曲賞</font>作品として
 
@@ -450,6 +764,12 @@ div .j{
               <li>演劇と教育(晩成書房2016年11月号)　　<a href="furusato to tomoni aruku.pdf">実践記録　「ふるさと」とともに歩く</a> 
             
             </ul>
+            <h3><span class="en">演劇部関係・ジャズダンスコンテスト</span></h3>
+            <ul>
+              <li>第３回さいたま芸術文化祭ジャズダンスコンテスト部門「ラグ・タイム・ダンス」 <b><font color="#ff0000">埼玉県知事賞</font></b>（蓮田市立黒浜中学校）</li>
+              <li>第４回さいたま芸術文化祭ジャズダンスコンテスト部門「サンダーストーム」 <b><font color="#ff0000">埼玉県教育長賞</font></b>（久喜市立太東中学校）</li>
+              <li>第２回さいたま芸術文化祭ジャズダンスコンテスト部門「ザ・カムイ」 <b><font color="#ff0000">北川辺教育長賞</font></b>（蓮田市立黒浜中学校）</li>
+            </ul>
           </ul>
         </div>
       </div>
@@ -459,58 +779,18 @@ div .j{
 
     <!-- wrapper end --><!-- navi -->
     <div id="hpb-nav">
-       <ul>
-        <li id="nav-toppage"><font color="#000000"><span class="ja"><a href="../index.html" target="_blank">トップページ<br>
-        「七つ森」</a></span>
-</font><li id="nav-itemlist"><font color="#000000"><span class="ja"><a href="../daihon/daihon-top2.html">自作脚本</a></span>
-</font><li id="nav-company"><font color="#000000"><span class="ja"><a href="../request/request-2011.html" target="_blank">自作上演校の記録</a></span></font>
- <li id="nav-contactus"><a href="../daihon/daihon-bibliodrama1.html" target="_blank"><span class="ja">ビブリオ劇場<br>
-        　ビブリオドラマ</span></a> <li id="nav-contactus"><a href="../daihon/daihon-shogeki.html" target="_blank"><span class="ja">SHO-GEKI<br>
-        　ショウゲキ</span></a>
-
-<li id="nav-concept"><font color="#000000"><span class="ja"><a href="profile.html" target="_blank">管理人プロフィール</a></span>
-</font><li id="nav-contactus"><font color="#000000"><span class="ja"><a href="../link.htm" target="_blank">Link</a></span>
-
-</font></ul>
+      <ul>
+        <li id="nav-toppage"><a href="../index.html">トップページ<br>「七つ森」</a></li>
+        <li id="nav-itemlist"><a href="../daihon/daihon-top2.html">自作脚本</a></li>
+        <li id="nav-company"><a href="../request/request-2011.html">自作上演校の記録</a></li>
+        <li><a href="../daihon/daihon-bibliodrama1.html">ビブリオ劇場<br>ビブリオドラマ</a></li>
+        <li><a href="../daihon/daihon-shogeki.html">SHO-GEKI<br>ショウゲキ</a></li>
+        <li id="nav-concept"><a href="profile.html">管理人プロフィール</a></li>
+        <li><a href="../link.htm">Link</a></li>
+      </ul>
 
     </div>
-    <!-- navi end --><!-- aside -->
-    <div id="hpb-aside">
-      <div id="banner" style="text-align : center;" align="center">
-        <p class="border1" align="center" style="text-align : center;margin-bottom : 0px;border-left-width : 10pt;border-right-width : 10pt;border-color : blue;">ビブリオドラマ<b>最新作 「カラーズ」</b> <img src="colors.jpg" width="190" border="0"></p>
-        <p class="border1" align="center" style="text-align : center;margin-bottom : 0px;border-left-width : 10pt;border-right-width : 10pt;border-color : blue;"><b>久喜市立中央図書館上演 <br>
-        ビブリオドラマ「ラビリンス」</b> <img src="labyrinthlibrary.jpg" width="190" border="0"></p>
- <p class="border1" style="text-align : center;" align="center"><b style="border-top-color : yellow;"> ビブリオドラマ「ラビリンス」</b> <img src="labyrinth1.jpg" width="190" border="0" style="border-color : blue;"></p>
-
-        <p class="border1" style="text-align : center;" align="center"><b style="border-top-color : yellow;">ブックハウスカフェ上演 <br>
-        ビブリオドラマ「カンパネラ」</b> <img src="kanpanera1.jpg" width="190" border="0" style="border-color : blue;"></p>
-        <p class="border1" align="center" style="text-align : center;border-color : aqua;"><b>サイトウトシオ作品集 「バタフライ」</b> <img src="image8.jpg" width="190" border="0"></p>
-        <p class="border3" style="text-align : center;" align="center"><b>久喜中学校演劇部「ふるさと」DVD</b><br>
-        <img src="DVD-4s.jpg" width="196" height="270" border="0"><br>
-        ジャパンライム社</p>
-<p class="border3" style="text-align : center;" align="center"><b>斉藤俊雄作品集３「ふるさと」</b><br>
-        <img src="furusato.jpg" width="194" height="276" border="0">        </p>
-  <p class="border3" style="text-align : center;" align="center"><b>斉藤俊雄・脚本づくりDVD<br>
-        「私の脚本の創り方教えます」</b><br>
-        <img src="DVD-3s.jpg" width="196" height="275" border="0"><br>
-        ジャパンライム社</p>
-        <p class="border3" style="text-align : center;" align="center"><b>斉藤俊雄・演劇指導DVD<br>
-        「感情に台詞を乗せる！即興を活かした演劇指導術」</b><br>
-        <img src="DVD-1.jpg" width="200" height="282" border="0"><br>
-        ジャパンライム社</p>
-    <p class="border4" style="text-align : center;" align="center"><b>斉藤俊雄作品集２「七つ森」</b><br>
-        <img src="nanatsumori.jpg" width="195" height="277" border="0"></p>
-<p class="border1" style="text-align : center;" align="center"><b>斉藤俊雄作品集 「夏休み」</b> <img src="natsu1.jpg" width="190" height="270" border="0"></p>
-        
-          
-      </div>
-      <div id="shopinfo">
-        <h3><span class="ja"></span></h3>
-        <p><br>
-        <br>
-        </p>
-      </div>
-    </div>
+    <!-- navi end -->
     <div id="hpb-footer">許可なく、本文、写真を転載しないでください </div>
   <!-- footer end --><!-- container end --></div>
 </div>
