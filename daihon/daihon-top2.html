@@ -1021,6 +1021,78 @@ body,
     font-size: 23px !important;
   }
 }
+/* ほんもののけが作品の大切な言葉を伝える吹き出し */
+.honmononoke-message{
+  clear:both;
+  display:flex;
+  align-items:flex-start;
+  gap:15px;
+  margin:18px 10px 24px;
+  padding:15px 20px 14px;
+  border:1px solid #d9e6d8;
+  border-radius:22px;
+  background:linear-gradient(135deg,#f5faf2 0%,#fffdf4 100%);
+  box-shadow:0 8px 22px rgba(49,95,72,.09);
+}
+.honmononoke-message img{
+  flex:0 0 auto;
+  width:110px;
+  height:auto;
+  object-fit:contain;
+}
+.honmononoke-bubble{
+  position:relative;
+  flex:1;
+  min-width:0;
+  transform:none;
+  padding:15px 20px;
+  border:2px solid #709474;
+  border-radius:25px;
+  background:#fff;
+  color:#17251b;
+  font-size:20px;
+  font-weight:700;
+  line-height:1.55;
+  text-align:left;
+}
+.honmononoke-bubble::before{
+  content:"";
+  position:absolute;
+  left:-20px;
+  top:18px;
+  bottom:auto;
+  width:34px;
+  height:28px;
+  background:#fff;
+  border-left:2px solid #709474;
+  border-bottom:2px solid #709474;
+  transform:skewX(-38deg) rotate(16deg);
+}
+@media(max-width:640px){
+  .honmononoke-message{
+    flex-direction:column;
+    align-items:center;
+    gap:5px;
+    margin:16px 4px 22px;
+    padding:13px 14px 15px;
+  }
+  .honmononoke-message img{width:90px}
+  .honmononoke-bubble{
+    width:100%;
+    transform:none;
+    padding:15px 14px;
+    font-size:18px;
+    text-align:center;
+  }
+  .honmononoke-bubble::before{
+    left:50%;
+    top:-18px;
+    bottom:auto;
+    width:26px;
+    height:26px;
+    transform:translateX(-50%) rotate(135deg) skewX(-18deg);
+  }
+}
 </style></head>
 <body class="hpb-layoutset-02" id="hpb-template-02-03a-01">
 <p align="center" class="legacy-top-slogan" style="text-align : center;"><font color="#000000"><a id="top" name="top"><img alt="中学生が演じることで　輝く劇を求めて" border="0" height="43" src="logo2.gif" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" width="524"/></a></font></p>
@@ -1257,9 +1329,14 @@ body,
 <p align="left" class="border34"><img align="right" border="0" src="image2.jpg" style="width : 222px;height : 289px;"/><font color="#000000"><font color="#000000">　「アトム」はテレビアニメ版で（当時はテレビ漫画と呼んでいた）アトムの放送が始まった1963年（昭和38年）の物語です。同時にテレビアニメ版でアトムが誕生する年として設定された2013年の物語でもあります（原作の漫画での誕生は2003年）。それは過去の物語であり、過去においての未来の物語であり、今の物語でもあります。<br/>
       　「アトム」には、「科学者になってアトムを作る」ことを夢見る慎司という少年が登場します。慎司は広島平和記念資料館を訪れたことでアトムを作ることに恐れを抱くようになります。<br/>
       　５０年後、生徒会の亜希という少女が、５０年前の卒業文集に「アトム」という劇の台本が掲載されているのをみつけます。それは慎司が５０年前に書いたものでした。亜希は，その「アトム」を、学校創立５０周年記念の会で上演しようとします。さて、５０年前の慎司が、悩んだ末に書き上げた「アトム」とはどのような作品なのでしょうか。<br/>
-    　そして「アトム」は、次のことを観客に問いかける物語です。 <br/>
-</font><font color="#000000"><span><b>「もし今アトムが生まれたら、アトムはどこに行くのだろう」</b></span></font><font color="#000000"><span style="font-size : 80%;"><br/>
-</span></font></font></p>
+    　そして「アトム」は、次のことを観客に問いかける物語です。
+</font></font></p>
+<div class="honmononoke-message">
+  <img src="../honmononoke-character.png" alt="問いかけを語る、ほんもののけ"/>
+  <div class="honmononoke-bubble">
+    もし今アトムが生まれたら、アトムはどこに行くのだろう
+  </div>
+</div>
 <p align="center" class="MsoNormal" style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0mm; BORDER-TOP: medium none; PADDING-LEFT: 0mm; background : url(none) 0% 0% / auto auto repeat scroll padding-box border-box white; PADDING-BOTTOM: 0mm; BORDER-LEFT: medium none; LINE-HEIGHT: 18pt; PADDING-TOP: 0mm; BORDER-BOTTOM: medium none; mso-border-alt: solid blue 1.0pt; mso-padding-alt: 5.0pt 30.0pt 5.0pt 30.0pt
 	text-align : center;
 	text-align : center;
@@ -1573,7 +1650,13 @@ body,
 もう一人の会長候補、多田ヒカルは、アメリカからの帰国生。科学部の仲間たちと、全校生徒で『イマジン』を歌い、平和への思いを広げる「イマジン・プロジェクト」を実現しようとしていました。ただ、演説の中で｢イマジン｣を歌うことは却下されます。<br/>
 科学部員の山村佐知子は、「貞子」と呼ばれ、「歌声を聞くと呪われる」という噂に傷ついてきました。彼女が夢を抱いてニューヨークへ旅立った９月１１日、同時多発テロ事件が起こります。<br/>
 帰国を余儀なくされた佐知子を待っていたのは、心ない笑いでした。勲と千尋は、その笑いに立ち向かい、生徒会選挙の中でヒカルたちが『イマジン』を歌う場をつくろうとします。<br/>
-<span><b>『イマジン』は、世界を震撼させる大きな事件が起きた年の、ある中学生たちの周りで起きた小さな、しかし一人一人にとってはとても大きな出来事を描いたドラマです。</b></span></font></p>
+<br/></font></p>
+<div class="honmononoke-message">
+  <img src="../honmononoke-character.png" alt="『イマジン』について語る、ほんもののけ"/>
+  <div class="honmononoke-bubble">
+    『イマジン』は、世界を震撼させる大きな事件が起きた年の、ある中学生たちの周りで起きた小さな、しかし一人一人にとってはとても大きな出来事を描いたドラマだよ
+  </div>
+</div>
 </section>
 
 <section id="seven">
