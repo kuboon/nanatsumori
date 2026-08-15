@@ -199,7 +199,7 @@ div .j{
 }
 .script-card-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 14px;
 }
 .script-card {
@@ -271,7 +271,7 @@ div .j{
   font-size: 20px;
 }
 .script-card-grid {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 18px;
 }
 .script-card {
@@ -792,22 +792,26 @@ body,
 .performance-request-summary {
   max-width: 980px;
   margin: 20px auto 28px;
-  padding: 18px 22px;
-  border: 1px solid #b8d2c2;
-  border-radius: 14px;
-  background: #f4faf6;
+  padding: 18px 22px 19px;
+  border: 1px solid #e2c99f;
+  border-left: 7px solid #c38436;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #fffaf0 0%, #f7ead2 100%);
+  box-shadow: 0 4px 12px rgba(126, 86, 37, .13);
   text-align: left;
   box-sizing: border-box;
 }
 .performance-request-summary h2 {
   margin: 0 0 8px;
-  color: #245c3d;
-  font-size: 1.35rem;
+  color: #69451d;
+  font-size: 1.55rem;
+  line-height: 1.45;
 }
 .performance-request-summary p { margin: 0; }
 .performance-request-summary a {
   display: inline-block;
   margin-top: 10px;
+  color: #79501f;
   font-weight: bold;
 }
 .performance-request-box { display: none; }
@@ -983,41 +987,38 @@ body,
 .collection-detail-heading {
   clear: both;
   margin: 58px 0 28px;
-  padding: 18px 24px 20px;
-  border: 1px solid #b9d2c1;
-  border-left: 7px solid #3f7556;
+  padding: 18px 24px 19px;
+  border: 1px solid #e2c99f;
+  border-left: 7px solid #c38436;
   border-radius: 12px;
-  color: #214c35;
-  background: linear-gradient(135deg, #edf7f0 0%, #dceee2 100%);
-  box-shadow: 0 4px 12px rgba(42, 91, 62, .13);
+  color: #69451d;
+  background: linear-gradient(135deg, #fffaf0 0%, #f7ead2 100%);
+  box-shadow: 0 4px 12px rgba(126, 86, 37, .13);
   text-align: left;
 }
 .collection-heading-series {
-  display: block;
-  margin-bottom: 3px;
-  color: #527160;
-  font-size: 16px !important;
-  font-weight: normal;
-  line-height: 1.5 !important;
-  letter-spacing: .06em;
+  display: none;
 }
 .collection-heading-title {
   display: block;
-  color: #214c35;
-  font-size: 25px !important;
+  color: #69451d;
+  font-size: 29px !important;
   font-weight: bold;
-  line-height: 1.5 !important;
+  line-height: 1.45 !important;
+  letter-spacing: .02em;
+}
+@media screen and (min-width: 701px) {
+  .collection-heading-title {
+    white-space: nowrap;
+  }
 }
 @media screen and (max-width: 560px) {
   .collection-detail-heading {
     margin-top: 44px;
     padding: 15px 17px 17px;
   }
-  .collection-heading-series {
-    font-size: 14px !important;
-  }
   .collection-heading-title {
-    font-size: 21px !important;
+    font-size: 23px !important;
   }
 }
 </style></head>
@@ -1033,17 +1034,16 @@ body,
 </div>
 <div class="script-page-heading">
 <p class="script-page-kicker">中学生が演じることで　輝く劇を求めて</p>
-<h1 class="script-page-title">サイトウトシオ（斉藤俊雄）<br/>中学校演劇脚本集</h1>
+<h1 class="script-page-title">サイトウトシオ<br/>（斉藤俊雄）<br/>中学校演劇脚本集</h1>
 </div>
 </header>
 <nav class="site-page-nav" aria-label="メインナビゲーション">
 <ul>
 <li><a href="../index.html">トップページ<br/>「七つ森」</a></li>
 <li><a href="daihon-top2.html">自作脚本</a></li>
-<li><a href="../request/request-2011.html">自作上演校の記録</a></li>
-<li><a href="daihon-bibliodrama1.html">ビブリオ劇場<br/>ビブリオドラマ</a></li>
-<li><a href="daihon-shogeki.html">SHO-GEKI<br/>ショウゲキ</a></li>
-<li><a href="../profile/profile.html">管理人プロフィール</a></li>
+<li><a href="../request/request-2011.html">上演の記録</a></li>
+<li><a href="daihon-bibliodrama1.html">ビブリオ劇場</a></li>
+<li><a href="../profile/profile.html">プロフィール</a></li>
 <li><a href="../link.htm">Link</a></li>
 </ul>
 </nav>
