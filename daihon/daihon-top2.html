@@ -788,6 +788,115 @@ body,
   }
 }
 
+/* 上部では上演案内を簡潔に示し、詳しい説明は作品紹介の後へ置く */
+.performance-request-summary {
+  max-width: 980px;
+  margin: 20px auto 28px;
+  padding: 18px 22px;
+  border: 1px solid #b8d2c2;
+  border-radius: 14px;
+  background: #f4faf6;
+  text-align: left;
+  box-sizing: border-box;
+}
+.performance-request-summary h2 {
+  margin: 0 0 8px;
+  color: #245c3d;
+  font-size: 1.35rem;
+}
+.performance-request-summary p { margin: 0; }
+.performance-request-summary a {
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.performance-request-box { display: none; }
+.performance-request-box.request-relocated {
+  display: block;
+  margin-top: 42px;
+}
+.butterfly-collection-card .book-collection-title {
+  height: auto !important;
+  min-height: 0 !important;
+  overflow: visible !important;
+  white-space: normal !important;
+  word-break: keep-all;
+}
+.butterfly-title-main {
+  display: inline-block;
+  margin: 2px 0;
+  font-size: 1.15em !important;
+}
+/* 長い正式題名はカード自体に3行で表示し、見切れを防ぐ */
+.butterfly-collection-card::before {
+  content: "サイトウトシオ DRAMA SELECTION\A「バタフライ」\A十代に贈るドラマ";
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 18px;
+  padding: 0 0 12px;
+  border-bottom: 1px solid #d8d8d8;
+  color: #111;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1.55;
+  text-align: left;
+  white-space: pre-line;
+  overflow: visible;
+  box-sizing: border-box;
+}
+.butterfly-collection-card > .book-collection-title {
+  display: none !important;
+}
+@media screen and (max-width: 560px) {
+  .butterfly-collection-card::before {
+    font-size: 20px;
+  }
+}
+
+/* 4冊の作品集タイトルを、森をイメージした3行見出しに統一 */
+.book-collection-card::before {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 24px;
+  padding: 16px 20px 17px;
+  border: 1px solid #b9d2c1;
+  border-left: 7px solid #3f7556;
+  border-radius: 10px;
+  color: #214c35;
+  background: linear-gradient(135deg, #edf7f0 0%, #dceee2 100%);
+  box-shadow: 0 3px 9px rgba(42, 91, 62, .12);
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1.55;
+  text-align: left;
+  white-space: pre-line;
+  overflow: visible;
+  box-sizing: border-box;
+}
+#collection-furusato::before {
+  content: "シリーズ・七つ森の子どもたち\A『ふるさと』\A斉藤俊雄作品集3";
+}
+#collection-nanatsumori::before {
+  content: "シリーズ・七つ森の子どもたち\A『七つ森』\A斉藤俊雄作品集2";
+}
+#collection-natsuyasumi::before {
+  content: "シリーズ・七つ森の子どもたち\A『夏休み』\A斉藤俊雄作品集";
+}
+.butterfly-collection-card::before {
+  content: "サイトウトシオ DRAMA SELECTION\A『バタフライ』\A十代に贈るドラマ";
+}
+.book-collection-card > .book-collection-title {
+  display: none !important;
+}
+@media screen and (max-width: 560px) {
+  .book-collection-card::before {
+    padding: 14px 16px 15px;
+    font-size: 19px;
+  }
+}
+
 /* 「バタフライ」収録作品：あらすじ追加前の紹介ボックス */
 .butterfly-detail-group {
   width: 100%;
@@ -867,6 +976,48 @@ body,
     margin: 0 -18px 18px;
     padding: 14px 18px;
     font-size: 20px;
+  }
+}
+
+/* 各作品集の「あらすじ」見出しを統一 */
+.collection-detail-heading {
+  clear: both;
+  margin: 58px 0 28px;
+  padding: 18px 24px 20px;
+  border: 1px solid #b9d2c1;
+  border-left: 7px solid #3f7556;
+  border-radius: 12px;
+  color: #214c35;
+  background: linear-gradient(135deg, #edf7f0 0%, #dceee2 100%);
+  box-shadow: 0 4px 12px rgba(42, 91, 62, .13);
+  text-align: left;
+}
+.collection-heading-series {
+  display: block;
+  margin-bottom: 3px;
+  color: #527160;
+  font-size: 16px !important;
+  font-weight: normal;
+  line-height: 1.5 !important;
+  letter-spacing: .06em;
+}
+.collection-heading-title {
+  display: block;
+  color: #214c35;
+  font-size: 25px !important;
+  font-weight: bold;
+  line-height: 1.5 !important;
+}
+@media screen and (max-width: 560px) {
+  .collection-detail-heading {
+    margin-top: 44px;
+    padding: 15px 17px 17px;
+  }
+  .collection-heading-series {
+    font-size: 14px !important;
+  }
+  .collection-heading-title {
+    font-size: 21px !important;
   }
 }
 </style></head>
@@ -957,6 +1108,11 @@ body,
 	color : #0000ff;
 ">　 <br/>
 </span></span></b> <!-- wrapper -->
+<section class="performance-request-summary" aria-labelledby="performance-request-summary-title">
+<h2 id="performance-request-summary-title">脚本の上演を希望される方へ</h2>
+<p>上演には所定の手続きが必要です。作品をご覧いただいた後、詳しい申請方法をご確認ください。</p>
+<a href="#performance-request-title">上演願いについて詳しく見る →</a>
+</section>
 <section class="performance-request-box" aria-labelledby="performance-request-title">
 <h2 id="performance-request-title">上演願いについて</h2>
 <p class="performance-request-intro">上演を希望される場合は、次の内容をメールでお知らせください。</p>
@@ -1457,14 +1613,40 @@ body,
 <span><b>『ゲキを止めるな！』は、天使の力によって未来を「都合のよい未来」に変えてしまう物語へのアンチテーゼでもあります。天使の力を借りず、自らの手で未来を切り拓く中学生たちを描いたドラマです。</b></span></font></p>
 </section>
 
-<section class="work-detail-card butterfly-work-detail" id="butterfly">
-<h3 class="butterfly-work-title">バタフライ</h3>
-<div class="butterfly-work-layout"><img alt="『バタフライ』のイラスト" src="butterfly-illust.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+<section id="butterfly">
+<p class="border31"><font color="#000000"><b>バタフライ</b></font></p>
+<p class="border36"><font color="#000000">キャスト　メイン１０人　　その他　人数に制限なく出演可<br/>
+上演時間　30分〜40分</font></p>
+<p align="left" class="border36"><font color="#000000"><img align="right" alt="『バタフライ』のイラスト" border="0" hspace="10" src="butterfly-illust.jpg"/>ロシアによるウクライナ侵攻が始まった２０２２年と、その前後の物語です。<br/>
+日本の中学生・マサルは、プログラミングが得意です。マサルの心の中には、個性豊かなさまざまなマサルが住んでいます。マサルと心の中のマサルたちとの対話によって、ドラマは進んでいきます。マサルは、闇の忍者を主人公にしたゲームを制作していました。<br/>
+ゲームの制作が行き詰まったとき、隣の家に「とある国」から来た少女・マーシャが暮らし始めます。マーシャは聞いたことのない言葉を話していました。マサルは、マーシャをゲームのヒロインにすることで、ゲームを完成させます。<br/>
+ある日、マーシャから突然声をかけられたマサルは、とまどいながらも簡単な英語を使って、彼女と言葉を交わします。そして、自分が作ったゲームをマーシャに見せます。そのゲームを気に入ったマーシャは、お礼に一粒の種をマサルに渡しました。<br/>
+マーシャが好きなヒーローはアンパンマンでした。その理由は「誰も殺さないから」。敵を倒すダークヒーローに憧れていたマサルは、その言葉に戸惑います。<br/>
+夏が終わり、マーシャは故郷へ帰っていきます。翌年、マーシャの国で戦争が始まりました。日本では雨の中で楽しそうに歌っていたマーシャ。しかし今、その空から降ってくるのは爆弾の雨です。マサルはマーシャのために、タブレットを通して、日本から彼女の好きな『アンパンマンのマーチ』を届けようとします。<br/>
+やがて、マーシャがプレゼントしてくれた種はヒマワリの花を咲かせます。その周りを一羽の蝶が飛び、その小さな羽ばたきは、遠いマーシャの国へ大きな虹をかける夢へとつながっていきます。<br/>
+<span><b>『バタフライ』は、中学生の小さな声や行動が、蝶の羽ばたきのように世界へ広がり、平和な未来を生み出す可能性を持つという「バタフライ効果」を描いたドラマです。</b></span></font></p>
 </section>
 
-<section class="work-detail-card butterfly-work-detail" id="sho-geki">
-<h3 class="butterfly-work-title">SHO-GEKI作品集</h3>
-<div class="butterfly-work-layout"><img alt="『SHO-GEKI作品集』のイラスト" src="sho-geki.jpg"/><div class="butterfly-synopsis-placeholder"><strong>あらすじ</strong>あらすじはこれから追加します。</div></div>
+<section id="sho-geki">
+<p class="border31"><font color="#000000"><b>SHO-GEKI作品集</b></font></p>
+<p align="left" class="border36"><font color="#000000"><img align="right" alt="『SHO-GEKI作品集』のイラスト" border="0" hspace="10" src="sho-geki.jpg"/>SHO-GEKI（ショウゲキ）は、短い劇を組み合わせてつくる、新しい形の舞台作品です。その名前には、四つの意味が込められています。三分〜五分ほどの短い劇を集めた「小劇」、歌・ダンス・パントマイムなどの表現を取り入れた「Show劇」、観客に笑ってもらうための「笑劇」、そして、観る人の心に何かを残す「衝撃」です。<br/>
+一つ一つの作品が短いため、演劇を始めたばかりの人でも取り組みやすく、いくつかの作品を自由に組み合わせて上演できます。歌やダンスを独立したパートとして加えることもでき、人数が多い場合でも全員が舞台に参加できます。大がかりな舞台装置や照明がない学校、公民館、図書館、書店などでも上演できるのがSHO-GEKIの魅力です。<br/>
+この作品集には、「学校の怪談」シリーズ三作品と、「ヒーロー」シリーズ四作品、合わせて七つのSHO-GEKIが収録されています。<br/>
+■学校の怪談1『恐怖のバレンタイン・予告編』<br/>
+バレンタインデーに渡された手作りチョコレートから始まる、恐怖と恋と笑いの予告編です。<br/>
+■学校の怪談2『山姥の微笑み』<br/>
+夜の美術室で動き出した山姥の彫刻たちが、思いもよらない縄跳びを披露します。<br/>
+■学校の怪談3『コナキジジイとスナカケババア・その青春の日々』<br/>
+若き日のコナキジジイとスナカケババアの恋を演じる演劇部。その稽古の最後に、本当の怪談が待っています。<br/>
+◆ヒーローシリーズ1『バルタン星人からの果たし状』<br/>
+バルタン星人から届いた果たし状は入力ミスだらけ。恐ろしいはずの挑戦状が、言葉遊びに満ちた笑いへ変わります。<br/>
+◆ヒーローシリーズ2『美女と野菜』<br/>
+M78星雲のヒーロー養成学校で行われる演劇の授業。美女と、魔法でハクサイに変えられた野菜王子の物語です。<br/>
+◆ヒーローシリーズ3『不思議の森のハヤト』<br/>
+台本の漢字の読み間違いを仲間が懸命にフォローしたことで、森の物語は思いがけない方向へ進んでいきます。<br/>
+◆ヒーローシリーズ4『それゆけ！アンポンタン』<br/>
+戦う力ではなく、劇と笑いで人を元気にすることもヒーローの力ではないかと問いかける作品です。<br/>
+<span><b>SHO-GEKI作品集は、短い劇から創作を始めたい人、歌やダンスも生かして全員が活躍する舞台をつくりたい人、そして笑いによって誰かに元気を届けたい人のための作品集です。</b></span></font></p>
 </section>
 </div>
 <!-- main end -->
@@ -1484,6 +1666,53 @@ body,
 <!-- footer end --><!-- container end -->
 <script>
 (function () {
+  /* 最新作「バタフライ」を作品集の先頭へ */
+  var butterflyCollection = document.querySelector('.butterfly-collection-card');
+  var firstCollection = document.querySelector('.book-collection-card');
+  var butterflyTitle = butterflyCollection && butterflyCollection.querySelector('.book-collection-title');
+  if (butterflyTitle) {
+    butterflyTitle.innerHTML = 'サイトウトシオ DRAMA SELECTION<br><span class="butterfly-title-main">「バタフライ」</span><br>十代に贈るドラマ';
+  }
+  if (butterflyCollection && firstCollection && butterflyCollection !== firstCollection) {
+    firstCollection.parentNode.insertBefore(butterflyCollection, firstCollection);
+  }
+
+  /* 下段の詳しいあらすじも「バタフライ」を先頭へ */
+  var butterflyDetails = document.querySelector('.butterfly-detail-group');
+  var firstDetailGroup = document.getElementById('toppage-news');
+  if (butterflyDetails && firstDetailGroup && butterflyDetails !== firstDetailGroup) {
+    firstDetailGroup.parentNode.insertBefore(butterflyDetails, firstDetailGroup);
+  }
+
+  /* 4冊それぞれの「あらすじ」開始位置に、同じ形式の見出しを置く */
+  var butterflyDetailHeading = document.querySelector('.butterfly-detail-heading');
+  if (butterflyDetailHeading) {
+    butterflyDetailHeading.className = 'collection-detail-heading';
+    butterflyDetailHeading.innerHTML = '<span class="collection-heading-series">サイトウトシオ DRAMA SELECTION</span><span class="collection-heading-title">『バタフライ』収録作品のあらすじ</span>';
+  }
+
+  function addCollectionDetailHeading(anchorSelector, seriesName, collectionName) {
+    var anchor = document.querySelector(anchorSelector);
+    var firstWork = anchor && anchor.closest('p');
+    if (!firstWork || !firstWork.parentNode) return;
+    var heading = document.createElement('h2');
+    heading.className = 'collection-detail-heading';
+    heading.innerHTML = '<span class="collection-heading-series">' + seriesName + '</span><span class="collection-heading-title">『' + collectionName + '』収録作品のあらすじ</span>';
+    firstWork.parentNode.insertBefore(heading, firstWork);
+  }
+
+  addCollectionDetailHeading('#furusato', '斉藤俊雄作品集3', 'ふるさと');
+  addCollectionDetailHeading('a[name="kecho"]', '斉藤俊雄作品集2', '七つ森');
+  addCollectionDetailHeading('a[name="natsuyasumi"]', '斉藤俊雄作品集', '夏休み');
+
+  /* 詳しい上演案内を全作品紹介の後へ */
+  var requestBox = document.querySelector('.performance-request-box');
+  var topLink = document.querySelector('a[href="#hpb-container"]');
+  if (requestBox && topLink && topLink.parentNode) {
+    requestBox.classList.add('request-relocated');
+    topLink.parentNode.insertBefore(requestBox, topLink);
+  }
+
   var headingSelector = 'p.border31, p.border32, p.border37';
   var headings = Array.prototype.slice.call(document.querySelectorAll(headingSelector));
 
@@ -1500,6 +1729,7 @@ body,
     while (node) {
       var next = node.nextSibling;
       if (node !== heading && node.nodeType === 1) {
+        if (node.matches('.collection-detail-heading')) break;
         if (node.matches(headingSelector) || node.id === 'hpb-footer' || node.tagName === 'HR') break;
         if (node.querySelector && node.querySelector('a[href="#hpb-container"]')) break;
       }
