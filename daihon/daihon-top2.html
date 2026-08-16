@@ -192,6 +192,28 @@ div .j{
   margin: 0 0 10px;
   line-height: 1.75;
 }
+.book-meta {
+  margin: 0 0 14px;
+  padding: 14px 16px;
+  background: #f1f4ee;
+  border-left: 4px solid #7d9077;
+  border-radius: 8px;
+}
+.book-meta p {
+  margin: 0 0 6px;
+  line-height: 1.65;
+}
+.book-meta p:last-child { margin-bottom: 0; }
+.book-meta-label {
+  display: inline-block;
+  min-width: 5.5em;
+  font-weight: bold;
+  color: #394638;
+}
+.book-reader-note {
+  font-weight: bold;
+  color: #4c5748;
+}
 .book-illustration-note {
   margin: 4px 0 12px;
   font-size: 13px;
@@ -217,6 +239,14 @@ div .j{
   transform: translateY(-2px);
   border-color: #888;
   box-shadow: 0 5px 12px rgba(0,0,0,.14);
+}
+.butterfly-placeholder-grid .script-card {
+  cursor: default;
+}
+.butterfly-placeholder-grid .script-card:hover {
+  transform: none;
+  border-color: #d8d8d8;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07);
 }
 .script-card-image {
   width: 100%;
@@ -1211,7 +1241,12 @@ body,
 <h3 class="book-collection-title">ふるさと　シリーズ・七つ森の子どもたち　斉藤俊雄作品集3</h3><div class="book-collection-head">
 <img alt="斉藤俊雄作品集3『ふるさと』表紙" class="book-cover" src="image21.jpg"/>
 <div class="book-collection-info">
-<p>収録作品のイラストをクリックすると、あらすじと脚本を途中まで読むことができます。</p>
+<div class="book-meta">
+<p><span class="book-meta-label">発売日</span>2016年6月10日</p>
+<p><span class="book-meta-label">出版社</span>晩成書房</p>
+<p><span class="book-meta-label">収録作品</span>『ふるさと』『アトム』『Happy Birthday』『赤と青のレクイエム』『夏休み（戦後70年改訂版）』『私の青空』『ずっとそばにいるよ』</p>
+</div>
+<p class="book-reader-note">収録作品のイラストをクリックすると、あらすじと脚本を途中まで読むことができます。</p>
 <p><b>◆後書き　<a href="open - atogaki-frusato.pdf" target="_blank">「ふるさと」の後書きという名の劇</a><br/>
       ◆「演劇と教育」2016年10月号<br/>
       <a href="furusato shohyo.pdf" target="_blank">本 新刊-旧刊　斉藤俊雄作品集3「ふるさと」 書評</a><br/>
@@ -1247,7 +1282,12 @@ body,
 <h3 class="book-collection-title">七つ森　シリーズ・七つ森の子どもたち　斉藤俊雄作品集2</h3><div class="book-collection-head">
 <img alt="斉藤俊雄作品集2『七つ森』表紙" class="book-cover" src="nanatsumori.jpg"/>
 <div class="book-collection-info">
-<p>収録作品のイラストをクリックすると、あらすじと脚本を途中まで読むことができます。</p>
+<div class="book-meta">
+<p><span class="book-meta-label">発売日</span>2011年11月1日</p>
+<p><span class="book-meta-label">出版社</span>晩成書房</p>
+<p><span class="book-meta-label">収録作品</span>『七つ森』『とも』『ザネリ』『怪談の多い料理店』『魔術』『森の交響曲（シンフォニー）』</p>
+</div>
+<p class="book-reader-note">収録作品のイラストをクリックすると、あらすじと脚本を途中まで読むことができます。</p>
 <p><b>「斉藤俊雄作品集2 七つ森」後書き　<a href="open - atogaki-nanatsumori.pdf" target="_blank">「七つ森　いきものがたり」</a></b></p>
 </div>
 </div>
@@ -1276,7 +1316,13 @@ body,
 <h3 class="book-collection-title">夏休み　シリーズ・七つ森の子どもたち　斉藤俊雄作品集</h3><div class="book-collection-head">
 <img alt="斉藤俊雄作品集『夏休み』表紙" class="book-cover" src="natsu1.jpg"/>
 <div class="book-collection-info">
-<p>2016年10月、重版となりました。収録作品のイラストをクリックすると、あらすじと脚本を途中まで読むことができます。</p>
+<div class="book-meta">
+<p><span class="book-meta-label">発売日</span>2009年3月31日</p>
+<p><span class="book-meta-label">出版社</span>晩成書房</p>
+<p><span class="book-meta-label">収録作品</span>『夏休み』『青空』『なっちゃんの夏』『ときめきよろめきフォトグラフ』『降るような星空』『春一番』</p>
+</div>
+<p>2016年10月、重版となりました。</p>
+<p class="book-reader-note">収録作品のイラストをクリックすると、あらすじと脚本を途中まで読むことができます。</p>
 <p><b>後書き　<a href="open - atogake-natsuyasumi.pdf">春一番が吹いた日に〜後書きのためのインタビュー〜</a></b><br/>この作品集がどのような思いから作られたのか、架空のインタビュー形式で紹介します。</p>
 </div>
 </div>
@@ -1302,7 +1348,32 @@ body,
 <span class="script-card-title">春一番</span></a>
 </div>
 <span id="collection-butterfly"></span>
-</div><div class="book-collection-card butterfly-collection-card"><h3 class="book-collection-title">サイトウトシオ DRAMA SELECTION「バタフライ」十代に贈るドラマ</h3><div class="book-collection-head"><img alt="サイトウトシオ DRAMA SELECTION「バタフライ」表紙" class="book-cover" src="butterfly.jpg"/><div class="book-collection-info"><p>収録作品のイラストをクリックすると、各作品の紹介へ移動します。</p><p><b>十代に贈るドラマ</b><br/>全国大会参加作品など、時代を映した7作品を収録しています。</p></div></div><p class="book-illustration-note">収録作品　―　イラストをクリックしてください</p><div class="script-card-grid butterfly-placeholder-grid"><a aria-label="なつの思い出の作品紹介へ" class="script-card" href="#natsu-no-omoide"><span class="script-card-image"><img alt="なつの思い出のイラスト" src="natsu-no-omoide.jpg"/></span><span class="script-card-title">なつの思い出</span></a><a aria-label="イマジンの作品紹介へ" class="script-card" href="#imagine"><span class="script-card-image"><img alt="イマジンのイラスト" src="imagine.jpg"/></span><span class="script-card-title">イマジン</span></a><a aria-label="セブンの作品紹介へ" class="script-card" href="#seven"><span class="script-card-image"><img alt="セブンのイラスト" src="seven.jpg"/></span><span class="script-card-title">セブン</span></a><a aria-label="応援歌の作品紹介へ" class="script-card" href="#ouenka"><span class="script-card-image"><img alt="応援歌のイラスト" src="ouenka.jpg"/></span><span class="script-card-title">応援歌</span></a><a aria-label="ゲキを止めるな！の作品紹介へ" class="script-card" href="#geki-stop"><span class="script-card-image"><img alt="ゲキを止めるな！のイラスト" src="geki-wo-tomeruna.jpg"/></span><span class="script-card-title">ゲキを止めるな！</span></a><a aria-label="バタフライの作品紹介へ" class="script-card" href="#butterfly"><span class="script-card-image"><img alt="バタフライのイラスト" src="butterfly-illust.jpg"/></span><span class="script-card-title">バタフライ</span></a><a aria-label="SHO-GEKI作品集の作品紹介へ" class="script-card" href="#sho-geki"><span class="script-card-image"><img alt="SHO-GEKI作品集のイラスト" src="sho-geki.jpg"/></span><span class="script-card-title">SHO-GEKI作品集</span></a></div></div></div>
+</div><div class="book-collection-card butterfly-collection-card">
+<h3 class="book-collection-title">サイトウトシオ DRAMA SELECTION「バタフライ」十代に贈るドラマ</h3>
+<div class="book-collection-head">
+<img alt="サイトウトシオ DRAMA SELECTION「バタフライ」表紙" class="book-cover" src="butterfly.jpg"/>
+<div class="book-collection-info">
+<div class="book-meta">
+<p><span class="book-meta-label">発売日</span>2024年3月25日</p>
+<p><span class="book-meta-label">出版社</span>晩成書房</p>
+<p><span class="book-meta-label">収録作品</span>『なつの思い出』『イマジン』『セブン』『応援歌』『ゲキを止めるな！』『バタフライ』『SHO-GEKI作品集』</p>
+</div>
+<p class="book-reader-note">収録作品のイラストをクリックすると、あらすじと脚本を途中まで読むことができます。</p>
+<p>※『バタフライ』掲載作品は、現在は作品紹介へのリンクを準備中です。</p>
+<p><b>十代に贈るドラマ</b><br/>全国大会参加作品など、時代を映した7作品を収録しています。</p>
+</div>
+</div>
+<p class="book-illustration-note">収録作品</p>
+<div class="script-card-grid butterfly-placeholder-grid">
+<div class="script-card"><span class="script-card-image"><img alt="なつの思い出のイラスト" src="natsu-no-omoide.jpg"/></span><span class="script-card-title">なつの思い出</span></div>
+<div class="script-card"><span class="script-card-image"><img alt="イマジンのイラスト" src="imagine.jpg"/></span><span class="script-card-title">イマジン</span></div>
+<div class="script-card"><span class="script-card-image"><img alt="セブンのイラスト" src="seven.jpg"/></span><span class="script-card-title">セブン</span></div>
+<div class="script-card"><span class="script-card-image"><img alt="応援歌のイラスト" src="ouenka.jpg"/></span><span class="script-card-title">応援歌</span></div>
+<div class="script-card"><span class="script-card-image"><img alt="ゲキを止めるな！のイラスト" src="geki-wo-tomeruna.jpg"/></span><span class="script-card-title">ゲキを止めるな！</span></div>
+<div class="script-card"><span class="script-card-image"><img alt="バタフライのイラスト" src="butterfly-illust.jpg"/></span><span class="script-card-title">バタフライ</span></div>
+<div class="script-card"><span class="script-card-image"><img alt="SHO-GEKI作品集のイラスト" src="sho-geki.jpg"/></span><span class="script-card-title">SHO-GEKI作品集</span></div>
+</div>
+</div></div>
 <div align="left" id="toppage-news" style="text-align : left;">
 <div align="left" id="toppage-item" style="text-align : left;"></div>
 <span style="color : #ff0000;"><a id="k-nanatsumori" name="k-nanatsumori"></a></span></div>
