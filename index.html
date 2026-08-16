@@ -227,7 +227,22 @@
 </style>
 
 <style>
-/* タブレット・スマホでも、タイトルと紹介文を少年に重ねず右側の空に配置 */
+/* オオルリを過ぎてからフェイドを始め、文字を右側の空だけに配置 */
+.hero-overlay-shade{
+  background:linear-gradient(
+    90deg,
+    rgba(255,255,255,0) 0%,
+    rgba(255,255,255,0) 55%,
+    rgba(255,255,255,.10) 58%,
+    rgba(255,255,255,.68) 68%,
+    rgba(255,255,255,.94) 80%,
+    rgba(255,255,255,.98) 100%
+  );
+}
+.hero-overlay-text{
+  width:min(42%,680px);
+  padding-left:14px;
+}
 @media(max-width:820px){
   .hero-overlay{
     min-height:clamp(540px,82vw,650px);
@@ -239,29 +254,30 @@
     background:linear-gradient(
       90deg,
       rgba(255,255,255,0) 0%,
-      rgba(255,255,255,.04) 37%,
-      rgba(255,255,255,.62) 55%,
-      rgba(255,255,255,.94) 76%,
+      rgba(255,255,255,0) 57%,
+      rgba(255,255,255,.10) 60%,
+      rgba(255,255,255,.72) 70%,
+      rgba(255,255,255,.94) 82%,
       rgba(255,255,255,.98) 100%
     );
   }
   .hero-overlay-text{
-    width:54%;
+    width:38%;
     margin-left:auto;
-    padding:clamp(34px,6vw,58px) 20px 30px 10px;
+    padding:clamp(30px,5vw,52px) 18px 28px 8px;
     text-align:left;
   }
   .hero-overlay-text h1{
-    font-size:clamp(54px,9vw,72px);
+    font-size:clamp(48px,8vw,68px);
     margin-bottom:14px;
   }
   .hero-overlay-text .hero-subtitle{
-    font-size:clamp(17px,2.8vw,22px);
+    font-size:clamp(16px,2.5vw,20px);
     margin-bottom:16px;
   }
   .hero-overlay-text .lead{
-    font-size:clamp(13px,2vw,17px);
-    line-height:1.65;
+    font-size:clamp(12px,1.75vw,15px);
+    line-height:1.6;
     margin-bottom:20px;
   }
   .hero-overlay-text .hero-actions{
@@ -280,24 +296,35 @@
     object-position:41% center;
   }
   .hero-overlay-text{
-    width:57%;
-    padding:28px 12px 24px 6px;
+    width:37%;
+    padding:24px 9px 22px 4px;
+  }
+  .hero-overlay-shade{
+    background:linear-gradient(
+      90deg,
+      rgba(255,255,255,0) 0%,
+      rgba(255,255,255,0) 61%,
+      rgba(255,255,255,.14) 64%,
+      rgba(255,255,255,.78) 73%,
+      rgba(255,255,255,.97) 86%,
+      rgba(255,255,255,.99) 100%
+    );
   }
   .hero-overlay-text h1{
-    font-size:clamp(42px,12vw,56px);
+    font-size:clamp(34px,9.5vw,46px);
     letter-spacing:.02em;
   }
   .hero-overlay-text .hero-subtitle{
-    font-size:15px;
+    font-size:13px;
     line-height:1.4;
   }
   .hero-overlay-text .lead{
-    font-size:12.5px;
-    line-height:1.55;
+    font-size:10.5px;
+    line-height:1.5;
   }
   .hero-overlay-text .btn.primary{
-    font-size:14px;
-    padding:8px 14px;
+    font-size:12px;
+    padding:7px 10px;
   }
 }
 </style>
