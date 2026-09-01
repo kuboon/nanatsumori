@@ -78,15 +78,31 @@ body{
   font-weight:800;
 }
 .detail-toc blockquote{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:12px;
   margin:0;
   padding:0;
 }
 .detail-toc a{
+  display:flex;
+  align-items:center;
+  min-height:72px;
+  padding:13px 16px;
   color:#31593b;
+  font-size:15px;
   font-weight:700;
-  text-decoration-thickness:1px;
-  text-underline-offset:3px;
+  line-height:1.65;
+  text-decoration:none;
+  background:#fff;
+  border:1px solid var(--nature-line);
+  border-radius:12px;
 }
+.detail-toc a:hover{
+  background:#f9fcf7;
+  border-color:#8da486;
+}
+.detail-toc br{display:none}
 
 .nature-detail-main .border2{
   margin:52px 0 0;
@@ -173,6 +189,8 @@ body{
   .nature-detail-hero{padding:54px 20px 48px}
   .nature-detail-main{padding:38px 17px 58px}
   .detail-toc{padding:20px !important}
+  .detail-toc blockquote{grid-template-columns:1fr;gap:9px}
+  .detail-toc a{min-height:0;padding:12px 14px;font-size:14px}
   .nature-detail-main .border2{margin-top:38px;padding:16px 18px}
   .nature-detail-main .border4{padding:19px 18px}
   .nature-detail-main table{
