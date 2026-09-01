@@ -847,6 +847,90 @@ body,
     padding-left: 1.5em;
   }
 }
+
+/* ページ上部で4冊を一覧できる作品集ナビゲーション */
+.collection-overview {
+  box-sizing: border-box;
+  width: 980px;
+  max-width: 96%;
+  margin: 34px auto 44px;
+  padding: 26px 28px 30px;
+  text-align: left;
+  background: #f8fafb;
+  border: 1px solid #d2dde3;
+  border-radius: 16px;
+  box-shadow: 0 5px 16px rgba(50, 82, 101, .1);
+}
+.collection-overview h2 {
+  margin: 0 0 8px;
+  padding-left: 2.5em;
+  color: #243b4a !important;
+  font-size: 1.65rem;
+  line-height: 1.45;
+  background: transparent !important;
+}
+.collection-overview-intro {
+  margin: 0 0 22px;
+  text-align: center;
+  color: #425661;
+}
+.collection-overview-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+}
+.collection-overview-card {
+  display: flex;
+  flex-direction: column;
+  padding: 12px 12px 15px;
+  color: #243b4a !important;
+  text-align: center;
+  text-decoration: none;
+  background: #fff;
+  border: 1px solid #cbd7de;
+  border-radius: 12px;
+  box-shadow: 0 3px 9px rgba(50, 82, 101, .1);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.collection-overview-card:hover,
+.collection-overview-card:focus {
+  transform: translateY(-3px);
+  border-color: #7896a7;
+  box-shadow: 0 7px 16px rgba(50, 82, 101, .16);
+}
+.collection-overview-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: contain;
+  margin: 0 auto 12px;
+  background: #f2f5f6;
+  border: 1px solid #d7dfe3;
+}
+.collection-overview-title {
+  display: block;
+  margin: auto 0 0;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 1.45;
+}
+.book-collection-card {
+  scroll-margin-top: 20px;
+}
+@media screen and (max-width: 700px) {
+  .collection-overview {
+    padding: 22px 18px 24px;
+  }
+  .collection-overview h2 {
+    padding-left: 1.5em;
+    font-size: 1.4rem;
+  }
+  .collection-overview-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+}
 .butterfly-collection-card .book-collection-title {
   height: auto !important;
   min-height: 0 !important;
@@ -1154,6 +1238,28 @@ body,
 <p>上演には所定の手続きが必要です。作品をご覧いただいた後、詳しい申請方法をご確認ください。</p>
 <a href="#performance-request-title">上演願いについて詳しく見る →</a>
 </section>
+<section class="collection-overview" aria-labelledby="collection-overview-title">
+<h2 id="collection-overview-title">4冊の作品集から探す</h2>
+<p class="collection-overview-intro">気になる表紙をクリックすると、収録作品の紹介へ進みます。</p>
+<div class="collection-overview-grid">
+<a class="collection-overview-card" href="#collection-butterfly">
+<img alt="サイトウトシオ DRAMA SELECTION『バタフライ』表紙" src="butterfly.jpg"/>
+<span class="collection-overview-title">『バタフライ』</span>
+</a>
+<a class="collection-overview-card" href="#collection-furusato">
+<img alt="斉藤俊雄作品集3『ふるさと』表紙" src="image21.jpg"/>
+<span class="collection-overview-title">『ふるさと』</span>
+</a>
+<a class="collection-overview-card" href="#collection-nanatsumori">
+<img alt="斉藤俊雄作品集2『七つ森』表紙" src="nanatsumori.jpg"/>
+<span class="collection-overview-title">『七つ森』</span>
+</a>
+<a class="collection-overview-card" href="#collection-natsuyasumi">
+<img alt="斉藤俊雄作品集『夏休み』表紙" src="natsu1.jpg"/>
+<span class="collection-overview-title">『夏休み』</span>
+</a>
+</div>
+</section>
 <div id="hpb-wrapper" style="text-align : center;">
       　　 　 　
       <div align="left" id="toppage-item" style="text-align : left;">
@@ -1268,8 +1374,7 @@ body,
 <span class="script-card-image"><img alt="春一番のイラスト" src="img046.jpg"/></span>
 <span class="script-card-title">春一番</span></a>
 </div>
-<span id="collection-butterfly"></span>
-</div><div class="book-collection-card butterfly-collection-card">
+</div><div class="book-collection-card butterfly-collection-card" id="collection-butterfly">
 <h3 class="book-collection-title">サイトウトシオ DRAMA SELECTION「バタフライ」十代に贈るドラマ</h3>
 <div class="book-collection-head">
 <img alt="サイトウトシオ DRAMA SELECTION「バタフライ」表紙" class="book-cover" src="butterfly.jpg"/>
