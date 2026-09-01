@@ -145,6 +145,23 @@ body {
   object-fit: contain;
   filter: drop-shadow(0 8px 10px rgba(45, 65, 35, 0.18));
 }
+.profile-summary { margin: 0 0 28px; padding: 30px 34px; color: #28382c; background: #fffdf7; border: 1px solid #ded8c7; border-radius: 18px; }
+.profile-summary h2, .profile-section-title { margin: 0 0 16px; color: #244b2d; font-family: "Yu Mincho", "Hiragino Mincho ProN", serif; font-size: 1.55rem; }
+.profile-summary p { margin: 0 0 14px; }
+.profile-summary p:last-child { margin-bottom: 0; }
+.profile-pillars { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin: 0 0 30px; }
+.profile-pillar { padding: 22px; background: #f3f7ec; border: 1px solid #d2dfc4; border-radius: 15px; }
+.profile-pillar h3 { margin: 0 0 10px; color: #31583a; font-size: 1.12rem; }
+.profile-pillar p { margin: 0; font-size: 0.96rem; }
+.profile-highlights { margin: 0 0 30px; padding: 26px 30px; background: #f7f2e5; border-left: 6px solid #b28a45; border-radius: 12px; }
+.profile-highlights ul { margin: 0; padding-left: 1.4em; }
+.profile-highlights li { margin: 8px 0; }
+.profile-links { display: flex; flex-wrap: wrap; gap: 12px; margin: 0 0 32px; }
+.profile-links a { display: inline-block; padding: 11px 18px; color: #fff !important; font-weight: 700; text-decoration: none; background: #31583a; border-radius: 999px; }
+.profile-records { margin: 0 0 28px; border: 1px solid #cfd9c5; border-radius: 14px; background: #fff; }
+.profile-records > summary { padding: 18px 22px; color: #244b2d; font-weight: 700; cursor: pointer; background: #eef4e7; border-radius: 14px; }
+.profile-records[open] > summary { border-radius: 14px 14px 0 0; border-bottom: 1px solid #cfd9c5; }
+.profile-records-body { padding: 24px 28px; }
 #hpb-inner {
   width: 100%;
   box-sizing: border-box;
@@ -359,6 +376,8 @@ body {
   line-height: 1.8 !important;
 }
 @media (max-width: 760px) {
+  .profile-pillars { grid-template-columns: 1fr; }
+  .profile-summary, .profile-records-body { padding: 22px 20px; }
   body {
     font-size: 17px !important;
   }
@@ -432,31 +451,43 @@ body {
       <div id="hpb-main">
         <!-- toppage -->
 <div id="toppage">
-<div class="pt profile-intro" style="text-align : left;" align="left">
-  <h2 class="profile-card-title">サイトウトシオについて</h2>
-  <p style="font-size : 120%;"><b>管理人・サイトウトシオ(斉藤俊雄)紹介</b><br>
-  ドラマクリエイター　劇作家　久喜市部活動指導員(演劇)<br>
-  中学校・高校での自作上演は千回以上<br>
-  晩成書房戯曲賞・特賞「降るような星空」<br>
-  第１６回テレビドラマ脚本公募(ＮＨＫ後援)佳作１席「夏休み」</p>
+  <section class="profile-summary">
+    <h2>サイトウトシオについて</h2>
+    <p><b>サイトウトシオ（斉藤俊雄）</b>は、中学生とともに脚本と舞台をつくってきたドラマクリエイター・劇作家です。2021年度まで中学校の英語科教員を務め、現在は久喜市の部活動指導員（演劇）として中学生の演劇を指導しています。</p>
+    <p>中学校・高校などでの自作上演は累計1000回を超え、晩成書房から脚本集『夏休み』『七つ森』『ふるさと』『バタフライ』を刊行しています。現在は大会への参加から離れ、学校の外へ活動を開きながら、中学生の演劇が社会とつながる可能性を伝えています。</p>
+    <p>1960年生まれ。大学時代はマジック研究会に所属し、学生マジシャン代表の一人として舞台に立ちました。劇の構成に見られる意外性や仕掛けには、この経験が生きています。専門は英語。緑・花文化の認定試験1級。</p>
+  </section>
 
-  <p style="font-size : 120%;">指導した演劇部・ゲキ部は関東大会、全国大会への出場多数。ただし現在は大会出場から離れ、社会とつながることで中学生の演劇の可能性を広く伝えることに活動をシフトしている。</p>
+  <h2 class="profile-section-title">活動の二つの柱</h2>
+  <div class="profile-pillars">
+    <section class="profile-pillar"><h3>ビブリオ劇場</h3><p>図書館を舞台にした劇、絵本ドラマリーディング、ビブリオスキットを、図書館や書店など本のある場所で上演しています。演劇を通して、本のある場所と中学生をつなぐ取組です。</p></section>
+    <section class="profile-pillar"><h3>中学生と共に創る劇</h3><p>中学生が演じたときに最も輝くことを大切に、十代の心と時代を映す脚本を書き、中学生とともに台詞、身体表現、音楽などを重ねながら、一人ひとりが生きる舞台をつくっています。</p></section>
+  </div>
 
-  <p style="font-size : 120%;">◆自作作品集「夏休み」「七つ森」「ふるさと」「バタフライ」(晩成書房)<br>
-  ■演劇指導ＤＶＤ「感情に台詞を乗せる即興を活かした演劇指導術」(ジャパンライム社)<br>
-  ■脚本創作のためのＤＶＤ「私の脚本の作り方教えます」(ジャパンライム社)<br>
-  ■上演ＤＶＤ「ふるさと」(ジャパンライム社)</p>
-
-  <p style="font-size : 120%;">昭和３５年生まれ。大学時代はマジック研究会に所属。プロのマジシャンと交流を持ち、学生マジシャン代表の一人としてステージに立ったこともある。劇の構成にマジック的な発想があるのはその影響である。</p>
-
-  <p style="font-size : 120%;">昭和５８年に中学校の教員となり、教員２年目から演劇部の顧問となる。その中で脚本創作を始め現在に至る。専門は英語。緑・花文化の認定試験１級。現在は久喜市の部活動指導員(演劇)として久喜市の中学校で演劇の指導をしている。</p>
-
-  <p style="font-size : 120%;"><span style="color : #ff0000;"><b>ビブリオ劇場</b></span>と名づけた、<span style="color : #ff0000;"><b>図書館を舞台にした劇</b></span>、<span style="color : #ff0000;"><b>絵本ドラマリーディング</b></span>、<span style="color : #ff0000;"><b>ビブリオスキット</b></span>を、本のある場所（図書館、書店、まちライブラリーなど）で上演する取組を行っている。</p>
-</div></div>
+  <section class="profile-highlights">
+    <h2 class="profile-section-title">主な受賞・実績</h2>
+    <ul>
+      <li>『降るような星空』― 子どもが上演する劇 脚本募集「特選・晩成書房戯曲賞」</li>
+      <li>『夏休み』― 第16回創作テレビ脚本公募（NHK後援）佳作一席</li>
+      <li>『ときめきよろめきフォトグラフ』― 第6回フジテレビヤングシナリオ大賞 最終選考</li>
+      <li>指導した演劇部・ゲキ部は、全国大会・関東大会への出場多数</li>
+    </ul>
+  </section>
+  <div class="profile-links">
+    <a href="../daihon/daihon-top2.html">脚本集・収録作品を見る →</a>
+    <a href="https://nanatsumori.github.io/bibliotheater/">ビブリオ劇場 公式サイト →</a>
+  </div>
+</div>
         <div id="toppage-item" style="text-align : left;" align="left">
+          <details class="profile-records">
+            <summary>詳しい活動歴・受賞歴・出版記録を見る</summary>
+            <div class="profile-records-body">
           <h3><span class="en"><span class="ja">演劇部関係</span></span><span class="ja">・劇</span></h3>
           <ul>
-            <li><b>２０２５年　『演劇的読み聞かせvol.1』演出・斉藤俊雄　(久喜市立太東中学校ゲキ部)<br style="clear : none;">
+            <li><b>２０２６年　「ビブリオ劇場」(久喜市立太東中学校ゲキ部)<br style="clear : none;">
+            久喜市立中央図書館、栗橋文化会館イリス、ブックハウスカフェなどで上演。『怪談の多い図書館』、絵本ドラマリーディング、ビブリオスキットを通して、本のある場所と中学生をつなぐ活動を広げる。日本図書館協会『図書館雑誌』と国立国会図書館「カレントアウェアネス-E」で紹介される。</b>
+
+            <li><b>２０２５年　『演劇的読み聞かせ』演出・斉藤俊雄　(久喜市立太東中学校ゲキ部)<br style="clear : none;">
             <span style="color : #ff0000;">久喜市立中央図書館</span>で演劇的な絵本の読み聞かせを行う　</b> →<b><span style="color : #ff0000;">「ビブリオ劇場」</span></b>に発展
             
             
@@ -741,6 +772,8 @@ body {
               <li>第２回さいたま芸術文化祭ジャズダンスコンテスト部門「ザ・カムイ」 <b><font color="#ff0000">北川辺教育長賞</font></b>（蓮田市立黒浜中学校）</li>
             </ul>
           </ul>
+            </div>
+          </details>
         </div>
       </div>
       <div id="toppage-item" style="text-align : left;" align="left">
