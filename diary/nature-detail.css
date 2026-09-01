@@ -1,0 +1,194 @@
+:root{
+  --nature:#486642;
+  --nature-dark:#263f2d;
+  --nature-soft:#eef4e9;
+  --nature-line:#cbd9c6;
+  --nature-ink:#28352c;
+}
+
+html{scroll-padding-top:90px}
+body{
+  margin:0;
+  text-align:left;
+  color:var(--nature-ink);
+  background:#fbfaf6;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
+  line-height:1.85;
+}
+
+#site-box,#wrap,#wrapper{
+  width:auto;
+  margin:0;
+  text-align:left;
+}
+
+.nature-detail-hero{
+  position:relative;
+  overflow:hidden;
+  padding:72px 24px 62px;
+  color:#fff;
+  background:
+    linear-gradient(100deg,rgba(27,54,34,.94),rgba(50,85,53,.78)),
+    url("shizen-gekijo ooruri31.jpg") center 42% / cover;
+}
+.nature-detail-hero-inner{
+  max-width:1120px;
+  margin:auto;
+}
+.nature-detail-hero .eyebrow{
+  color:#dcebd4;
+  font-size:13px;
+  font-weight:800;
+  letter-spacing:.12em;
+}
+.nature-detail-hero h1{
+  margin:8px 0 12px;
+  font-size:clamp(36px,5.4vw,62px);
+  line-height:1.15;
+  letter-spacing:.04em;
+}
+.nature-detail-hero p{
+  max-width:720px;
+  margin:0;
+  color:#f4f8f1;
+  font-size:clamp(16px,2vw,20px);
+}
+
+.nature-detail-main{
+  max-width:1040px;
+  margin:auto;
+  padding:54px 24px 76px;
+  overflow-wrap:anywhere;
+}
+.legacy-title{display:none}
+
+.detail-toc{
+  margin:0 0 42px !important;
+  padding:24px 28px !important;
+  background:var(--nature-soft);
+  border:1px solid var(--nature-line);
+  border-radius:18px;
+}
+.detail-toc::before{
+  content:"このページの記録";
+  display:block;
+  margin-bottom:10px;
+  color:var(--nature-dark);
+  font-size:19px;
+  font-weight:800;
+}
+.detail-toc blockquote{
+  margin:0;
+  padding:0;
+}
+.detail-toc a{
+  color:#31593b;
+  font-weight:700;
+  text-decoration-thickness:1px;
+  text-underline-offset:3px;
+}
+
+.nature-detail-main .border2{
+  margin:52px 0 0;
+  padding:18px 24px;
+  color:#fff;
+  font-size:clamp(19px,2.3vw,25px);
+  font-weight:800;
+  line-height:1.55;
+  background:var(--nature-dark);
+  border:0;
+  border-radius:18px 18px 0 0;
+}
+.nature-detail-main .border2 a{color:inherit;text-decoration:none}
+.nature-detail-main .border4{
+  margin:0 0 26px;
+  padding:22px 24px;
+  color:#3c4740;
+  font-size:16px;
+  line-height:1.9;
+  background:#fff;
+  border:1px solid var(--nature-line);
+  border-width:0 1px 1px;
+  border-radius:0 0 18px 18px;
+}
+
+.nature-detail-main table{
+  width:100% !important;
+  max-width:100%;
+  margin:22px auto 34px;
+  border-collapse:collapse;
+  background:#fff;
+  border:1px solid var(--nature-line) !important;
+  border-radius:12px;
+}
+.nature-detail-main caption{
+  padding:13px 16px;
+  color:#31593b;
+  font-size:16px;
+  line-height:1.65;
+  background:var(--nature-soft);
+}
+.nature-detail-main th,
+.nature-detail-main td{
+  padding:7px 9px;
+  border:1px solid #d9e1d6;
+  font-size:14px;
+  line-height:1.5;
+}
+
+.nature-detail-main .pt,
+.nature-detail-main > p:not([class]),
+.nature-detail-main div > p:not([class]){
+  max-width:900px;
+  margin:20px auto;
+  font-size:16px;
+  line-height:1.95;
+}
+.nature-detail-main img{
+  max-width:100%;
+  height:auto;
+  border-radius:10px;
+}
+.nature-detail-main hr{
+  height:1px;
+  margin:38px 0;
+  background:var(--nature-line);
+  border:0;
+}
+
+.detail-footer{
+  padding:32px 24px 46px;
+  text-align:center;
+  color:#69736c;
+  border-top:1px solid #d9ded9;
+}
+.detail-footer a{
+  margin:0 9px;
+  color:var(--nature);
+  font-weight:800;
+}
+
+@media(max-width:760px){
+  .header-inner{padding:12px 18px}
+  .nature-detail-hero{padding:54px 20px 48px}
+  .nature-detail-main{padding:38px 17px 58px}
+  .detail-toc{padding:20px !important}
+  .nature-detail-main .border2{margin-top:38px;padding:16px 18px}
+  .nature-detail-main .border4{padding:19px 18px}
+  .nature-detail-main table{
+    display:block;
+    width:max-content !important;
+    min-width:100%;
+    max-width:100%;
+    overflow-x:auto;
+    white-space:nowrap;
+  }
+  .nature-detail-main img{
+    float:none !important;
+    display:block;
+    width:auto !important;
+    max-width:100% !important;
+    height:auto !important;
+    margin:14px auto !important;
+  }
+}
